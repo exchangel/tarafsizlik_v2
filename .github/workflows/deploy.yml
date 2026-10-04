@@ -42,7 +42,7 @@ jobs:
       - name: Test
         run: |
           python -m pytest -q
-          node --test tests/
+          node --test tests/*.test.mjs
 
       - id: pages
         uses: actions/configure-pages@v5

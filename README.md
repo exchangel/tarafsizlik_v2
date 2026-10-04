@@ -81,7 +81,7 @@ Tests:
 
 ```bash
 python -m pytest
-node --test tests/     # Node 18+
+node --test tests/*.test.mjs   # Node 18+
 ```
 
 ## Running your own copy
