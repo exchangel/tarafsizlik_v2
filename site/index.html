@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Tarafsızlık Türkiye</title>
+  <meta name="description" content="Türkiye medyasının olaylara editoryal bakış açısını analiz eden tarafsız platform.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Tarafsızlık Türkiye">
+  <meta property="og:description" content="Aynı haber; muhalif, bağımsız ve iktidara yakın basında nasıl yer buluyor?">
+  <meta property="og:image" content="img/og-default.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#eeeef0" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#1b1c1e" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+  <script>
+    // Set the theme before first paint so there's no flash.
+    try {
+      const t = localStorage.getItem("theme");
+      if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+    } catch (e) {}
+  </script>
+  <link rel="stylesheet" href="css/style.css">
+  <script type="module" src="js/app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#agenda">Gündeme geç</a>
+
+  <header class="masthead">
+    <div class="brand">
+      <h1><a href="./#/">Tarafsızlık Türkiye</a></h1>
+      <p class="subtitle" data-t="subtitle"></p>
+    </div>
+    <div class="controls">
+      <div class="info">
+        <button type="button" class="pill info-toggle" aria-expanded="false" aria-controls="about-pop" data-t="about"></button>
+        <div class="popover" id="about-pop" role="tooltip"></div>
+      </div>
+      <div class="pill-group" role="group" aria-label="Dil / Language">
+        <button type="button" class="pill" data-lang="tr" aria-pressed="true">TR</button>
+        <button type="button" class="pill" data-lang="en" aria-pressed="false">EN</button>
+      </div>
+      <button type="button" class="pill icon-pill" id="theme-toggle">
+        <svg class="i-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/></svg>
+        <svg class="i-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z"/></svg>
+      </button>
+    </div>
+    <p class="meta" id="meta"></p>
+  </header>
+
+  <nav class="filters" aria-label="Filtreler">
+    <div class="pill-row scroll" id="time-filter" role="group"></div>
+    <div class="pill-row scroll" id="tag-filter" role="group"></div>
+  </nav>
+
+  <div class="section-tabs" role="tablist">
+    <button type="button" role="tab" data-section="agenda" aria-selected="true"></button>
+    <button type="button" role="tab" data-section="blindspots" aria-selected="false"></button>
+  </div>
+
+  <main class="layout" data-section="agenda">
+    <section class="agenda" id="agenda" aria-labelledby="agenda-title">
+      <h2 class="section-title"><span id="agenda-title"></span> <small class="window-label"></small></h2>
+      <div id="agenda-body"><p class="empty" data-t="loading"></p></div>
+    </section>
+
+    <aside class="blindspots" id="blindspots" aria-labelledby="blind-title">
+      <div class="section-title info">
+        <h2><span id="blind-title"></span> <small class="window-label"></small></h2>
+        <button type="button" class="pill pill-sm info-toggle" aria-expanded="false" aria-controls="blind-pop" aria-label="?">?</button>
+        <div class="popover" id="blind-pop" role="tooltip"></div>
+      </div>
+      <div id="blind-body"></div>
+    </aside>
+  </main>
+
+  <details class="method" id="method">
+    <summary data-t="methodology"></summary>
+    <div id="method-body"></div>
+  </details>
+
+  <footer class="footer" id="footer"></footer>
+
+  <dialog class="story" id="story" aria-labelledby="story-title">
+    <div class="story-bar">
+      <button type="button" class="pill" id="story-share">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12M7 8l5-5 5 5M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></svg>
+        <span data-t="share"></span>
+      </button>
+      <button type="button" class="pill icon-pill" id="story-close">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+    </div>
+    <div class="story-body" id="story-body" tabindex="-1" autofocus></div>
+    <!-- Inside the dialog so it renders above the modal backdrop. -->
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  </dialog>
+</body>
+</html>

@@ -1,0 +1,499 @@
+{
+ "updated": "2026-10-04",
+ "sources": [
+  {
+   "name": "Sabah",
+   "url": "https://www.sabah.com.tr/rss/gundem.xml",
+   "group": "progov",
+   "active": true,
+   "reason": "Turkuvaz Medya Grubu'na ait. Reuters Institute 2026 raporu hükümet yanlısı yayınlar arasında sayıyor.",
+   "evidence": [
+    {
+     "name": "Reuters Institute Digital News Report 2026 – Türkiye",
+     "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/turkey"
+    },
+    {
+     "name": "Media Bias/Fact Check – Sabah",
+     "url": "https://mediabiasfactcheck.com/daily-sabah/"
+    }
+   ],
+   "status": "sourced"
+  },
+  {
+   "name": "A Haber",
+   "url": "https://www.ahaber.com.tr/rss/gundem.xml",
+   "group": "progov",
+   "active": true,
+   "reason": "Turkuvaz Medya Grubu'nun haber kanalı. Reuters Institute 2026 raporu hükümet yanlısı yayınlar arasında sayıyor.",
+   "evidence": [
+    {
+     "name": "Reuters Institute Digital News Report 2026 – Türkiye",
+     "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/turkey"
+    }
+   ],
+   "status": "sourced"
+  },
+  {
+   "name": "Hürriyet",
+   "url": "https://www.hurriyet.com.tr/rss/anasayfa",
+   "group": "progov",
+   "active": true,
+   "reason": "Demirören Medya'ya ait. Reuters raporu Demirören'i hükümete yakın holdingler arasında anıyor; MBFC hükümet yanlısı olarak değerlendiriyor.",
+   "evidence": [
+    {
+     "name": "Reuters Institute Digital News Report 2026 – Türkiye",
+     "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/turkey"
+    },
+    {
+     "name": "Media Bias/Fact Check – Hürriyet",
+     "url": "https://mediabiasfactcheck.com/hurriyet/"
+    }
+   ],
+   "status": "sourced"
+  },
+  {
+   "name": "Milliyet",
+   "url": "https://www.milliyet.com.tr/rss/rssnew/gundemrss.xml",
+   "group": "progov",
+   "active": true,
+   "reason": "2012'den beri Demirören Holding'e ait. Reuters raporu Demirören'i hükümete yakın holdingler arasında anıyor.",
+   "evidence": [
+    {
+     "name": "Wikipedia – Milliyet",
+     "url": "https://en.wikipedia.org/wiki/Milliyet"
+    },
+    {
+     "name": "Reuters Institute Digital News Report 2026 – Türkiye",
+     "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/turkey"
+    }
+   ],
+   "status": "sourced"
+  },
+  {
+   "name": "CNN Türk",
+   "url": "https://www.cnnturk.com/feed/rss/all/news",
+   "group": "progov",
+   "active": true,
+   "reason": "Demirören Medya'ya ait. Reuters raporu Demirören'i hükümete yakın holdingler arasında anıyor.",
+   "evidence": [
+    {
+     "name": "Reuters Institute Digital News Report 2026 – Türkiye",
+     "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/turkey"
+    }
+   ],
+   "status": "sourced"
+  },
+  {
+   "name": "TRT Haber",
+   "url": "https://www.trthaber.com/gundem_articles.rss",
+   "group": "progov",
+   "active": true,
+   "reason": "Devlet yayın kuruluşu TRT'nin haber kanalı.",
+   "evidence": [
+    {
+     "name": "Reuters Institute Digital News Report 2026 – Türkiye",
+     "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/turkey"
+    }
+   ],
+   "status": "sourced"
+  },
+  {
+   "name": "Anadolu Ajansı",
+   "url": "https://www.aa.com.tr/tr/rss/default?cat=guncel",
+   "group": "progov",
+   "active": true,
+   "reason": "Devletin haber ajansı. Reuters Institute 2026 raporu hükümet yanlısı olarak tanımlıyor.",
+   "evidence": [
+    {
+     "name": "Reuters Institute Digital News Report 2026 – Türkiye",
+     "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/turkey"
+    },
+    {
+     "name": "Media Bias/Fact Check – Anadolu Agency",
+     "url": "https://mediabiasfactcheck.com/anadolu-agency/"
+    }
+   ],
+   "status": "sourced"
+  },
+  {
+   "name": "Yeni Şafak",
+   "url": "https://www.yenisafak.com/rss",
+   "group": "progov",
+   "active": true,
+   "reason": "Albayrak Holding'e ait. Cumhurbaşkanı Erdoğan ve AK Parti'ye güçlü desteğiyle biliniyor.",
+   "evidence": [
+    {
+     "name": "Wikipedia – Yeni Şafak",
+     "url": "https://en.wikipedia.org/wiki/Yeni_Şafak"
+    }
+   ],
+   "status": "sourced"
+  },
+  {
+   "name": "Akşam",
+   "url": "https://www.aksam.com.tr/rss/rss.asp?cat=guncel",
+   "group": "progov",
+   "active": true,
+   "reason": "Türk Medya grubuna ait. Wikipedia siyasi çizgisini 'AKP yanlısı' olarak gösteriyor.",
+   "evidence": [
+    {
+     "name": "Wikipedia – Akşam",
+     "url": "https://en.wikipedia.org/wiki/Akşam"
+    }
+   ],
+   "status": "sourced"
+  },
+  {
+   "name": "Star",
+   "url": "https://www.star.com.tr/rss/rss.asp",
+   "group": "progov",
+   "active": true,
+   "reason": "Wikipedia siyasi çizgisini 'AKP yanlısı' olarak gösteriyor.",
+   "evidence": [
+    {
+     "name": "Wikipedia – Star",
+     "url": "https://en.wikipedia.org/wiki/Star_(Turkish_newspaper)"
+    }
+   ],
+   "status": "sourced"
+  },
+  {
+   "name": "Yeni Akit",
+   "url": "https://www.yeniakit.com.tr/rss/haber/gundem",
+   "group": "progov",
+   "active": true,
+   "reason": "İslamcı-muhafazakâr çizgide yayın yapan gazete.",
+   "evidence": [
+    {
+     "name": "Wikipedia – Yeni Akit",
+     "url": "https://en.wikipedia.org/wiki/Yeni_Akit"
+    }
+   ],
+   "status": "sourced"
+  },
+  {
+   "name": "Diriliş Postası",
+   "url": "https://www.dirilispostasi.com/rss",
+   "group": "progov",
+   "active": true,
+   "reason": "Muhafazakâr çizgide yayın yapan gazete. Sınıflandırma değerlendirmesi sürüyor.",
+   "evidence": [],
+   "status": "review"
+  },
+  {
+   "name": "Habertürk",
+   "url": "https://www.haberturk.com/rss/kategori/gundem.xml",
+   "group": "progov",
+   "active": true,
+   "reason": "Sahibi Can Holding'e Eylül 2025'te el konuldu, yönetimi devlete bağlı TMSF'ye devredildi.",
+   "evidence": [
+    {
+     "name": "Reuters Institute Digital News Report 2026 – Türkiye",
+     "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/turkey"
+    },
+    {
+     "name": "Al Jazeera – Can Holding'e el konulması (Eylül 2025)",
+     "url": "https://www.aljazeera.com/news/2025/9/11/turkiye-prosecutors-seize-media-conglomerate-as-part-of-fraud-probe"
+    }
+   ],
+   "status": "sourced"
+  },
+  {
+   "name": "Bloomberg HT",
+   "url": "https://www.bloomberght.com/rss",
+   "group": "progov",
+   "active": true,
+   "reason": "Ekonomi kanalı. Sahibi Can Holding'e Eylül 2025'te el konuldu, yönetimi devlete bağlı TMSF'ye devredildi.",
+   "evidence": [
+    {
+     "name": "Reuters Institute Digital News Report 2026 – Türkiye",
+     "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/turkey"
+    },
+    {
+     "name": "Al Jazeera – Can Holding'e el konulması (Eylül 2025)",
+     "url": "https://www.aljazeera.com/news/2025/9/11/turkiye-prosecutors-seize-media-conglomerate-as-part-of-fraud-probe"
+    }
+   ],
+   "status": "sourced"
+  },
+  {
+   "name": "NTV",
+   "url": "https://www.ntv.com.tr/gundem.rss",
+   "group": "independent",
+   "active": true,
+   "reason": "Doğuş Medya Grubu'na ait ana akım kanal. Media Ownership Monitor, Doğuş'un iktidarla siyasi ve ekonomik ilişkileri olduğunu belirtiyor; konumu tartışmalı, değerlendirme sürüyor.",
+   "evidence": [
+    {
+     "name": "Wikipedia – NTV",
+     "url": "https://en.wikipedia.org/wiki/NTV_(Turkish_TV_channel)"
+    },
+    {
+     "name": "Media Ownership Monitor Türkiye (Bianet & GMR)",
+     "url": "https://turkey.mom-gmr.org/en/media/"
+    }
+   ],
+   "status": "disputed"
+  },
+  {
+   "name": "BBC Türkçe",
+   "url": "https://feeds.bbci.co.uk/turkce/rss.xml",
+   "group": "independent",
+   "active": true,
+   "reason": "İngiltere'nin kamu yayıncısı BBC'nin Türkçe servisi.",
+   "evidence": [],
+   "status": "review"
+  },
+  {
+   "name": "DW Türkçe",
+   "url": "https://rss.dw.com/xml/rss-tur-all",
+   "group": "independent",
+   "active": true,
+   "reason": "Almanya'nın uluslararası kamu yayıncısı Deutsche Welle'nin Türkçe servisi.",
+   "evidence": [],
+   "status": "review"
+  },
+  {
+   "name": "Euronews Türkçe",
+   "url": "https://tr.euronews.com/rss?level=theme&name=news",
+   "group": "independent",
+   "active": true,
+   "reason": "Avrupa merkezli haber kanalı. 2022'den beri çoğunluk hissesi Portekizli Alpac Capital'de.",
+   "evidence": [
+    {
+     "name": "Wikipedia – Euronews",
+     "url": "https://en.wikipedia.org/wiki/Euronews"
+    }
+   ],
+   "status": "sourced"
+  },
+  {
+   "name": "Independent Türkçe",
+   "url": "https://www.indyturk.com/rss.xml",
+   "group": "independent",
+   "active": true,
+   "reason": "İngiliz The Independent markasıyla yayın yapan Türkçe haber sitesi.",
+   "evidence": [],
+   "status": "review"
+  },
+  {
+   "name": "Gazete Pencere",
+   "url": "https://gazetepencere.com/feed/",
+   "group": "independent",
+   "active": true,
+   "reason": "2019'da gazeteci Yavuz Oğhan'ın kurduğu site. Kuruluşunda farklı kesimler arasında diyalog hedefini vurguladı.",
+   "evidence": [
+    {
+     "name": "Medyascope – Gazete Pencere yayın hayatına başladı (2019)",
+     "url": "https://medyascope.tv/2019/10/21/gazete-pencere-yayin-hayatina-basladi-farkli-mahallelerdeki-insanlarin-diyalog-icinde-olmalari-gerektigini-dusunuyoruz/"
+    }
+   ],
+   "status": "sourced"
+  },
+  {
+   "name": "Medyascope",
+   "url": "https://medyascope.tv/feed/",
+   "group": "independent",
+   "active": true,
+   "reason": "Bağımsız dijital haber platformu.",
+   "evidence": [],
+   "status": "review"
+  },
+  {
+   "name": "Dünya Gazetesi",
+   "url": "https://www.dunya.com/rss",
+   "group": "independent",
+   "active": true,
+   "reason": "Ekonomi ve iş dünyası odaklı gazete.",
+   "evidence": [],
+   "status": "review"
+  },
+  {
+   "name": "Ekonomim",
+   "url": "https://www.ekonomim.com/rss",
+   "group": "independent",
+   "active": true,
+   "reason": "Ekonomi odaklı haber sitesi.",
+   "evidence": [],
+   "status": "review"
+  },
+  {
+   "name": "Haber Global",
+   "url": "https://haberglobal.com.tr/rss",
+   "group": "independent",
+   "active": true,
+   "reason": "2018'de yayına başlayan haber kanalı. Sınıflandırma değerlendirmesi sürüyor.",
+   "evidence": [],
+   "status": "review"
+  },
+  {
+   "name": "Sözcü",
+   "url": "https://www.sozcu.com.tr/rss/gundem.xml",
+   "group": "opposition",
+   "active": true,
+   "reason": "Reuters Institute 2026 raporu Sözcü TV'yi muhalefete yakın yayınlar arasında sayıyor.",
+   "evidence": [
+    {
+     "name": "Reuters Institute Digital News Report 2026 – Türkiye",
+     "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/turkey"
+    }
+   ],
+   "status": "sourced"
+  },
+  {
+   "name": "Halk TV",
+   "url": "https://halktv.com.tr/rss",
+   "group": "opposition",
+   "active": true,
+   "reason": "Reuters Institute 2026 raporu muhalefete yakın yayınlar arasında sayıyor.",
+   "evidence": [
+    {
+     "name": "Reuters Institute Digital News Report 2026 – Türkiye",
+     "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/turkey"
+    }
+   ],
+   "status": "sourced"
+  },
+  {
+   "name": "Cumhuriyet",
+   "url": "https://www.cumhuriyet.com.tr/rss",
+   "group": "opposition",
+   "active": true,
+   "reason": "Cumhuriyet Vakfı'na ait. Kemalist-sol çizgide, hükümete eleştirel yayınlarıyla biliniyor.",
+   "evidence": [
+    {
+     "name": "Wikipedia – Cumhuriyet",
+     "url": "https://en.wikipedia.org/wiki/Cumhuriyet"
+    }
+   ],
+   "status": "sourced"
+  },
+  {
+   "name": "BirGün",
+   "url": "https://www.birgun.net/xml/rss.xml",
+   "group": "opposition",
+   "active": true,
+   "reason": "Sol çizgide, holding sahipliği olmayan gazete.",
+   "evidence": [
+    {
+     "name": "Wikipedia – BirGün",
+     "url": "https://en.wikipedia.org/wiki/BirGün"
+    }
+   ],
+   "status": "sourced"
+  },
+  {
+   "name": "Evrensel",
+   "url": "https://www.evrensel.net/rss/haber.xml",
+   "group": "opposition",
+   "active": true,
+   "reason": "Sosyalist-sol çizgide. Anayasa Mahkemesi'nin 2022 kararında AKP'ye eleştirel yayınlar arasında anılıyor.",
+   "evidence": [
+    {
+     "name": "Wikipedia – Evrensel",
+     "url": "https://en.wikipedia.org/wiki/Evrensel"
+    }
+   ],
+   "status": "sourced"
+  },
+  {
+   "name": "Diken",
+   "url": "https://www.diken.com.tr/feed/",
+   "group": "opposition",
+   "active": true,
+   "reason": "Harun Simavi'nin kurduğu, hükümete eleştirel çizgideki bağımsız haber sitesi.",
+   "evidence": [
+    {
+     "name": "Wikipedia – Diken",
+     "url": "https://en.wikipedia.org/wiki/Diken_(newspaper)"
+    }
+   ],
+   "status": "sourced"
+  },
+  {
+   "name": "Karar",
+   "url": "https://www.karar.com/rss",
+   "group": "opposition",
+   "active": true,
+   "reason": "Muhafazakâr-liberal çizgide gazete. Sınıflandırma değerlendirmesi sürüyor.",
+   "evidence": [
+    {
+     "name": "Wikipedia – Karar",
+     "url": "https://en.wikipedia.org/wiki/Karar_(newspaper)"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "name": "Yeniçağ",
+   "url": "https://www.yenicaggazetesi.com.tr/rss",
+   "group": "opposition",
+   "active": true,
+   "reason": "Türk milliyetçisi çizgide gazete. Sınıflandırma değerlendirmesi sürüyor.",
+   "evidence": [
+    {
+     "name": "Wikipedia – Yeniçağ",
+     "url": "https://en.wikipedia.org/wiki/Yeniçağ"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "name": "Kısa Dalga",
+   "url": "https://kisadalga.net/rss",
+   "group": "opposition",
+   "active": true,
+   "reason": "Gazetecilerin kurduğu bağımsız haber sitesi. Sınıflandırma değerlendirmesi sürüyor.",
+   "evidence": [],
+   "status": "review"
+  },
+  {
+   "name": "Artı Gerçek",
+   "url": "https://artigercek.com/rss",
+   "group": "opposition",
+   "active": true,
+   "reason": "Hükümete eleştirel çizgide yayın yapan haber sitesi. Sınıflandırma değerlendirmesi sürüyor.",
+   "evidence": [],
+   "status": "review"
+  }
+ ],
+ "removed": [
+  {
+   "name": "Gazete Duvar",
+   "reason": "Mart 2025'te yayın hayatına son verdiğini duyurdu.",
+   "evidence": [
+    {
+     "name": "Wikipedia – Gazete Duvar",
+     "url": "https://en.wikipedia.org/wiki/Gazete_Duvar"
+    },
+    {
+     "name": "Reuters Institute Digital News Report 2026 – Türkiye",
+     "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/turkey"
+    }
+   ]
+  },
+  {
+   "name": "Tele1",
+   "reason": "Ekim 2025'te kanala kayyum atandı, ardından TMSF tarafından satışa çıkarıldı. Kayyum yönetimindeki bir kanal muhalif grupta değerlendirilmiyor.",
+   "evidence": [
+    {
+     "name": "Wikipedia – TELE1",
+     "url": "https://en.wikipedia.org/wiki/TELE1"
+    },
+    {
+     "name": "Bianet – TELE 1 kanalına kayyım atandı",
+     "url": "https://bianet.org/haber/tele-1-kanalina-kayyim-atandi-312883"
+    }
+   ]
+  },
+  {
+   "name": "Ensonhaber",
+   "reason": "RSS beslemesi otomatik veri toplama sunucularımıza erişimi engelliyor (HTTP 403).",
+   "evidence": []
+  },
+  {
+   "name": "Gerçek Gündem",
+   "reason": "RSS beslemesi otomatik veri toplama sunucularımıza erişimi engelliyor (HTTP 403).",
+   "evidence": []
+  }
+ ]
+}
