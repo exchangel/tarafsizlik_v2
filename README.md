@@ -1,6 +1,6 @@
 # Tarafsızlık Türkiye
 
-Same news, three different presses. This site collects headlines from 34 Turkish news outlets, groups the ones about the same event, and shows how much each side of the media covered it: opposition, mainstream/independent, or pro-government.
+Same news, three different presses. This site collects headlines from 36 Turkish news outlets, groups the ones about the same event, and shows how much each side of the media covered it: opposition, mainstream/independent, or pro-government.
 
 **Live:** https://exchangel.github.io/tarafsizlik_v2/
 
@@ -31,7 +31,7 @@ RSS feeds ──> fetch_news.py ──> data/pending.json
 ```
 
 1. **Fetch** (`pipeline/fetch_news.py`): reads every active feed from `data/sources.json`, skips links it has already seen, pulls out an image and normalizes dates to UTC.
-2. **Cluster** (`pipeline/cluster_news.py`): sends only the headlines to Gemini and asks which ones describe the same event. Titles from the last three days are passed back to the model so a story keeps the same name, and with it the same URL, across runs. Catch-all groups ("foreign policy developments") are detected by checking how many headline pairs share a word, and they're not offered for reuse.
+2. **Cluster** (`pipeline/cluster_news.py`): sends only the headlines to Gemini and asks which ones describe the same event. Titles from the last three days are passed back to the model so a story keeps the same name, and with it the same URL, across runs. The prompt insists on one concrete event per group and spells out what counts as off-topic (gossip, routine sports) and what never does (violence against women, workplace deaths, disasters). Catch-all groups that slip through anyway ("foreign policy developments") are detected by checking how many headline pairs share a word stem; they're not offered for reuse, sit at the bottom of the list and never count as blindspots.
 3. **Build** (`pipeline/build_site.py`): turns the store into a compact `news.json` and writes one small HTML page per story with Open Graph tags that redirects into the app.
 4. **Frontend** (`site/`): plain HTML, CSS and JavaScript modules. No framework, no build step. Time windows, filters and blindspots are computed in the browser.
 
@@ -41,7 +41,7 @@ The only state is `data/articles.json` in the repo, so there's no server or data
 
 ## How coverage is calculated
 
-The groups don't have the same number of outlets (14 pro-government, 10 independent, 10 opposition right now). Counting articles would favour the biggest group, so for each story:
+The groups don't have the same number of outlets (14 pro-government, 11 independent, 11 opposition right now). Counting articles would favour the biggest group, so for each story:
 
 1. count **unique outlets** per group (five articles from one outlet count once),
 2. divide by the group's size: the share of that group's outlets that covered it,

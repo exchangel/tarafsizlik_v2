@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04",
+ "updated": "2026-10-05",
  "sources": [
   {
    "name": "Sabah",
@@ -452,6 +452,29 @@
    "group": "opposition",
    "active": true,
    "reason": "Hükümete eleştirel çizgide yayın yapan haber sitesi. Sınıflandırma değerlendirmesi sürüyor.",
+   "evidence": [],
+   "status": "review"
+  },
+  {
+   "name": "Bianet",
+   "url": "https://bianet.org/rss/bianet",
+   "group": "opposition",
+   "active": true,
+   "reason": "Bağımsız Gazetecilik Ağı. İnsan hakları, basın özgürlüğü ve azınlık haberlerine odaklanan, hükümete eleştirel çizgide yayın yapan bağımsız haber sitesi. Sınıflandırma değerlendirmesi sürüyor.",
+   "evidence": [
+    {
+     "name": "Wikipedia – Bianet",
+     "url": "https://en.wikipedia.org/wiki/Bianet"
+    }
+   ],
+   "status": "review"
+  },
+  {
+   "name": "Serbestiyet",
+   "url": "https://serbestiyet.com/feed/",
+   "group": "independent",
+   "active": true,
+   "reason": "Liberal çizgide yorum ve haber sitesi. Herhangi bir medya holdingine bağlı değil. Sınıflandırma değerlendirmesi sürüyor.",
    "evidence": [],
    "status": "review"
   }

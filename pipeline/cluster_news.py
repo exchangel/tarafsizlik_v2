@@ -13,8 +13,8 @@ import time
 from datetime import timedelta
 
 from pipeline.common import (
-    ARTICLES_FILE, PENDING_FILE, RETENTION_DAYS, TAGS, iso, is_irrelevant,
-    load_json, now_utc, parse_date, save_json, unique_slug,
+    ARTICLES_FILE, PENDING_FILE, RETENTION_DAYS, TAGS, is_basket, iso,
+    is_irrelevant, load_json, now_utc, parse_date, save_json, unique_slug,
 )
 
 # Tried in order until one answers.
@@ -29,63 +29,80 @@ MODELS = [
 REUSE_WINDOW_DAYS = 3
 MAX_REUSE_TITLES = 60
 
-# The prompt stays in Turkish: the headlines are Turkish and the model groups
+# The prompt is in Turkish: the headlines are Turkish and the model groups
 # them noticeably better this way.
 PROMPT = """
-Sen tarafsiz ve profesyonel bir medya analistisin. Asagida Turkiye gundemine ait haber basliklari JSON formatinda verilmistir.
+Sen tarafsız ve titiz bir medya analistisin. Aşağıda Türk haber sitelerinden gelen başlıklar JSON listesi olarak verilmiştir.
+Görevin, AYNI OLAYI anlatan başlıkları gruplamak. Bu gruplar, farklı yayın gruplarının aynı olayı ne kadar haberleştirdiğini
+karşılaştırmak için kullanılacak; bu yüzden gruplama hatasız ve dengeli olmalı.
 
-GOREVLERIN:
-1. AYNI siyasi, ekonomik, hukuki veya toplumsal olayi/gelismeyi anlatan haberleri tek bir grupta birlestir.
-2. Magazin, kedi-kopek, basit trafik kazalari, hava durumu gibi ulusal gundemle ilgisi olmayan 3. sayfa haberlerini SADECE "Ilgisiz" adli tek bir grupta topla. Bunlara etiket atama.
-3. Her gecerli grup icin nesnel, tarafsiz ve profesyonel bir 'konu_basligi' belirle (Ornek: 'Merkez Bankasi Politika Faizi Karari', 'Anayasa Mahkemesi Karari').
-   Grup asagidaki MEVCUT BASLIKLAR'dan biriyle AYNI olayi anlatiyorsa o basligi harfi harfine AYNEN kullan; yeni olaysa yeni baslik yaz.
-   'Dis Politika Gelismeleri' veya 'Meclis Gundemi' gibi farkli olaylari toplayan genel/sepet basliklar KULLANMA; her grup tek bir somut olay olmali.
-   MEVCUT BASLIKLAR: {existing}
-4. Her grup icin bu olayin tam olarak ne oldugunu anlatan nesnel, tarafsiz ve tek cumlelik kisa bir 'grup_ozeti' yaz.
-5. 'konu_basligi' ve 'grup_ozeti' alanlarinin Ingilizce cevirisini 'konu_basligi_en' ve 'grup_ozeti_en' alanlarina yaz.
-6. Her grup icin SADECE asagidaki listeden en uygun 1, 2 veya 3 etiketi sec. Bu liste disindan ASLA baska etiket kullanma:
+1) GRUP = TEK BİR SOMUT OLAY
+- Bir grup; aynı aktörlerin, aynı yerde, aynı zaman diliminde yaşadığı tek bir gelişmeyi ve onun doğrudan devamını
+  (açıklamalar, tepkiler, gözaltı → tutuklama gibi) kapsar.
+- Sadece konusu benzer diye farklı olayları BİRLEŞTİRME. Yanlış örnekler: "Dış Politika Gelişmeleri", "Meclis Gündemi",
+  "Terörle Mücadele ve Operasyonlar", "Ekonomi Haberleri". Farklı illerdeki farklı operasyonlar, farklı ülkelerle yapılan
+  farklı görüşmeler AYRI gruplardır.
+- Kontrol: Grubun özetini TEK bir somut olay cümlesiyle yazamıyorsan grubu böl.
+- Tek başlıklı grup olabilir; zorla birleştirme.
+
+2) GÜNDEM DIŞI HABERLER → "Ilgisiz"
+Aşağıdakileri SADECE "Ilgisiz" adlı tek grupta topla ve etiket verme:
+- Magazin, ünlüler, dizi/film, burç, yaşam tarzı, sağlık/diyet önerileri, tarifler, reklam ve ürün haberleri.
+- Rutin hava durumu, kamuoyu boyutu olmayan tekil adli olaylar ve sıradan trafik kazaları.
+- Spor: aşağıdaki istisnalar dışında TÜM spor haberleri (maç sonuçları, transfer, sakatlık, teknik direktör açıklamaları).
+ASLA "Ilgisiz" sayma (bunlar toplumsal gündemdir):
+- Kadına ve çocuğa yönelik şiddet, kadın cinayetleri, iş cinayetleri ve iş kazaları, maden kazaları,
+  toplu ölümlü kazalar, afetler, çevre felaketleri, gazetecilere yönelik işlemler.
+
+3) SPOR İSTİSNASI (#Spor)
+Spor haberini SADECE şu durumlarda grupla:
+- Milli takımların resmi maçları ve büyük turnuvalar.
+- Galatasaray, Fenerbahçe, Beşiktaş ve Trabzonspor'un kendi aralarındaki derbiler.
+- Türk kulüplerinin Avrupa kupalarında tur atlama/elenme gibi sonuç belirleyen maçları.
+- Sporun yargı, siyaset veya ekonomiyle kesiştiği olaylar (hakem/şike soruşturması, federasyon seçimi, kulüp borç krizi).
+
+4) BAŞLIK: 'konu_basligi'
+- Olayı anlatan, 3-8 kelimelik, somut bir başlık: aktör + olay (+ yer). Örnek: "Merkez Bankası Faizi Sabit Tuttu",
+  "Adana'da 4,9 Büyüklüğünde Deprem". Kötü örnek: "Depremler", "Ekonomi Gelişmeleri".
+- Grup aşağıdaki MEVCUT BAŞLIKLAR'dan biriyle AYNI olayı anlatıyorsa o başlığı harfi harfine AYNEN kullan; değilse yeni başlık yaz.
+  Mevcut bir başlık birden fazla olayı kapsıyorsa onu KULLANMA.
+  MEVCUT BAŞLIKLAR: {existing}
+
+5) TARAFSIZ DİL
+- Başlık ve özette hiçbir yayın grubunun yüklü dilini kullanma (örneğin "hain", "darbeci", "soykırımcı", "rejim", "yandaş",
+  "faşist" gibi nitelemeler). Taraflardan birinin iddiasını gerçek gibi yazma; gerekiyorsa "… iddia etti / açıkladı" de.
+- Kurum ve kişileri resmi adlarıyla an. Yorum, değerlendirme ve sıfat ekleme.
+
+6) ÖZET VE ÇEVİRİ
+- 'grup_ozeti': Olayın ne olduğunu anlatan, tek cümlelik, nesnel bir özet.
+- 'konu_basligi_en' ve 'grup_ozeti_en': başlık ve özetin İngilizce çevirisi.
+
+7) ETİKET
+Her grup için SADECE aşağıdaki listeden en uygun 1-3 etiketi seç; liste dışında etiket KULLANMA:
 {tags}
 
-CIKTI FORMATI:
-SADECE asagidaki JSON formatinda cikti ver. Ekstra aciklama metni yazma:
+ÇIKTI: Sadece aşağıdaki biçimde bir JSON listesi döndür, başka metin yazma. Her haber id'si en fazla bir grupta yer alsın.
 [
   {{
-    "konu_basligi": "Konu Adi",
-    "konu_basligi_en": "Topic Name",
-    "grup_ozeti": "Olayin tarafsiz ve 1 cumlelik ozeti.",
+    "konu_basligi": "Konu Başlığı",
+    "konu_basligi_en": "Story Title",
+    "grup_ozeti": "Olayın tarafsız, tek cümlelik özeti.",
     "grup_ozeti_en": "One-sentence neutral summary of the event.",
     "etiketler": ["#etiket1", "#etiket2"],
     "haber_idleri": [0, 5, 12]
   }}
 ]
 
-Haber Listesi:
+Haber listesi:
 {headlines}
 """
 
 
-def _words(text):
-    return {w for w in re.findall(r"\w+", str(text).lower()) if len(w) > 3}
-
-
-def is_basket(headlines):
-    """True if a story looks like a catch-all bucket rather than one event.
-
-    In a real story most headline pairs share at least one meaningful word.
-    Buckets like "Uluslararası Diplomasi" mix unrelated events, so the share
-    drops sharply. We don't feed those titles back to the model, otherwise
-    they'd grow with every run.
-    """
-    sets = [_words(h) for h in headlines]
-    if len(sets) < 6:
-        return False
-    pairs = [(a, b) for i, a in enumerate(sets) for b in sets[i + 1:]]
-    shared = sum(1 for a, b in pairs if a & b) / len(pairs)
-    return shared < 0.2
-
-
 def reusable_titles(store, now):
-    """Recent story titles, most covered first, without buckets."""
+    """Recent story titles, most covered first, without buckets.
+
+    Bucket titles aren't offered for reuse, otherwise they'd grow with every run.
+    """
     cutoff = now - timedelta(days=REUSE_WINDOW_DAYS)
     by_story = {}
     for a in store["articles"]:

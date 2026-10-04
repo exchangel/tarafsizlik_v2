@@ -59,3 +59,14 @@ test("top tags weighted by outlets", () => {
   ];
   assert.deepEqual(topTags(stories, 2), ["#Eğitim", "#DepremVeAfet"]);
 });
+
+test("catch-all groups go last and never count as blindspots", () => {
+  const arts = [a("S1", "progov"), a("S2", "progov"), a("S3", "progov"), a("N1", "independent")];
+  const stories = [
+    { id: "basket", basket: true, tags: [], articles: arts },
+    { id: "real", tags: [], articles: [a("O1", "opposition")] },
+  ];
+  const ranked = storiesInWindow(stories, 1, SIZES, NOW);
+  assert.deepEqual(ranked.map((s) => s.id), ["real", "basket"]);
+  assert.equal(findBlindspots(ranked).missedByOpposition.length, 0);
+});

@@ -32,8 +32,6 @@ CANDIDATES = {
     "Gazete Oksijen": ["https://gazeteoksijen.com", "https://gazeteoksijen.com/rss.xml", "https://gazeteoksijen.com/feed"],
     "ANKA Haber Ajansı": ["https://ankahaber.net", "https://ankahaber.net/rss.xml", "https://ankahaber.net/feed"],
     "Nefes": ["https://www.nefes.com.tr", "https://www.nefes.com.tr/rss.xml", "https://www.nefes.com.tr/feed"],
-    "Bianet": ["https://bianet.org", "https://bianet.org/rss", "https://bianet.org/rss/bianet"],
-    "Serbestiyet": ["https://serbestiyet.com/feed/"],
     "Türkiye Gazetesi": ["https://www.turkiyegazetesi.com.tr/rss/son-dakika-haberleri"],
     "Haber7": ["https://i12.haber7.net/sondakika/newsstand/latest.xml"],
     "Takvim": ["https://www.takvim.com.tr/rss/anasayfa"],

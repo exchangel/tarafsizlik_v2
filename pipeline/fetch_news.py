@@ -21,7 +21,9 @@ HEADERS = {
                   "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 }
 
-PER_FEED_LIMIT = 15
+# Busy outlets publish far more than this between two runs (8 hours), and
+# anything we miss counts as "didn't cover it". Keep it generous.
+PER_FEED_LIMIT = 50
 IMAGE_EXT = (".jpg", ".jpeg", ".png", ".webp")
 
 

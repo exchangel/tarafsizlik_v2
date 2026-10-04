@@ -12,8 +12,8 @@ import shutil
 from collections import Counter
 
 from pipeline.common import (
-    ARTICLES_FILE, BUILD_DIR, GROUPS, SITE_DIR, SOURCES_FILE, iso, load_json,
-    now_utc, save_json,
+    ARTICLES_FILE, BUILD_DIR, GROUPS, SITE_DIR, SOURCES_FILE, is_basket, iso,
+    load_json, now_utc, save_json,
 )
 
 SITE_NAME = "Tarafsızlık Türkiye"
@@ -68,6 +68,8 @@ def build_news(store, sources):
             "summary": {"tr": meta["summary_tr"], "en": meta.get("summary_en") or meta["summary_tr"]},
             "tags": meta.get("tags", []),
             "image": story_image(articles),
+            # Catch-all groups the model shouldn't have made; the UI pushes them down.
+            "basket": is_basket(a["title"] for a in articles),
             # Classification comes from sources.json, so re-grouping an outlet
             # also moves its older articles.
             "articles": [

@@ -28,6 +28,8 @@ TAGS = [
     "#SavunmaSanayii", "#GöçVeSığınmacılar", "#Eğitim", "#Sağlık",
     "#KadınVeÇocukHakları", "#İnsanHaklarıVeHukuk", "#MedyaVeİfadeÖzgürlüğü",
     "#YerelYönetimler", "#ÇevreVeİklim", "#DepremVeAfet",
+    "#EmekVeÇalışmaHayatı", "#Enerji", "#BilimVeTeknoloji", "#TarımVeGıda",
+    "#KültürVeSanat", "#Spor",
 ]
 
 # Bucket names for off-topic articles. "İlgisiz".lower() keeps a combining dot,
@@ -119,3 +121,30 @@ def is_http_url(value):
 
 def is_irrelevant(title):
     return not title or str(title).strip().lower() in IRRELEVANT
+
+
+# Words that show up in headlines of unrelated events and say nothing about the story.
+_FILLER = {"son", "dakika", "flas", "bakan", "icin", "olarak", "sonra", "kadar", "yeni",
+           "buyuk", "ilgili", "aciklama", "acikladi", "turkiye", "detaylar"}
+
+
+def _stems(text):
+    # First five letters is a crude stand-in for Turkish stemming, but it's enough
+    # to match "soruşturması" with "soruşturmasında".
+    words = re.findall(r"\w+", str(text).translate(_TR_MAP).lower())
+    return {w[:5] for w in words if len(w) > 3 and w not in _FILLER}
+
+
+def is_basket(headlines):
+    """True if a story looks like a catch-all bucket rather than one event.
+
+    In a real story most headline pairs share at least one word stem. Buckets
+    like "Uluslararası Diplomasi" mix unrelated events, so the share drops well
+    below 20%. Stories with fewer than 6 headlines are too small to judge.
+    """
+    sets = [_stems(h) for h in headlines]
+    if len(sets) < 6:
+        return False
+    pairs = [(a, b) for i, a in enumerate(sets) for b in sets[i + 1:]]
+    shared = sum(1 for a, b in pairs if a & b) / len(pairs)
+    return shared < 0.2

@@ -129,6 +129,9 @@ export const TAGS_EN = {
   "#İnsanHaklarıVeHukuk": "#HumanRights", "#MedyaVeİfadeÖzgürlüğü": "#Media&FreeSpeech",
   "#YerelYönetimler": "#LocalGov", "#ÇevreVeİklim": "#Environment&Climate",
   "#DepremVeAfet": "#Earthquake&Disaster",
+  "#EmekVeÇalışmaHayatı": "#Labour&Work", "#Enerji": "#Energy",
+  "#BilimVeTeknoloji": "#Science&Tech", "#TarımVeGıda": "#Agriculture&Food",
+  "#KültürVeSanat": "#Culture&Arts", "#Spor": "#Sports",
 };
 
 export const METHOD = {

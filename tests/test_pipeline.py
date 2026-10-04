@@ -5,7 +5,7 @@ from types import SimpleNamespace
 import pytest
 
 from pipeline import build_site, cluster_news, fetch_news
-from pipeline.common import parse_date, slugify, unique_slug, is_http_url, is_irrelevant
+from pipeline.common import is_basket, is_http_url, is_irrelevant, parse_date, slugify, unique_slug
 
 NOW = datetime(2026, 10, 4, 20, 0, tzinfo=timezone.utc)
 
@@ -97,9 +97,17 @@ def test_is_basket():
     same_event = [f"Adana'da deprem {i}" for i in range(8)]
     mixed = ["Netanyahu hamlesi", "Yemen ordusu duyurdu", "Fransa liseliler eylem",
              "İran petrol bakanı", "Gazze sınır kapısı", "Türk dünyası mesajı"]
-    assert not cluster_news.is_basket(same_event)
-    assert cluster_news.is_basket(mixed)
-    assert not cluster_news.is_basket(mixed[:3])  # too few to judge
+    assert not is_basket(same_event)
+    assert is_basket(mixed)
+    assert not is_basket(mixed[:3])  # too few to judge
+
+
+def test_is_basket_handles_suffixes():
+    # Same event, but the shared word appears with different Turkish suffixes.
+    headlines = ["Fon soruşturmasında 85 tutuklama", "Soruşturması süren fon için açıklama",
+                 "Fonların akıbeti belirsiz", "Soruşturmada yeni gözaltılar",
+                 "Fon krizinde son durum", "Soruşturmanın detayları ortaya çıktı"]
+    assert not is_basket(headlines)
 
 
 def test_merge_reuses_story_and_skips_irrelevant():
@@ -198,6 +206,7 @@ def test_build_news_shape():
     # Group comes from sources.json, not from what was stored with the article
     assert [a["g"] for a in story["articles"]] == ["opposition", "independent"]
     assert set(story["articles"][0]) == {"s", "g", "t", "l", "d"}
+    assert story["basket"] is False
 
 
 def test_share_page_escapes_and_redirects():

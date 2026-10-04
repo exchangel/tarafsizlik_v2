@@ -39,7 +39,11 @@ export function summarize(story, articles, groupSizes) {
   };
 }
 
-/** Stories with at least one article in the last `days`, most covered first. */
+/**
+ * Stories with at least one article in the last `days`, most covered first.
+ * Catch-all groups ("basket") go to the end: their outlet count is inflated
+ * by mixing unrelated events, so they'd always top the list otherwise.
+ */
 export function storiesInWindow(stories, days, groupSizes, now = Date.now()) {
   const cutoff = now - days * DAY_MS;
   const result = [];
@@ -47,7 +51,9 @@ export function storiesInWindow(stories, days, groupSizes, now = Date.now()) {
     const articles = story.articles.filter((a) => Date.parse(a.d) >= cutoff);
     if (articles.length) result.push(summarize(story, articles, groupSizes));
   }
-  return result.sort((a, b) => b.total - a.total || b.latest - a.latest);
+  return result.sort(
+    (a, b) => Boolean(a.basket) - Boolean(b.basket) || b.total - a.total || b.latest - a.latest
+  );
 }
 
 /**
@@ -58,7 +64,7 @@ export function findBlindspots(stories) {
   const missedByOpposition = [];
   const missedByProgov = [];
   for (const story of stories) {
-    if (story.total < BLINDSPOT_MIN_SOURCES) continue;
+    if (story.basket || story.total < BLINDSPOT_MIN_SOURCES) continue;
     const opp = Math.trunc(story.percents.opposition);
     const ind = Math.trunc(story.percents.independent);
     const gov = Math.trunc(story.percents.progov);
