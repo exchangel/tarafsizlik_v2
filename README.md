@@ -2,7 +2,7 @@
 
 Same news, three different presses. This site collects headlines from 34 Turkish news outlets, groups the ones about the same event, and shows how much each side of the media covered it: opposition, mainstream/independent, or pro-government.
 
-**Live:** https://exchangel.github.io/REPO_NAME/
+**Live:** https://exchangel.github.io/tarafsizlik_v2/
 
 <!-- screenshot: docs/screenshot.png -->
 
