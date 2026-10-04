@@ -48,11 +48,14 @@ karşılaştırmak için kullanılacak; bu yüzden gruplama hatasız ve dengeli 
 2) GÜNDEM DIŞI HABERLER → "Ilgisiz"
 Aşağıdakileri SADECE "Ilgisiz" adlı tek grupta topla ve etiket verme:
 - Magazin, ünlüler, dizi/film, burç, yaşam tarzı, sağlık/diyet önerileri, tarifler, reklam ve ürün haberleri.
-- Rutin hava durumu, kamuoyu boyutu olmayan tekil adli olaylar ve sıradan trafik kazaları.
+- Rutin hava durumu, sıradan trafik kazaları ve kamuoyu boyutu olmayan tekil adli olaylar. Buna tek bir
+  yerel kadına/çocuğa şiddet vakası ve tek kişinin öldüğü bir iş kazası da dahildir.
 - Spor: aşağıdaki istisnalar dışında TÜM spor haberleri (maç sonuçları, transfer, sakatlık, teknik direktör açıklamaları).
-ASLA "Ilgisiz" sayma (bunlar toplumsal gündemdir):
-- Kadına ve çocuğa yönelik şiddet, kadın cinayetleri, iş cinayetleri ve iş kazaları, maden kazaları,
-  toplu ölümlü kazalar, afetler, çevre felaketleri, gazetecilere yönelik işlemler.
+Şunlar ise toplumsal gündemdir, "Ilgisiz" SAYMA:
+- Kadına/çocuğa şiddet ve iş cinayetlerinde kamuoyu boyutu olanlar: ülke çapında tepki ve protesto doğuran vakalar,
+  mahkeme kararları ve cezalar (ör. iyi hal indirimi tartışması), kamu görevlisi veya kurum ihmali iddiası taşıyanlar,
+  aylık/yıllık raporlar ve istatistikler (ör. Kadın Cinayetlerini Durduracağız Platformu, İSİG Meclisi), yasa ve politika değişiklikleri.
+- Toplu ölümlü kazalar, maden kazaları, afetler, çevre felaketleri, gazetecilere yönelik gözaltı ve davalar.
 
 3) SPOR İSTİSNASI (#Spor)
 Spor haberini SADECE şu durumlarda grupla:
