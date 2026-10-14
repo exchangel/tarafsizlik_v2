@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T20:15:10Z",
+ "updated": "2026-10-14T01:13:29Z",
  "stories": {
   "sermaye-piyasasi-ve-fon-sorusturmasi": {
    "title_tr": "Sermaye Piyasası ve Fon Soruşturması",
@@ -54,10 +54,11 @@
   "terorle-mucadele-ve-operasyonlar": {
    "title_tr": "Terörle Mücadele ve Operasyonlar",
    "title_en": "Counter-terrorism and operations",
-   "summary_tr": "Mehmetçik tarafından gerçekleştirilen tatbikatlar ve askeri operasyonel faaliyetler.",
-   "summary_en": "Exercises conducted by the Mehmetçik (Turkish Armed Forces) and military operational activities.",
+   "summary_tr": "TSK'nın Resulayn'daki operasyonlarına yönelik iddialar yalanlanırken, bölgedeki güvenlik gelişmeleri takip ediliyor.",
+   "summary_en": "Claims regarding TSK's operations in Ras al-Ayn were denied, while security developments in the region are being monitored.",
    "tags": [
-    "#GüvenlikVeTerör"
+    "#GüvenlikVeTerör",
+    "#DışPolitika"
    ]
   },
   "belediyelere-yonelik-operasyonlar": {
@@ -286,11 +287,12 @@
   },
   "yargida-adli-islemler-ve-operasyonlar": {
    "title_tr": "Yargıda Adli İşlemler ve Operasyonlar",
-   "title_en": "Judicial procedures and operations",
-   "summary_tr": "Dolandırıcılık, rüşvet ve kara para aklama iddialarına ilişkin yürütülen adli soruşturmalar.",
-   "summary_en": "Judicial investigations conducted regarding allegations of fraud, bribery, and money laundering.",
+   "title_en": "Judicial Proceedings and Operations",
+   "summary_tr": "Ardahan merkezli rüşvet operasyonu, Kayseri'de babasını öldüren şüpheli, Bodrum'da sahte dolar operasyonu ve çeşitli illerdeki uyuşturucu operasyonları gerçekleştirildi.",
+   "summary_en": "Operations were carried out including a bribery investigation in Ardahan, a homicide case in Kayseri, a counterfeit dollar operation in Bodrum, and various drug operations across provinces.",
    "tags": [
-    "#AdaletVeYargı"
+    "#AdaletVeYargı",
+    "#GüvenlikVeTerör"
    ]
   },
   "istanbul-guvenlik-ve-suc-bilancosu": {
@@ -535,12 +537,12 @@
   },
   "imamoglu-ve-ibb-durusmalari": {
    "title_tr": "İmamoğlu ve İBB Duruşmaları",
-   "title_en": "Imamoglu and IMM trials",
-   "summary_tr": "İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'na açılan davalar ve duruşma süreçleri devam ediyor.",
-   "summary_en": "The lawsuits and trial processes against Istanbul Metropolitan Municipality Mayor Ekrem Imamoglu continue.",
+   "title_en": "İmamoğlu and IMM Trials",
+   "summary_tr": "İBB Başkanı'nın duruşma süreci ve siyasi gündemdeki yansımaları takip ediliyor.",
+   "summary_en": "The trial process of the IMM Mayor and its reflections on the political agenda are being followed.",
    "tags": [
-    "#AdaletVeYargı",
-    "#İçPolitika"
+    "#İçPolitika",
+    "#SeçimVePartiler"
    ]
   },
   "uyusturucu-operasyonlari-ve-tutuklamalar": {
@@ -792,10 +794,11 @@
   "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler": {
    "title_tr": "İsrail'in Gazze'ye Saldırıları ve Uluslararası Tepkiler",
    "title_en": "Israel's attacks on Gaza and international reactions",
-   "summary_tr": "İsrail'in Gazze ve Batı Şeria'daki askeri faaliyetleri ile bölgedeki diğer aktörlerin durumu uluslararası basında yer aldı.",
-   "summary_en": "Israel's military activities in Gaza and the West Bank, along with the situation of other regional actors, have been reported in the international press.",
+   "summary_tr": "İsrail'in saldırılarına ilişkin uluslararası tepkiler ve bölgedeki askeri hareketlilik devam ediyor.",
+   "summary_en": "International reactions to Israel's attacks and military activity in the region continue.",
    "tags": [
-    "#DışPolitika"
+    "#DışPolitika",
+    "#İnsanHaklarıVeHukuk"
    ]
   },
   "uluslararasi-uzay-kongresi-ve-isbirlikleri": {
@@ -895,11 +898,10 @@
   "trump-ile-uluslararasi-iliskiler-ve-bolgesel-guvenlik": {
    "title_tr": "Trump ile Uluslararası İlişkiler ve Bölgesel Güvenlik",
    "title_en": "International relations and regional security with Trump",
-   "summary_tr": "ABD Başkanı Trump'ın Rusya ve Ukrayna arasında enerji ateşkesi sağlandığına dair açıklaması.",
-   "summary_en": "US President Trump announced that an energy ceasefire has been reached between Russia and Ukraine.",
+   "summary_tr": "Donald Trump'ın dış politika açıklamaları ve diğer ülkelerle olan diplomatik temasları sürüyor.",
+   "summary_en": "Donald Trump's foreign policy statements and diplomatic contacts with other countries continue.",
    "tags": [
-    "#DışPolitika",
-    "#Enerji"
+    "#DışPolitika"
    ]
   },
   "engelli-bireylere-yonelik-ozel-bakim": {
@@ -1017,12 +1019,12 @@
   },
   "ticaret-bakani-omer-bolat-hakkindaki-fon-iddialari": {
    "title_tr": "Ticaret Bakanı Ömer Bolat Hakkındaki Fon İddiaları",
-   "title_en": "Allegations Regarding Trade Minister Ömer Bolat and Funds",
-   "summary_tr": "Ticaret Bakanı Ömer Bolat ve Fon Koordinasyon Kurulu'nun yönettiği fon tasfiyesi ve ödemelere ilişkin tartışmalar Meclis gündemine taşındı.",
-   "summary_en": "Discussions regarding the liquidation and payments of funds managed by Trade Minister Ömer Bolat and the Fund Coordination Board have been brought to the parliamentary agenda.",
+   "title_en": "Allegations Regarding Trade Minister Ömer Bolat and the Fund Scandal",
+   "summary_tr": "İstanbul Cumhuriyet Başsavcılığı, fon soruşturmalarıyla ilgili yeni bir tedbir kararı olmadığını açıklarken, TBMM'de fon kriziyle ilgili araştırma önergeleri AK Parti ve MHP oylarıyla reddedildi.",
+   "summary_en": "The Istanbul Chief Public Prosecutor's Office stated that there are no new measures regarding fund investigations, while motions for a parliamentary inquiry into the fund crisis were rejected by AK Party and MHP votes.",
    "tags": [
     "#EkonomiVePiyasalar",
-    "#İçPolitika"
+    "#AdaletVeYargı"
    ]
   },
   "fatma-betul-sayan-kaya-nin-ak-parti-den-ihraci": {
@@ -1526,9 +1528,9 @@
   },
   "galatasaray-barcelona-maci": {
    "title_tr": "Galatasaray - Barcelona maçı",
-   "title_en": "Galatasaray - Barcelona match",
-   "summary_tr": "Galatasaray ve Barcelona arasında oynanan UEFA Şampiyonlar Ligi karşılaşması ve maçla ilgili gelişmeler.",
-   "summary_en": "The UEFA Champions League match between Galatasaray and Barcelona and related developments.",
+   "title_en": "Galatasaray vs. Barcelona Match",
+   "summary_tr": "UEFA Şampiyonlar Ligi'nde Galatasaray, sahasında Barcelona'ya 4-1 mağlup oldu.",
+   "summary_en": "Galatasaray lost 4-1 to Barcelona at home in the UEFA Champions League.",
    "tags": [
     "#Spor"
    ]
@@ -1572,10 +1574,11 @@
   "abd-deki-silahli-saldirilar": {
    "title_tr": "ABD'deki silahlı saldırılar",
    "title_en": "Armed attacks in the USA",
-   "summary_tr": "ABD siyaseti, seçim süreçleri ve uluslararası ilişkilerine dair gelişmeler.",
-   "summary_en": "Developments regarding US politics, election processes, and international relations.",
+   "summary_tr": "ABD'de meydana gelen silahlı saldırılar ve hukuki süreçler dünya gündeminde yer alıyor.",
+   "summary_en": "Armed attacks in the USA and legal processes are on the global agenda.",
    "tags": [
-    "#DışPolitika"
+    "#DışPolitika",
+    "#İnsanHaklarıVeHukuk"
    ]
   },
   "8-ilde-yasa-disi-bahis-operasyonu": {
@@ -1599,11 +1602,11 @@
   },
   "istanbul-bogazi-nda-gemi-arizasi": {
    "title_tr": "İstanbul Boğazı'nda gemi arızası",
-   "title_en": "Ship Failure in the Bosphorus",
-   "summary_tr": "İstanbul Boğazı'nda arızalanan tanker, ekiplerin müdahalesiyle çekilerek gemi trafiği yeniden açıldı.",
-   "summary_en": "The tanker that broke down in the Bosphorus was towed away with the intervention of teams, and the ship traffic was reopened.",
+   "title_en": "Ship malfunction in the Bosphorus",
+   "summary_tr": "İstanbul Boğazı'nda arıza yapan bir gemi sürüklenerek kurtarıldı.",
+   "summary_en": "A ship that malfunctioned in the Bosphorus drifted and was rescued.",
    "tags": [
-    "#ÇevreVeİklim"
+    "#YerelYönetimler"
    ]
   },
   "kahramanmaras-ta-trafik-kazasi": {
@@ -1675,8 +1678,8 @@
   "suudi-arabistan-a-yonelik-saldirilar-ve-diplomatik-temaslar": {
    "title_tr": "Suudi Arabistan'a yönelik saldırılar ve diplomatik temaslar",
    "title_en": "Attacks on Saudi Arabia and diplomatic contacts",
-   "summary_tr": "Suudi Arabistan'daki Aramco tesislerine yönelik saldırı uyarıları ve gerçekleşen patlamalar sonrası bölgede askeri ve diplomatik hareketlilik yaşandı.",
-   "summary_en": "Military and diplomatic activity in the region followed attack warnings and explosions targeting Aramco facilities in Saudi Arabia.",
+   "summary_tr": "Riyad'da patlama sesleri duyuldu, Yemen ve bölgedeki gerilim üzerine açıklamalar sürüyor.",
+   "summary_en": "Explosion sounds were heard in Riyadh, and statements regarding tension in Yemen and the region continue.",
    "tags": [
     "#DışPolitika",
     "#GüvenlikVeTerör"
@@ -1684,34 +1687,396 @@
   },
   "mersin-buyuksehir-belediye-baskan-vekili-secimi": {
    "title_tr": "Mersin Büyükşehir Belediye Başkan Vekili seçimi",
-   "title_en": "Election of Mersin Metropolitan Municipality Acting Mayor",
-   "summary_tr": "Belediye başkan vekilliği seçimlerine ilişkin yerel siyasi gelişmeler.",
-   "summary_en": "Local political developments regarding acting mayoral elections.",
+   "title_en": "Election of Mersin Metropolitan Municipality Deputy Mayor",
+   "summary_tr": "Mersin Büyükşehir Belediye Başkan Vekilliğine CHP'li Gülşah Yıldırım Genç seçildi.",
+   "summary_en": "Gülşah Yıldırım Genç from CHP was elected Deputy Mayor of Mersin Metropolitan Municipality.",
    "tags": [
     "#YerelYönetimler"
    ]
   },
   "berna-lacin-ve-gazetecilere-yonelik-sorusturmalar": {
    "title_tr": "Berna Laçin ve Gazetecilere yönelik soruşturmalar",
-   "title_en": "Investigations into Berna Lacin and journalists",
-   "summary_tr": "Bazı medya mensupları hakkında sosyal medya paylaşımları nedeniyle soruşturma başlatılması kamuoyunda geniş yer buldu.",
-   "summary_en": "The initiation of investigations into some media members due to social media posts has found wide coverage in the public opinion.",
+   "title_en": "Investigations against journalists and others",
+   "summary_tr": "Gazetecilere yönelik açılan davalar ve tepki çeken adli uygulamalar tartışılmaya devam ediyor.",
+   "summary_en": "Lawsuits against journalists and controversial judicial practices continue to be discussed.",
    "tags": [
-    "#MedyaVeİfadeÖzgürlüğü"
+    "#MedyaVeİfadeÖzgürlüğü",
+    "#AdaletVeYargı"
    ]
   },
   "osman-kavala-nin-yeniden-yargilanma-talebi-reddedildi": {
    "title_tr": "Osman Kavala'nın yeniden yargılanma talebi reddedildi",
-   "title_en": "Osman Kavala's request for retrial denied",
-   "summary_tr": "Mahkeme, AİHM kararlarına rağmen Osman Kavala'nın tahliye ve yeniden yargılanma talebini reddetti.",
-   "summary_en": "The court rejected Osman Kavala's request for release and retrial despite ECHR rulings.",
+   "title_en": "Osman Kavala's retrial request rejected",
+   "summary_tr": "Osman Kavala'nın yeniden yargılanma talebinin reddedilmesi hukuk çevrelerinde tepkiyle karşılandı.",
+   "summary_en": "The rejection of Osman Kavala's retrial request was met with reactions in legal circles.",
    "tags": [
     "#AdaletVeYargı",
     "#İnsanHaklarıVeHukuk"
    ]
+  },
+  "papa-14-leo-nun-saglik-durumu": {
+   "title_tr": "Papa 14. Leo'nun sağlık durumu",
+   "title_en": "Health condition of Pope Leo XIV",
+   "summary_tr": "Ameliyat geçiren Papa 14. Leo'ya akciğer kanseri tanısı kondu.",
+   "summary_en": "Pope Leo XIV, who underwent surgery, has been diagnosed with lung cancer.",
+   "tags": [
+    "#Sağlık"
+   ]
+  },
+  "izmir-de-gida-zehirlenmesi-suphesi": {
+   "title_tr": "İzmir’de gıda zehirlenmesi şüphesi",
+   "title_en": "Food poisoning suspicion in İzmir",
+   "summary_tr": "İzmir'de bir yemek firmasından kaynaklandığı şüphelenilen olayda çok sayıda işçi zehirlendi.",
+   "summary_en": "Many workers were poisoned in an incident in İzmir suspected to be from a catering company.",
+   "tags": [
+    "#Sağlık",
+    "#EmekVeÇalışmaHayatı"
+   ]
+  },
+  "4-meslek-grubuna-yesil-pasaport-teklifi": {
+   "title_tr": "4 meslek grubuna yeşil pasaport teklifi",
+   "title_en": "Green passport proposal for 4 professional groups",
+   "summary_tr": "TBMM'ye bazı meslek grupları için yeşil pasaport verilmesini öngören teklifler sunuldu.",
+   "summary_en": "Proposals were submitted to the Turkish Parliament to grant green passports to certain professional groups.",
+   "tags": [
+    "#AnayasaVeMeclis"
+   ]
   }
  },
  "articles": [
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-14T02:10:58Z",
+   "title": "Kırmızı bültenle aranan cinayet şüphelisi Mardin’de yakalandı",
+   "link": "https://www.cnnturk.com/yerel-haberler/mardin/kirmizi-bultenle-aranan-cinayet-suphelisi-mardinde-yakalandi-3478973",
+   "image": "",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-14T02:10:58Z",
+   "title": "Osmaniye'de düzenlenen fuhuş operasyonunda yakalanan 8 zanlı tutuklandı",
+   "link": "https://www.cnnturk.com/yerel-haberler/osmaniye/osmaniyede-duzenlenen-fuhus-operasyonunda-yakalanan-8-zanli-tutuklandi-3478970",
+   "image": "",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-14T02:10:58Z",
+   "title": "İzmir’de gıda zehirlenmesi şüphesi: 80 işçi hastane kaldırıldı",
+   "link": "https://www.cnnturk.com/yerel-haberler/izmir/kemalpasa/izmirde-gida-zehirlenmesi-suphesi-80-isci-hastane-kaldirildi-3478971",
+   "image": "",
+   "story": "izmir-de-gida-zehirlenmesi-suphesi"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-14T02:10:57Z",
+   "title": "Almanya'daki cinayete ilişkin aranan şüpheli Mardin'de yakalandı",
+   "link": "https://www.cnnturk.com/yerel-haberler/mardin/almanyadaki-cinayete-iliskin-aranan-supheli-mardinde-yakalandi-3478975",
+   "image": "",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-14T02:10:49Z",
+   "title": "Balıkesir’de narkotik ve kaçak silah operasyonu: 20 gözaltı",
+   "link": "https://www.cnnturk.com/yerel-haberler/balikesir/balikesirde-narkotik-ve-kacak-silah-operasyonu-20-gozalti-3478981",
+   "image": "",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-14T02:10:49Z",
+   "title": "Eskişehir’de çıkan silahlı kavgada 1 kişi yaralandı, 2 kişi tutuklandı",
+   "link": "https://www.cnnturk.com/yerel-haberler/eskisehir/eskisehirde-cikan-silahli-kavgada-1-kisi-yaralandi-2-kisi-tutuklandi-3478978",
+   "image": "",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-14T02:10:49Z",
+   "title": "Manisa’da 57 bin sentetik ecza ele geçirildi; 2 tutuklama",
+   "link": "https://www.cnnturk.com/yerel-haberler/manisa/manisada-57-bin-sentetik-ecza-ele-gecirildi-2-tutuklama-3478977",
+   "image": "",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-14T02:10:46Z",
+   "title": "Eskişehir’de pompalı tüfekle yaralamaya 2 tutuklama",
+   "link": "https://www.cnnturk.com/yerel-haberler/eskisehir/eskisehirde-pompali-tufekle-yaralamaya-2-tutuklama-3478983",
+   "image": "",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-14T02:10:46Z",
+   "title": "Balıkesir’de narkotik ve kaçak silah operasyonu: 20 gözaltı",
+   "link": "https://www.cnnturk.com/yerel-haberler/balikesir/balikesirde-narkotik-ve-kacak-silah-operasyonu-20-gozalti-3478982",
+   "image": "",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-14T02:10:46Z",
+   "title": "İstanbul Boğazı'nda sürüklenen gemi kurtarıldı",
+   "link": "https://www.cnnturk.com/yerel-haberler/istanbul/istanbul-bogazinda-suruklenen-gemi-kurtarildi-3478984",
+   "image": "",
+   "story": "istanbul-bogazi-nda-gemi-arizasi"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-14T02:10:45Z",
+   "title": "DMM'den TSK'nın Resulayn'da dönüşleri engellediği iddiasına yalanlama",
+   "link": "https://www.cnnturk.com/yerel-haberler/ankara/dmmden-tsknin-resulaynda-donusleri-engelledigi-iddiasina-yalanlama-3478986",
+   "image": "",
+   "story": "terorle-mucadele-ve-operasyonlar"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-14T01:01:54Z",
+   "title": "Vatikan'dan beklenen açıklama! Papa'nın sağlık durumu nasıl?",
+   "link": "https://www.cnnturk.com/dunya/vatikandan-beklenen-aciklama-papanin-saglik-durumu-nasil-3478964",
+   "image": "",
+   "story": "papa-14-leo-nun-saglik-durumu"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-14T01:00:03Z",
+   "title": "AKP’den gazeteciler ve muhalefete fon davası",
+   "link": "https://www.sozcu.com.tr/akp-den-gazeteciler-ve-muhalefete-fon-davasi-p368927",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/812jpg-KhD_V4zzI0CTpdFpnHIjUg.jpg",
+   "story": "berna-lacin-ve-gazetecilere-yonelik-sorusturmalar"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T01:00:00Z",
+   "title": "FETÖ’nün emanetçileri fon krizinin neresinde?",
+   "link": "https://www.yenisafak.com/yazarlar/huseyin-likoglu/fetonun-emanetcileri-fon-krizinin-neresinde-4864090",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/1a641fa2-fetonun-emanetcileri-fon-krizinin-neresinde.webp",
+   "story": "ticaret-bakani-omer-bolat-hakkindaki-fon-iddialari"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T01:00:00Z",
+   "title": "Fon düzenlemesi bugün TBMM Plan ve Bütçe Komisyonu’nda görüşülecek: Teklifte soru işaretleri",
+   "link": "https://www.cumhuriyet.com.tr/turkiye/fon-duzenlemesi-bugun-tbmm-plan-ve-butce-komisyonu-nda-gorusulecek-teklifte-soru-isaretleri-2546505",
+   "image": "https://media.cumhuriyet.com.tr/Archive/094b1187-7667-4376-84cf-6c9511e3bfde.jpg",
+   "story": "ticaret-bakani-omer-bolat-hakkindaki-fon-iddialari"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T01:00:00Z",
+   "title": "Asrın fon vurgunu adım adım geldi!",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/miyase-ilknur/asrin-fon-vurgunu-adim-adim-geldi-2546527",
+   "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar194_cover.jpeg",
+   "story": "ticaret-bakani-omer-bolat-hakkindaki-fon-iddialari"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T01:00:00Z",
+   "title": "Asrın soygununa karışanları açıklayın!",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/zulal-kalkandelen/asrin-soygununa-karisanlari-aciklayin-2546473",
+   "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar381_cover.jpeg",
+   "story": "ticaret-bakani-omer-bolat-hakkindaki-fon-iddialari"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T01:00:00Z",
+   "title": "Nobel’in Gazze’ye uzanan yolu ve İsrail’in kaybettiği dokunulmazlık",
+   "link": "https://www.yenisafak.com/yazarlar/yasin-aktay/nobelin-gazzeye-uzanan-yolu-ve-israilin-kaybettigi-dokunulmazlik-4864089",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/5c6215e0-nobelin-gazzeye-uzanan-yolu-ve-israilin-kaybettigi.webp",
+   "story": "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T01:00:00Z",
+   "title": "İmamoğlu için hesap verme günü",
+   "link": "https://www.yenisafak.com/gundem/imamoglu-icin-hesap-verme-gunu-4864100",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/fe4e119f-imamoglu-icin-hesap-verme-gunu.webp",
+   "story": "imamoglu-ve-ibb-durusmalari"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T01:00:00Z",
+   "title": "Anketler Trump’ı Rusya yaptırımlarını delmeye zorluyor",
+   "link": "https://www.yenisafak.com/yazarlar/kadir-ustun/anketler-trumpi-rusya-yaptirimlarini-delmeye-zorluyor-4864092",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/9f00554e-anketler-trumpi-rusya-yaptirimlarini-delmeye-zorluyor.webp",
+   "story": "trump-ile-uluslararasi-iliskiler-ve-bolgesel-guvenlik"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T01:00:00Z",
+   "title": "Trump'tan tuhaf itiraf: İranlı liderleri öldürdük konuşacağımız kimse kalmadı",
+   "link": "https://www.yenisafak.com/dunya/trumptan-tuhaf-itiraf-iranli-liderleri-oldurduk-konusacagimiz-kimse-kalmadi-4864099",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/0a569982-trumptan-tuhaf-itiraf-iranli-liderleri-oldurduk.webp",
+   "story": "trump-ile-uluslararasi-iliskiler-ve-bolgesel-guvenlik"
+  },
+  {
+   "source": "Halk TV",
+   "group": "opposition",
+   "published": "2026-10-14T00:52:41Z",
+   "title": "İkisinin de seçimleri yaklaşıyor: Trump ve Netanyahu'dan sandık gelmeden savaş planı",
+   "link": "https://halktv.com.tr/dunya/ikisinin-de-secimleri-yaklasiyor-trump-ve-netanyahudan-sandik-gelmeden-savas-plani-1061567h",
+   "image": "https://img.halktv.com.tr/2/150/84/storage/files/images/2026/08/01/trump-netanyahu-mnmu.jpg",
+   "story": "trump-ile-uluslararasi-iliskiler-ve-bolgesel-guvenlik"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-14T00:38:51Z",
+   "title": "Okan Buruk: İkinci yarıda erken goller koparttı bizi",
+   "link": "https://www.cnnturk.com/spor/futbol/okan-buruk-ikinci-yarida-erken-goller-kopartti-bizi-3478962",
+   "image": "",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-14T00:37:27Z",
+   "title": "Eskişehir’de pompalı tüfekle yaralamaya 2 tutuklama",
+   "link": "https://www.yenicaggazetesi.com/eskisehirde-pompali-tufekle-yaralamaya-2-tutuklama-1082020h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/14/eskisehirde-pompali-tufekle-yaralamaya-2-tutuklama-hpem.jpg",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-14T00:27:05Z",
+   "title": "Uğurcan Çakır: Barcelona dünyanın en formda takımı",
+   "link": "https://www.cnnturk.com/spor/futbol/ugurcan-cakir-barcelona-dunyanin-en-formda-takimi-3478957",
+   "image": "",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "NTV",
+   "group": "independent",
+   "published": "2026-10-14T00:20:59Z",
+   "title": "Tartıştığı babasını öldürüp, intihar girişiminde bulundu",
+   "link": "https://www.ntv.com.tr/turkiye/babasini-oldurup-intihar-girisiminde-bulundu-1746208",
+   "image": "https://images.ntv.com.tr/images/AW809369_01-783623.jpg",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "NTV",
+   "group": "independent",
+   "published": "2026-10-14T00:17:36Z",
+   "title": "İstanbul Boğazı'nda gemi arızası. Sürüklenerek ters döndü",
+   "link": "https://www.ntv.com.tr/turkiye/istanbul-bogazinda-gemi-arizasi-suruklenerek-ters-dondu-1746207",
+   "image": "https://images.ntv.com.tr/images/AW809342_01-589284.jpg",
+   "story": "istanbul-bogazi-nda-gemi-arizasi"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-14T00:06:00Z",
+   "title": "Galatasaray 1-4 Barcelona Maç Özeti | Temsilcimiz, sahasında mağlup",
+   "link": "https://www.cnnturk.com/spor/futbol/live-galatasaray-1-4-barcelona-mac-ozeti-temsilcimiz-sahasinda-maglup-3478552",
+   "image": "",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-13T23:58:06Z",
+   "title": "DEAŞ şüphelilerinin ters kelepçe görüntülerine soruşturma",
+   "link": "https://www.yenicaggazetesi.com/deas-suphelilerinin-ters-kelepce-goruntulerine-sorusturma-1082015h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/14/deas-suphelilerinin-ters-kelepce-goruntulerine-sorusturma-2pb5.jpg",
+   "story": "berna-lacin-ve-gazetecilere-yonelik-sorusturmalar"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-13T23:57:36Z",
+   "title": "GALATASARAY BARCELONA MAÇI KAÇ KAÇ BİTTİ? Galatasaray Barcelona maç özeti",
+   "link": "https://www.cnnturk.com/spor/futbol/galatasaray-barcelona-maci-kac-kac-bitti-galatasaray-barcelona-mac-ozeti-3478866",
+   "image": "",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-13T23:49:03Z",
+   "title": "Barcelona'ya 4-1 kaybeden Galatasaray'a bir kötü haber daha! Lucas Torreira sakatlandı",
+   "link": "https://www.sozcu.com.tr/barcelona-ya-4-1-kaybeden-galatasaray-a-bir-kotu-haber-daha-lucas-torreira-sakatlandi-p368923",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ekran-resmi-20261014-023628png-ZaojVO9QwEq0OMTDaRPlHQ.png",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-13T23:43:00Z",
+   "title": "Kırmızı bültenle aranıyordu! Mardin'de yakalandı",
+   "link": "https://www.cnnturk.com/turkiye/kirmizi-bultenle-araniyordu-mardinde-yakalandi-3478954",
+   "image": "",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "Halk TV",
+   "group": "opposition",
+   "published": "2026-10-13T23:31:05Z",
+   "title": "Kayseri'de evlat dehşeti: Babasını katletti intihara girişti",
+   "link": "https://halktv.com.tr/turkiye/kayseride-evlat-dehseti-babasini-katletti-intihara-giristi-1061565h",
+   "image": "https://img.halktv.com.tr/2/150/84/storage/files/images/2026/10/14/polis-pmda.jpg",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-13T23:30:24Z",
+   "title": "Hansi Flick: 'Mayıs ayında kupalar kazanılıyor'",
+   "link": "https://www.sozcu.com.tr/hansi-flick-mayis-ayinda-kupalar-kazaniliyor-p368922",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/aa202610134274747042747469galatasaraybarcelonajpg-zO7AiHTj_kabciXWVm6loQ.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Milliyet",
+   "group": "progov",
+   "published": "2026-10-13T23:28:34Z",
+   "title": "Yer: Kayseri! Tartıştığı babasını öldürdü",
+   "link": "https://www.milliyet.com.tr/gundem/yer-kayseri-tartistigi-babasini-oldurdu-7679154",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6acebe85f15b2619d4a3d9b6.jpg",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-13T23:25:29Z",
+   "title": "Okan Buruk: 'Maç ellerimizden gitti'",
+   "link": "https://www.sozcu.com.tr/okan-buruk-mac-ellerimizden-gitti-p368921",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/aa202610134274739842747392galatasaraybarcelonajpg-N-fA1RNM9kaNj8IoFEcGAA.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-13T23:25:13Z",
+   "title": "Kayseri'de aile faciası: Babasını bıçaklayarak öldürdü, ardından intihara kalkıştı",
+   "link": "https://www.karar.com/guncel-haberler/kayseride-aile-faciasi-babasini-bicaklayarak-oldurdu-ardindan-intihara-2078226",
+   "image": "https://cdn.karar.com/news/1941849.jpg",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
   {
    "source": "CNN Türk",
    "group": "progov",
@@ -1731,6 +2096,69 @@
    "story": "suudi-arabistan-a-yonelik-saldirilar-ve-diplomatik-temaslar"
   },
   {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-13T23:02:00Z",
+   "title": "Kayseri'de bir kişi babasını öldürüp intihara kalkıştı",
+   "link": "https://haberglobal.com/gundem/kayseride-bir-kisi-babasini-oldurup-intihara-kalkisti-548578",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/14/kayseride-bir-kisi-babasini-oldurup-intihara-kalkisti-r1dp.jpg",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-13T23:00:52Z",
+   "title": "Kayseri'de kan donduran cinayet: Önce babasını öldürdü sonra kendi canına kıydı",
+   "link": "https://www.yenicaggazetesi.com/kayseride-kan-donduran-cinayet-once-babasini-oldurdu-sonra-kendi-canina-kiydi-1082010h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/14/kayseride-kan-donduran-cinayet-once-babasini-oldurdu-sonra-kendi-canina-kiydi-i5ex.jpg",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "Habertürk",
+   "group": "progov",
+   "published": "2026-10-13T22:51:11Z",
+   "title": "İki ilde uyuşturucu operasyonu: 6 tutuklama",
+   "link": "https://www.haberturk.com/gundem/aydin-ve-izmir-de-uyusturucu-operasyonu-6-tutuklama-3919518",
+   "image": "https://im.haberturk.com/l/2026/10/14/ver1791931841/3919518/jpg/1920x1080",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "Ekonomim",
+   "group": "independent",
+   "published": "2026-10-13T22:49:00Z",
+   "title": "İstanbul Boğazı’nda 147 metrelik gemi sürüklendi: Ekipler kurtardı",
+   "link": "https://www.ekonomim.com/gundem/istanbul-bogazinda-147-metrelik-gemi-suruklendi-ekipler-kurtardi-haberi-924513",
+   "image": "https://img.ekonomim.com/storage/files/images/2026/10/14/istanbul-bogazinda-147-metrelik-gemi-suruklendi-ekipler-kurtardi-xlwh_cover.jpg",
+   "story": "istanbul-bogazi-nda-gemi-arizasi"
+  },
+  {
+   "source": "Star",
+   "group": "progov",
+   "published": "2026-10-13T22:45:00Z",
+   "title": "Lamine Yamal'dan Galatasaray maçı sonrası dikkat çeken sözler!",
+   "link": "https://www.star.com.tr/spor/lamine-yamaldan-galatasaray-maci-sonrasi-dikkat-ceken-sozler-haber-2046432/",
+   "image": "https://imgs.star.com.tr/imgsdisk/2026/10/14/lamine-yamaldan-galatasar-963.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-13T22:41:00Z",
+   "title": "Lamine Yamal'dan RAMS Park atmosferine övgü!",
+   "link": "https://www.aksam.com.tr/spor/lamine-yamaldan-rams-park-atmosferine-ovgu/haber-1705985",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/14/lamine-yamaldan-rams-park-695_2.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-13T22:40:00Z",
+   "title": "Okan Buruk: Maç 3-1'den sonra elimizden gitti",
+   "link": "https://www.karar.com/spor-haberleri/okan-buruktan-mac-3-1den-sonra-elimizden-gitti-2078225",
+   "image": "https://cdn.karar.com/news/1941848.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
    "source": "CNN Türk",
    "group": "progov",
    "published": "2026-10-13T22:37:35Z",
@@ -1740,6 +2168,249 @@
    "story": "sigara-satisinda-t-c-kimlik-sarti"
   },
   {
+   "source": "Star",
+   "group": "progov",
+   "published": "2026-10-13T22:37:00Z",
+   "title": "Fermin Lopez: Maçı çok iyi kontrol etmeyi başardık",
+   "link": "https://www.star.com.tr/spor/fermin-lopez-maci-cok-iyi-kontrol-etmeyi-basardik-haber-2046431/",
+   "image": "https://imgs.star.com.tr/imgsdisk/2026/10/14/fermin-lopez-maci-cok-iyi-812.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Star",
+   "group": "progov",
+   "published": "2026-10-13T22:36:00Z",
+   "title": "Okan Buruk'tan Barcelona itirafı! \"Bizi erken goller kopardı\"",
+   "link": "https://www.star.com.tr/spor/okan-buruktan-barcelona-itirafi-bizi-erken-goller-kopardi-haber-2046426/",
+   "image": "https://imgs.star.com.tr/imgsdisk/2026/10/14/okan-buruktan-barcelona-i-878.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Star",
+   "group": "progov",
+   "published": "2026-10-13T22:33:00Z",
+   "title": "Galatasaray - Barcelona maçına basın mensuplarından yoğun ilgi",
+   "link": "https://www.star.com.tr/spor/galatasaray-barcelona-macina-basin-mensuplarindan-yogun-ilgi-haber-2046430/",
+   "image": "https://imgs.star.com.tr/imgsdisk/2026/10/14/galatasaray-barcelona-mac-457.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Star",
+   "group": "progov",
+   "published": "2026-10-13T22:33:00Z",
+   "title": "Suudi destekli operasyon sürüyor... Yemen Başkanlık Konseyi'nden Husilere karşı kararlılık mesajı",
+   "link": "https://www.star.com.tr/dunya/suudi-destekli-operasyon-suruyor-yemen-baskanlik-konseyinden-husilere-karsi-kararlilik-mesaji-haber-2046429/",
+   "image": "https://imgs.star.com.tr/imgsdisk/2026/10/14/suudi-destekli-operasyon--913.jpg",
+   "story": "suudi-arabistan-a-yonelik-saldirilar-ve-diplomatik-temaslar"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-13T22:32:00Z",
+   "title": "Pedri: Bence inanılmazdık",
+   "link": "https://www.aksam.com.tr/spor/pedri-bence-inanilmazdik/haber-1705984",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/14/pedri-bence-inanilmazdik-107_2.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-13T22:27:00Z",
+   "title": "Aslan'ın hayalini Yamal Barça'ladı",
+   "link": "https://www.aksam.com.tr/spor/aslanin-hayalini-yamal-barcaladi/haber-1705982",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/14/aslanin-hayalini-yamal-ba-610_2.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-13T22:23:00Z",
+   "title": "‘Ankara Abisi’ lakabıyla bilinen Yasin Oyanık tutuklandı",
+   "link": "https://www.birgun.net/haber/ankara-abisi-lakabiyla-bilinen-yasin-oyanik-tutuklandi-740277",
+   "image": "https://static.birgun.net/resim/haber/2026/10/14/ankara-abisi-lakabiyla-bilinen-yasin-oyanik-tutuklandi.jpg",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "Halk TV",
+   "group": "opposition",
+   "published": "2026-10-13T22:19:00Z",
+   "title": "Son Dakika | Damal Belediye Başkanı dahil 10 kişi tutuklandı",
+   "link": "https://halktv.com.tr/turkiye/son-dakika-damal-belediye-baskani-dahil-10-kisi-tutuklandi-1061563h",
+   "image": "https://img.halktv.com.tr/2/150/84/storage/files/images/2026/10/06/son-dk-b0ai.jpg",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-13T22:15:04Z",
+   "title": "Suudi Arabistan Enerji Bakanlığı: Aramco'nun Zahran’daki idari binası hedef alındı",
+   "link": "https://www.aa.com.tr/tr/live-blog/suudi-arabistan-enerji-bakanligi-aramconun-zahran-daki-idari-binasi-hedef-alindi/6869",
+   "image": "",
+   "story": "suudi-arabistan-a-yonelik-saldirilar-ve-diplomatik-temaslar"
+  },
+  {
+   "source": "Habertürk",
+   "group": "progov",
+   "published": "2026-10-13T22:14:26Z",
+   "title": "Ardahan merkezli rüşvet operasyonu: 10 tutuklama",
+   "link": "https://www.haberturk.com/gundem/ardahan-merkezli-rusvet-operasyonu-10-tutuklama-3919513",
+   "image": "https://im.haberturk.com/l/2026/10/14/ver1791929658/3919513/jpg/1920x1080",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-13T22:07:00Z",
+   "title": "İHD’den Osman Kavala kararına tepki: Kavala kararı hukuk devletinin sınavıdır",
+   "link": "https://www.evrensel.net/haber/6004820/ihdden-osman-kavala-kararina-tepki-kavala-karari-hukuk-devletinin-sinavidir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/197339.jpg",
+   "story": "osman-kavala-nin-yeniden-yargilanma-talebi-reddedildi"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-13T22:07:00Z",
+   "title": "Axios'un iddiası: Trump ve Netanyahu seçim öncesinde İran'a saldırı ihtimalini görüştü",
+   "link": "https://www.birgun.net/haber/axios-un-iddiasi-trump-ve-netanyahu-secim-oncesinde-iran-a-saldiri-ihtimalini-gorustu-740275",
+   "image": "https://static.birgun.net/resim/haber/2026/10/14/axios-un-iddiasi-trump-ve-netanyahu-secim-oncesinde-iran-a-saldiri-ihtimalini-gorustu.jpg",
+   "story": "trump-ile-uluslararasi-iliskiler-ve-bolgesel-guvenlik"
+  },
+  {
+   "source": "Dünya Gazetesi",
+   "group": "independent",
+   "published": "2026-10-13T22:00:00Z",
+   "title": "İstanbul Boğazı'nda arıza yaşayan gemi sürüklenerek ters döndü",
+   "link": "https://www.dunya.com/gundem/istanbul-bogazinda-ariza-yasayan-gemi-suruklenerek-ters-dondu-haberi-843776",
+   "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/14/gemi-lpix_cover.jpg",
+   "story": "istanbul-bogazi-nda-gemi-arizasi"
+  },
+  {
+   "source": "Star",
+   "group": "progov",
+   "published": "2026-10-13T21:58:00Z",
+   "title": "Hansi Flick: Lamine Yamal inanılmaz bir oyuncu",
+   "link": "https://www.star.com.tr/spor/hansi-flick-lamine-yamal-inanilmaz-bir-oyuncu-haber-2046427/",
+   "image": "https://imgs.star.com.tr/imgsdisk/2026/10/14/hansi-flick-lamine-yamal--770.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-13T21:58:00Z",
+   "title": "Hansi Flick'ten galibiyet sözleri: 'Bu stadyumda oynamak kolay değildi'",
+   "link": "https://www.cumhuriyet.com.tr/spor/hansi-flick-ten-galibiyet-sozleri-bu-stadyumda-oynamak-kolay-degildi-2546528",
+   "image": "https://media.cumhuriyet.com.tr/Archive/d59e0b77-d027-470b-88d0-3b721722e2f3.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-13T21:57:50Z",
+   "title": "Papa 14. Leo'ya akciğer kanseri tanısı kondu",
+   "link": "https://www.yenicaggazetesi.com/papa-14-leoya-akciger-kanseri-tanisi-kondu-1082004h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/14/papa-14-leoya-akciger-kanseri-tanisi-kondu-4r9t.jpg",
+   "story": "papa-14-leo-nun-saglik-durumu"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-13T21:57:00Z",
+   "title": "Hansi Flick'ten çarpıcı yorum! \"Bu stadyumda oynamak kolay değildi\"",
+   "link": "https://www.aksam.com.tr/spor/hansi-flickten-carpici-yorum-bu-stadyumda-oynamak-kolay-degildi/haber-1705981",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/14/hansi-flickten-carpici-yo-681_2.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Milliyet",
+   "group": "progov",
+   "published": "2026-10-13T21:56:04Z",
+   "title": "Ardahan merkezli rüşvet operasyonu! Damal Belediye Başkanı Kemal Çamlıyurt dahil 10 şüpheli tutuklandı",
+   "link": "https://www.milliyet.com.tr/gundem/ardahan-merkezli-rusvet-operasyonu-damal-belediye-baskani-kemal-camliyurt-dahil-10-supheli-tutuklandi-7679085",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6acea894ad4ceab0d14fd61e.jpg",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-13T21:56:00Z",
+   "title": "Damal Belediye Başkanı Kemal Çamlıyurt dahil 10 kişi tutuklandı",
+   "link": "https://www.cumhuriyet.com.tr/turkiye/damal-belediye-baskani-kemal-camliyurt-dahil-10-kisi-tutuklandi-2546526",
+   "image": "https://media.cumhuriyet.com.tr/Archive/c8f246f0-0341-4115-b9a8-eebe2e178cb9.jpg",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-13T21:56:00Z",
+   "title": "İsrail'in 'Kanatlı' truva atı",
+   "link": "https://www.aksam.com.tr/dunya/israilin-kanatli-truva-ati/haber-1705980",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/14/israilin-kanatli-truva-at-785_2.jpg",
+   "story": "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-13T21:54:22Z",
+   "title": "Eric Garcia'dan Galatasaray itirafı: 'İlk dakikalar çok zordu'",
+   "link": "https://www.yenicaggazetesi.com/eric-garciadan-galatasaray-itirafi-ilk-dakikalar-cok-zordu-1082003h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/14/eric-garciadan-galatasaray-itirafi-ilk-dakikalar-cok-zordu-j45y.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-13T21:53:42Z",
+   "title": "ABD, Gazze'nin askerden arındırılmasında \"gerçek ilerleme\" kaydedildiğini bildirdi",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-gazzenin-askerden-arindirilmasinda-gercek-ilerleme-kaydedildigini-bildirdi/4087910",
+   "image": "",
+   "story": "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler"
+  },
+  {
+   "source": "Gazete Pencere",
+   "group": "independent",
+   "published": "2026-10-13T21:52:05Z",
+   "title": "İspanyol  basını Lemina'yı hedef aldı: 'Artık Yamal'ın kim olduğunu biliyor'",
+   "link": "https://www.gazetepencere.com/spor/ispanyol-basini-leminayi-hedef-aldi-artik-yamalin-kim-oldugunu-biliyor-719150h",
+   "image": "https://cdn.gazetepencere.com/news/206655.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-13T21:51:09Z",
+   "title": "Hansi Flick'ten Galatasaray maçı sonrası Yamal sözleri: 'İnanılmaz bir oyuncu'",
+   "link": "https://www.yenicaggazetesi.com/hansi-flickten-galatasaray-maci-sonrasi-yamal-sozleri-inanilmaz-bir-oyuncu-1082001h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/14/hansi-flickten-galatasaray-maci-sonrasi-yamal-sozleri-inanilmaz-bir-oyuncu-wqsb.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-13T21:51:00Z",
+   "title": "Fermin Lopez: Geri dönmeyi başardık",
+   "link": "https://www.aksam.com.tr/spor/fermin-lopez-geri-donmeyi-basardik/haber-1705979",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/14/fermin-lopez-geri-donmeyi-928_2.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-13T21:51:00Z",
+   "title": "Okan Buruk mağlubiyetin nedenlerini açıkladı: 'Baskı yapıyoruz ama...'",
+   "link": "https://www.cumhuriyet.com.tr/spor/okan-buruk-maglubiyetin-nedenlerini-acikladi-baski-yapiyoruz-ama-2546524",
+   "image": "https://media.cumhuriyet.com.tr/Archive/340ebb41-bc90-40bf-b439-664a9e8f8dd6.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-13T21:50:45Z",
+   "title": "Yemen Başkanlık Konseyi Başkanı: Yemen Şafağı operasyonu Suudi Arabistan'ın desteğiyle hedefine ilerliyor",
+   "link": "https://www.aa.com.tr/tr/dunya/yemen-baskanlik-konseyi-baskani-yemen-safagi-operasyonu-suudi-arabistanin-destegiyle-hedefine-ilerliyor/4087905",
+   "image": "",
+   "story": "suudi-arabistan-a-yonelik-saldirilar-ve-diplomatik-temaslar"
+  },
+  {
    "source": "CNN Türk",
    "group": "progov",
    "published": "2026-10-13T21:49:21Z",
@@ -1747,6 +2418,42 @@
    "link": "https://www.cnnturk.com/turkiye/mhp-lideri-devlet-bahceli-tff-baskani-haciosmanoglunu-kabul-etti-3478892",
    "image": "",
    "story": "mhp-lideri-bahceli-ve-kemal-kilicdaroglu-gorusmesi"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-13T21:48:00Z",
+   "title": "Galatasaray - Barcelona maçına basından yoğun ilgi",
+   "link": "https://www.aksam.com.tr/spor/galatasaray-barcelona-macina-basindan-yogun-ilgi/haber-1705978",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/14/galatasaray-barcelona-mac-695_2.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Hürriyet",
+   "group": "progov",
+   "published": "2026-10-13T21:47:00Z",
+   "title": "Okan Buruk: 2-0 olsa yükseleceğimiz maç olabilirdi",
+   "link": "https://www.hurriyet.com.tr/sporarena/okan-buruk-2-0-olsa-yukselecegimiz-mac-olabilirdi-43340636",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6acea6a722393fcfc7d3a166.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Ekonomim",
+   "group": "independent",
+   "published": "2026-10-13T21:47:00Z",
+   "title": "Ameliyat olmuştu: Papa 14. Leo'nun hastalığı belli oldu",
+   "link": "https://www.ekonomim.com/dunya/ameliyat-olmustu-papa-14-leonun-hastaligi-belli-oldu-haberi-924511",
+   "image": "https://img.ekonomim.com/storage/files/images/2026/06/17/papa-abd-iran-mutabakatinin-gercekten-savasa-son-verecek-bir-cozum-olmasini-diliyorum-gurc_cover.jpg",
+   "story": "papa-14-leo-nun-saglik-durumu"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-13T21:46:00Z",
+   "title": "Okan Buruk'tan mağlubiyet açıklaması! \"Erken goller koparttı\"",
+   "link": "https://www.aksam.com.tr/spor/okan-buruktan-maglubiyet-aciklamasi-erken-goller-kopartti/haber-1705977",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/14/okan-buruktan-maglubiyet--934_2.jpg",
+   "story": "galatasaray-barcelona-maci"
   },
   {
    "source": "CNN Türk",
@@ -1803,6 +2510,24 @@
    "story": "trafik-kazalari-ve-guvenlik-onlemleri"
   },
   {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-13T21:45:00Z",
+   "title": "Papa 14. Leo'ya akciğer kanseri tanısı kondu",
+   "link": "https://www.birgun.net/haber/papa-14-leo-ya-akciger-kanseri-tanisi-kondu-740272",
+   "image": "https://static.birgun.net/resim/haber/2026/10/14/papa-14-leo-ya-akciger-kanseri-tanisi-kondu.jpg",
+   "story": "papa-14-leo-nun-saglik-durumu"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-13T21:45:00Z",
+   "title": "Tupac cinayeti davasında Duane “Keffe D” Davis'e 40 yıl hapis",
+   "link": "https://www.evrensel.net/haber/6004818/tupac-cinayeti-davasinda-duane-keffe-d-davise-40-yil-hapis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/366321.jpg",
+   "story": "abd-deki-silahli-saldirilar"
+  },
+  {
    "source": "CNN Türk",
    "group": "progov",
    "published": "2026-10-13T21:44:58Z",
@@ -1830,6 +2555,96 @@
    "story": "trafik-kazalari-ve-guvenlik-onlemleri"
   },
   {
+   "source": "Star",
+   "group": "progov",
+   "published": "2026-10-13T21:44:00Z",
+   "title": "Davinson Sanchez: 2-0 olsa avantajımız olabilirdi",
+   "link": "https://www.star.com.tr/spor/davinson-sanchez-2-0-olsa-avantajimiz-olabilirdi-haber-2046425/",
+   "image": "https://imgs.star.com.tr/imgsdisk/2026/10/14/davinson-sanchez-2-0-olsa-229.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-13T21:44:00Z",
+   "title": "Okan Buruk Barcelona yenilgisinde o hataya dikkat çekti: 'Hiç istemediğim bir şeydi'",
+   "link": "https://www.yenicaggazetesi.com/okan-buruk-barcelona-yenilgisinde-o-hataya-dikkat-cekti-hic-istemedigim-bir-seydi-1081997h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/14/okan-buruk-barcelona-yenilgisinde-o-hataya-dikkat-cekti-hic-istemedim-bir-seydi-jeex.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-13T21:43:00Z",
+   "title": "Evden 2 milyon liralık altın çaldılar: Şüpheli tutuklandı",
+   "link": "https://www.cumhuriyet.com.tr/turkiye/evden-2-milyon-liralik-altin-caldilar-supheli-tutuklandi-2546518",
+   "image": "https://media.cumhuriyet.com.tr/Archive/65c6a6da-a080-43aa-8ceb-99fdd7ce30f2.jpg",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-13T21:41:00Z",
+   "title": "Ameliyat geçiren Papa 14. Leo'ya akciğer kanseri tanısı kondu",
+   "link": "https://haberglobal.com/dunya/ameliyat-geciren-papa-14-leoya-akciger-kanseri-tanisi-kondu-548574",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/14/ameliyat-geciren-papa-14-leoya-akciger-kanseri-tanisi-kondu-isdc.jpg",
+   "story": "papa-14-leo-nun-saglik-durumu"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-13T21:41:00Z",
+   "title": "DMM’den TSK’nin Resulayn’da köylülerin dönüşünü engellediği iddiasına yalanlama",
+   "link": "https://www.cumhuriyet.com.tr/turkiye/dmm-den-tsk-nin-resulayn-da-koylulerin-donusunu-engelledigi-iddiasina-yalanlama-2546517",
+   "image": "https://media.cumhuriyet.com.tr/Archive/22ac1b62-2b14-4102-998f-09723cec2ec6.jpg",
+   "story": "terorle-mucadele-ve-operasyonlar"
+  },
+  {
+   "source": "Halk TV",
+   "group": "opposition",
+   "published": "2026-10-13T21:40:03Z",
+   "title": "Papa Leo'ya kanser teşhisi kondu: Akciğerinden parça alındı",
+   "link": "https://halktv.com.tr/dunya/papa-leoya-kanser-teshisi-kondu-akcigerinden-parca-alindi-1061561h",
+   "image": "https://img.halktv.com.tr/2/150/84/storage/files/images/2026/10/14/papa-k0up.jpg",
+   "story": "papa-14-leo-nun-saglik-durumu"
+  },
+  {
+   "source": "BBC Türkçe",
+   "group": "independent",
+   "published": "2026-10-13T21:39:43Z",
+   "title": "Tupac Shakur cinayetinde 30 yıl sonra ilk mahkumiyet kararı",
+   "link": "https://www.bbc.com/turkce/articles/c30451lp1n9o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b73/live/79965b50-9a89-11f1-b792-a710e56a11dc.jpg",
+   "story": "abd-deki-silahli-saldirilar"
+  },
+  {
+   "source": "A Haber",
+   "group": "progov",
+   "published": "2026-10-13T21:39:14Z",
+   "title": "Borsa İstanbul’da fon ve manipülasyon soruşturması! Ünlü patronlara ve fon yöneticilerine adli tedbir: İşte isim listesi",
+   "link": "https://www.ahaber.com.tr/gundem/2026/10/14/manipulasyon-ve-fon-sorusturmasinda-109-isme-adli-tedbir",
+   "image": "https://iaahbr.tmgrup.com.tr/fa26fd/0/0/0/0/2048/1299?u=https://iahbr.tmgrup.com.tr/2026/10/14/borsa-istanbulda-fon-ve-manipulasyon-sorusturmasi-unlu-patronlara-ve-fon-yoneticilerine-adli-tedbir-iste-isim-1791928684361.jpg",
+   "story": "ticaret-bakani-omer-bolat-hakkindaki-fon-iddialari"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-13T21:39:00Z",
+   "title": "Galatasaraylı oyuncularda 2-0 üzüntüsü: 'Daha farklı olabilirdi'",
+   "link": "https://www.cumhuriyet.com.tr/spor/galatasarayli-oyuncularda-2-0-uzuntusu-daha-farkli-olabilirdi-2546516",
+   "image": "https://media.cumhuriyet.com.tr/Archive/2e9451a4-c4d1-4d34-8c40-173dcc50e7aa.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-13T21:39:00Z",
+   "title": "Ameliyat geçiren Papa 14. Leo'ya akciğer kanseri tanısı kondu",
+   "link": "https://www.aksam.com.tr/dunya/ameliyat-geciren-papa-14-leoya-akciger-kanseri-tanisi-kondu/haber-1705976",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/14/ameliyat-geciren-papa-14--177_2.jpg",
+   "story": "papa-14-leo-nun-saglik-durumu"
+  },
+  {
    "source": "CNN Türk",
    "group": "progov",
    "published": "2026-10-13T21:38:50Z",
@@ -1837,6 +2652,285 @@
    "link": "https://www.cnnturk.com/spor/futbol/galatasaray-barcelona-maci-nereden-izlenir-galatasaray-barcelona-maci-hangi-kanalda-saat-kacta-sifreli-mi-sifresiz-mi-3478866",
    "image": "",
    "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-13T21:37:07Z",
+   "title": "Eski İsrail Stratejik İşler Bakanı, Gazzelilerin nüfusunun arttığını öne sürerek soykırımı inkar etti",
+   "link": "https://www.aa.com.tr/tr/dunya/eski-israil-stratejik-isler-bakani-gazzelilerin-nufusunun-arttigini-one-surerek-soykirimi-inkar-etti/4087894",
+   "image": "",
+   "story": "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-13T21:37:00Z",
+   "title": "İstanbul Cumhuriyet Başsavcılığından fon soruşturmalarına ilişkin açıklama: Yeni bir tedbir kararı bulunmuyor",
+   "link": "https://www.aksam.com.tr/guncel/istanbul-cumhuriyet-bassavciligindan-fon-sorusturmalarina-iliskin-aciklama-yeni-bir-tedbir/haber-1705975",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/14/istanbul-cumhuriyet-bassa-409_2.jpg",
+   "story": "ticaret-bakani-omer-bolat-hakkindaki-fon-iddialari"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-13T21:36:07Z",
+   "title": "İzmir’de 80 işçi hastanelik oldu",
+   "link": "https://www.yenisafak.com/gundem/izmirde-80-isci-hastanelik-oldu-4864080",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/1e4dd997-izmirde-80-isci-hastanelik-oldu.webp",
+   "story": "izmir-de-gida-zehirlenmesi-suphesi"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-13T21:36:00Z",
+   "title": "Davinson Sanchez: Birçok açıdan seviye farkı var",
+   "link": "https://www.aksam.com.tr/spor/davinson-sanchez-bircok-acidan-seviye-farki-var/haber-1705974",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/14/davinson-sanchez-bircok-a-180_2.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-13T21:36:00Z",
+   "title": "Ameliyatı başarılı geçen Papa 14. Leo'ya akciğer kanseri tanısı kondu",
+   "link": "https://www.evrensel.net/haber/6004817/ameliyati-basarili-gecen-papa-14-leoya-akciger-kanseri-tanisi-kondu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/366320.jpg",
+   "story": "papa-14-leo-nun-saglik-durumu"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-13T21:35:00Z",
+   "title": "Tanrıkulu'ndan Osman Kavala kararına tepki: 'AİHM kararlarının gereği yerine getirilmeli'",
+   "link": "https://www.cumhuriyet.com.tr/turkiye/tanrikulu-ndan-osman-kavala-kararina-tepki-aihm-kararlarinin-geregi-yerine-getirilmeli-2546514",
+   "image": "https://media.cumhuriyet.com.tr/Archive/c1b77cbe-11b2-465d-9ce8-1120e069cf5c.jpg",
+   "story": "osman-kavala-nin-yeniden-yargilanma-talebi-reddedildi"
+  },
+  {
+   "source": "Hürriyet",
+   "group": "progov",
+   "published": "2026-10-13T21:33:00Z",
+   "title": "Galatasaray-Barcelona maçının kırılma anı! İptal edilen gol sonrası her şey tersine döndü",
+   "link": "https://www.hurriyet.com.tr/sporarena/galatasaray-barcelona-macinin-kirilma-ani-iptal-edilen-gol-sonrasi-her-sey-tersine-dondu-43340627",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6acea475f54f28064e731673.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Star",
+   "group": "progov",
+   "published": "2026-10-13T21:33:00Z",
+   "title": "Lamine Yamal, Galatasaray - Barcelona maçının yıldızı oldu",
+   "link": "https://www.star.com.tr/spor/lamine-yamal-galatasaray-barcelona-macinin-yildizi-oldu-haber-2046424/",
+   "image": "https://imgs.star.com.tr/imgsdisk/2026/10/14/lamine-yamal-galatasaray--971.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Star",
+   "group": "progov",
+   "published": "2026-10-13T21:33:00Z",
+   "title": "Uluslararası basının \"Resulayn\" oyunu bozuldu: DMM, asılsız iddiayı yalanladı",
+   "link": "https://www.star.com.tr/guncel/uluslararasi-basinin-resulayn-oyunu-bozuldu-dmm-asilsiz-iddiayi-yalanladi-haber-2046423/",
+   "image": "https://imgs.star.com.tr/imgsdisk/2026/10/14/uluslararasi-basinin-resu-728.jpg",
+   "story": "terorle-mucadele-ve-operasyonlar"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-13T21:32:33Z",
+   "title": "Davinson Sanchez: 'Yeniden Galatasaray gibi olmalıyız'",
+   "link": "https://www.yenicaggazetesi.com/davinson-sanchez-yeniden-galatasaray-gibi-olmaliyiz-1081995h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/14/davinson-sanchez-yeniden-galatasaray-gibi-olmaliyiz-8bmg.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-13T21:32:00Z",
+   "title": "Bize her yer Beşiktaş",
+   "link": "https://www.aksam.com.tr/spor/bize-her-yer-besiktas/haber-1705973",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/14/bize-her-yer-besiktas-831_2.jpg",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-13T21:31:00Z",
+   "title": "Avrupa Parlamentosu üyelerinden UCM için yaptırım uyarısı",
+   "link": "https://www.dirilispostasi.com/avrupa-parlamentosu-uyelerinden-ucm-icin-yaptirim-uyarisi",
+   "image": "https://dpcdn.tebilisim.com/crop/1280x720/uploads/2026/10/thumbs-b-c-eb5a4d6301983e01430984e49b7fa82d.webp",
+   "story": "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-13T21:29:00Z",
+   "title": "Uğurcan Çakır: Kafamızı kaldıracağız",
+   "link": "https://www.aksam.com.tr/spor/ugurcan-cakir-kafamizi-kaldiracagiz/haber-1705972",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/14/ugurcan-cakir-kafamizi-ka-406_2.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-13T21:27:00Z",
+   "title": "Leao doğru karar",
+   "link": "https://www.aksam.com.tr/spor/leao-dogru-karar/haber-1705971",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/14/leao-dogru-karar-743_2.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "BBC Türkçe",
+   "group": "independent",
+   "published": "2026-10-13T21:25:34Z",
+   "title": "Papa 14. Leo ameliyat oldu: Kanser nedeniyle akciğerinden parça alındı",
+   "link": "https://www.bbc.com/turkce/articles/cm5yn0wpded5o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7cf7/live/6eb780a0-c627-11f1-a509-ab6554d795a2.jpg",
+   "story": "papa-14-leo-nun-saglik-durumu"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-13T21:25:16Z",
+   "title": "Brüksel'de UCM isyanı: 58 milletvekilinden ABD yaptırımlarına karşı koruma çağrısı",
+   "link": "https://www.yenisafak.com/dunya/brukselde-ucm-isyani-58-milletvekilinden-abd-yaptirimlarina-karsi-koruma-cagrisi-4864076",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/50b6a3e1-ap-uyelerinden-ucmyi-abd-yaptirimlarina-karsi-koruma.webp",
+   "story": "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-13T21:25:00Z",
+   "title": "Büyük fiyasko",
+   "link": "https://www.aksam.com.tr/spor/buyuk-fiyasko/haber-1705970",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/14/buyuk-fiyasko-549_2.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-13T21:25:00Z",
+   "title": "Ameliyat olmuştu: Papa 14. Leo'ya akciğer kanseri tanısı kondu",
+   "link": "https://www.cumhuriyet.com.tr/dunya/ameliyat-olmustu-papa-14-leo-ya-akciger-kanseri-tanisi-kondu-2546511",
+   "image": "https://media.cumhuriyet.com.tr/Archive/89f1d8b8-2f94-4c39-872c-d1f3767234e6.jpg",
+   "story": "papa-14-leo-nun-saglik-durumu"
+  },
+  {
+   "source": "Dünya Gazetesi",
+   "group": "independent",
+   "published": "2026-10-13T21:23:00Z",
+   "title": "Papa 14. Leo'ya akciğer kanseri tanısı kondu",
+   "link": "https://www.dunya.com/dunya/papa-14-leoya-akciger-kanseri-tanisi-kondu-haberi-843773",
+   "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/14/papa-w1g9_cover.jpg",
+   "story": "papa-14-leo-nun-saglik-durumu"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-13T21:21:06Z",
+   "title": "Galatasaray'da Torreira sakatlandı: Oyuna devam edemedi",
+   "link": "https://www.yenicaggazetesi.com/galatasarayda-torreira-sakatlandi-oyuna-devam-edemedi-1081992h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/14/galatasarayda-torreira-sakatlandi-oyuna-devam-edemedi-mcub.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-13T21:20:00Z",
+   "title": "Ameliyat geçiren Papa 14. Leo'ya akciğer kanseri tanısı kondu",
+   "link": "https://www.dirilispostasi.com/ameliyat-geciren-papa-14-leoya-akciger-kanseri-tanisi-kondu",
+   "image": "https://dpcdn.tebilisim.com/crop/1280x720/uploads/2026/10/thumbs-b-c-81ae76a83e301b12ba3f9bd7de99005c.webp",
+   "story": "papa-14-leo-nun-saglik-durumu"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-13T21:19:00Z",
+   "title": "Başka bir seviye",
+   "link": "https://www.aksam.com.tr/yazarlar/baska-bir-seviye/haber-1705967",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/01/01/210220191220255418101_2.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-13T21:18:00Z",
+   "title": "Galatasaray'da Batrakov siftah yaptı: İlk golünü Barcelona'ya karşı attı",
+   "link": "https://www.yenicaggazetesi.com/galatasarayda-batrakov-siftah-yapti-ilk-golunu-barcelonaya-karsi-atti-1081989h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/14/batrakov-ilk-golunu-barcelonaya-atti-jvkx.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Milliyet",
+   "group": "progov",
+   "published": "2026-10-13T21:15:45Z",
+   "title": "Papa 14. Leo'ya akciğer kanseri tanısı kondu",
+   "link": "https://www.milliyet.com.tr/dunya/papa-14-leoya-akciger-kanseri-tanisi-kondu-7679062",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ace9f77f15b2619d4a3d972.jpg",
+   "story": "papa-14-leo-nun-saglik-durumu"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-13T21:15:00Z",
+   "title": "Galatasaray'da sakatlık: Oyuna devam edemedi",
+   "link": "https://www.aksam.com.tr/spor/galatasarayda-sakatlik-oyuna-devam-edemedi/haber-1705966",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/14/galatasarayda-sakatlik-oy-608_2.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-13T21:14:35Z",
+   "title": "İran'a karşı teyakkuza geçtiler: Trump'tan Netanyahu'ya 'hazırlan' talimatı",
+   "link": "https://www.yenisafak.com/dunya/irana-karsi-teyakkuza-gectiler-trumptan-netanyahuya-hazirlan-talimati-4864075",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/2d404358-irana-karsi-teyakkuza-gectiler-trumptan-netanyahuya.webp",
+   "story": "trump-ile-uluslararasi-iliskiler-ve-bolgesel-guvenlik"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-13T21:14:00Z",
+   "title": "İzmir’de gıda zehirlenmesi şüphesi: 80 işçi hastanelik oldu",
+   "link": "https://haberglobal.com/gundem/izmirde-gida-zehirlenmesi-suphesi-80-isci-hastanelik-oldu-548571",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/14/izmirde-gida-zehirlenmesi-suphesi-80-isci-hastanelik-oldu-2qwj.jpg",
+   "story": "izmir-de-gida-zehirlenmesi-suphesi"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-13T21:13:58Z",
+   "title": "AP üyelerinden UCM’yi ABD yaptırımlarına karşı koruma çağrısı",
+   "link": "https://www.aa.com.tr/tr/dunya/ap-uyelerinden-ucm-yi-abd-yaptirimlarina-karsi-koruma-cagrisi/4087892",
+   "image": "",
+   "story": "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-13T21:13:14Z",
+   "title": "Ameliyat geçiren Papa 14. Leo'ya akciğer kanseri tanısı kondu",
+   "link": "https://www.aa.com.tr/tr/dunya/ameliyat-geciren-papa-14-leoya-akciger-kanseri-tanisi-kondu/4087891",
+   "image": "",
+   "story": "papa-14-leo-nun-saglik-durumu"
+  },
+  {
+   "source": "Halk TV",
+   "group": "opposition",
+   "published": "2026-10-13T21:10:35Z",
+   "title": "Barcelona'nın 4 golünden daha acı bir gerçek var: Galatasaray neden bu kadar çaresiz kaldı",
+   "link": "https://halktv.com.tr/makale/barcelonanin-4-golunden-daha-aci-bir-gercek-var-galatasaray-neden-bu-kadar-caresiz-kaldi-1061558",
+   "image": "https://img.halktv.com.tr/2/150/84/storage/files/images/2026/10/14/lmg-ua2m.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-13T21:10:00Z",
+   "title": "Şadi Yüksel'in ters kelepçe görüntülerine soruşturma",
+   "link": "https://www.cumhuriyet.com.tr/turkiye/sadi-yuksel-in-ters-kelepce-goruntulerine-sorusturma-2546507",
+   "image": "https://media.cumhuriyet.com.tr/Archive/1cc4a836-27f2-498c-89a7-230999ccc686.jpg",
+   "story": "berna-lacin-ve-gazetecilere-yonelik-sorusturmalar"
   },
   {
    "source": "CNN Türk",
@@ -1848,6 +2942,60 @@
    "story": "terorle-mucadele-ve-operasyonlar"
   },
   {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-13T21:04:40Z",
+   "title": "Galatasaraylı taraftarları korkutan sakatlık: Maça devam edemedi",
+   "link": "https://www.yenisafak.com/spor/galatasarayli-taraftarlari-korkutan-sakatlik-maca-devam-edemedi-4864073",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/108a83c0-galatasarayli-taraftarlari-korkutan-sakatlik-maca-devam.webp",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-13T21:04:00Z",
+   "title": "Marca: Lemina, artık Yamal'ın kim olduğunu biliyor",
+   "link": "https://haberglobal.com/spor/marca-lemina-artik-yamalin-kim-oldugunu-biliyor-548570",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/14/marca-lemina-lamine-yamalin-kim-oldugunu-biliyor-wnnh.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-13T21:04:00Z",
+   "title": "Galatasaray'a kötü haber: Lucas Torreira oyuna devam edemedi!",
+   "link": "https://www.cumhuriyet.com.tr/spor/galatasaray-a-kotu-haber-lucas-torreira-oyuna-devam-edemedi-2546504",
+   "image": "https://media.cumhuriyet.com.tr/Archive/6b2e2baf-108e-43fe-833e-a59ff8ad3c88.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-13T21:04:00Z",
+   "title": "Galatasaray, Barcelona’ya evinde 4-1 kaybetti",
+   "link": "https://www.birgun.net/haber/galatasaray-barcelonaya-evinde-4-1-kaybetti-740260",
+   "image": "https://static.birgun.net/resim/haber/2026/10/14/galatasaray-barcelonaya-evinde-4-1-kaybetti.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-13T21:02:00Z",
+   "title": "Galatasaray, Barcelona'ya 4-1 yenildi",
+   "link": "https://www.dirilispostasi.com/galatasaray-barcelonaya-4-1-yenildi",
+   "image": "https://dpcdn.tebilisim.com/crop/1280x720/uploads/2026/10/thumbs-b-c-04465e478759f0fced9ca9e80a41e4ff.webp",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Ekonomim",
+   "group": "independent",
+   "published": "2026-10-13T21:02:00Z",
+   "title": "Galatasaray, Barcelona'ya diş geçiremedi",
+   "link": "https://www.ekonomim.com/spor/galatasaray-barcelonaya-dis-geciremedi-haberi-924495",
+   "image": "https://img.ekonomim.com/storage/files/images/2026/10/14/galatasaray-barcelonaya-dis-geciremedi-5mbb_cover.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
    "source": "CNN Türk",
    "group": "progov",
    "published": "2026-10-13T21:01:45Z",
@@ -1857,6 +3005,357 @@
    "story": "galatasaray-barcelona-maci"
   },
   {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-13T21:01:11Z",
+   "title": "4 meslek grubuna yeşil pasaport: Teklif Meclis'e sunuldu",
+   "link": "https://www.yenicaggazetesi.com/4-meslek-grubuna-yesil-pasaport-teklif-meclise-sunuldu-1081986h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/14/4-meslek-grubuna-yesil-pasaport-teklif-meclise-sunuldu-qe3y.jpg",
+   "story": "4-meslek-grubuna-yesil-pasaport-teklifi"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-13T21:01:00Z",
+   "title": "Ballı hisse vurguncuları da açıklansın",
+   "link": "https://www.karar.com/guncel-haberler/balli-hisse-vurgunculari-da-aciklansin-2078208",
+   "image": "https://cdn.karar.com/news/1941838.jpg",
+   "story": "ticaret-bakani-omer-bolat-hakkindaki-fon-iddialari"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-13T21:01:00Z",
+   "title": "Bir yolsuzluk hikayesi",
+   "link": "https://www.karar.com/yazarlar/taha-akyol/bir-yolsuzluk-hikayesi-1609478",
+   "image": "https://cdn.karar.com/author/86_b.jpg",
+   "story": "ticaret-bakani-omer-bolat-hakkindaki-fon-iddialari"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-13T21:01:00Z",
+   "title": "AKP vurgun yedi",
+   "link": "https://www.yenicaggazetesi.com/akp-vurgun-yedi-1081934h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/default.png",
+   "story": "ticaret-bakani-omer-bolat-hakkindaki-fon-iddialari"
+  },
+  {
+   "source": "Ekonomim",
+   "group": "independent",
+   "published": "2026-10-13T21:00:00Z",
+   "title": "'Fon krizi' lüks tüketimde ciroya yansımaya başladı",
+   "link": "https://www.ekonomim.com/ekonomi/fon-krizi-luks-tuketimde-ciroya-yansimaya-basladi-haberi-924492",
+   "image": "https://img.ekonomim.com/storage/files/images/2026/10/13/fon-krizi-luks-tuketimde-ciroya-yansimaya-basladi-uuui_cover.jpg",
+   "story": "ticaret-bakani-omer-bolat-hakkindaki-fon-iddialari"
+  },
+  {
+   "source": "Ekonomim",
+   "group": "independent",
+   "published": "2026-10-13T21:00:00Z",
+   "title": "Son rötuşlar yapıldı, 13. Yargı Paketi önümüzdeki günlerde Meclise gelecek",
+   "link": "https://www.ekonomim.com/gundem/son-rotuslar-yapildi-13-yargi-paketi-onumuzdeki-gunlerde-meclise-gelecek-haberi-924486",
+   "image": "https://img.ekonomim.com/storage/files/images/2026/10/13/son-rotuslar-yapildi-13-yargi-paketi-onumuzdeki-gunlerde-meclise-gelecek-ivfi_cover.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Diken",
+   "group": "opposition",
+   "published": "2026-10-13T20:59:08Z",
+   "title": "UEFA Şampiyonlar Ligi: Galatasaray, Barcelona'ya 4-1 mağlup",
+   "link": "https://www.diken.com.tr/uefa-sampiyonlar-ligi-galatasaray-barcelonaya-4-1-maglup/?utm_source=rss&utm_medium=rss&utm_campaign=uefa-sampiyonlar-ligi-galatasaray-barcelonaya-4-1-maglup",
+   "image": "",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-13T20:59:00Z",
+   "title": "Bodrum'da 46 bin sahte ABD doları ele geçirildi",
+   "link": "https://haberglobal.com/gundem/bodrumda-46-bin-sahte-abd-dolari-ele-gecirildi-548569",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/14/bodrumda-46-bin-sahte-abd-dolari-ele-gecirildi-p9lv.jpg",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "Halk TV",
+   "group": "opposition",
+   "published": "2026-10-13T20:58:51Z",
+   "title": "Sağlıkçılar için yeşil pasaport teklifi TBMM'ye sunuldu",
+   "link": "https://halktv.com.tr/turkiye/saglikcilar-icin-yesil-pasaport-teklifi-tbmmye-sunuldu-1061556h",
+   "image": "https://img.halktv.com.tr/2/150/84/storage/files/images/2026/10/13/yesil-pasaport-jnpc.jpg",
+   "story": "4-meslek-grubuna-yesil-pasaport-teklifi"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-13T20:56:26Z",
+   "title": "Barcelona'ya 4-1 yenilen Galatasaray, \"Devler Ligi\"nde puanla tanışamadı",
+   "link": "https://www.aa.com.tr/tr/spor/barcelonaya-4-1-yenilen-galatasaray-devler-liginde-puanla-tanisamadi/4087879",
+   "image": "",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Bianet",
+   "group": "opposition",
+   "published": "2026-10-13T20:56:00Z",
+   "title": "Trump, Yemen Savaşı'nda \"Erdoğan'dan destek istersem verir\" dedi; Türkiye zaten destek veriyor",
+   "link": "https://bianet.org/haber/trump-yemen-savasi-nda-erdogan-dan-destek-istersem-verir-dedi-turkiye-zaten-destek-veriyor-324389",
+   "image": "https://static.bianet.org/haber/2026/10/14/trump-yemen-savasi-nda-erdogan-dan-destek-istersem-verir-dedi-turkiye-zaten-destek-veriyor.jpg",
+   "story": "trump-ile-uluslararasi-iliskiler-ve-bolgesel-guvenlik"
+  },
+  {
+   "source": "Halk TV",
+   "group": "opposition",
+   "published": "2026-10-13T20:54:38Z",
+   "title": "Galatasaray'ın çabası yetmedi: Barcelona farklı kazandı",
+   "link": "https://halktv.com.tr/spor/galatasarayin-cabasi-yetmedi-barcelona-farkli-kazandi-1061554h",
+   "image": "https://img.halktv.com.tr/2/150/84/storage/files/images/2026/10/13/dcs-bh2m.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-13T20:53:00Z",
+   "title": "MAÇ ÖZETİ | Galatasaray 1-4 Barcelona",
+   "link": "https://haberglobal.com/spor/mac-ozeti-galatasaray-1-4-barcelona-sampiyonlar-ligi-maci-548546",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/13/canli-yayin-galatasaray-barcelona-maci-hangi-kanalda-gs-barcelona-trt-1-ezhf.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-13T20:53:00Z",
+   "title": "Saldırı uyarısı verilmişti: Riyad'da patlama sesleri duyuldu",
+   "link": "https://www.evrensel.net/haber/6004814/saldiri-uyarisi-verilmisti-riyad-da-patlama-sesleri-duyuldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/362151.jpg",
+   "story": "suudi-arabistan-a-yonelik-saldirilar-ve-diplomatik-temaslar"
+  },
+  {
+   "source": "Dünya Gazetesi",
+   "group": "independent",
+   "published": "2026-10-13T20:52:00Z",
+   "title": "Galatasaray sahasında yıkıldı: Barcelona'dan 4 gollü galibiyet",
+   "link": "https://www.dunya.com/spor/galatasaray-sahasinda-yikildi-barcelonadan-4-gollu-galibiyet-haberi-843771",
+   "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/13/galatasarayy-wt78_cover.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-13T20:49:00Z",
+   "title": "Galatasaray - Barcelona 1-4 (Maç Özeti İzle - Video)",
+   "link": "https://www.yenisafak.com/spor/galatasaray-barcelona-1-4-mac-ozeti-izle-video-galatasaray-barcelona-sampiyonlar-ligi-mac-ozeti-izle-4864036",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/13/7570aec9-galatasaray-barcelona-canli.webp",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-13T20:49:00Z",
+   "title": "DMM'den TSK'nın Resulayn'da dönüşleri engellediği iddiasına yalanlama",
+   "link": "https://haberglobal.com/gundem/dmmden-tsknin-resulaynda-donusleri-engelledigi-iddiasina-yalanlama-548568",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/13/dmmden-tsknin-resulaynda-donusleri-engelledigi-iddiasina-yalanlama-6rtb.jpg",
+   "story": "terorle-mucadele-ve-operasyonlar"
+  },
+  {
+   "source": "Dünya Gazetesi",
+   "group": "independent",
+   "published": "2026-10-13T20:49:00Z",
+   "title": "Trump ve Netanyahu’dan seçimler öncesi İran’a yeni saldırı planı iddiası",
+   "link": "https://www.dunya.com/dunya/trump-ve-netanyahudan-secimler-oncesi-irana-yeni-saldiri-plani-iddiasi-haberi-843770",
+   "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/09/trump-netanyahu-zfcq_cover.jpg",
+   "story": "trump-ile-uluslararasi-iliskiler-ve-bolgesel-guvenlik"
+  },
+  {
+   "source": "NTV",
+   "group": "independent",
+   "published": "2026-10-13T20:48:43Z",
+   "title": "Şadi Yüksel'in ters kelepçe görüntülerine soruşturma",
+   "link": "https://www.ntv.com.tr/turkiye/sadi-yukselin-ters-kelepce-goruntulerine-sorusturma-1746195",
+   "image": "https://images.ntv.com.tr/images/HUiTaUpWwAQO6IE-146248.jpg",
+   "story": "berna-lacin-ve-gazetecilere-yonelik-sorusturmalar"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-13T20:46:26Z",
+   "title": "Bir meslek grubu için daha 'yeşil pasaport' teklifi Meclis'e sundu",
+   "link": "https://www.sozcu.com.tr/bir-meslek-grubu-icin-daha-yesil-pasaport-teklifini-meclise-sundu-p368904",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/yesil4jpegxrxdc3sgguewams3bsysajpeg-8ScyEmE23kqhFmhLaUaHGw.jpeg",
+   "story": "4-meslek-grubuna-yesil-pasaport-teklifi"
+  },
+  {
+   "source": "Yeni Akit",
+   "group": "progov",
+   "published": "2026-10-13T20:46:00Z",
+   "title": "69 yaşındaki Kul Sadi Yüksel’e ters kelepçe zulmü tepki çekmişti! Soruşturma başlatıldı",
+   "link": "https://www.yeniakit.com.tr/haber/69-yasindaki-kul-sadi-yuksele-ters-kelepce-zulmu-tepki-cekmisti-sorusturma-baslatildi-2028014.html",
+   "image": "",
+   "story": "berna-lacin-ve-gazetecilere-yonelik-sorusturmalar"
+  },
+  {
+   "source": "Gazete Pencere",
+   "group": "independent",
+   "published": "2026-10-13T20:45:40Z",
+   "title": "Dört meslek grubu için Meclis'e yeşil pasaport teklifi",
+   "link": "https://www.gazetepencere.com/yasam/dort-meslek-grubu-icin-meclise-yesil-pasaport-teklifi-719145h",
+   "image": "https://cdn.gazetepencere.com/news/206650.jpg",
+   "story": "4-meslek-grubuna-yesil-pasaport-teklifi"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-13T20:45:00Z",
+   "title": "Galatasaray'a Şampiyonlar Ligi'nde ağır darbe: Barcelona, RAMS Park'ta 4 golle kazandı",
+   "link": "https://www.karar.com/spor-haberleri/galatasaraya-sampiyonlar-liginde-agir-darbe-barcelona-rams-parkta-4-2078217",
+   "image": "https://cdn.karar.com/news/1941833.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-13T20:44:00Z",
+   "title": "İstanbul Boğazı'nda arıza yaşayan gemi sürüklenerek ters döndü",
+   "link": "https://haberglobal.com/yasam/istanbul-bogazinda-ariza-yasayan-gemi-suruklenerek-ters-dondu-548566",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/13/istanbul-bogazinda-ariza-yasayan-gemi-suruklenerek-ters-dondu-but9.jpg",
+   "story": "istanbul-bogazi-nda-gemi-arizasi"
+  },
+  {
+   "source": "Yeni Akit",
+   "group": "progov",
+   "published": "2026-10-13T20:43:00Z",
+   "title": "İstanbul Boğazı'nda hareketli saatler! 147 metrelik gemi sürüklendi",
+   "link": "https://www.yeniakit.com.tr/haber/istanbul-bogazinda-hareketli-saatler-147-metrelik-gemi-suruklendi-2028013.html",
+   "image": "",
+   "story": "istanbul-bogazi-nda-gemi-arizasi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-13T20:41:13Z",
+   "title": "Balıkesir’de narkotik ve kaçak silah operasyonu: 20 gözaltı var",
+   "link": "https://www.yenisafak.com/galeri/gundem/balikesirde-narkotik-ve-kacak-silah-operasyonu-20-gozalti-var-4864068",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/13/716e7b2e-balikesirde-narkotik-ve-kacak-silah-operasyonu-20-gozalti.webp",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-13T20:41:00Z",
+   "title": "Tanrıkulu, Kavala kararına tepki gösterdi: AİHM kararlarının gereği yerine getirilmeli",
+   "link": "https://www.evrensel.net/haber/6004813/tanrikulu-kavala-kararina-tepki-gosterdi-aihm-kararlarinin-geregi-yerine-getirilmeli?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/336008.jpg",
+   "story": "osman-kavala-nin-yeniden-yargilanma-talebi-reddedildi"
+  },
+  {
+   "source": "Yeni Akit",
+   "group": "progov",
+   "published": "2026-10-13T20:36:00Z",
+   "title": "İzmir’den korkutan haber! 80 işçi hastanelere başvurdu",
+   "link": "https://www.yeniakit.com.tr/haber/izmirden-korkutan-haber-80-isci-hastanelere-basvurdu-2028012.html",
+   "image": "",
+   "story": "izmir-de-gida-zehirlenmesi-suphesi"
+  },
+  {
+   "source": "TRT Haber",
+   "group": "progov",
+   "published": "2026-10-13T20:34:00Z",
+   "title": "İstanbul Cumhuriyet Başsavcılığından fon soruşturmalarına ilişkin açıklama",
+   "link": "https://www.trthaber.com/haber/gundem/istanbul-cumhuriyet-bassavciligindan-fon-sorusturmalarina-iliskin-aciklama-960041.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1504000/istanbul-adalet-sarayi-1505627.jpg",
+   "story": "ticaret-bakani-omer-bolat-hakkindaki-fon-iddialari"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-13T20:31:03Z",
+   "title": "İstanbul Boğazı'nda korku dolu dakikalar: 147 metrelik dev gemi Kuruçeşme açıklarında sürüklendi",
+   "link": "https://www.yenisafak.com/video/gundem/istanbul-bogazinda-korku-dolu-dakikalar-147-metrelik-dev-gemi-kurucesme-aciklarinda-suruklendi-4864067",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/13/f97878ae-istanbul-bogazinda-korku-dolu-dakikalar-147-metrelik-dev.webp",
+   "story": "istanbul-bogazi-nda-gemi-arizasi"
+  },
+  {
+   "source": "Halk TV",
+   "group": "opposition",
+   "published": "2026-10-13T20:28:55Z",
+   "title": "Balıkesir'de dev narkotik operasyonu: 37 adreste 20 gözaltı",
+   "link": "https://halktv.com.tr/turkiye/balikesirde-dev-narkotik-operasyonu-37-adreste-20-gozalti-1061550h",
+   "image": "https://img.halktv.com.tr/2/150/84/storage/files/images/2026/10/13/balikesir-operasyon-yrwb.jpg",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "Milliyet",
+   "group": "progov",
+   "published": "2026-10-13T20:28:07Z",
+   "title": "Bodrum'da 46 bin 200 sahte ABD doları ele geçirildi, 1 tutuklama",
+   "link": "https://www.milliyet.com.tr/gundem/bodrumda-46-bin-200-sahte-abd-dolari-ele-gecirildi-1-tutuklama-7679058",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ace944af15b2619d4a3d96c.jpg",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-13T20:27:00Z",
+   "title": "Riyad'da saldırı uyarısı sonrası 3 patlama sesi duyuldu",
+   "link": "https://haberglobal.com/dunya/riyadda-saldiri-uyarisi-sonrasi-3-patlama-sesi-duyuldu-548565",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/13/riyadda-saldiri-uyarisi-sonrasi-3-patlama-sesi-duyuldu-2m13.jpg",
+   "story": "suudi-arabistan-a-yonelik-saldirilar-ve-diplomatik-temaslar"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-13T20:25:00Z",
+   "title": "İzmir'de yemek firmasından gıda zehirlenmesi şüphesi: 80 işçi hastaneye kaldırıldı",
+   "link": "https://www.evrensel.net/haber/6004811/izmirde-yemek-firmasindan-gida-zehirlenmesi-suphesi-80-isci-hastaneye-kaldirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/366317.jpg",
+   "story": "izmir-de-gida-zehirlenmesi-suphesi"
+  },
+  {
+   "source": "Halk TV",
+   "group": "opposition",
+   "published": "2026-10-13T20:21:00Z",
+   "title": "Tupac Shakur cinayetinde tarihi karar: 30 yıl sonra cezası belli oldu!",
+   "link": "https://halktv.com.tr/magazin/tupac-shakur-cinayetinde-tarihi-karar-30-yil-sonra-cezasi-belli-oldu-1061549h",
+   "image": "https://img.halktv.com.tr/2/150/84/storage/files/images/2026/10/13/tupac-shakur-z4ez.jpg",
+   "story": "abd-deki-silahli-saldirilar"
+  },
+  {
+   "source": "Euronews Türkçe",
+   "group": "independent",
+   "published": "2026-10-13T20:20:50Z",
+   "title": "Mersin'de Büyükşehir Belediye Başkan Vekili CHP'li Gülşah Yıldırım Genç oldu",
+   "link": "https://tr.euronews.com/2026/10/13/mersinde-buyuksehir-belediye-baskan-vekili-chpli-gulsah-yildirim-genc-oldu",
+   "image": "",
+   "story": "mersin-buyuksehir-belediye-baskan-vekili-secimi"
+  },
+  {
+   "source": "Milliyet",
+   "group": "progov",
+   "published": "2026-10-13T20:17:30Z",
+   "title": "İstanbul Boğazı'nda sürüklenen gemi kurtarıldı",
+   "link": "https://www.milliyet.com.tr/gundem/istanbul-bogazinda-suruklenen-gemi-kurtarildi-7679057",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ace91c8f15b2619d4a3d966.jpg",
+   "story": "istanbul-bogazi-nda-gemi-arizasi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-13T20:17:28Z",
+   "title": "İstanbul Boğazı’nda 147 metrelik gemi sürüklendi: Ekipler kurtardı",
+   "link": "https://www.yenisafak.com/gundem/istanbul-bogazinda-147-metrelik-gemi-suruklendi-ekipler-kurtardi-4864063",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/13/6103723f-istanbul-bogazinda-147-metrelik-gemi-suruklendi-ekipler.webp",
+   "story": "istanbul-bogazi-nda-gemi-arizasi"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-13T20:16:00Z",
+   "title": "İstanbul Boğazı'nda sürüklenen gemi kurtarıldı",
+   "link": "https://www.birgun.net/haber/istanbul-bogazi-nda-suruklenen-gemi-kurtarildi-740251",
+   "image": "https://static.birgun.net/resim/haber/2026/10/13/istanbul-bogazi-nda-suruklenen-gemi-kurtarildi.jpg",
+   "story": "istanbul-bogazi-nda-gemi-arizasi"
+  },
+  {
    "source": "Sözcü",
    "group": "opposition",
    "published": "2026-10-13T20:14:51Z",
@@ -1864,6 +3363,42 @@
    "link": "https://www.sozcu.com.tr/galatasaray-barcelona-uefa-sampiyonlar-ligi-maci-canli-p368826",
    "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/202526-sezonu-psdjpg-FWpTV78AZE_aUKUrRIGlmg.jpg",
    "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-13T20:13:00Z",
+   "title": "YENİ Partili Tanrıkulu'ndan Osman Kavala kararına tepki: AİHM kararlarının gereği yerine getirilmeli",
+   "link": "https://www.birgun.net/haber/yeni-partili-tanrikulu-ndan-osman-kavala-kararina-tepki-aihm-kararlarinin-geregi-yerine-getirilmeli-740249",
+   "image": "https://static.birgun.net/resim/haber/2026/10/13/yeni-partili-tanrikulu-ndan-osman-kavala-kararina-tepki-aihm-kararlarinin-geregi-yerine-getirilmeli.webp",
+   "story": "osman-kavala-nin-yeniden-yargilanma-talebi-reddedildi"
+  },
+  {
+   "source": "A Haber",
+   "group": "progov",
+   "published": "2026-10-13T20:12:52Z",
+   "title": "Şüpheli para trafiği ele verdi! “Ankara Abisi” Derneği Başkanı Yasin Oyanık tutuklandı",
+   "link": "https://www.ahaber.com.tr/gundem/2026/10/13/ankara-abisi-lakapli-yasin-oyanik-tutuklandi",
+   "image": "https://iaahbr.tmgrup.com.tr/d349c5/0/0/0/0/1673/940?u=https://iahbr.tmgrup.com.tr/2026/10/13/1791922166120.png",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "Independent Türkçe",
+   "group": "independent",
+   "published": "2026-10-13T20:12:49Z",
+   "title": "Fon krizine ilişkin Meclis araştırması önergeleri AK Parti ve MHP oylarıyla reddedildi",
+   "link": "https://www.indyturk.com/node/783790/haber/fon-krizine-ili%C5%9Fkin-meclis-ara%C5%9Ft%C4%B1rmas%C4%B1-%C3%B6nergeleri-ak-parti-ve-mhp-oylar%C4%B1yla",
+   "image": "https://www.indyturk.com/sites/default/files/article/main_image/2026/10/13/1381655-1816441321.jpg",
+   "story": "ticaret-bakani-omer-bolat-hakkindaki-fon-iddialari"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-13T20:12:00Z",
+   "title": "TBMM Genel Kurulu: Muhalefetin \"fon krizi\" önergeleri AKP ve MHP'nin oylarıyla reddedildi",
+   "link": "https://www.evrensel.net/haber/6004809/tbmm-genel-kurulu-muhalefetin-fon-krizi-onergeleri-akp-ve-mhpnin-oylariyla-reddedildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/322678.jpg",
+   "story": "ticaret-bakani-omer-bolat-hakkindaki-fon-iddialari"
   },
   {
    "source": "Akşam",
@@ -1884,6 +3419,15 @@
    "story": "galatasaray-barcelona-maci"
   },
   {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-13T20:09:00Z",
+   "title": "Arap Koalisyonu: Husilerin hayati önemdeki varlıklarını hedef aldık",
+   "link": "https://www.birgun.net/haber/arap-koalisyonu-husilerin-hayati-onemdeki-varliklarini-hedef-aldik-740248",
+   "image": "https://static.birgun.net/resim/haber/2026/10/13/arap-koalisyonu-husilerin-hayati-onemdeki-varliklarini-hedef-aldik.jpg",
+   "story": "suudi-arabistan-a-yonelik-saldirilar-ve-diplomatik-temaslar"
+  },
+  {
    "source": "Yeni Şafak",
    "group": "progov",
    "published": "2026-10-13T20:07:24Z",
@@ -1902,6 +3446,15 @@
    "story": "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler"
   },
   {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-13T20:05:00Z",
+   "title": "Balıkesir'de narkotik operasyonu: 20 şüpheli yakalandı",
+   "link": "https://haberglobal.com/gundem/balikesirde-narkotik-operasyonu-20-supheli-yakalandi-548567",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/13/balikesirde-narkotik-operasyonu-20-supheli-yakalandi-pl2r.jpg",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
    "source": "Milliyet",
    "group": "progov",
    "published": "2026-10-13T20:02:58Z",
@@ -1917,6 +3470,15 @@
    "title": "'Ankara Abisi' olarak bilinen Yasin Oyanık tutuklandı: Avukatından açıklama geldi",
    "link": "https://www.yenisafak.com/gundem/ankara-abisi-olarak-bilinen-yasin-oyanik-tutuklandi-avukatindan-aciklama-geldi-4864060",
    "image": "https://img.piri.net/piri/upload/3/2026/10/13/ff45b811-ankara-abisi-olarak-bilinen-yasin-oyanik-tutuklandi.webp",
+   "story": "yargida-adli-islemler-ve-operasyonlar"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-13T20:02:00Z",
+   "title": "Eskişehir’de çıkan silahlı kavgada bir kişi yaralandı, iki kişi tutuklandı",
+   "link": "https://www.yenisafak.com/galeri/gundem/eskisehirde-cikan-silahli-kavgada-bir-kisi-yaralandi-iki-kisi-tutuklandi-4864070",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/13/36fbbc03-eskisehirde-cikan-silahli-kavgada-bir-kisi-yaralandi-iki.webp",
    "story": "yargida-adli-islemler-ve-operasyonlar"
   },
   {
@@ -1945,6 +3507,15 @@
    "link": "https://halktv.com.tr/spor/fenerbahce-sahasinda-farkli-kazandi-1061547h",
    "image": "https://img.halktv.com.tr/2/150/84/storage/files/images/2026/10/13/fjkvn-722r.jpg",
    "story": "trabzonspor-samsunspor-ve-lig-maclari"
+  },
+  {
+   "source": "Euronews Türkçe",
+   "group": "independent",
+   "published": "2026-10-13T19:54:48Z",
+   "title": "AK Parti'den gazeteciler Şaban Sevinç ve Timur Soykan ile Zeynel Emre'ye 1,6 milyon TL'lik dava",
+   "link": "https://tr.euronews.com/2026/10/13/ak-partiden-gazeteciler-saban-sevinc-ve-timur-soykan-ile-zeynel-emreye-16-milyon-tllik-dav",
+   "image": "",
+   "story": "berna-lacin-ve-gazetecilere-yonelik-sorusturmalar"
   },
   {
    "source": "Independent Türkçe",
@@ -2017,6 +3588,15 @@
    "link": "https://www.aksam.com.tr/spor/cimbomun-golu-vara-takildi-iste-o-anlar/haber-1705952",
    "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/13/cimbomun-golu-vara-takild-492_2.jpg",
    "story": "galatasaray-barcelona-maci"
+  },
+  {
+   "source": "Euronews Türkçe",
+   "group": "independent",
+   "published": "2026-10-13T19:47:42Z",
+   "title": "Trump, Erdoğan'dan Suudi Arabistan için askeri destek isteyebileceğini söyledi: 'O benim çok iyi bir dostum'",
+   "link": "https://tr.euronews.com/2026/10/13/trump-erdogandan-suudi-arabistan-icin-askeri-destek-isteyebilecegini-soyledi-o-benim-cok-i",
+   "image": "",
+   "story": "trump-ile-uluslararasi-iliskiler-ve-bolgesel-guvenlik"
   },
   {
    "source": "BBC Türkçe",
@@ -2874,6 +4454,15 @@
    "story": "galatasaray-barcelona-maci"
   },
   {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-13T17:48:00Z",
+   "title": "Galatasaray, Barcelona'ya evinde 4-1 yenildi",
+   "link": "https://www.evrensel.net/haber/6004796/galatasaray-barcelona-ya-evinde-4-1-yenildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/366319.jpg",
+   "story": "galatasaray-barcelona-maci"
+  },
+  {
    "source": "Cumhuriyet",
    "group": "opposition",
    "published": "2026-10-13T17:47:00Z",
@@ -3340,6 +4929,15 @@
    "link": "https://www.evrensel.net/haber/6004789/trump-turkiyeyi-yemene-karsilik-vermeye-cagirabilirim-erdogan-benim-dostum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
    "image": "https://www.evrensel.net/images/1280/upload/dosya/92939.jpg",
    "story": "abd-deki-silahli-saldirilar"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-13T16:36:00Z",
+   "title": "Trump: Yemen'de Erdoğan kendisinden istediğimi yapacaktır",
+   "link": "https://www.evrensel.net/haber/6004789/trump-yemen-de-erdogan-kendisinden-istedigimi-yapacaktir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/92939.jpg",
+   "story": "trump-ile-uluslararasi-iliskiler-ve-bolgesel-guvenlik"
   },
   {
    "source": "Yeni Akit",
@@ -74910,6 +76508,270 @@
   "https://artigercek.com/gozden-kacmasin/ikea-ucuncu-masayi-da-hasarli-gonderdi-musteri-cileden-cikti-351568h": "2026-10-13T14:23:00Z",
   "https://artigercek.com/politika/dem-partiden-yrp-il-baskani-hakkinda-suc-duyurusu-351567h": "2026-10-13T14:21:00Z",
   "https://bianet.org/haber/tuncer-bakirhan-muzakere-masasindan-kalkmayacagiz-324384": "2026-10-13T14:21:00Z",
-  "https://serbestiyet.com/haberler/denizli-milletvekili-sema-silkin-unden-emine-erdogana-cagri-mihriban-aliyevaya-mektup-yazin-251323/": "2026-10-13T16:05:34Z"
+  "https://serbestiyet.com/haberler/denizli-milletvekili-sema-silkin-unden-emine-erdogana-cagri-mihriban-aliyevaya-mektup-yazin-251323/": "2026-10-13T16:05:34Z",
+  "https://www.sabah.com.tr/gundem/2026/10/13/bakan-ersoy-hedefimiz-turkiye-arkeolojisini-daha-guclu-bilimsel-imkanlarla-desteklemek": "2026-10-13T21:45:42Z",
+  "https://www.hurriyet.com.tr/gundem/bilgisayarinda-bir-kisi-nasil-itilir-diye-aramisti-erdal-sozer-davasinda-son-nokta-43340028": "2026-10-13T11:22:15Z",
+  "https://www.milliyet.com.tr/gundem/turkiye-yuzyilini-ayni-zamanda-iletisimin-yuzyili-haline-getirmek-icin-gayret-gosteriyoruz-7679133": "2026-10-13T23:02:27Z",
+  "https://www.cnnturk.com/ekonomi/kyk-burs-ve-kredi-basvuru-ekrani-kyk-burs-ve-kredi-basvurusu-nereden-ve-nasil-yapilir-3478966": "2026-10-14T01:46:15Z",
+  "https://www.cnnturk.com/magazin/haysiyet-6-bolum-full-hd-izle-haysiyet-7-bolumde-neler-olacak-iste-haysiyet-7-bolum-fragmani-3478963": "2026-10-14T00:59:56Z",
+  "https://www.cnnturk.com/magazin/masterchefte-eleme-adayi-kim-oldu-13-ekim-masterchefte-dokunulmazlik-oyununu-kim-kazandi-3478951": "2026-10-14T00:39:32Z",
+  "https://www.cnnturk.com/video/turkiye/cumhurbaskani-erdogan-5-ulkenin-buyukelcisini-kabul-etti-3478956": "2026-10-14T00:28:17Z",
+  "https://www.cnnturk.com/resmi-ilanlar/umraniye-egitim-ve-arastirma-hastanesi-3478714": "2026-10-14T00:00:05Z",
+  "https://www.cnnturk.com/resmi-ilanlar/istanbul-sancaktepe-sehit-prof-dr-ilhan-varank-e-a-h-3478712": "2026-10-14T00:00:05Z",
+  "https://www.cnnturk.com/yerel-haberler/ankara/bakan-memisoglundan-tbmm-ilk-yardim-merkezine-ziyaret-3478985": "2026-10-14T02:10:45Z",
+  "https://www.cnnturk.com/magazin/kiz-bebek-bekliyor-alina-bozun-karni-iyice-belirginlesti-3478950": "2026-10-13T23:24:30Z",
+  "https://www.cnnturk.com/video/turkiye/toplu-tasima-biletlerine-zam-siniri-3478949": "2026-10-13T23:23:52Z",
+  "https://www.cnnturk.com/yerel-haberler/ankara/bakan-ersoy-italyan-mevkidasi-giuli-ile-bir-araya-geldi-3478979": "2026-10-14T02:10:49Z",
+  "https://www.cnnturk.com/yerel-haberler/antalya/manavgatta-devrilen-tirin-surucusu-yaralandi-3478980": "2026-10-14T02:10:49Z",
+  "https://www.cnnturk.com/yerel-haberler/istanbul/kucukcekmecede-bos-binada-cikan-yangin-sonduruldu-3478976": "2026-10-14T02:10:49Z",
+  "https://www.cnnturk.com/yerel-haberler/mugla/ingilterenin-ankara-buyukelcisi-andersondan-marmaris-belediyesine-ziyaret-3478974": "2026-10-14T02:10:57Z",
+  "https://www.aa.com.tr/tr/dunya/abdden-bank-of-americaya-kara-para-aklama-ve-yaptirim-ihlalleri-nedeniyle-1-21-milyar-dolarin-uzerinde-ceza/4087934": "2026-10-13T22:47:54Z",
+  "https://www.aa.com.tr/tr/spor/afrika-grand-prixsi-2030lu-yillarda-formula-1-takvimine-donecek/4087897": "2026-10-13T21:44:32Z",
+  "https://www.aa.com.tr/tr/dunya/guney-korede-2-ogrencinin-universite-sinavinda-yapay-zeka-destekli-gozluk-kullandigi-tespit-edildi/4087903": "2026-10-13T21:49:33Z",
+  "https://www.aa.com.tr/tr/spor/mavi-sularda-yelken-acan-yabanci-sporcular-bodrumun-iklimine-hayran-kaldi/4087896": "2026-10-13T21:40:42Z",
+  "https://www.aa.com.tr/tr/spor/fenerbahce-teknik-direktoru-ismail-kartal-buradan-iyi-bir-sonucla-ayrilmayi-dusunuyoruz/4087911": "2026-10-13T21:54:36Z",
+  "https://www.aa.com.tr/tr/dunya/ingiltere-arjantinin-falkland-adalarindaki-petrol-projesine-iliskin-interpol-taleplerinin-reddini-istedi/4087918": "2026-10-13T22:04:45Z",
+  "https://www.aa.com.tr/tr/gundem/trtnin-gelecegin-iletisimcileri-yarismasinda-oduller-sahiplerini-buldu/4087899": "2026-10-13T21:46:47Z",
+  "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginin-ikinci-haftasi-9-macla-basladi/4087888": "2026-10-13T21:06:12Z",
+  "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-turkiye-yuzyilini-ayni-zamanda-iletisimin-yuzyili-haline-getirmek-icin-gayret-gosteriyoruz/4087869": "2026-10-13T20:51:39Z",
+  "https://www.aa.com.tr/tr/spor/genc-milli-halterciler-avrupa-sampiyonasinin-ikinci-gununde-4u-altin-6-madalya-kazandi/4087855": "2026-10-13T20:40:01Z",
+  "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-turkiyenin-abnin-sanayi-politikalarinda-esit-ortak-olarak-yer-almasini-istedi/4087853": "2026-10-13T20:38:23Z",
+  "https://www.aa.com.tr/tr/dunya/iran-fairford-ussu-olayiyla-ilgili-suclamalar-nedeniyle-ingiltere-buyukelcisini-disisleri-bakanligina-cagirdi/4087848": "2026-10-13T20:35:53Z",
+  "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-konuk-ettigi-zalgirisi-99-80-yendi/4087841": "2026-10-13T20:27:45Z",
+  "https://www.yenisafak.com/yazarlar/samed-karagoz/yapay-zeka-caginda-lichtensteini-yeniden-okumak-4864082": "2026-10-14T01:00:00Z",
+  "https://www.yenisafak.com/yazarlar/taha-kilinc/moricada-bir-aksam-4864087": "2026-10-14T01:00:00Z",
+  "https://www.yenisafak.com/yazarlar/nedret-ersanel/kuklayi-kendi-ipiyle-asarlar-4864091": "2026-10-14T01:00:00Z",
+  "https://www.yenisafak.com/yazarlar/ozgur-bayram-soylu/beyin-bedava-4864093": "2026-10-14T01:00:00Z",
+  "https://www.yenisafak.com/yazarlar/yasar-sungu/en-cok-ne-yoksa-o-konusulur-4864094": "2026-10-14T01:00:00Z",
+  "https://www.yenisafak.com/yazarlar/ersin-celik/haqq-nazilr-amma-uzulmz-4864095": "2026-10-14T01:00:00Z",
+  "https://www.yenisafak.com/yazarlar/mustafa-kutlu/yasadigimiz-semti-tanimiyoruz-4864096": "2026-10-14T01:00:00Z",
+  "https://www.yenisafak.com/hayat/skyroad-ile-kesfet-7inci-yilinda-en-guzel-karelere-800-bin-tl-odul-4864097": "2026-10-14T01:00:00Z",
+  "https://www.yenisafak.com/gundem/ciftciden-marastaki-operasyona-inceleme-4864098": "2026-10-14T01:00:00Z",
+  "https://www.yenisafak.com/gundem/bu-da-lutfu-turkkanin-rusvet-sistemi-4864101": "2026-10-14T01:00:00Z",
+  "https://www.yenisafak.com/dunya/savas-her-yerde-surekli-yeni-cepheler-aciliyor-4864102": "2026-10-14T01:00:00Z",
+  "https://www.yenisafak.com/gundem/hassada-evde-gorulen-yilan-itfaiye-ekiplerince-yakalandi-4864088": "2026-10-13T21:54:49Z",
+  "https://www.yenisafak.com/video/gundem/venezuelada-isciler-hukumete-destek-icin-sokaga-cikti-4864086": "2026-10-13T21:47:58Z",
+  "https://www.yenisafak.com/galeri/gundem/duzcede-geceyi-aydinlatan-simseklerin-ardindan-saganak-basladi-4864085": "2026-10-13T21:46:04Z",
+  "https://www.yenisafak.com/galeri/gundem/elazigda-ogrencilerin-yogun-oldugu-alanlar-denetlendi-4864084": "2026-10-13T21:45:42Z",
+  "https://www.yenisafak.com/gundem/yaya-gecidinde-alti-yasindaki-cocuga-otomobil-carpti-o-anlar-kamerada-4864081": "2026-10-13T21:42:31Z",
+  "https://www.yenisafak.com/gundem/adiyamanda-otomobil-sarampole-uctu-surucu-aracta-sikisti-4864079": "2026-10-13T21:31:03Z",
+  "https://www.yenisafak.com/video/gundem/tekirdagda-saganak-yollari-gole-cevirdi-suruculer-ilerlemekte-zorlandi-4864078": "2026-10-13T21:30:00Z",
+  "https://www.yenisafak.com/galeri/ekonomi/bir-saatte-bir-ton-uretim-malatyada-gelistirilen-makine-meyveleri-endustriyel-olcekte-pestile-donusturuyor-4864077": "2026-10-13T21:27:04Z",
+  "https://www.yenisafak.com/video/gundem/bagcilarda-trafikte-aynasina-carptigi-sofore-akilalmaz-tehdit-4864071": "2026-10-13T21:00:04Z",
+  "https://www.yenisafak.com/galeri/gundem/hatayda-uc-yildir-marketine-israil-menseli-urunleri-sokmayan-genc-esnaf-dolabina-boykot-mesaji-asti-4864074": "2026-10-13T20:58:00Z",
+  "https://www.yenisafak.com/dunya/suriyenin-hama-sehrinde-silahli-saldiri-4-guvenlik-gucu-hayatini-kaybetti-4864069": "2026-10-13T20:52:24Z",
+  "https://www.yenisafak.com/galeri/gundem/tekirdagda-siddetli-yagis-cadde-gole-dondu-suruculer-zorlandi-4864072": "2026-10-13T20:49:00Z",
+  "https://www.yenisafak.com/video/dunya/baskentin-simgesi-yeniden-suya-kavustu-lincoln-aniti-yansitma-havuzu-dolduruluyor-4864066": "2026-10-13T20:26:26Z",
+  "https://www.yenisafak.com/dunya/rum-lider-hristodulidis-turkiyeye-geliyor-programi-belli-oldu-4864065": "2026-10-13T20:25:55Z",
+  "https://www.aksam.com.tr/dunya/irandan-ingiltereye-diplomatik-misilleme-ingiliz-buyukelci-tahranda-disislerine-cagrildi/haber-1705983": "2026-10-13T22:30:00Z",
+  "https://www.aksam.com.tr/spor/ilkay-gundogan-almanya-yolcusu/haber-1705969": "2026-10-13T21:23:00Z",
+  "https://www.aksam.com.tr/spor/villa-parkta-hesap-zamani/haber-1705968": "2026-10-13T21:21:00Z",
+  "https://www.star.com.tr/dunya/abdden-nikaraguaya-diplomatik-tepki-maslahatguzarini-geri-cagirdi-haber-2046428/": "2026-10-13T22:19:00Z",
+  "https://www.yeniakit.com.tr/haber/azerbaycan-basmuftusu-pasazadeden-tartisilan-yasakla-ilgili-ilk-aciklama-genel-bir-basortusu-yasagi-yok-2028011.html": "2026-10-13T20:25:00Z",
+  "https://www.dirilispostasi.com/sampiyonlar-liginde-ikinci-hafta-maclari-oynandi": "2026-10-13T21:23:00Z",
+  "https://www.dirilispostasi.com/bakan-bolat-turkiye-avrupanin-yeni-sanayi-stratejilerinde-yer-almali": "2026-10-13T21:00:00Z",
+  "https://www.haberturk.com/gundem/kayseri-de-oglu-tarafindan-bicaklanan-baba-oldu-3919522": "2026-10-14T00:26:39Z",
+  "https://www.haberturk.com/gundem/aihm-e-uyumumuz-yuzde-90-civarinda-3919516": "2026-10-13T22:27:45Z",
+  "https://www.haberturk.com/gundem/tbmm-genel-kurulu-kapandi-3919512": "2026-10-13T21:53:30Z",
+  "https://www.haberturk.com/gundem/cimer-e-sikayet-ettiler-elektronik-servisine-15-milyon-tl-ceza-3919496": "2026-10-13T21:11:11Z",
+  "https://www.bloomberght.com/resmi-gazete-de-bugun-14102026-3791286": "2026-10-13T21:11:46Z",
+  "https://www.bloomberght.com/nvidia-avrupa-da-2-milyar-dolarlik-yeni-yatirim-planliyor-3791285": "2026-10-13T20:12:36Z",
+  "https://www.ntv.com.tr/turkiye/video-ankarada-taksici-musterisini-kursunladi-1746210": "2026-10-14T01:01:05Z",
+  "https://www.ntv.com.tr/turkiye/ankarada-taksici-musterisini-kursunladi-1746209": "2026-10-14T01:01:22Z",
+  "https://www.ntv.com.tr/turkiye/galeri-istanbulda-firtina-cikacak-saat-verip-ilce-ilce-uyari-geldi-1746206": "2026-10-13T23:50:10Z",
+  "https://www.ntv.com.tr/turkiye/galeri-otobus-soforleri-kazaya-davetiye-cikardi-yine-geri-manevra-ve-seyir-halinde-surucu-degisimi-1746205": "2026-10-13T22:41:41Z",
+  "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-14-ekim-2026-1746197": "2026-10-14T01:00:01Z",
+  "https://www.ntv.com.tr/turkiye/galeri-fransa-vizesinde-yeni-donem-randevu-sistemi-degisiyor-1746193": "2026-10-13T20:15:14Z",
+  "https://www.bbc.com/turkce/articles/cqzrdv24elemo?at_medium=RSS&at_campaign=rss": "2026-10-13T23:27:34Z",
+  "https://www.bbc.com/turkce/articles/c620r92jve4qo?at_medium=RSS&at_campaign=rss": "2026-10-13T23:09:52Z",
+  "https://www.indyturk.com/node/783791/haber/k%C4%B1sa-haberler": "2026-10-13T22:14:19Z",
+  "https://www.gazetepencere.com/bilim-teknoloji/googlein-en-gelismis-yapay-zeka-modeli-gemini-4-argon-kullanima-acildi-719149h": "2026-10-13T21:30:55Z",
+  "https://www.gazetepencere.com/muhalif-takvimi/meryem-ana-firtinasi-1-719148h": "2026-10-13T21:23:13Z",
+  "https://www.gazetepencere.com/yazarlar/arda-turan-ile-olmaz-719147h": "2026-10-13T21:09:29Z",
+  "https://www.gazetepencere.com/karikatur/i-bulent-celikin-14-ekim-2026-tarihli-karikaturu-719146h": "2026-10-13T21:06:02Z",
+  "https://www.gazetepencere.com/gozden-kacmasin/konyalilarin-pilav-yaparken-ekledigi-baharat-pilava-lezzet-katiyor-719144h": "2026-10-13T20:30:57Z",
+  "https://www.gazetepencere.com/gozden-kacmasin/huzurlu-tatil-yapmak-isteyenlerin-yoneldigi-yer-avrupayi-geride-birakan-719143h": "2026-10-13T20:16:09Z",
+  "https://www.dunya.com/foto-galeri/gundem/duzcede-simsekler-geceyi-aydinlatti-galeri-843775": "2026-10-13T21:54:00Z",
+  "https://www.dunya.com/kultur-sanat/turkiye-ve-italyadan-arkeolojide-yeni-isbirligi-adimlari-haberi-843774": "2026-10-13T21:39:00Z",
+  "https://www.dunya.com/finans/borsa/new-york-borsasi-dususle-kapandi-haberi-843772": "2026-10-13T21:10:00Z",
+  "https://www.dunya.com/sirketler/vakifbankin-sagladigi-dis-kaynak-9-milyar-dolara-ulasti-haberi-843720": "2026-10-13T21:00:00Z",
+  "https://www.dunya.com/sirketler/denizustu-ruzgar-enerjisine-3-milyar-dolarlik-yatirim-haberi-843728": "2026-10-13T21:00:00Z",
+  "https://www.dunya.com/sektorler/made-in-eu-yerine-made-with-eu-ile-yola-devam-edelim-haberi-843732": "2026-10-13T21:00:00Z",
+  "https://www.dunya.com/sektorler/hazir-giyimde-toparlanma-degil-duraklama-donemi-haberi-843734": "2026-10-13T21:00:00Z",
+  "https://www.dunya.com/sirketler/yerli-ve-milli-6g-sebeke-cozumleri-sahada-haberi-843736": "2026-10-13T21:00:00Z",
+  "https://www.dunya.com/sektorler/kirtasiyede-yerlilik-yuzde-40a-ulasti-rota-kuresel-pazar-haberi-843737": "2026-10-13T21:00:00Z",
+  "https://www.dunya.com/ihracat/dis-ticaret-yukunde-daralma-hizlandi-haberi-843738": "2026-10-13T21:00:00Z",
+  "https://www.dunya.com/sektorler/bir-yanda-elektrikli-devrim-diger-yanda-benzinli-gelenek-haberi-843745": "2026-10-13T21:00:00Z",
+  "https://www.dunya.com/sektorler/bilim-ve-teknoloji/sirketlerin-yeni-maliyet-alani-artik-cop-veriler-copumuz-artik-dijital-haberi-843747": "2026-10-13T21:00:00Z",
+  "https://www.dunya.com/sektorler/biyocesitlilik-projelerine-175-bin-euroya-kadar-destek-haberi-843748": "2026-10-13T21:00:00Z",
+  "https://www.dunya.com/sektorler/gecelik-harcamada-kar-gunesi-gecti-haberi-843751": "2026-10-13T21:00:00Z",
+  "https://www.dunya.com/sektorler/karadeniz-kapandi-narenciye-dalda-kaldi-haberi-843752": "2026-10-13T21:00:00Z",
+  "https://www.dunya.com/sektorler/akmibden-almanya-ve-cinde-yeni-firsat-arayisi-haberi-843753": "2026-10-13T21:00:00Z",
+  "https://www.dunya.com/sektorler/gto-baskani-yildirim-doviz-donusum-destegi-ihracatcinin-rekabet-gucunu-desteklemeli-haberi-843754": "2026-10-13T21:00:00Z",
+  "https://www.dunya.com/surdurulebilir-dunya/yesil-finansmanda-faiz-frenine-ragmen-eylem-zamani-haberi-843757": "2026-10-13T21:00:00Z",
+  "https://www.dunya.com/sirketler/sisecam-cop31de-gelecegin-yasam-alanlarini-anlatacak-haberi-843758": "2026-10-13T21:00:00Z",
+  "https://www.dunya.com/sirketler/iklim-hedefleri-ile-uygulama-arasindaki-fark-kapanmali-haberi-843760": "2026-10-13T21:00:00Z",
+  "https://www.dunya.com/ekonomi/bolattan-abye-cagri-turkiye-disarida-kalmasin-haberi-843769": "2026-10-13T20:39:00Z",
+  "https://www.ekonomim.com/dunya/iran-ingilterenin-tahran-buyukelcisini-disisleri-bakanligina-cagirdi-haberi-924512": "2026-10-13T22:38:00Z",
+  "https://www.ekonomim.com/ekonomi/bank-of-americaya-kara-para-aklamadan-ceza-haberi-924510": "2026-10-13T22:33:00Z",
+  "https://www.ekonomim.com/dunya/openaiin-ofisinde-gizli-dinleme-cihazi-bulundu-fbi-devreye-girdi-haberi-924509": "2026-10-13T22:14:00Z",
+  "https://www.ekonomim.com/foto-galeri/aktuel/sok-aktuel-urunler-katalogu-bugun-satista-sokta-bu-hafta-indirimde-neler-var-sok-14-20-ekim-s1-galeri-924504": "2026-10-13T21:25:00Z",
+  "https://www.ekonomim.com/ekonomi/new-york-borsasi-gunu-dususle-kapatti-haberi-924505": "2026-10-13T21:22:00Z",
+  "https://www.ekonomim.com/foto-galeri/aktuel/satista-bime-kumtel-hava-temizleyici-ve-vantilator-geldi-bim-14-20-ekim-s1-galeri-924502": "2026-10-13T21:19:00Z",
+  "https://www.ekonomim.com/foto-galeri/aktuel/bim-yeni-katalog-bime-20-ekim-sali-hangi-urunler-geliyor-bim-20-26-ekim-s1-galeri-924499": "2026-10-13T21:05:00Z",
+  "https://www.ekonomim.com/foto-galeri/yasam/tarihte-bugun-14-ekim-s1-galeri-924468": "2026-10-13T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/borsada-islem-hacmi-ve-adedi-diplerde-haberi-924484": "2026-10-13T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/hazir-giyim-firtinaya-tutuldu-haberi-924485": "2026-10-13T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/celtikte-ureticinin-talebi-60-lira-tmo-45-lira-alim-fiyati-acikladi-haberi-924487": "2026-10-13T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/borc-yuku-de-butce-deligi-de-buyuyor-haberi-924488": "2026-10-13T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/karbon-vergisinde-ikinci-dalga-sanayiye-yayiliyor-haberi-924489": "2026-10-13T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/plastikte-konan-kurallara-maruz-kalmayalim-standart-koyalim-haberi-924494": "2026-10-13T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/hedef-ortak-gelecek-guclu-is-birligi-haberi-924496": "2026-10-13T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/ambalajda-2030-hedefi-10-milyar-dolarlik-ihracat-haberi-924497": "2026-10-13T21:00:00Z",
+  "https://haberglobal.com/gundem/kirikkalede-feci-olum-akima-kapilarak-can-verdi-548579": "2026-10-13T23:34:00Z",
+  "https://haberglobal.com/gundem/mhp-genel-baskan-yardimcisi-sayin-aliyev-cesur-ve-kudretli-bir-liderdir-548577": "2026-10-13T22:13:00Z",
+  "https://haberglobal.com/gundem/corumda-iki-otomobil-carpisti-4-yarali-548576": "2026-10-13T22:00:00Z",
+  "https://haberglobal.com/ekonomi/emekli-maasinda-hesap-degisti-ekim-tahminiyle-zam-orani-yuzde-8i-asabilir-548575": "2026-10-13T21:51:00Z",
+  "https://haberglobal.com/spor/sampiyonlar-ligi-mac-sonuclari-3-3luk-inanilmaz-skor-548573": "2026-10-13T21:26:00Z",
+  "https://haberglobal.com/gundem/bakan-ersoy-italyan-mevkidasi-giuli-ile-bir-araya-geldi-548572": "2026-10-13T21:17:00Z",
+  "https://haberglobal.com/resmi-ilanlar/matas-maltepe-saglik-turizm-egitim-otopark-temizlik-as-548356": "2026-10-13T21:00:00Z",
+  "https://www.sozcu.com.tr/abd-hazine-bakanligi-bank-of-americaya-121-milyar-dolar-ceza-kesti-p368925": "2026-10-14T00:17:48Z",
+  "https://www.sozcu.com.tr/sampiyonlar-ligi-nde-buyuk-surprizler-devler-ligi-nde-gecenin-sonuclari-p368924": "2026-10-13T23:50:45Z",
+  "https://www.sozcu.com.tr/muammer-avci-ahmet-colakoglu-itme-p368916": "2026-10-13T21:59:42Z",
+  "https://www.sozcu.com.tr/uniforma-giyip-askerlerle-dalga-gecti-yaka-paca-gozaltina-alindi-p368914": "2026-10-13T21:35:59Z",
+  "https://www.sozcu.com.tr/bolgede-su-krizi-buyuyor-tuvaletlere-bile-kisitlama-getirdiler-p368911": "2026-10-13T21:21:20Z",
+  "https://www.sozcu.com.tr/balikesir-meclis-ahmet-akin-ali-kemal-deveciler-tartismasi-p368908": "2026-10-13T22:07:41Z",
+  "https://www.sozcu.com.tr/karadeniz-de-gemiye-saldiri-kayip-denizciler-araniyor-p368906": "2026-10-13T20:50:52Z",
+  "https://www.sozcu.com.tr/gokyuzunde-beliren-dev-denizanasi-saskina-cevirdi-p368900": "2026-10-13T20:37:47Z",
+  "https://www.sozcu.com.tr/velayet-annede-bebek-suriye-de-p368898": "2026-10-13T20:18:11Z",
+  "https://halktv.com.tr/ekonomi/piyasalarda-cip-krizi-suruyor-new-york-borsasi-dususle-kapandi-1061566h": "2026-10-14T00:04:39Z",
+  "https://halktv.com.tr/dunya/moskova-tokyo-gerilimi-dinmiyor-japon-gazeteciye-casusluk-suclamasi-1061564h": "2026-10-13T23:07:34Z",
+  "https://halktv.com.tr/siyaset/meclis-oturumunda-gerginlik-belediye-baskanlari-atisti-akpye-gec-de-kurtulalim-senden-1061562h": "2026-10-13T22:06:40Z",
+  "https://halktv.com.tr/dunya/hukumet-eliyle-baslatilan-dev-proje-coktu-tesvikle-ekildi-her-yeri-istila-etti-1061560h": "2026-10-13T21:37:56Z",
+  "https://halktv.com.tr/yasam/14-ekim-burc-yorumlari-beklenmedik-surprizler-kapiyi-caliyor-1061458h": "2026-10-13T21:01:00Z",
+  "https://halktv.com.tr/turkiye/uzman-ogretmen-tazminati-davasinda-karar-cikti-1061555h": "2026-10-13T20:56:21Z",
+  "https://halktv.com.tr/magazin/hulya-avsardan-erkan-petekkayaya-dostane-destek-uzulme-ben-cok-eglendim-1061553h": "2026-10-13T20:48:15Z",
+  "https://halktv.com.tr/dunya/fransada-marketler-alarmda-donduruculara-ikinci-saldiri-1061552h": "2026-10-13T20:40:08Z",
+  "https://halktv.com.tr/turkiye/can-azerbaycan-ile-basortu-krizi-devlet-televizyonu-ve-meclisten-sert-tepki-1061551h": "2026-10-13T20:30:00Z",
+  "https://halktv.com.tr/spor/sinan-engin-aston-villa-fenerbahce-macinin-sonucunu-duyurdu-1061548h": "2026-10-13T20:18:38Z",
+  "https://www.cumhuriyet.com.tr/turkiye/tbb-nin-atesten-koltuguna-kim-oturacak-2546498": "2026-10-14T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/icradan-satisa-cikarilan-ancak-alici-cikmayinca-tki-de-kalan-soma-b-termik-santrali-nde-sorunlar-bitmiyor-bedeli-emekci-oduyor-2546500": "2026-10-14T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/mesem-lere-yonelik-tartismalar-devam-ederken-is-kazalarinin-da-onune-gecilemiyor-bu-yil-4-ogrenci-yasamini-yitirdi-2546502": "2026-10-14T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/aziz-kocaoglu-izmirliler-hizmet-icin-durusundan-vazgecmez-2546513": "2026-10-14T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/ekonomi/maliyetler-nedeniyle-uretim-ve-istihdam-erirken-sanayiciler-uzun-vadeli-destek-istiyor-hazirgiyim-kritik-esikte-2546515": "2026-10-14T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/ekonomi/palamutta-fiyatlari-yukseltmek-icin-ava-ara-cagrisina-tuketici-dernegi-nden-tepki-tuketicinin-gunahi-ne-2546519": "2026-10-14T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/cizerler/igneli-firca-14-ekim-2026-2546520": "2026-10-14T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/cizerler/kim-kime-dum-duma-14-ekim-2026-2546521": "2026-10-14T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/cizerler/cizgilik-14-ekim-2026-2546522": "2026-10-14T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/yazarlar/arif-kizilyalin/kaza-mi-degil-2546476": "2026-10-14T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/yazarlar/evin-ilyasoglu/imza-gununden-izlenimler-2546491": "2026-10-14T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/yazarlar/mustafa-balbay/cevremizde-neler-oluyor-2546470": "2026-10-14T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/yazarlar/oztin-akguc/oneriler-2546477": "2026-10-14T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/gokten-dusen-uc-elma-cigdem-bayraktar-or-2546465": "2026-10-14T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/bireysel-basvuru-hakki-suna-turkoglu-2546466": "2026-10-14T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/chp-nin-tarihsel-mirasi-ve-iktidar-erol-tuncer-2546467": "2026-10-14T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/yazarlar/baris-pehlivan/alin-size-uyusturucu-2546468": "2026-10-14T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/yazarlar/erman-kunter/babus-vefa-2546479": "2026-10-14T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/yazarlar/sinan-meydan/baskent-ankara-cumhuriyet-ve-ingilizler-2546485": "2026-10-14T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/yazarlar/ahmet-suha-umar/son-kullanma-tarihi-2546475": "2026-10-14T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/siyaset/feto-den-hukum-giyen-isme-kiyak-bakanliktan-dikkat-ceken-vergi-karari-2546531": "2026-10-13T22:44:00Z",
+  "https://www.cumhuriyet.com.tr/spor/arsenal-7-dakikada-fisi-cekti-sampiyonlar-ligi-nde-2-de-iki-yapti-2546530": "2026-10-13T22:12:00Z",
+  "https://www.cumhuriyet.com.tr/spor/villarreal-napoli-yi-devirdi-uc-puani-3-golle-aldi-2546529": "2026-10-13T22:07:00Z",
+  "https://www.cumhuriyet.com.tr/siyaset/yavuz-agiralioglu-kamuda-babalar-ve-ogullar-donemine-son-verecegiz-2546525": "2026-10-13T21:54:00Z",
+  "https://www.cumhuriyet.com.tr/spor/10-kisi-kalan-manchester-united-atletico-madrid-e-direnemedi-2546523": "2026-10-13T21:46:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/fransa-da-cinsel-saldiri-ve-istismarla-mucadele-tasarisi-kabul-edildi-2546512": "2026-10-13T21:27:00Z",
+  "https://www.cumhuriyet.com.tr/tv-rehberi/masterchef-te-eleme-adayi-kim-oldu-13-ekim-2026-masterchef-te-dokunulmazligi-hangi-takim-kazandi-2546487": "2026-10-13T21:24:00Z",
+  "https://www.cumhuriyet.com.tr/spor/bayern-munih-e-deplasmanda-celme-viking-90-da-puani-kapti-2546510": "2026-10-13T21:24:00Z",
+  "https://www.cumhuriyet.com.tr/spor/nicolo-tresoldi-nin-hat-trick-inter-kendi-evinde-yikildi-2546509": "2026-10-13T21:17:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/adiyaman-da-otomobil-sarampole-yuvarlandi-3-yarali-2546508": "2026-10-13T21:13:00Z",
+  "https://www.cumhuriyet.com.tr/kitap/yarin-gunlerden-cumhuriyet-kitap-sayi-1913-15-ekim-2026-2546012": "2026-10-13T21:01:00Z",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/tcdd-tasimacilik-a-s-genel-mudurlugu-satin-alma-daire-baskanligi-satin-alma-sube-mudurlugu-2546478": "2026-10-13T21:01:00Z",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-istanbul-4-sulh-hukuk-mahkemesi-2546481": "2026-10-13T21:01:00Z",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-antalya-1-asliye-hukuk-mahkemesi-2546483": "2026-10-13T21:01:00Z",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-elazig-2-sulh-hukuk-mahkemesi-2546484": "2026-10-13T21:01:00Z",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-burhaniye-2-asliye-hukuk-mahkemesi-2546486": "2026-10-13T21:01:00Z",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-tekirdag-2-sulh-hukuk-mahkemesi-2546488": "2026-10-13T21:01:00Z",
+  "https://www.birgun.net/haber/ticaret-bakanligi-ndan-cin-menseli-urune-damping-karari-5-yil-uygulanacak-740279": "2026-10-14T00:05:00Z",
+  "https://www.birgun.net/haber/iski-genel-muduru-safak-basa-bu-donemde-23-kilometreye-yakin-icme-suyu-tuneli-insaatini-tamamladik-740276": "2026-10-13T22:12:00Z",
+  "https://www.birgun.net/makale/a-plus-maclardaki-super-gercekler-740274": "2026-10-13T21:59:00Z",
+  "https://www.birgun.net/haber/merz-yesiller-ve-sosyal-demokrat-parti-ye-sol-parti-ile-hukumet-kurma-gorusmelerini-sonlandirin-demisti-yesille-ve-spd-askiya-alindigini-duyurdu-740271": "2026-10-13T21:31:00Z",
+  "https://www.birgun.net/haber/skandal-sarayin-ayagina-dolandi-740263": "2026-10-13T21:08:00Z",
+  "https://www.birgun.net/haber/egitim-senin-uzman-ogretmen-tazminati-davasinda-lehe-karar-740250": "2026-10-13T20:15:00Z",
+  "https://www.birgun.net/haber/kacirilma-durumu-yayimlamisti-ucagin-haberlesme-sistemi-arizalanmis-740243": "2026-10-13T18:48:00Z",
+  "https://www.evrensel.net/haber/6004819/istifasi-isteniyordu-abdnin-atina-buyukelcisi-guilfoyle-gorevinin-sona-erdigini-duyurdu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-13T21:57:00Z",
+  "https://www.evrensel.net/haber/6004807/bakan-model-anlatti-tarlada-uc-ayda-157-kisi-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-13T21:21:00Z",
+  "https://www.evrensel.net/haber/6004795/beykoz-buyuklugundeki-alan-jeotermal-icin-ihaleye-cikariliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-13T21:16:00Z",
+  "https://www.evrensel.net/haber/6004806/gercekler-diyerek-korku-yayan-sendikacilar-kimin-safinda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-13T21:16:00Z",
+  "https://www.evrensel.net/haber/6004742/mohrun-cocuklari-ve-degismeyen-dunyanin-hikayesi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-13T21:10:00Z",
+  "https://www.evrensel.net/haber/6004801/maliyet-80-tl-satis-40-tl-zeytin-ureticisi-zararina-hasat-yapiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-13T21:10:00Z",
+  "https://www.evrensel.net/haber/6004816/diyarbakir-sehir-hastanesi-santiyesinde-calisan-iscilerin-direnisi-14-gununde-kazanilmis-haklarimizdan-taviz-yok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-13T21:10:00Z",
+  "https://www.evrensel.net/haber/6004812/egitim-senin-uzman-ogretmen-tazminati-davasinda-lehe-karar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-13T20:39:00Z",
+  "https://www.evrensel.net/haber/6004810/atina-da-gencler-sintagma-meydani-na-kamp-kurdu-silahlanmaya-degil-egitime-butce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-13T20:18:00Z",
+  "https://www.evrensel.net/haber/6004802/uefa-sampiyonlar-ligi-nde-2-hafta-gunun-sonuclari-ve-carsamba-programi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-13T18:43:00Z",
+  "https://www.evrensel.net/haber/6004782/ogrenci-ve-isciler-birlikte-sokakta-paris-te-on-binler-yurudu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-13T15:05:00Z",
+  "https://www.karar.com/guncel-haberler/ozur-diledi-ama-yetmedi-15-yasindaki-muratin-hayati-karardi-2078224": "2026-10-13T22:06:33Z",
+  "https://www.karar.com/guncel-haberler/istanbul-havalimani-gunde-kac-ucus-yapiyor-istanbul-havalimani-avrupada-2078222": "2026-10-13T21:48:00Z",
+  "https://www.karar.com/guncel-haberler/6-ay-kidem-dolmadan-ise-iade-davasi-acilir-mi-performans-dusuklugu-2078223": "2026-10-13T22:03:00Z",
+  "https://www.karar.com/ekonomi-haberleri/bank-of-americaya-kara-para-aklamadan-rekor-ceza-12-milyar-dolar-2078221": "2026-10-13T21:30:00Z",
+  "https://www.karar.com/guncel-haberler/evinizde-salterler-inebilir-izmirde-14-15-ekim-elektrik-kesintisi-2078219": "2026-10-13T21:05:02Z",
+  "https://www.karar.com/teknoloji-haberleri/googledan-isim-silme-basvurusu-nasil-yapilir-googleda-cikan-eski-2078220": "2026-10-13T21:17:00Z",
+  "https://www.karar.com/kultur-sanat-haberleri/cocuklugumuzdan-bugune-bir-zaman-makinesi-2078210": "2026-10-13T21:01:00Z",
+  "https://www.karar.com/yazarlar/levent-isik/faiz-indirimleri-yaralara-merhem-olur-mu-1609472": "2026-10-13T21:01:00Z",
+  "https://www.karar.com/yazarlar/yusuf-ziya-comert/bizim-yasagin-aynisi-azeri-sivesiyle-1609473": "2026-10-13T21:01:00Z",
+  "https://www.karar.com/yazarlar/ibrahim-kahveci/ilahi-adalet-isaret-mi-veriyor-1609474": "2026-10-13T21:01:00Z",
+  "https://www.karar.com/yazarlar/mensur-akgun/biz-mi-hizli-gittik-yoksa-olaylar-mi-hizli-gelisti-1609475": "2026-10-13T21:01:00Z",
+  "https://www.karar.com/yazarlar/elif-cakir/maalesef-turk-halkinin-yuzde-70i-bahceliyle-ayni-fikirde-degil-1609476": "2026-10-13T21:01:00Z",
+  "https://www.karar.com/yazarlar/mehmet-ocaktan/islam-dusmani-bir-delinin-ovgusunden-mutlu-olunur-mu-1609477": "2026-10-13T21:01:00Z",
+  "https://www.karar.com/yazarlar/mustafa-cagrici/elestiri-pek-sevilmiyor-bizim-gibi-ulkelerde-1609479": "2026-10-13T21:01:00Z",
+  "https://www.karar.com/yazarlar/senol-kaluc/gercekte-ne-istiyoruz-1609480": "2026-10-13T21:01:00Z",
+  "https://www.karar.com/yazarlar/taneray1/sagimda-zaharof-iskelesi-solumda-ahir-palas-onumde-muhurdar-bahcesi-1609481": "2026-10-13T21:01:00Z",
+  "https://www.karar.com/yazarlar/akif-beki/bir-zamanlar-3y-ile-mucadele-1609482": "2026-10-13T21:01:00Z",
+  "https://www.karar.com/dunya-haberleri/almanyadan-rusyaya-yaptirim-cagrisi-baskilar-artirilsin-2078215": "2026-10-13T20:38:25Z",
+  "https://www.karar.com/guncel-haberler/burak-servi-donald-trump-icin-luletasindan-ozel-pipo-tasarladi-2078214": "2026-10-13T20:34:31Z",
+  "https://www.karar.com/guncel-haberler/310-bin-tlsi-olan-ev-alabilecek-sgkdan-e-devlet-uzerinden-acik-2078213": "2026-10-13T20:19:48Z",
+  "https://www.karar.com/guncel-haberler/musiad-yuksek-istisare-heyeti-baskani-asmalidan-erenkoy-cemaatinin-fon-2078212": "2026-10-13T20:18:00Z",
+  "https://www.yenicaggazetesi.com/turkiyenin-uefa-ulke-puani-belli-oldu-iste-guncel-siralama-1082023h.htm": "2026-10-14T01:03:33Z",
+  "https://www.yenicaggazetesi.com/taksici-evine-biraktigi-musteriyi-vurdu-1082022h.htm": "2026-10-14T00:44:06Z",
+  "https://www.yenicaggazetesi.com/abdnin-dev-bankasina-tarihi-ceza-kara-para-aklama-ve-yaptirim-1082021h.htm": "2026-10-14T00:38:02Z",
+  "https://www.yenicaggazetesi.com/turkiye-ile-italya-arasinda-kazilardan-sergilere-uzanan-kultur-ortakligi-1082019h.htm": "2026-10-14T00:33:39Z",
+  "https://www.yenicaggazetesi.com/openaida-casusluk-iddiasi-suudi-yonetici-gozaltina-alindi-1082018h.htm": "2026-10-14T00:13:09Z",
+  "https://www.yenicaggazetesi.com/yenicag-gazetesi-emeklinin-sorunlarini-sadece-sandik-cozer-1082017h.htm": "2026-10-14T00:08:03Z",
+  "https://www.yenicaggazetesi.com/hurmuz-bogazinda-2-ticari-gemiye-saldiri-1082016h.htm": "2026-10-14T00:03:40Z",
+  "https://www.yenicaggazetesi.com/masterchefte-dengeleri-degistiren-gece-iste-gecenin-en-kritik-kararlari-1082013h.htm": "2026-10-13T23:28:08Z",
+  "https://www.yenicaggazetesi.com/elektrik-akimina-kapilan-66-yasindaki-adam-hayatini-kaybetti-1082012h.htm": "2026-10-13T23:18:37Z",
+  "https://www.yenicaggazetesi.com/ihd-es-genel-baskanlari-oya-ersoy-ve-cihan-aydin-karsta-1082011h.htm": "2026-10-13T23:14:37Z",
+  "https://www.yenicaggazetesi.com/corumda-iki-otomobil-carpisti-4-yarali-1082009h.htm": "2026-10-13T22:43:44Z",
+  "https://www.yenicaggazetesi.com/uefa-sampiyonlar-liginde-2-hafta-ilk-gun-sonuclari-1082008h.htm": "2026-10-13T22:42:11Z",
+  "https://www.yenicaggazetesi.com/agiralioglundan-dikkat-ceken-ifadeler-kamuda-lale-yonetimde-sulale-donemi-1082007h.htm": "2026-10-13T22:31:12Z",
+  "https://www.yenicaggazetesi.com/sincanda-otomobil-takla-atti-1082006h.htm": "2026-10-13T22:26:56Z",
+  "https://www.yenicaggazetesi.com/belediye-meclisinde-baskanlar-birbirine-girdi-ak-partiye-gec-de-kurtulalim-senden-1082005h.htm": "2026-10-13T22:15:21Z",
+  "https://www.yenicaggazetesi.com/duzcede-gece-yarisi-gok-gurultulu-saganak-yagis-basladi-1082002h.htm": "2026-10-13T21:53:23Z",
+  "https://www.yenicaggazetesi.com/trtnin-gelecegin-iletisimcileri-yarismasinda-oduller-sahiplerini-buldu-1082000h.htm": "2026-10-13T21:50:34Z",
+  "https://www.yenicaggazetesi.com/iskiden-avrupa-yakasinin-su-altyapisina-yeni-yatirimlar-1081999h.htm": "2026-10-13T21:48:25Z",
+  "https://www.yenicaggazetesi.com/kozinoglu-dosyasinda-carpici-ifade-osman-sinavi-tehdit-eden-ismi-acikladi-1081998h.htm": "2026-10-13T21:46:14Z",
+  "https://www.yenicaggazetesi.com/21-ulkeye-ihracat-yapan-vinc-ureticisi-iflas-etti-1081996h.htm": "2026-10-13T21:32:46Z",
+  "https://www.yenicaggazetesi.com/fenerbahce-tarfin-euroleaguein-5-haftasinda-zalgiris-kaunasi-99-80-maglup-etti-1081994h.htm": "2026-10-13T21:28:40Z",
+  "https://www.yenicaggazetesi.com/ugurcan-cakirdan-barcelona-maci-sonrasi-dikkat-ceken-sozler-2-0-olsaydi-1081993h.htm": "2026-10-13T21:23:00Z",
+  "https://www.yenicaggazetesi.com/new-york-borsasi-dususle-kapandi-1081991h.htm": "2026-10-13T21:20:56Z",
+  "https://www.yenicaggazetesi.com/elazigda-ogrencilerin-yogun-oldugu-alanlar-denetlendi-1081990h.htm": "2026-10-13T21:19:31Z",
+  "https://www.yenicaggazetesi.com/bm-insan-haklari-konseyinin-15-yeni-uyesi-belli-oldu-1081988h.htm": "2026-10-13T21:16:48Z",
+  "https://www.yenicaggazetesi.com/bilim-insanlarini-sasirtan-kesif-cernobilin-radyoaktif-kalintilari-hala-dayanikli-1081987h.htm": "2026-10-13T21:14:00Z",
+  "https://www.yenicaggazetesi.com/tc-afyonkarahisar-1-asliye-hukuk-mahkemesinden-ilan-1081274h.htm": "2026-10-13T21:01:00Z",
+  "https://www.yenicaggazetesi.com/turkiye-elektrik-dagitim-as-3-bolge-mudurlugunden-kamulastirma-ilani-1081278h.htm": "2026-10-13T21:01:00Z",
+  "https://www.yenicaggazetesi.com/tc-yozgat-3-asliye-hukuk-mahkemesi-1081279h.htm": "2026-10-13T21:01:00Z",
+  "https://www.yenicaggazetesi.com/tc-kars-4-asliye-ceza-mahkemesi-1081282h.htm": "2026-10-13T21:01:00Z",
+  "https://www.yenicaggazetesi.com/tc-kucukcekmece-10-sulh-hukuk-mahkemesi-ilan-1081445h.htm": "2026-10-13T21:01:00Z",
+  "https://www.yenicaggazetesi.com/tc-ergani-sulh-hukuk-mah-satis-memurlugu-1081452h.htm": "2026-10-13T21:01:00Z",
+  "https://www.yenicaggazetesi.com/tarihte-bugun-14-ekim-1081730h.htm": "2026-10-13T21:01:00Z",
+  "https://www.yenicaggazetesi.com/pazarin-dengesi-omur-ustayla-degisti-1081931h.htm": "2026-10-13T21:01:00Z",
+  "https://www.yenicaggazetesi.com/gunun-sorusu-medine-mudafaasi-kime-karsi-yapildi-1081932h.htm": "2026-10-13T21:01:00Z",
+  "https://www.yenicaggazetesi.com/canim-simidim-1081938h.htm": "2026-10-13T21:01:00Z",
+  "https://www.yenicaggazetesi.com/al-sana-enflasyon-1081941h.htm": "2026-10-13T21:01:00Z",
+  "https://www.yenicaggazetesi.com/bartinda-yaya-gecidinde-dehset-otomobilin-carptigi-6-yasindaki-cocuk-agir-yaralandi-1081985h.htm": "2026-10-13T20:44:54Z",
+  "https://kisadalga.net/haber/ozel-haber/corlu-millet-bahcesinde-millet-sadece-yuvarlanabiliyor-140927": "2026-10-13T21:20:00Z",
+  "https://kisadalga.net/haber/ozel-haber/icrypexte-zarar-hala-giderilmedi-magdurlar-varliklarinin-el-salvadordaki-golge-sirkette-kaldigini-soyluyor-140920": "2026-10-13T21:10:00Z",
+  "https://artigercek.com/gozden-kacmasin/evin-mis-gibi-kokmasini-saglayan-bitki-dogal-kokusuyla-butun-evi-ferahlatiyor-351577h": "2026-10-13T20:21:11Z",
+  "https://bianet.org/yazi/saglik-bakanligi-esitsizlikleri-devam-ettirmekte-kararliyiz-324373": "2026-10-13T21:05:00Z",
+  "https://bianet.org/haber/fransa-yuzbinler-liseli-direnisini-surduruyor-sonraki-randevu-17-ekim-de-324388": "2026-10-13T19:58:00Z"
  }
 }
