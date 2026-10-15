@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T18:38:00Z",
+ "updated": "2026-10-15T00:31:31Z",
  "stories": {
   "sermaye-piyasasi-ve-fon-sorusturmasi": {
    "title_tr": "Sermaye Piyasası ve Fon Soruşturması",
@@ -53,12 +53,11 @@
   },
   "terorle-mucadele-ve-operasyonlar": {
    "title_tr": "Terörle Mücadele ve Operasyonlar",
-   "title_en": "Counter-Terrorism and Operations",
-   "summary_tr": "TBMM Başkanı Numan Kurtulmuş, terörle mücadele ve yeni sürece ilişkin değerlendirmelerde bulundu.",
-   "summary_en": "Parliament Speaker Numan Kurtulmuş made evaluations regarding the fight against terrorism and the new process.",
+   "title_en": "Counter-terrorism and operations",
+   "summary_tr": "Güvenlik güçleri tarafından yürütülen uyuşturucu ve terör operasyonlarında çok sayıda şüpheli yakalandı.",
+   "summary_en": "Numerous suspects were apprehended in drug and counter-terrorism operations conducted by security forces.",
    "tags": [
-    "#GüvenlikVeTerör",
-    "#AnayasaVeMeclis"
+    "#GüvenlikVeTerör"
    ]
   },
   "belediyelere-yonelik-operasyonlar": {
@@ -795,12 +794,12 @@
   },
   "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler": {
    "title_tr": "İsrail'in Gazze'ye Saldırıları ve Uluslararası Tepkiler",
-   "title_en": "Israel's Attacks on Gaza and International Reactions",
-   "summary_tr": "İsrail'in Gazze ve çevre bölgelerdeki saldırıları ile bunlara yönelik uluslararası tepkiler sürmektedir.",
-   "summary_en": "Israel's attacks on Gaza and surrounding areas, along with international reactions to them, continue.",
+   "title_en": "Israel's attacks on Gaza and international reactions",
+   "summary_tr": "İsrail'in Gazze ve çevresindeki saldırıları devam ederken BM ve uluslararası toplumdan tepkiler yükseldi.",
+   "summary_en": "While Israel's attacks on Gaza and its surroundings continue, reactions from the UN and the international community have risen.",
    "tags": [
-    "#DışPolitika",
-    "#İnsanHaklarıVeHukuk"
+    "#İnsanHaklarıVeHukuk",
+    "#DışPolitika"
    ]
   },
   "uluslararasi-uzay-kongresi-ve-isbirlikleri": {
@@ -1397,9 +1396,9 @@
   },
   "cumhurbaskani-erdogan-in-10-ekim-mesajlari-ve-gundemi": {
    "title_tr": "Cumhurbaşkanı Erdoğan'ın 10 Ekim mesajları ve gündemi",
-   "title_en": "President Erdoğan's October 10 Messages and Agenda",
-   "summary_tr": "Cumhurbaşkanı Erdoğan, katıldığı bir ödül töreninde mahalle baskısını reddettiklerini vurgulayan mesajlar verdi.",
-   "summary_en": "President Erdoğan, attending an award ceremony, gave messages emphasizing that they reject neighborhood pressure.",
+   "title_en": "President Erdogan's October 10 messages and agenda",
+   "summary_tr": "Cumhurbaşkanı Erdoğan katıldığı etkinliklerde çeşitli konularda mesajlar verirken, uluslararası zirvelere katılım sağladı.",
+   "summary_en": "President Erdogan delivered messages on various topics at events he attended and participated in international summits.",
    "tags": [
     "#İçPolitika"
    ]
@@ -1536,9 +1535,9 @@
   },
   "fenerbahce-aston-villa-maci": {
    "title_tr": "Fenerbahçe - Aston Villa maçı",
-   "title_en": "Fenerbahçe - Aston Villa Match",
-   "summary_tr": "Fenerbahçe, UEFA Şampiyonlar Ligi'nde Aston Villa ile karşılaşacağı maçın hazırlıklarını ve kadro gelişmelerini sürdürdü.",
-   "summary_en": "Fenerbahçe continued its preparations and squad developments for the match against Aston Villa in the UEFA Champions League.",
+   "title_en": "Aston Villa - Fenerbahçe match",
+   "summary_tr": "UEFA Şampiyonlar Ligi kapsamında oynanan Aston Villa - Fenerbahçe maçında Fenerbahçe 6-0 mağlup oldu.",
+   "summary_en": "Fenerbahçe was defeated 6-0 by Aston Villa in the UEFA Champions League match.",
    "tags": [
     "#Spor"
    ]
@@ -1572,9 +1571,9 @@
   },
   "abd-deki-silahli-saldirilar": {
    "title_tr": "ABD'deki silahlı saldırılar",
-   "title_en": "Armed Attacks in the US",
-   "summary_tr": "ABD'de meydana gelen uçak kazası ve benzeri olaylarda can kaybı yaşandı.",
-   "summary_en": "Loss of life occurred in plane crashes and similar incidents in the USA.",
+   "title_en": "Armed attacks in the USA",
+   "summary_tr": "ABD'deki çeşitli saldırılar ve Trump yönetimine dair hukuki gelişmeler gündeme yansıdı.",
+   "summary_en": "Various attacks in the USA and legal developments regarding the Trump administration were reflected in the agenda.",
    "tags": [
     "#DışPolitika"
    ]
@@ -1828,12 +1827,12 @@
   },
   "eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi": {
    "title_tr": "Eski SPK Başkanı İbrahim Ömer Gönül Hakkında Soruşturma İzni verildi",
-   "title_en": "Investigation Permission Granted Regarding Former CMB President İbrahim Ömer Gönül",
-   "summary_tr": "Hazine ve Maliye Bakanı Mehmet Şimşek, eski SPK Başkanı İbrahim Ömer Gönül hakkında soruşturma izni verdi.",
-   "summary_en": "Treasury and Finance Minister Mehmet Şimşek granted permission for an investigation into former CMB President İbrahim Ömer Gönül.",
+   "title_en": "Investigation permission granted for former SPK Chairman Ibrahim Omer Gonul",
+   "summary_tr": "Yatırım fonlarının tasfiyesi ve bazı fon dosyalarıyla ilgili yasal düzenlemeler TBMM Komisyonu'nda kabul edildi.",
+   "summary_en": "Legal regulations regarding the liquidation of investment funds and certain fund files were accepted by the Parliamentary Commission.",
    "tags": [
-    "#AdaletVeYargı",
-    "#EkonomiVePiyasalar"
+    "#EkonomiVePiyasalar",
+    "#AdaletVeYargı"
    ]
   },
   "cumhurbaskani-erdogan-yuksek-mahkeme-baskanlarini-agirladi": {
@@ -2180,12 +2179,11 @@
   },
   "istanbul-da-saganak-yagis-ve-sel-felaketi": {
    "title_tr": "İstanbul'da sağanak yağış ve sel felaketi",
-   "title_en": "Heavy Rainfall and Flood Disaster in Istanbul",
-   "summary_tr": "İstanbul'u etkisi altına alan şiddetli sağanak yağış sel ve su baskınlarına yol açarken, eğitime ara verildiği ve çeşitli önlemler alındığı açıklandı.",
-   "summary_en": "The heavy rainfall affecting Istanbul caused floods and water inundations, while it was announced that education was suspended and various measures were taken.",
+   "title_en": "Heavy rainfall and flash floods in Istanbul",
+   "summary_tr": "İstanbul'da etkili olan aşırı sağanak yağış su baskınlarına, ulaşım aksamalarına, okul tatillerine ve can kayıplarına yol açtı.",
+   "summary_en": "Heavy rainfall in Istanbul caused flooding, transportation disruptions, school closures, and casualties.",
    "tags": [
     "#DepremVeAfet",
-    "#ÇevreVeİklim",
     "#YerelYönetimler"
    ]
   },
@@ -2197,9 +2195,1210 @@
    "tags": [
     "#KültürVeSanat"
    ]
+  },
+  "halk-tv-ye-kayyum-atanmasi-ve-operasyon": {
+   "title_tr": "Halk TV'ye kayyum atanması ve operasyon",
+   "title_en": "Appointment of trustees to Halk TV and operations",
+   "summary_tr": "Halk TV binasına yapılan polis baskını sonrası kanala kayyum atandı; bu gelişme basın ve ifade özgürlüğü tartışmalarına yol açtı.",
+   "summary_en": "Following a police raid on Halk TV, trustees were appointed to the channel, sparking debates on press and freedom of expression.",
+   "tags": [
+    "#MedyaVeİfadeÖzgürlüğü",
+    "#İnsanHaklarıVeHukuk"
+   ]
+  },
+  "arda-guler-in-performansi": {
+   "title_tr": "Arda Güler'in performansı",
+   "title_en": "Arda Guler's performance",
+   "summary_tr": "Arda Güler, Real Madrid formasıyla çıktığı maçlarda attığı goller ve asistlerle takımının geri dönüşünde kilit rol oynadı.",
+   "summary_en": "Arda Guler played a key role in Real Madrid's comeback with his goals and assists in the matches he played.",
+   "tags": [
+    "#Spor"
+   ]
+  },
+  "yemen-deki-husiler-ve-suudi-arabistan": {
+   "title_tr": "Yemen'deki Husiler ve Suudi Arabistan",
+   "title_en": "Houthis in Yemen and Saudi Arabia",
+   "summary_tr": "Husiler, Suudi Arabistan'a ait bir savaş uçağını hedef aldıklarını iddia ederken, Yemen Başbakanı Husilerin eylemlerini savaş suçu olarak niteledi.",
+   "summary_en": "While the Houthis claimed to have targeted a Saudi Arabian fighter jet, the Prime Minister of Yemen described the Houthi actions as war crimes.",
+   "tags": [
+    "#DışPolitika",
+    "#GüvenlikVeTerör"
+   ]
+  },
+  "gazeteci-oya-lale-arslan-hakkinda-tahliye-karari": {
+   "title_tr": "Gazeteci Oya Lale Arslan hakkında tahliye kararı",
+   "title_en": "Release decision for journalist Oya Lale Arslan",
+   "summary_tr": "Gazeteci Oya Lale Arslan hakkında mahkeme tarafından tahliye kararı verildi.",
+   "summary_en": "A release decision was issued by the court for journalist Oya Lale Arslan.",
+   "tags": [
+    "#MedyaVeİfadeÖzgürlüğü",
+    "#AdaletVeYargı"
+   ]
+  },
+  "sampiyonlar-ligi-nde-arda-turan-basarisi": {
+   "title_tr": "Şampiyonlar Ligi'nde Arda Turan başarısı",
+   "title_en": "Arda Turan's success in Champions League",
+   "summary_tr": "Arda Turan'ın yönettiği Shakhtar Donetsk, Şampiyonlar Ligi'nde Stamford Bridge'de galibiyete ulaştı.",
+   "summary_en": "Shakhtar Donetsk, managed by Arda Turan, achieved a victory at Stamford Bridge in the Champions League.",
+   "tags": [
+    "#Spor"
+   ]
+  },
+  "adalet-bakani-akin-gurlek-ten-yeni-anayasa-mesaji": {
+   "title_tr": "Adalet Bakanı Akın Gürlek'ten yeni anayasa mesajı",
+   "title_en": "New constitution message from Justice Minister Akin Gurlek",
+   "summary_tr": "Adalet Bakanı Akın Gürlek, mevcut anayasanın ülkeye dar geldiğini belirterek yeni anayasa çağrısında bulundu.",
+   "summary_en": "Justice Minister Akin Gurlek called for a new constitution, stating that the current one is insufficient for the country.",
+   "tags": [
+    "#AnayasaVeMeclis",
+    "#AdaletVeYargı"
+   ]
+  },
+  "stm-nin-suru-iha-teknolojisi": {
+   "title_tr": "STM’nin sürü İHA teknolojisi",
+   "title_en": "STM's swarm UAV technology",
+   "summary_tr": "STM tarafından geliştirilen sürü İHA sistemleri, Ateş Serbest-2026 tatbikatında başarıyla test edildi.",
+   "summary_en": "Swarm UAV systems developed by STM were successfully tested in the Ates Serbest-2026 exercise.",
+   "tags": [
+    "#SavunmaSanayii"
+   ]
+  },
+  "anadolu-efes-maclari": {
+   "title_tr": "Anadolu Efes maçları",
+   "title_en": "Anadolu Efes matches",
+   "summary_tr": "Anadolu Efes, EuroLeague kapsamında oynadığı maçlarda mağlubiyetler aldı.",
+   "summary_en": "Anadolu Efes suffered defeats in the matches it played within the scope of the EuroLeague.",
+   "tags": [
+    "#Spor"
+   ]
   }
  },
  "articles": [
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-15T02:07:32Z",
+   "title": "Sarıyer'de göle dönen caddede akıntıya kapılmamak için yüzdü",
+   "link": "https://www.cnnturk.com/yerel-haberler/istanbul/sariyerde-gole-donen-caddede-akintiya-kapilmamak-icin-yuzdu-3479509",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-15T02:07:32Z",
+   "title": "Yalova'da olumsuz hava koşulları nedeniyle eğitime 1 gün ara verildi",
+   "link": "https://www.cnnturk.com/yerel-haberler/yalova/armutlu/yalovada-olumsuz-hava-kosullari-nedeniyle-egitime-1-gun-ara-verildi-3479507",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-15T02:07:30Z",
+   "title": "Bursa'da firari hükümlü ile havaya ateş açan arkadaşı gözaltına alındı",
+   "link": "https://www.cnnturk.com/yerel-haberler/bursa/bursada-firari-hukumlu-ile-havaya-ates-acan-arkadasi-gozaltina-alindi-3479510",
+   "image": "",
+   "story": "terorle-mucadele-ve-operasyonlar"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-15T02:07:29Z",
+   "title": "İstanbul'da metro, tramvay ve füniküler hatlarında seferler saat 02.00'ye kadar uzatıldı",
+   "link": "https://www.cnnturk.com/yerel-haberler/istanbul/istanbulda-metro-tramvay-ve-funikuler-hatlarinda-seferler-saat-02-00ye-kadar-uzatildi-3479512",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-15T02:07:28Z",
+   "title": "Yalova'da olumsuz hava koşulları nedeniyle eğitime 1 gün ara verildi",
+   "link": "https://www.cnnturk.com/yerel-haberler/yalova/armutlu/yalovada-olumsuz-hava-kosullari-nedeniyle-egitime-1-gun-ara-verildi-3479513",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-15T02:00:22Z",
+   "title": "Murat Boz ve Demet Özdemir'den yardım çağrısı! İstanbul’da sağanak hayatı felç etti! İşte son durum...",
+   "link": "https://www.cnnturk.com/video/magazin/murat-boz-ve-demet-ozdemirden-yardim-cagrisi-istanbulda-saganak-hayati-felc-etti-iste-son-durum-3479363",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-15T01:17:19Z",
+   "title": "Unai Emery: Fenerbahçe 6 gol yemeyi hak etmedi",
+   "link": "https://www.cnnturk.com/spor/futbol/unai-emery-fenerbahce-6-gol-yemeyi-hak-etmedi-3479413",
+   "image": "",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-15T01:01:27Z",
+   "title": "Aston Villa 6-0 Fenerbahçe Maç Özeti | Temsilcimiz, farklı mağlup",
+   "link": "https://www.cnnturk.com/spor/futbol/live-aston-villa-6-0-fenerbahce-mac-ozeti-temsilcimiz-farkli-maglup-3479029",
+   "image": "",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-15T00:39:17Z",
+   "title": "İsmail Kartal: Böyle bir mağlubiyeti aklımızdan geçirmiyorduk",
+   "link": "https://www.cnnturk.com/spor/futbol/ismail-kartal-boyle-bir-maglubiyeti-aklimizdan-gecirmiyorduk-3479408",
+   "image": "",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-15T00:21:20Z",
+   "title": "KOCAELİ'DE BUGÜN OKULLAR TATİL Mİ? 15 Ekim 2026 Kocaeli'de okullar tatil mi edildi? Kocaeli Valiliği'nden son dakika açıklaması",
+   "link": "https://www.cnnturk.com/turkiye/kocaelide-bugun-okullar-tatil-mi-15-ekim-2026-kocaelide-okullar-tatil-mi-edildi-kocaeli-valiliginden-son-dakika-aciklamasi-3479407",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-15T00:19:09Z",
+   "title": "YALOVA'DA BUGÜN OKULLAR TATİL Mİ? 15 Ekim 2026 Yalova'da okullar tatil mi edildi? Yalova Valiliği'nden son dakika açıklaması",
+   "link": "https://www.cnnturk.com/turkiye/yalovada-bugun-okullar-tatil-mi-15-ekim-2026-yalovada-okullar-tatil-mi-edildi-yalova-valiliginden-son-dakika-aciklamasi-3479406",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-15T00:09:53Z",
+   "title": "41 yıl sonra İstanbul'da rekor yağış: Metrekareye 242 kilogram",
+   "link": "https://www.yenicaggazetesi.com/41-yil-sonra-istanbulda-rekor-yagis-metrekareye-242-kilogram-1082272h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/15/41-yil-sonra-istanbulda-rekor-yagis-metrekareye-242-kilogram-v7cj.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-15T00:02:09Z",
+   "title": "Adalet Bakanı Gürlek'ten yeni anayasa mesajı",
+   "link": "https://www.cnnturk.com/turkiye/adalet-bakani-gurlekten-yeni-anayasa-mesaji-3479405",
+   "image": "",
+   "story": "adalet-bakani-akin-gurlek-ten-yeni-anayasa-mesaji"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-15T00:00:56Z",
+   "title": "Halk TV kapatıldı",
+   "link": "https://www.sozcu.com.tr/halk-tv-kapatildi-p369260",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/877jpg-IIPMLtQgZEanA6i6COJhzA.jpg",
+   "story": "halk-tv-ye-kayyum-atanmasi-ve-operasyon"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-14T23:59:39Z",
+   "title": "YENİÇAĞ Gazetesi: Şafak operasyonuyla Halk TV’ye kayyum",
+   "link": "https://www.yenicaggazetesi.com/yenicag-gazetesi-safak-operasyonuyla-halk-tvye-kayyum-1082271h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/15/yenicag-gazetesi-safak-operasyonuyla-halk-tvye-kayyum-tatk.jpg",
+   "story": "halk-tv-ye-kayyum-atanmasi-ve-operasyon"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-14T23:58:50Z",
+   "title": "Trump'tan Husilere tepki: “Seçimden sonra orada olacağım, unutmayacağım”",
+   "link": "https://www.cnnturk.com/video/dunya/trumptan-husilere-tepki-secimden-sonra-orada-olacagim-unutmayacagim-3479403",
+   "image": "",
+   "story": "yemen-deki-husiler-ve-suudi-arabistan"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-14T23:46:00Z",
+   "title": "Shakhtar Donetsk Teknik Direktörü Arda Turan'dan AEK maçının ardından açıklamalar",
+   "link": "https://haberglobal.com/spor/shakhtar-donetsk-teknik-direktoru-arda-turandan-aek-macinin-ardindan-aciklamalar-548748",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/15/shakhtar-donetsk-teknik-direktoru-arda-turandan-aek-macinin-ardindan-aciklamalar-ttzr.jpg",
+   "story": "sampiyonlar-ligi-nde-arda-turan-basarisi"
+  },
+  {
+   "source": "Milliyet",
+   "group": "progov",
+   "published": "2026-10-14T23:45:58Z",
+   "title": "Fırtına ve sağanak Bursa'yı da vurdu! Dev dalgalar taşları yerinden söktü",
+   "link": "https://www.milliyet.com.tr/gundem/firtina-ve-saganak-bursayi-da-vurdu-dev-dalgalar-taslari-yerinden-soktu-7679966",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ad013caf52f8447c91e70c4.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T23:29:58Z",
+   "title": "ABD'de yargıç, Trump yönetiminin Washington'daki golf sahasında yaptığı ağaç kesimini durdurdu",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-yargic-trump-yonetiminin-washingtondaki-golf-sahasinda-yaptigi-agac-kesimini-durdurdu/4089151",
+   "image": "",
+   "story": "abd-deki-silahli-saldirilar"
+  },
+  {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-14T23:29:00Z",
+   "title": "İstanbul'da bazı noktalarda metrekareye 242 kilogram yağış düştü!",
+   "link": "https://www.dirilispostasi.com/istanbulda-bazi-noktalarda-metrekareye-242-kilogram-yagis-dustu",
+   "image": "https://dpcdn.tebilisim.com/crop/1280x720/uploads/2026/10/thumbs-b-c-360d8644d7fd1916aa0c44e22c3988f1.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-14T23:28:20Z",
+   "title": "Yalova ve Kocaeli'de eğitime 1 gün ara verildi",
+   "link": "https://www.cnnturk.com/turkiye/yalova-ve-kocaelide-egitime-1-gun-ara-verildi-3479401",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-14T23:19:00Z",
+   "title": "İstanbul'daki sel felaketinden acı haber: Ayazağa'da 34 yaşındaki kişi hayatını kaybetti",
+   "link": "https://www.karar.com/guncel-haberler/istanbuldaki-sel-felaketinden-aci-haber-ayazagada-34-yasindaki-kisi-2078460",
+   "image": "https://cdn.karar.com/news/1942088.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Milliyet",
+   "group": "progov",
+   "published": "2026-10-14T23:04:14Z",
+   "title": "SON DAKİKA İSTANBUL: İstanbul'da yarın (15 Ekim Perşembe) okullar tatil edildi",
+   "link": "https://www.milliyet.com.tr/gundem/live-valilikler-pes-pese-duyurdu-6-ilde-okullar-tatil-edildi-7679698",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6acfa482ea5ea19fcfcdde33.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-14T23:04:11Z",
+   "title": "İstanbul'dan acı haber geldi: 2 kişi hayatını kaybetti",
+   "link": "https://www.sozcu.com.tr/saganak-yagmur-degil-ihmal-can-aldi-14-yasindaki-cocuk-elektrik-akimina-kapilarak-hayatini-kaybetti-p369224",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/680jpg-GyZtniHfOkSp78gYzd_FVA.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-14T23:03:46Z",
+   "title": "Trump'ın İran planı basına sızdı: B-2 saldırısının perde arkasını anlattı",
+   "link": "https://www.yenicaggazetesi.com/trumpin-iran-plani-basina-sizdi-b-2-saldirisinin-perde-arkasini-anlatti-1082268h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/15/trumpin-iran-plani-basina-sizdi-b-2-saldirisinin-perde-arkasini-anlatti-gfwj.jpg",
+   "story": "abd-deki-silahli-saldirilar"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T23:03:27Z",
+   "title": "Yemen'deki Husiler, Suudi Arabistan'a ait savaş uçağını hedef aldıklarını ileri sürdü",
+   "link": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistana-ait-savas-ucagini-hedef-aldiklarini-ileri-surdu/4089147",
+   "image": "",
+   "story": "yemen-deki-husiler-ve-suudi-arabistan"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T23:03:22Z",
+   "title": "Bursa Deniz Otobüslerinin 12 seferi olumsuz hava koşulları nedeniyle iptal edildi",
+   "link": "https://www.aa.com.tr/tr/gundem/bursa-deniz-otobuslerinin-12-seferi-olumsuz-hava-kosullari-nedeniyle-iptal-edildi/4089146",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Habertürk",
+   "group": "progov",
+   "published": "2026-10-14T23:02:25Z",
+   "title": "İstanbul'da metrekareye 242 kilogram yağış düştü",
+   "link": "https://www.haberturk.com/gundem/istanbul-da-metrekareye-242-kilogram-yagis-dustu-3919821",
+   "image": "https://im.haberturk.com/l/2026/10/15/ver1792018774/3919821/jpg/1920x1080",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-14T23:02:00Z",
+   "title": "BM’den İsrail’e Gazze tepkisi: İnsani yardımlar engelleniyor",
+   "link": "https://www.dirilispostasi.com/bmden-israile-gazze-tepkisi-insani-yardimlar-engelleniyor",
+   "image": "https://dpcdn.tebilisim.com/crop/1280x720/uploads/2026/10/thumbs-b-c-6e15e5bc3e93809ed0ea89ee6d2efebb.webp",
+   "story": "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-14T23:01:36Z",
+   "title": "İsmail Kartal'dan özür: Kabul edilebilir bir durum değil",
+   "link": "https://www.karar.com/spor-haberleri/ismail-kartaldan-ozur-kabul-edilebilir-bir-durum-degil-2078459",
+   "image": "https://cdn.karar.com/news/1942087.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Milliyet",
+   "group": "progov",
+   "published": "2026-10-14T22:57:57Z",
+   "title": "Kocaeli’de sağanak su baskınlarına neden oldu",
+   "link": "https://www.milliyet.com.tr/gundem/kocaelide-saganak-su-baskinlarina-neden-oldu-7679859",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ad008d7ea5ea19fcfcde3c9.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Star",
+   "group": "progov",
+   "published": "2026-10-14T22:54:00Z",
+   "title": "İstanbul'da rekor kırıldı: Metrekareye 242 kilogram yağış düştü",
+   "link": "https://www.star.com.tr/guncel/istanbulda-rekor-kirildi-metrekareye-242-kilogram-yagis-dustu-haber-2046642/",
+   "image": "https://imgs.star.com.tr/imgsdisk/2026/10/15/istanbulda-rekor-kirildi--856.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Milliyet",
+   "group": "progov",
+   "published": "2026-10-14T22:53:48Z",
+   "title": "1985 yılından bu yana böylesi görülmedi! İstanbul'da sağanak rekoru kırıldı; işte rakamlar",
+   "link": "https://www.milliyet.com.tr/gundem/1985-yilindan-bu-yana-boylesi-gorulmedi-istanbulda-saganak-rekoru-kirildi-iste-rakamlar-7679809",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6acffc8dea5ea19fcfcde2fd.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-14T22:52:20Z",
+   "title": "İstanbul'da sağanak nedeniyle Şile Otoyolu trafiğe kapatıldı! Ulaşım yan yoldan sağlanıyor",
+   "link": "https://www.karar.com/guncel-haberler/istanbulda-saganak-nedeniyle-sile-otoyolu-trafige-kapatildi-ulasim-yan-2078458",
+   "image": "https://cdn.karar.com/news/1942086.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-14T22:52:15Z",
+   "title": "Su taşkını ulaşımı felç etti: Otoyolda trafik aksadı",
+   "link": "https://www.yenicaggazetesi.com/su-taskini-ulasimi-felc-etti-otoyolda-trafik-aksadi-1082267h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/15/su-taskini-ulasimi-felc-etti-otoyolda-trafik-aksadi-p5ps.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-14T22:52:00Z",
+   "title": "DEM Parti’den İstanbul’daki sel felaketi için çağrı: Tüm yetkili kurumlar alarm durumuna geçmeli",
+   "link": "https://www.evrensel.net/haber/6004984/dem-partiden-istanbuldaki-sel-felaketi-icin-cagri-tum-yetkili-kurumlar-alarm-durumuna-gecmeli?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/321493.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Milliyet",
+   "group": "progov",
+   "published": "2026-10-14T22:48:13Z",
+   "title": "Yemen'deki Husiler: Suudi Arabistan'a ait 'Typhoon' tipi savaş uçağı hedef alındı",
+   "link": "https://www.milliyet.com.tr/dunya/yemendeki-husiler-suudi-arabistana-ait-typhoon-tipi-savas-ucagi-hedef-alindi-7679851",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ad00692ea5ea19fcfcde3ba.jpg",
+   "story": "yemen-deki-husiler-ve-suudi-arabistan"
+  },
+  {
+   "source": "Habertürk",
+   "group": "progov",
+   "published": "2026-10-14T22:46:19Z",
+   "title": "İstanbul'da sel 1 can aldı",
+   "link": "https://www.haberturk.com/gundem/istanbul-da-sel-1-can-aldi-3919819",
+   "image": "https://im.haberturk.com/l/2026/10/15/ver1792017881/3919819/jpg/1920x1080",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Ekonomim",
+   "group": "independent",
+   "published": "2026-10-14T22:46:00Z",
+   "title": "İstanbul'u sağanak vurdu: Can kaybı sayısı yükseldi",
+   "link": "https://www.ekonomim.com/gundem/istanbulu-saganak-vurdu-aci-haber-geldi-haberi-924731",
+   "image": "https://img.ekonomim.com/storage/files/images/2026/10/14/istanbulu-saganak-vurdu-aci-haber-geldi-m0pp_cover.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-14T22:45:00Z",
+   "title": "Şile Otoyolu'nda su taşkını ulaşımı durdurdu",
+   "link": "https://www.aksam.com.tr/guncel/sile-otoyolunda-su-taskini-ulasimi-durdurdu/haber-1706295",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/15/sile-otoyolunda-su-taskin-311_2.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Milliyet",
+   "group": "progov",
+   "published": "2026-10-14T22:42:53Z",
+   "title": "B-2 bombardıman uçaklarının planı sızdı, operasyon ertelendi! Trump'tan İran saldırısını sızdıranlara sert tepki: Bu sızıntıyı yapanlar vurulmalı",
+   "link": "https://www.milliyet.com.tr/dunya/b-2-bombardiman-ucaklarinin-plani-sizdi-operasyon-ertelendi-trumptan-iran-saldirisini-sizdiranlara-sert-tepki-bu-sizintiyi-yapanlar-7679848",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ad0046dea5ea19fcfcde3ae.jpg",
+   "story": "abd-deki-silahli-saldirilar"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-14T22:36:41Z",
+   "title": "Bir anlık düşüş, acı son: Selde boğularak can verdi",
+   "link": "https://www.yenicaggazetesi.com/bir-anlik-dusus-aci-son-selde-bogularak-can-verdi-1082266h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/15/bir-anlik-dusus-aci-son-selde-bogularak-can-verdi-90xw.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-14T22:35:01Z",
+   "title": "Ayazağa’da su baskınları ve elektrik kesintisi: Mahalleler karanlığa gömüldü",
+   "link": "https://www.cnnturk.com/turkiye/ayazagada-su-baskinlari-ve-elektrik-kesintisi-mahalleler-karanliga-gomuldu-3479396",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Habertürk",
+   "group": "progov",
+   "published": "2026-10-14T22:31:49Z",
+   "title": "Fon düzenlemesi komisyonda kabul edildi",
+   "link": "https://www.haberturk.com/gundem/fon-duzenlemesi-tbmm-plan-ve-butce-komisyonu-nda-kabul-edildi-3919814",
+   "image": "https://im.haberturk.com/l/2026/10/15/ver1792017074/3919814/jpg/1920x1080",
+   "story": "eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi"
+  },
+  {
+   "source": "Milliyet",
+   "group": "progov",
+   "published": "2026-10-14T22:31:32Z",
+   "title": "İstanbul'da sel can aldı! Ayazağa'da 1 kişi boğularak hayatını kaybetti",
+   "link": "https://www.milliyet.com.tr/gundem/istanbulda-sel-can-aldi-ayazagada-1-kisi-bogularak-hayatini-kaybetti-7679842",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ad002bfea5ea19fcfcde39b.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-14T22:28:00Z",
+   "title": "İstanbul'da sel can aldı: Su birikintisine düşen kişi hayatını kaybetti",
+   "link": "https://www.aksam.com.tr/guncel/istanbulda-sel-can-aldi-su-birikintisine-dusen-kisi-hayatini-kaybetti/haber-1706290",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/15/istanbulda-sel-can-aldi-s-646_2.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-14T22:28:00Z",
+   "title": "Unai Emery: Fenerbahçe 6-0 kaybetmeyi hak etmedi",
+   "link": "https://www.aksam.com.tr/spor/unai-emery-fenerbahce-6-0-kaybetmeyi-hak-etmedi/haber-1706291",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/15/unai-emery-fenerbahce-6-0-605_2.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T22:26:55Z",
+   "title": "Trump, İran'a yönelik bir saldırının zamanlamasını sızdıranların \"vurulması\" gerektiğini savundu",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-irana-yonelik-bir-saldirinin-zamanlamasini-sizdiranlarin-vurulmasi-gerektigini-savundu/4089138",
+   "image": "",
+   "story": "abd-deki-silahli-saldirilar"
+  },
+  {
+   "source": "Habertürk",
+   "group": "progov",
+   "published": "2026-10-14T22:23:26Z",
+   "title": "İzmir'de FETÖ şüphelisi yakalandı",
+   "link": "https://www.haberturk.com/gundem/izmir-de-feto-suphelisi-yakalandi-3919815",
+   "image": "https://im.haberturk.com/l/2026/10/15/ver1792016506/3919815/jpg/1920x1080",
+   "story": "terorle-mucadele-ve-operasyonlar"
+  },
+  {
+   "source": "Star",
+   "group": "progov",
+   "published": "2026-10-14T22:23:00Z",
+   "title": "İsmail Kartal mağlubiyetin ardından konuştu! \"Camiamızdan özür diliyoruz\"",
+   "link": "https://www.star.com.tr/spor/ismail-kartal-maglubiyetin-ardindan-konustu-camiamizdan-ozur-diliyoruz-haber-2046635/",
+   "image": "https://imgs.star.com.tr/imgsdisk/2026/10/15/ismail-kartal-maglubiyeti-856.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Star",
+   "group": "progov",
+   "published": "2026-10-14T22:22:00Z",
+   "title": "Unai Emery: Fenerbahçe 6-0 kaybetmeyi hak etmedi",
+   "link": "https://www.star.com.tr/spor/unai-emery-fenerbahce-6-0-kaybetmeyi-hak-etmedi-haber-2046638/",
+   "image": "https://imgs.star.com.tr/imgsdisk/2026/10/15/unai-emery-fenerbahce-6-0-724.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-14T22:21:00Z",
+   "title": "Fenerbahçe'ye Villa hezimeti",
+   "link": "https://www.aksam.com.tr/spor/fenerbahceye-villa-hezimeti/haber-1706289",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/15/fenerbahceye-villa-hezime-661_2.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-14T22:19:00Z",
+   "title": "Sağanakla perişan olan İstanbul'da ikinci ölüm: Ayazağa'da selde bir kişi hayatını kaybetti",
+   "link": "https://www.evrensel.net/haber/6004982/saganakla-perisan-olan-istanbulda-ikinci-olum-ayazagada-selde-bir-kisi-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/366475.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T22:18:08Z",
+   "title": "Fenerbahçe'nin ağır yenilgisine büyük tepki: \"Bu bir skandal ve rezalet!\"",
+   "link": "https://www.yenisafak.com/galeri/spor/fenerbahcenin-agir-yenilgisine-buyuk-tepki-bu-bir-skandal-ve-rezalet-4864421",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/15/d88eadc4-fenerbahcenin-agir-yenilgisine-buyuk-tepki-bu-bir.webp",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Independent Türkçe",
+   "group": "independent",
+   "published": "2026-10-14T22:16:57Z",
+   "title": "Fenerbahçe, UEFA Şampiyonlar Ligi’nde konuk olduğu Aston Villa’ya 6-0 mağlup oldu",
+   "link": "https://www.indyturk.com/node/783848/spor/fenerbah%C3%A7e-uefa-%C5%9Fampiyonlar-ligi%E2%80%99nde-konuk-oldu%C4%9Fu-aston-villa%E2%80%99ya-6-0-ma%C4%9Flup-oldu",
+   "image": "https://www.indyturk.com/sites/default/files/article/main_image/2026/10/15/1381725-68956206.png",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Gazete Pencere",
+   "group": "independent",
+   "published": "2026-10-14T22:14:26Z",
+   "title": "Futboldan 6-0’ı atalım",
+   "link": "https://www.gazetepencere.com/yazarlar/futboldan-6-0i-atalim-719292h",
+   "image": "https://cdn.gazetepencere.com/news/206767.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Star",
+   "group": "progov",
+   "published": "2026-10-14T22:14:00Z",
+   "title": "Batı Bibi'den ümidi kesti: ABD'li elçi ilk görüşmesini muhalefetle geçekleştirdi",
+   "link": "https://www.star.com.tr/dunya/bati-bibiden-umidi-kesti-abdli-elci-ilk-gorusmesini-muhalefetle-geceklestirdi-haber-2046636/",
+   "image": "https://imgs.star.com.tr/imgsdisk/2026/10/15/bati-bibiden-umidi-kesti--938.jpg",
+   "story": "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T22:12:00Z",
+   "title": "Eski Beşiktaşlı Tammy Abraham'dan 6-0 sonrası kartallı paylaşım!",
+   "link": "https://www.cumhuriyet.com.tr/spor/eski-besiktasli-tammy-abraham-dan-6-0-sonrasi-kartalli-paylasim-2546901",
+   "image": "https://media.cumhuriyet.com.tr/Archive/ecc30d37-252d-49ab-bfa8-46df3cccee7b.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Ekonomim",
+   "group": "independent",
+   "published": "2026-10-14T22:11:00Z",
+   "title": "Gazeteci Oya Lale Arslan hakkında tahliye kararı",
+   "link": "https://www.ekonomim.com/gundem/gazeteci-oya-lale-arslan-hakkinda-tahliye-karari-haberi-924762",
+   "image": "https://img.ekonomim.com/storage/files/images/2026/10/15/gazeteci-oya-lale-arslan-hakkinda-tahliye-karari-xsml_cover.jpg",
+   "story": "gazeteci-oya-lale-arslan-hakkinda-tahliye-karari"
+  },
+  {
+   "source": "Independent Türkçe",
+   "group": "independent",
+   "published": "2026-10-14T22:10:41Z",
+   "title": "Sakarya, Yalova, Zonguldak ve Kocaeli’de eğitime bir gün ara verildi",
+   "link": "https://www.indyturk.com/node/783847/haber/sakarya-yalova-zonguldak-ve-kocaeli%E2%80%99de-e%C4%9Fitime-bir-g%C3%BCn-ara-verildi",
+   "image": "https://www.indyturk.com/sites/default/files/article/main_image/2026/10/15/1381724-1585007599.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-14T22:10:38Z",
+   "title": "İYİ Parti’den dikkat çeken videolu paylaşım: Hedefte kayyım kararı var",
+   "link": "https://www.yenicaggazetesi.com/iyi-partiden-dikkat-ceken-videolu-paylasim-hedefte-kayyim-karari-var-1082264h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/15/iyi-partiden-dikkat-ceken-videolu-paylasim-hedefte-kayyim-karari-var-0e1v.jpg",
+   "story": "halk-tv-ye-kayyum-atanmasi-ve-operasyon"
+  },
+  {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-14T22:10:00Z",
+   "title": "Numan Kurtulmuş: Devletin ilgili kurumları görev başında",
+   "link": "https://www.dirilispostasi.com/numan-kurtulmus-devletin-ilgili-kurumlari-gorev-basinda",
+   "image": "https://dpcdn.tebilisim.com/crop/1280x720/uploads/2026/10/thumbs-b-c-05f97ac8b699373e61f91f2713f6a701.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-14T22:04:43Z",
+   "title": "İstanbul'da sel sularına kapılan kadın son anda kurtarıldı",
+   "link": "https://www.karar.com/guncel-haberler/istanbulda-sel-sularina-kapilan-kadin-son-anda-kurtarildi-2078457",
+   "image": "https://cdn.karar.com/news/1942085.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-14T22:04:15Z",
+   "title": "Yağmur suyu felakete yol açtı: Kablolar bir anda alev aldı",
+   "link": "https://www.yenicaggazetesi.com/yagmur-suyu-felakete-yol-acti-kablolar-bir-anda-alev-aldi-1082263h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/15/yagmur-suyu-felakete-yol-acti-kablolar-bir-anda-alev-aldi-py8p.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-14T22:03:36Z",
+   "title": "Zelenskiy Trump'a sitem etti: Putin ile anlaşma sonrası sessizliğini bozdu",
+   "link": "https://www.sozcu.com.tr/zelenskiy-trump-a-sitem-etti-putin-ile-anlasma-sonrasi-sessizligini-bozdu-p369256",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/trump-zelenskiyjpg-8caWRtPaxUGoqfGiiUmtow.jpg",
+   "story": "abd-deki-silahli-saldirilar"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T22:02:12Z",
+   "title": "İstanbul'da yağışın ardından korkutan olay: Eyüpsultan'da yol çöktü",
+   "link": "https://www.yenisafak.com/galeri/gundem/istanbulda-yagisin-ardindan-korkutan-olay-eyupsultanda-yol-coktu-4864416",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/15/4e4cd123-eyupsultanda-yagis-sirasinda-yol-coktu.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-14T22:01:00Z",
+   "title": "Golf sahası için yüzlerce yıllık ağaçlar kesildi: Trump yönetimine yargı engeli",
+   "link": "https://www.aksam.com.tr/dunya/golf-sahasi-icin-yuzlerce-yillik-agaclar-kesildi-trump-yonetimine-yargi-engeli/haber-1706286",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/15/golf-sahasi-icin-yuzlerce-562_2.jpg",
+   "story": "abd-deki-silahli-saldirilar"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T22:00:00Z",
+   "title": "Sağanağın etkisiyle Kağıthane Deresi taşma noktasına geldi",
+   "link": "https://www.cumhuriyet.com.tr/turkiye/saganagin-etkisiyle-kagithane-deresi-tasma-noktasina-geldi-2546898",
+   "image": "https://media.cumhuriyet.com.tr/Archive/b6aa9025-ad2d-473d-83a5-b7352eb88c55.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-14T21:55:00Z",
+   "title": "ABD'de yargıç, Trump yönetiminin Washington'daki golf sahasında yaptığı ağaç kesimini durdurdu",
+   "link": "https://www.evrensel.net/haber/6004981/abdde-yargic-trump-yonetiminin-washingtondaki-golf-sahasinda-yaptigi-agac-kesimini-durdurdu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/366474.jpg",
+   "story": "abd-deki-silahli-saldirilar"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-14T21:54:00Z",
+   "title": "İstanbul'da metrekareye 242 kg yağış düştü",
+   "link": "https://haberglobal.com/gundem/istanbulda-metrekareye-242-kg-yagis-dustu-548747",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/15/istanbulda-metrekareye-242-kg-yagis-dustu-2hdg.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Gazete Pencere",
+   "group": "independent",
+   "published": "2026-10-14T21:53:40Z",
+   "title": "İsmail Kartal, Aston Villa hezimeti sonrası konuştu: 'Maçın hakkı bu değildi'",
+   "link": "https://www.gazetepencere.com/spor/ismail-kartal-aston-villa-hezimeti-sonrasi-konustu-macin-hakki-bu-degildi-719291h",
+   "image": "https://cdn.gazetepencere.com/news/206766.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T21:53:00Z",
+   "title": "Faciaya ramak kala: Beyoğlu’nda sağanak sonrası elektrik kabloları alev aldı",
+   "link": "https://www.cumhuriyet.com.tr/turkiye/faciaya-ramak-kala-beyoglu-nda-saganak-sonrasi-elektrik-kablolari-alev-aldi-2546891",
+   "image": "https://media.cumhuriyet.com.tr/Archive/33eeba73-c8fa-47ad-bfd1-af9fc9dec878.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-14T21:53:00Z",
+   "title": "Arda Güler'in şovu Mourinho'yu ipten aldı: Real Madrid'ten tarihi geri dönüş",
+   "link": "https://www.yenicaggazetesi.com/arda-gulerin-sovu-mourinhoyu-ipten-aldi-real-madridten-tarihi-geri-donus-1082262h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/15/arda-guler-sovu-mourinhoyu-ipten-aldi-real-madridten-tarihi-geri-donus-iz0h.jpg",
+   "story": "arda-guler-in-performansi"
+  },
+  {
+   "source": "Habertürk",
+   "group": "progov",
+   "published": "2026-10-14T21:51:19Z",
+   "title": "İstanbul'daki sel felaketi için başsağlığı ve geçmiş olsun mesajı",
+   "link": "https://www.haberturk.com/gundem/yilmaz-dan-istanbul-daki-sel-felaketi-icin-bassagligi-ve-gecmis-olsun-mesaji-3919810",
+   "image": "https://im.haberturk.com/l/2026/10/15/ver1792014125/3919810/jpg/1920x1080",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-14T21:50:00Z",
+   "title": "Beyoğlu'nda korkutan anlar: Yağmur suyunun temas ettiği elektrik kabloları alev alev yandı",
+   "link": "https://haberglobal.com/gundem/beyoglunda-korkutan-anlar-yagmur-suyunun-temas-ettigi-elektrik-kablolari-alev-alev-yandi-548745",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/15/beyoglunda-korkutan-anlar-yagmur-suyunun-temas-ettigi-elektrik-kablolari-alev-alev-yandi-8chc.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T21:50:00Z",
+   "title": "İsmail Kartal'dan mağlubiyet açıklaması: 'Maçın hakkı bu değil'",
+   "link": "https://www.cumhuriyet.com.tr/spor/ismail-kartal-dan-maglubiyet-aciklamasi-macin-hakki-bu-degil-2546889",
+   "image": "https://media.cumhuriyet.com.tr/Archive/70207611-5ce5-4972-91e0-dfa991e2bcc5.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-14T21:47:18Z",
+   "title": "İsmail Kartal 6-0'lık maçın ardından özür diledi",
+   "link": "https://www.sozcu.com.tr/ismail-kartal-6-0-lik-macin-ardindan-ozur-diledi-p369252",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/aa202610144275751842757517astonvillafenerbahcejpg-ZHJTz_85hkygPiZJfVs2xw.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-14T21:47:00Z",
+   "title": "İBB: İstanbul'da yağış, 1985'ten bu yana kaydedilen en yüksek değerlerden birine ulaştı",
+   "link": "https://www.evrensel.net/haber/6004980/ibb-istanbulda-yagis-1985ten-bu-yana-kaydedilen-en-yuksek-degerlerden-birine-ulasti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/366473.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T21:46:46Z",
+   "title": "Küçükçekmece’de Nakkaş Deresi yer yer taştı",
+   "link": "https://www.yenisafak.com/gundem/kucukcekmecede-nakkas-deresi-yer-yer-tasti-4864413",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/15/68c6c858-kucukcekmecede-nakkas-deresi-yer-yer-tasti.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T21:46:09Z",
+   "title": "İsmail Kartal 6-0'lık hezimetin sebebini açıkladı: 'Yapmamak gerekiyor'",
+   "link": "https://www.yenisafak.com/spor/ismail-kartal-6-0lik-hezimetin-sebebini-acikladi-yapmamak-gerekiyor-4864412",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/15/e59f04ea-ismail-kartal-6-0lik-hezimetin-sebebini-acikladi-bu.webp",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T21:46:06Z",
+   "title": "BM'den ateşkese rağmen İsrail'in Gazze'de ihlallerinin sürdüğü uyarısı",
+   "link": "https://www.aa.com.tr/tr/dunya/bmden-ateskese-ragmen-israilin-gazzede-ihlallerinin-surdugu-uyarisi/4089116",
+   "image": "",
+   "story": "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T21:45:39Z",
+   "title": "TBMM Başkanı Kurtulmuş'tan İstanbul'daki sağanak yağış dolayısıyla \"geçmiş olsun\" mesajı",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmustan-istanbuldaki-saganak-yagis-dolayisiyla-gecmis-olsun-mesaji/4089114",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-14T21:45:11Z",
+   "title": "İsmail Kartal'dan 6-0'lık mağlubiyet sonrası özür diledi: 'Maçın hakkı bu değli'",
+   "link": "https://www.yenicaggazetesi.com/ismail-kartaldan-6-0lik-maglubiyet-sonrasi-ozur-diledi-macin-hakki-bu-degli-1082261h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/15/ismail-kartaldan-6-0lik-maglubiyet-sonrasi-ozur-diledi-macin-hakki-bu-degli-ykvp.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T21:45:00Z",
+   "title": "Facianın eşiğinden dönüldü: Sel sularına kapılan kadın son anda kurtarıldı",
+   "link": "https://www.cumhuriyet.com.tr/turkiye/facianin-esiginden-donuldu-sel-sularina-kapilan-kadin-son-anda-kurtarildi-2546888",
+   "image": "https://media.cumhuriyet.com.tr/Archive/7885a1f7-d1f6-4fd0-968e-577e394b7e42.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T21:45:00Z",
+   "title": "İstanbul’da yağış mesaisi: Sosyal tesisler sabaha kadar açık kalacak",
+   "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-yagis-mesaisi-sosyal-tesisler-sabaha-kadar-acik-kalacak-2546887",
+   "image": "https://media.cumhuriyet.com.tr/Archive/be09c6f2-2e30-4d3c-97dd-3412aeedaaf6.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeni Akit",
+   "group": "progov",
+   "published": "2026-10-14T21:44:00Z",
+   "title": "Adalet Bakanı Akın Gürlek'ten anayasa mesajı \"1982 Anayasası ülkemize dar gelmektedir\"",
+   "link": "https://www.yeniakit.com.tr/haber/adalet-bakani-akin-gurlekten-anayasa-mesaji-1982-anayasasi-ulkemize-dar-gelmektedir-2028245.html",
+   "image": "",
+   "story": "adalet-bakani-akin-gurlek-ten-yeni-anayasa-mesaji"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-14T21:43:42Z",
+   "title": "Arda Güler Real Madrid'in kaderini değiştirdi! 7 gollü süper maç",
+   "link": "https://www.sozcu.com.tr/arda-guler-real-madrid-in-kaderini-degistirdi-7-gollu-super-mac-p369242",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/aa202610144275755542757544asromarealmadridjpg-mTHEd8nXX0eH93lMbd055Q.jpg",
+   "story": "arda-guler-in-performansi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T21:40:55Z",
+   "title": "Kartal’da sel suları toprağı sürükledi: TEM bağlantı yolu kısmen kapandı",
+   "link": "https://www.yenisafak.com/gundem/kartalda-sel-sulari-topragi-surukledi-tem-baglanti-yolu-kismen-kapandi-4864411",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/15/cec1fd02-kartalda-sel-sulari-topragi-surukledi-tem-baglanti-yolu.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Gazete Pencere",
+   "group": "independent",
+   "published": "2026-10-14T21:40:07Z",
+   "title": "53 ilde turuncu ve sarı kodlu alarm: Bakanlık, Marmara’da şiddetli yağışlar için uyardı",
+   "link": "https://www.gazetepencere.com/gundem/53-ilde-turuncu-ve-sari-kodlu-alarm-bakanlik-marmarada-siddetli-yagislar-icin-719290h",
+   "image": "https://cdn.gazetepencere.com/news/206765.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T21:40:00Z",
+   "title": "Arda Turan'ın ekibi Shakhtar Donetsk, Şampiyonlar Ligi'nde galibiyet ile tanıştı!",
+   "link": "https://www.cumhuriyet.com.tr/spor/arda-turan-in-ekibi-shakhtar-donetsk-sampiyonlar-ligi-nde-galibiyet-ile-tanisti-2546883",
+   "image": "https://media.cumhuriyet.com.tr/Archive/43959586-821c-447c-8fe7-5891a0414720.jpg",
+   "story": "sampiyonlar-ligi-nde-arda-turan-basarisi"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-14T21:39:00Z",
+   "title": "İsmail Kartal, Aston Villa karşılaşmasını değerlendirdi: \"Maçın hakkı bu değildi\"",
+   "link": "https://www.birgun.net/haber/ismail-kartal-aston-villa-karsilasmasini-degerlendirdi-macin-hakki-bu-degildi-740438",
+   "image": "https://static.birgun.net/resim/haber/2026/10/15/ismail-kartal-aston-villa-karsilasmasini-degerlendirdi-macin-hakki-bu-degildi.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T21:37:29Z",
+   "title": "İstanbul'da bazı noktalarda metrekareye 242 kilogram yağış düştü",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-bazi-noktalarda-metrekareye-242-kilogram-yagis-dustu/4089110",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Star",
+   "group": "progov",
+   "published": "2026-10-14T21:37:00Z",
+   "title": "Maçın ardından 'Kartal' paylaşımı: Tammy Abraham'dan Fenerbahçe göndermesi!",
+   "link": "https://www.star.com.tr/spor/macin-ardindan-kartal-paylasimi-tammy-abrahamdan-fenerbahce-gondermesi-haber-2046634/",
+   "image": "https://imgs.star.com.tr/imgsdisk/2026/10/15/macin-ardindan-kartal-pay-309.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-14T21:37:00Z",
+   "title": "İzmir Emek ve Demokrasi Güçleri’nden Halk TV’ye destek: “Haber alma özgürlüğü engellendi\"",
+   "link": "https://www.evrensel.net/haber/6004979/izmir-emek-ve-demokrasi-guclerinden-halk-tvye-destek-haber-alma-ozgurlugu-engellendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/366471.jpg",
+   "story": "halk-tv-ye-kayyum-atanmasi-ve-operasyon"
+  },
+  {
+   "source": "Hürriyet",
+   "group": "progov",
+   "published": "2026-10-14T21:36:37Z",
+   "title": "İsmail Kartal: 'Hakkı bu değildi, kabul edilir değil!'",
+   "link": "https://www.hurriyet.com.tr/sporarena/ismail-kartal-hakki-bu-degildi-kabul-edilir-degil-43342040",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6acff5d5095f332ee17884dc.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-14T21:36:00Z",
+   "title": "Meteoroloji'den yağış alarmı: 48 ilde sarı, 5 ilde turuncu kodlu uyarı",
+   "link": "https://www.evrensel.net/haber/6004978/meteoroloji-den-yagis-alarmi-48-ilde-sari-5-ilde-turuncu-kodlu-uyari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/366470.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-14T21:36:00Z",
+   "title": "İsmail Kartal mağlubiyet sonrası konuştu! \"Bu maçı unutmalıyız\"",
+   "link": "https://www.aksam.com.tr/spor/ismail-kartal-maglubiyet-sonrasi-konustu-bu-maci-unutmaliyiz/haber-1706280",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/15/ismail-kartal-maglubiyet--160_2.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Dünya Gazetesi",
+   "group": "independent",
+   "published": "2026-10-14T21:34:00Z",
+   "title": "Bakan Çiftçi'den vatandaşlara kuvvetli yağış uyarısı",
+   "link": "https://www.dunya.com/gundem/bakan-ciftciden-vatandaslara-kuvvetli-yagis-uyarisi-haberi-843931",
+   "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/11/mustafa-ciftci-gsfa_cover.png",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Independent Türkçe",
+   "group": "independent",
+   "published": "2026-10-14T21:32:55Z",
+   "title": "İçişleri Bakanı Çiftçi'den 53 il için meteorolojik uyarı: Marmara'da çok kuvvetli yağış bekleniyor",
+   "link": "https://www.indyturk.com/node/783846/haber/i%CC%87%C3%A7i%C5%9Fleri-bakan%C4%B1-%C3%A7ift%C3%A7iden-53-il-i%C3%A7in-meteorolojik-uyar%C4%B1-marmarada-%C3%A7ok-kuvvetli",
+   "image": "https://www.indyturk.com/sites/default/files/article/main_image/2026/10/15/1381723-875388681.png",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-14T21:32:00Z",
+   "title": "Soykırımcı Netanyahu'ya ABD'den \"gizli\" darbe... Huckabee, muhalif liderle görüştü",
+   "link": "https://www.aksam.com.tr/dunya/soykirimci-netanyahuya-abdden-gizli-darbe-huckabee-muhalif-liderle-gorustu/haber-1706278",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/15/soykirimci-netanyahuya-ab-540_2.jpg",
+   "story": "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T21:31:46Z",
+   "title": "Yalova'yı sağanak vurdu: Dereler taştı araçlar suda sürüklendi",
+   "link": "https://www.yenisafak.com/gundem/yalovayi-saganak-vurdu-dereler-tasti-araclar-suda-suruklendi-4864407",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/15/14849cd2-yalovayi-saganak-vurdu-dereler-tasti-araclar-suda.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Diken",
+   "group": "opposition",
+   "published": "2026-10-14T21:31:20Z",
+   "title": "Beş ilde eğitime ara verildi",
+   "link": "https://www.diken.com.tr/bes-ilde-egitime-ara-verildi/?utm_source=rss&utm_medium=rss&utm_campaign=bes-ilde-egitime-ara-verildi",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Star",
+   "group": "progov",
+   "published": "2026-10-14T21:31:00Z",
+   "title": "Aston Villa maçında İsmail Kartal'a tepki! Tribünlerden istifa sesleri",
+   "link": "https://www.star.com.tr/spor/aston-villa-macinda-ismail-kartala-tepki-tribunlerden-istifa-sesleri-haber-2046633/",
+   "image": "https://imgs.star.com.tr/imgsdisk/2026/10/15/aston-villa-macinda-ismai-562.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-14T21:30:00Z",
+   "title": "15 bölge barosundan ortak Halk TV açıklaması",
+   "link": "https://www.evrensel.net/haber/6004976/15-bolge-barosundan-ortak-halk-tv-aciklamasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/366333.jpg",
+   "story": "halk-tv-ye-kayyum-atanmasi-ve-operasyon"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-14T21:30:00Z",
+   "title": "Adana Emek ve Demokrasi Platformu: “Halk TV’ye kayyım atanması siyasi müdahaledir”",
+   "link": "https://www.evrensel.net/haber/6004977/adana-emek-ve-demokrasi-platformu-halk-tvye-kayyim-atanmasi-siyasi-mudahaledir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/366469.jpg",
+   "story": "halk-tv-ye-kayyum-atanmasi-ve-operasyon"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-14T21:30:00Z",
+   "title": "Arda Turan'dan Şampiyonlar Ligi'nde bir ilk: Shakhtar Donetsk geriden gelip kazandı",
+   "link": "https://www.yenicaggazetesi.com/arda-turandan-sampiyonlar-liginde-bir-ilk-shakhtar-donetsk-geriden-gelip-kazandi-1082260h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/15/arda-turandan-sampiyonlar-liginde-bir-ilk-shakhtar-donetsk-geriden-gelip-kazandi-5brr.jpg",
+   "story": "sampiyonlar-ligi-nde-arda-turan-basarisi"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-14T21:29:00Z",
+   "title": "Abraham'ın kartal paylaşımı Fenerbahçe taraftarını kızdırdı",
+   "link": "https://haberglobal.com/spor/abrahamin-kartal-paylasimi-fenerbahce-taraftarini-kizdirdi-548744",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/15/abrahamin-kartal-paylasimi-fenerbahce-taraftarini-kizdirdi-nyey.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-14T21:29:00Z",
+   "title": "Fenerbahçe’nin İsmailler sorunu",
+   "link": "https://www.birgun.net/makale/fenerbahcenin-ismailler-sorunu-740433",
+   "image": "https://static.birgun.net/resim/makale/2026/10/15/fenerbahcenin-ismailler-sorunu.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T21:26:53Z",
+   "title": "İstanbul'da rekor sağanak: Beykoz’da bir kişi su basan evinde mahsur kaldı",
+   "link": "https://www.yenisafak.com/gundem/istanbulda-rekor-saganak-beykozda-bir-kisi-su-basan-evinde-mahsur-kaldi-4864404",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/15/9a885cc0-istanbulda-rekor-saganak-beykozda-bir-kisi-su-basan.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T21:25:44Z",
+   "title": "Arda Turanlı Shakhtar Devler Ligi'nde galip: Stamford Bridge'de tarihi gece",
+   "link": "https://www.yenisafak.com/spor/arda-turanli-shakhtar-devler-liginde-galip-stamford-bridgede-tarihi-gece-4864403",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/15/b664784d-arda-turandan-tarihi-galibiyet-shakhtar-devler-liginde.webp",
+   "story": "sampiyonlar-ligi-nde-arda-turan-basarisi"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-14T21:25:00Z",
+   "title": "Meteoroloji uyardı, kritik tarihleri açıkladı: Sel, su baskını ve fırtına riski",
+   "link": "https://www.yenicaggazetesi.com/meteoroloji-uyardi-kritik-tarihleri-acikladi-sel-su-baskini-ve-firtina-riski-1082259h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/15/meteoroloji-uyardi-kritik-tarihleri-acikladi-sel-su-baskini-ve-firtina-riski-ttmm.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-14T21:25:00Z",
+   "title": "İzmir'de bir FETÖ'cü yakalandı",
+   "link": "https://haberglobal.com/gundem/izmirde-bir-fetocu-yakalandi-548743",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/15/izmirde-bir-fetocu-yakalandi-i5mz.jpg",
+   "story": "terorle-mucadele-ve-operasyonlar"
+  },
+  {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-14T21:25:00Z",
+   "title": "Lübnan’ın güneyinde İsrail saldırısı: 1’i çocuk 2 yaralı",
+   "link": "https://www.dirilispostasi.com/lubnanin-guneyinde-israil-saldirisi-1i-cocuk-2-yarali",
+   "image": "https://dpcdn.tebilisim.com/crop/1280x720/uploads/2026/10/thumbs-b-c-960e461fe050a6f199f0e552c8959944.webp",
+   "story": "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-14T21:24:57Z",
+   "title": "Sosyal medya İstanbul'daki bu görüntüyü konuşuyor",
+   "link": "https://www.sozcu.com.tr/sosyal-medya-istanbuldaki-bu-goruntuyu-konusuyor-p369244",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/sosyalmedyaistanbuldakibugoruntuyukonusuyorkapak623f2e730c441966jpg-PBKEBGxnXEuZ_rCBM3jKig.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-14T21:23:00Z",
+   "title": "Aston Villa maçı öncesi yaşanan izdihamda 2 gözaltı",
+   "link": "https://www.dirilispostasi.com/aston-villa-maci-oncesi-yasanan-izdihamda-2-gozalti",
+   "image": "https://dpcdn.tebilisim.com/crop/1280x720/uploads/2026/10/thumbs-b-c-4e382e488dedc2ce0e3bb78196978aff.webp",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-14T21:22:00Z",
+   "title": "İBB açıkladı: İstanbul'da yağış, 1985'ten bu yana kaydedilen en yüksek değerlerden birine ulaştı",
+   "link": "https://www.birgun.net/haber/ibb-acikladi-istanbul-da-yagis-1985-ten-bu-yana-kaydedilen-en-yuksek-degerlerden-birine-ulasti-740429",
+   "image": "https://static.birgun.net/resim/haber/2026/10/15/ibb-acikladi-istanbul-da-yagis-1985-ten-bu-yana-kaydedilen-en-yuksek-degerlerden-birine-ulasti.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-14T21:21:00Z",
+   "title": "Bakan Çiftçi’den meteorolojik uyarı paylaşımı",
+   "link": "https://haberglobal.com/gundem/bakan-ciftciden-meteorolojik-uyari-paylasimi-548742",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/15/bakan-ciftciden-meteorolojik-uyari-paylasimi-r9ez.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-14T21:21:00Z",
+   "title": "Anadolu Efes, Bayern Münih karşısında kaybetti",
+   "link": "https://www.dirilispostasi.com/anadolu-efes-bayern-munih-karsisinda-kaybetti",
+   "image": "https://dpcdn.tebilisim.com/crop/1280x720/uploads/2026/10/thumbs-b-c-cee8667471e4b37093100172a6434bc3.webp",
+   "story": "anadolu-efes-maclari"
+  },
+  {
+   "source": "Hürriyet",
+   "group": "progov",
+   "published": "2026-10-14T21:18:54Z",
+   "title": "Shakhtar Donetsk 3-1 AEK (UEFA Şampiyonlar Ligi) Arda Turan...",
+   "link": "https://www.hurriyet.com.tr/sporarena/shakhtar-donetsk-3-1-aek-uefa-sampiyonlar-ligi-arda-turan-43342022",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6acff1bc095f332ee17884ca.jpg",
+   "story": "sampiyonlar-ligi-nde-arda-turan-basarisi"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-14T21:18:00Z",
+   "title": "Avrupa Türk Gazeteciler Birliği’nden Halk TV operasyonuna tepki: Gazetecilik suç değildir",
+   "link": "https://www.birgun.net/haber/avrupa-turk-gazeteciler-birliginden-halk-tv-operasyonuna-tepki-gazetecilik-suc-degildir-740427",
+   "image": "https://static.birgun.net/resim/haber/2026/10/15/avrupa-turk-gazeteciler-birliginden-halk-tv-operasyonuna-tepki-gazetecilik-suc-degildir.jpg",
+   "story": "halk-tv-ye-kayyum-atanmasi-ve-operasyon"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-14T21:17:31Z",
+   "title": "Arda Turan'ın tarihi gecesi! Şampiyonlar Ligi'nde bir ilki başardı",
+   "link": "https://www.sozcu.com.tr/arda-turan-in-tarihi-gecesi-sampiyonlar-ligi-nde-bir-ilki-basardi-p369243",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/huns5n9wcaabswdjpeg-Dh6q9RAuLkOPAvd06dAPOg.jpeg",
+   "story": "sampiyonlar-ligi-nde-arda-turan-basarisi"
+  },
+  {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-14T21:16:00Z",
+   "title": "Fenerbahçe, Aston Villa karşısında dağıldı",
+   "link": "https://www.dirilispostasi.com/fenerbahce-aston-villa-karsisinda-dagildi",
+   "image": "https://dpcdn.tebilisim.com/crop/1280x720/uploads/2026/10/thumbs-b-c-c541c3db79e3de474c5004d3821fcd42.webp",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T21:15:00Z",
+   "title": "48 ile sarı, 5 ile turuncu kodlu meteorolojik uyarı! 'Marmara'da çok kuvvetli yağış bekleniyor'",
+   "link": "https://www.cumhuriyet.com.tr/turkiye/48-ile-sari-5-ile-turuncu-kodlu-meteorolojik-uyari-marmara-da-cok-kuvvetli-yagis-bekleniyor-2546875",
+   "image": "https://media.cumhuriyet.com.tr/Archive/d4f0895b-9fd4-4bf0-bace-234d7e9056af.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-14T21:14:00Z",
+   "title": "İstanbul’da sağanak KYK yurtlarını da etkiledi: Yemekhaneleri su bastı",
+   "link": "https://www.evrensel.net/haber/6004975/istanbulda-saganak-kyk-yurtlarini-da-etkiledi-yemekhaneleri-su-basti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/366466.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-14T21:13:00Z",
+   "title": "Arda Turan, Stamford Bridge’te tarihe geçti",
+   "link": "https://www.dirilispostasi.com/arda-turan-stamford-bridgete-tarihe-gecti",
+   "image": "https://dpcdn.tebilisim.com/crop/1280x720/uploads/2026/10/thumbs-b-c-85c3cbd841cfac6ff01ccb604b82f04b.webp",
+   "story": "sampiyonlar-ligi-nde-arda-turan-basarisi"
+  },
   {
    "source": "CNN Türk",
    "group": "progov",
@@ -2208,6 +3407,78 @@
    "link": "https://www.cnnturk.com/magazin/son-dakika-murat-boz-ve-demet-ozdemirden-yardim-cagrisi-mahsur-kaldik-3479363",
    "image": "",
    "story": "ilginiz"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T21:11:27Z",
+   "title": "FETÖ şüphelisi operasyonla yakalandı",
+   "link": "https://www.yenisafak.com/gundem/feto-suphelisi-operasyonla-yakalandi-4864398",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/15/f29b8a2b-feto-suphelisi-operasyonla-yakalandi.webp",
+   "story": "terorle-mucadele-ve-operasyonlar"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T21:11:18Z",
+   "title": "Aston Villa-Fenerbahçe maçı öncesi yaşanan izdihamda 2 Türk taraftar gözaltına alındı",
+   "link": "https://www.aa.com.tr/tr/spor/aston-villa-fenerbahce-maci-oncesi-yasanan-izdihamda-2-turk-taraftar-gozaltina-alindi/4089107",
+   "image": "",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T21:11:00Z",
+   "title": "15 barodan Halk TV’ye kayyım atanmasına ortak tepki: ‘Basın ve ifade özgürlüğüne doğrudan müdahaledir’",
+   "link": "https://www.cumhuriyet.com.tr/turkiye/15-barodan-halk-tv-ye-kayyim-atanmasina-ortak-tepki-basin-ve-ifade-ozgurlugune-dogrudan-mudahaledir-2546871",
+   "image": "https://media.cumhuriyet.com.tr/Archive/f704672f-e95c-49ea-940e-831500c8971e.jpg",
+   "story": "halk-tv-ye-kayyum-atanmasi-ve-operasyon"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T21:11:00Z",
+   "title": "İzmir’de FETÖ operasyonu: 1 gözaltı",
+   "link": "https://www.cumhuriyet.com.tr/siyaset/izmir-de-feto-operasyonu-1-gozalti-2546872",
+   "image": "https://media.cumhuriyet.com.tr/Archive/d38447c7-7e7a-4807-bb66-b78dc16013b6.jpg",
+   "story": "terorle-mucadele-ve-operasyonlar"
+  },
+  {
+   "source": "Dünya Gazetesi",
+   "group": "independent",
+   "published": "2026-10-14T21:10:00Z",
+   "title": "İstanbul'da olumsuz hava ulaşımı vurdu: 43 uçak inemedi",
+   "link": "https://www.dunya.com/gundem/istanbulda-olumsuz-hava-ulasimi-vurdu-43-ucak-inemedi-haberi-843930",
+   "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/02/ucak-yolcusu-ad4z_cover.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Gazete Pencere",
+   "group": "independent",
+   "published": "2026-10-14T21:09:20Z",
+   "title": "Arda Güler oyuna girdi; Real Madrid'i ipten aldı: Roma'da unutulmaz geri dönüş",
+   "link": "https://www.gazetepencere.com/spor/arda-guler-oyuna-girdi-real-madridi-ipten-aldi-romada-unutulmaz-geri-donus-719289h",
+   "image": "https://cdn.gazetepencere.com/news/206764.jpg",
+   "story": "arda-guler-in-performansi"
+  },
+  {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-14T21:09:00Z",
+   "title": "İstanbul’daki uçuşlarda aksama: Bakanlıktan açıklama",
+   "link": "https://www.dirilispostasi.com/istanbuldaki-ucuslarda-aksama-bakanliktan-aciklama",
+   "image": "https://dpcdn.tebilisim.com/crop/1280x720/uploads/2026/10/thumbs-b-c-6701e18b9c7c63883f5ee7c380a1290c-1.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Dünya Gazetesi",
+   "group": "independent",
+   "published": "2026-10-14T21:08:00Z",
+   "title": "Sağanak ve fırtına alarmı: 5 ilde eğitime ara verildi",
+   "link": "https://www.dunya.com/gundem/saganak-ve-firtina-alarmi-5-ilde-egitime-ara-verildi-haberi-843929",
+   "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/15/saganak-yagmur-f9hy_cover.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
   },
   {
    "source": "CNN Türk",
@@ -2237,6 +3508,132 @@
    "story": "fenerbahce-aston-villa-maci"
   },
   {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T21:04:00Z",
+   "title": "Arda Güler yıldızlaştı: Real Madrid'den Roma'da müthiş geri dönüş!",
+   "link": "https://www.cumhuriyet.com.tr/spor/arda-guler-yildizlasti-real-madrid-den-roma-da-muthis-geri-donus-2546868",
+   "image": "https://media.cumhuriyet.com.tr/Archive/ab410a70-fae6-470e-9726-1f5bbabd1bde.jpg",
+   "story": "arda-guler-in-performansi"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T21:02:34Z",
+   "title": "Teknik direktör Arda Turan'dan Stamford Bridge'te tarihi başarı",
+   "link": "https://www.aa.com.tr/tr/spor/teknik-direktor-arda-turandan-stamford-bridgete-tarihi-basari/4089097",
+   "image": "",
+   "story": "sampiyonlar-ligi-nde-arda-turan-basarisi"
+  },
+  {
+   "source": "Ekonomim",
+   "group": "independent",
+   "published": "2026-10-14T21:02:00Z",
+   "title": "İstanbul'da hava ulaşımı aksadı: 46 uçak rotasını değiştirdi",
+   "link": "https://www.ekonomim.com/havacilik/istanbulda-hava-ulasimi-aksadi-46-ucak-rotasini-degistirdi-haberi-924738",
+   "image": "https://img.ekonomim.com/storage/files/images/2026/10/15/istanbulda-hava-ulasimi-aksadi-46-ucak-rotasini-degistirdi-gypk_cover.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-14T21:02:00Z",
+   "title": "Sağanak yurdu etkisi altına aldı: İllerde okullar peş peşe tatil edildi",
+   "link": "https://www.yenicaggazetesi.com/saganak-yurdu-etkisi-altina-aldi-illerde-okullar-pes-pese-tatil-edildi-1082258h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/15/saganak-yurdu-etkisi-altina-aldi-illerde-okullar-pes-pese-tatil-edildi-qlvy.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-14T21:02:00Z",
+   "title": "Arda Güler, Roma'da maçı çevirdi: 4-3",
+   "link": "https://haberglobal.com/spor/mac-ozeti-roma-3-4-real-madrid-arda-guler-maci-cevirdi-548739",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/15/mac-ozeti-roma-3-4-real-madrid-arda-guler-maci-cevirdi-2upa.jpg",
+   "story": "arda-guler-in-performansi"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T21:02:00Z",
+   "title": "İsrail’de Intel’in çip fabrikasında patlama: 1 işçi öldü, 2 ağır yaralı",
+   "link": "https://www.cumhuriyet.com.tr/dunya/israil-de-intel-in-cip-fabrikasinda-patlama-1-isci-oldu-2-agir-yarali-2546867",
+   "image": "https://media.cumhuriyet.com.tr/Archive/9d7e56f8-87c9-40e9-8676-be6f6ef03fda.jpg",
+   "story": "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T21:01:56Z",
+   "title": "'İhanete uğradım' diyen Zelenski’den Trump'a tepki: Diğer tarafı seçmesi acı verici",
+   "link": "https://www.yenisafak.com/dunya/ihanete-ugradim-diyen-zelenskiden-trumpa-tepki-diger-tarafi-secmesi-aci-verici-4864397",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/dc85800c-ihanete-ugradim-diyen-zelenskiden-trumpa-tepki-diger.webp",
+   "story": "abd-deki-silahli-saldirilar"
+  },
+  {
+   "source": "Diken",
+   "group": "opposition",
+   "published": "2026-10-14T21:01:44Z",
+   "title": "Altı ile turuncu, 42 ile sarı kodlu uyarı",
+   "link": "https://www.diken.com.tr/alti-ile-turuncu-42-ile-sari-kodlu-uyari/?utm_source=rss&utm_medium=rss&utm_campaign=alti-ile-turuncu-42-ile-sari-kodlu-uyari",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T21:01:06Z",
+   "title": "İsrail'in ateşkese rağmen Lübnan'ın güneyine düzenlediği saldırılarda 1'i çocuk 2 kişi yaralandı",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-ateskese-ragmen-lubnanin-guneyine-duzenledigi-saldirilarda-1i-cocuk-2-kisi-yaralandi/4089096",
+   "image": "",
+   "story": "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-14T21:01:00Z",
+   "title": "HALK TV susturuldu: Türkiye’yi şoke eden şafak baskını... Polis ekipleri televizyon binasını bastı, kayyum yönetimi devraldı",
+   "link": "https://www.karar.com/guncel-haberler/halk-tv-susturuldu-turkiyeyi-soke-eden-safak-baskini-polis-ekipleri-2078442",
+   "image": "https://cdn.karar.com/news/1942057.jpg",
+   "story": "halk-tv-ye-kayyum-atanmasi-ve-operasyon"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-14T21:01:00Z",
+   "title": "Vurguncuya lekelenmeme hakkı Halk TV'ye kayyumlar",
+   "link": "https://www.karar.com/yazarlar/akif-beki/vurguncuya-lekelenmeme-hakki-halk-tvye-kayyumlar-1609484",
+   "image": "https://cdn.karar.com/author/69_b.jpg",
+   "story": "halk-tv-ye-kayyum-atanmasi-ve-operasyon"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-14T21:01:00Z",
+   "title": "Medyayı susturmak neye yarar?",
+   "link": "https://www.karar.com/yazarlar/mustafa-karaalioglu/medyayi-susturmak-neye-yarar-1609490",
+   "image": "https://cdn.karar.com/author/1_b.jpg",
+   "story": "halk-tv-ye-kayyum-atanmasi-ve-operasyon"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-14T21:01:00Z",
+   "title": "Yemen’de neler oluyor?  Türk askeri gidecek mi?",
+   "link": "https://www.karar.com/yazarlar/ibrahim-kiras/yemende-neler-oluyor-turk-askeri-gidecek-mi-1609488",
+   "image": "https://cdn.karar.com/author/22_b.jpg",
+   "story": "yemen-deki-husiler-ve-suudi-arabistan"
+  },
+  {
+   "source": "Dünya Gazetesi",
+   "group": "independent",
+   "published": "2026-10-14T21:00:00Z",
+   "title": "“350 bin fon sahibinin net yatırımı ödenecek”",
+   "link": "https://www.dunya.com/ekonomi/350-bin-fon-sahibinin-net-yatirimi-odenecek-haberi-843878",
+   "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/14/fon-komisyonu-y5x0_cover.jpg",
+   "story": "eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi"
+  },
+  {
    "source": "CNN Türk",
    "group": "progov",
    "published": "2026-10-14T20:58:53Z",
@@ -2244,6 +3641,33 @@
    "link": "https://www.cnnturk.com/ekonomi/cilgin-sayisal-loto-sonuclari-14-ekim-2026-cilgin-sayisal-loto-sonuclari-aciklandi-mi-saat-kacta-aciklanir-767-milyon-tl-buyuk-ikramiye-3479359",
    "image": "",
    "story": "ilginiz"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-14T20:58:03Z",
+   "title": "Aston Villa-Fenerbahçe maçında İsmail Kartal istifa sesleri! Sarı-lacivertli taraftar ağır yenilginin faturasını kesti",
+   "link": "https://www.sozcu.com.tr/aston-villa-fenerbahce-macinda-ismail-kartal-istifa-sesleri-sari-lacivertli-taraftar-agir-yenilginin-p369238",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/habergorseli6acfe95cf37d802ff304c2a6png-x8IpKQgPzUGzTQlCWNImMg.png",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Yeni Akit",
+   "group": "progov",
+   "published": "2026-10-14T20:58:00Z",
+   "title": "Bakanlıktan İstanbul'daki uçuşlara ilişkin açıklama",
+   "link": "https://www.yeniakit.com.tr/haber/ulastirma-ve-altyapi-bakanligindan-istanbuldaki-ucuslara-iliskin-aciklama-2028242.html",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-14T20:57:35Z",
+   "title": "Meteorolojiden 48 il için sarı ve turuncu kodlu uyarı",
+   "link": "https://www.sozcu.com.tr/meteorolojiden-48-il-icin-sari-ve-turuncu-kodlu-uyari-p369241",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/meteorolojiden-46-il-icin-sari-ve-turuncu-kodlu-uyari-jpg-wyi-YuPCSEGi5M_aqa-YbQ.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
   },
   {
    "source": "CNN Türk",
@@ -2255,6 +3679,33 @@
    "story": "fenerbahce-aston-villa-maci"
   },
   {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-14T20:57:00Z",
+   "title": "Bursa'da firari hükümlü ve havaya ateş açan arkadaşı gözaltına alındı",
+   "link": "https://haberglobal.com/gundem/bursada-firari-hukumlu-ve-havaya-ates-acan-arkadasi-gozaltina-alindi-548738",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/14/bursada-firari-hukumlu-ve-havaya-ates-acan-arkadasi-gozaltina-alindi-va2d.jpg",
+   "story": "terorle-mucadele-ve-operasyonlar"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-14T20:56:00Z",
+   "title": "İstanbul'da hava trafiğine sağanak engeli: 43 uçak İstanbul Havalimanı'na inemedi",
+   "link": "https://www.sozcu.com.tr/istanbul-da-hava-trafigine-saganak-engeli-43-ucak-istanbul-havalimani-na-inemedi-p369239",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/istanbuljpg-sYh07_lFBkCMJDUH99N7rg.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T20:55:55Z",
+   "title": "Arda Güler'den 2 asist: Real Madrid'den tarihi geri dönüş",
+   "link": "https://www.yenisafak.com/spor/video-arda-gulerden-2-asist-real-madridden-tarihi-geri-donus-4864395",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/1fcf2f60-1awg91l8f7kh79jkvqf7c1e.webp",
+   "story": "arda-guler-in-performansi"
+  },
+  {
    "source": "CNN Türk",
    "group": "progov",
    "published": "2026-10-14T20:54:12Z",
@@ -2262,6 +3713,132 @@
    "link": "https://www.cnnturk.com/turkiye/istanbulda-saganak-ne-zaman-bitecek-prof-dr-orhan-senden-kritik-uyari-3479374",
    "image": "",
    "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T20:53:00Z",
+   "title": "Metro ve tramvay saatleri uzatıldı mı? 14-15 Ekim Metro hattında son sefer saat kaçta?",
+   "link": "https://www.cumhuriyet.com.tr/turkiye/metro-ve-tramvay-saatleri-uzatildi-mi-14-15-ekim-metro-hattinda-son-sefer-saat-kacta-2546864",
+   "image": "https://media.cumhuriyet.com.tr/Archive/ebab4fd7-a657-4d3b-b7fd-e5a67b583266.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-14T20:53:00Z",
+   "title": "İstanbul'da 41 yılın yağış rekoru: 7 bin ihbar geldi",
+   "link": "https://www.karar.com/guncel-haberler/istanbulda-41-yilin-rekoru-yagis-7-bin-ihbar-geldi-2078451",
+   "image": "https://cdn.karar.com/news/1942082.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Ekonomim",
+   "group": "independent",
+   "published": "2026-10-14T20:53:00Z",
+   "title": "Fenerbahçe, Aston Villa karşısında farklı mağlup oldu",
+   "link": "https://www.ekonomim.com/spor/fenerbahce-aston-villa-karsisinda-farkli-maglup-oldu-haberi-924736",
+   "image": "https://img.ekonomim.com/storage/files/images/2026/10/14/fenerbahce-aston-villa-karsisinda-farkli-maglup-oldu-kndk_cover.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-14T20:53:00Z",
+   "title": "Fenerbahçe İngiltere'de dağıldı: Aston Villa gol oldu yağdı, tribunden istifa sesleri",
+   "link": "https://www.karar.com/spor-haberleri/fenerbahce-ingilterede-dagildi-aston-villa-gol-oldu-yagdi-tribunden-2078452",
+   "image": "https://cdn.karar.com/news/1942069.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-14T20:51:00Z",
+   "title": "İstanbul’da yağış bilançosu ağır oldu: 1 can kaybı, binlerce ihbar",
+   "link": "https://haberglobal.com/gundem/istanbulda-yagis-bilancosu-agir-oldu-1-can-kaybi-binlerce-ihbar-548737",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/14/istanbulda-yagis-bilancosu-agir-oldu-1-can-kaybi-binlerce-ihbar-qk89.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "TRT Haber",
+   "group": "progov",
+   "published": "2026-10-14T20:51:00Z",
+   "title": "Fenerbahçe İngiltere'de farklı mağlup oldu",
+   "link": "https://www.trthaber.com/haber/gundem/fenerbahce-ingilterede-farkli-maglup-oldu-960132.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2494000/fenerbahce-aa-2495829.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-14T20:51:00Z",
+   "title": "Fenerbahçe deplasmanda dağıldı: 6-0",
+   "link": "https://www.birgun.net/haber/fenerbahce-deplasmanda-dagildi-6-0-740418",
+   "image": "https://static.birgun.net/resim/haber/2026/10/14/fenerbahce-deplasmanda-dagildi-6-0.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-14T20:50:14Z",
+   "title": "Fenerbahçe’nin kabus gecesi! Sarı-lacivertliler İngiltere deplasmanında dağıldı",
+   "link": "https://www.sozcu.com.tr/fenerbahce-nin-kabus-gecesi-sari-lacivertliler-ingiltere-deplasmaninda-dagildi-p369175",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/aa202610144275684742756846astonvillafenerbahcejpg-ageQOKRgq06piZGM0ZHxvw.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T20:50:09Z",
+   "title": "Ulaştırma ve Altyapı Bakanlığından İstanbul'daki uçuşlarda yaşanan aksamalara ilişkin açıklama",
+   "link": "https://www.aa.com.tr/tr/gundem/ulastirma-ve-altyapi-bakanligindan-istanbuldaki-ucuslarda-yasanan-aksamalara-iliskin-aciklama/4089083",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-14T20:50:00Z",
+   "title": "Adalet Bakanı Akın Gürlek'ten 'yeni Anayasa' çağrısı: Anayasa ülkemize dar gelmektedir",
+   "link": "https://www.birgun.net/haber/adalet-bakani-akin-gurlek-ten-yeni-anayasa-cagrisi-anayasa-ulkemize-dar-gelmektedir-740419",
+   "image": "https://static.birgun.net/resim/haber/2026/10/14/adalet-bakani-akin-gurlek-ten-yeni-anayasa-cagrisi-anayasa-ulkemize-dar-gelmektedir.jpg",
+   "story": "adalet-bakani-akin-gurlek-ten-yeni-anayasa-mesaji"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T20:49:49Z",
+   "title": "Fenerbahçe, Aston Villa deplasmanında darmadağın",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-aston-villa-deplasmaninda-darmadagin/4089082",
+   "image": "",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Diken",
+   "group": "opposition",
+   "published": "2026-10-14T20:49:00Z",
+   "title": "İstanbul'da sağanak bilançosu: 1277 su baskını, 15 heyelan, bir ölüm",
+   "link": "https://www.diken.com.tr/istanbulda-saganak-bilancosu-1277-su-baskini-15-heyelan-bir-olum/?utm_source=rss&utm_medium=rss&utm_campaign=istanbulda-saganak-bilancosu-1277-su-baskini-15-heyelan-bir-olum",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Dünya Gazetesi",
+   "group": "independent",
+   "published": "2026-10-14T20:49:00Z",
+   "title": "Fenerbahçe’den Şampiyonlar Ligi’nde 6-0’lık hezimet",
+   "link": "https://www.dunya.com/spor/fenerbahceden-sampiyonlar-liginde-6-0lik-hezimet-haberi-843928",
+   "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/14/fenerbahce-vgmc_cover.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Diken",
+   "group": "opposition",
+   "published": "2026-10-14T20:48:48Z",
+   "title": "Fenerbahçe, Aston Villa'ya 6-0 mağlup oldu",
+   "link": "https://www.diken.com.tr/fenerbahce-aston-villaya-6-0-maglup-oldu/?utm_source=rss&utm_medium=rss&utm_campaign=fenerbahce-aston-villaya-6-0-maglup-oldu",
+   "image": "",
+   "story": "fenerbahce-aston-villa-maci"
   },
   {
    "source": "CNN Türk",
@@ -2273,6 +3850,114 @@
    "story": "ilginiz"
   },
   {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T20:48:00Z",
+   "title": "Fenerbahçe Villa Park'ta darmadağın: 6-0 (ÖZET)",
+   "link": "https://www.yenisafak.com/spor/aston-villa-6-0-fenerbahce-mac-ozeti-izle-video-4864329",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/9fcb3372-aston-villa-fenerbahce-canli-izle-canli-sonuc.webp",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-14T20:48:00Z",
+   "title": "Fenerbahçe, Aston Villa karşısında dağıldı",
+   "link": "https://haberglobal.com/spor/mac-ozeti-aston-villa-6-0-fenerbahce-sampiyonlar-ligi-548727",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/14/canli-yayin-aston-villa-fenerbahce-maci-xg1n.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T20:44:37Z",
+   "title": "Su birikintisindeki elektrik akımına kapılarak hayatını kaybetmişti: Acı gerçek ortaya çıktı",
+   "link": "https://www.yenisafak.com/gundem/su-birikintisindeki-elektrik-akimina-kapilarak-hayatini-kaybetmisti-aci-gercek-ortaya-cikti-4864394",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/4ddf38fe-su-birikintisindeki-elektrik-akimina-kapilarak-hayatini.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T20:44:33Z",
+   "title": "İletişim Başkanı Duran'dan İstanbul ve Antalya'da sağanaktan olumsuz etkilenenlere \"geçmiş olsun\" mesajı",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-istanbul-ve-antalyada-saganaktan-olumsuz-etkilenenlere-gecmis-olsun-mesaji/4089074",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T20:44:17Z",
+   "title": "Anadolu Efes sahasında Bayern Münih'e 101-93 mağlup oldu",
+   "link": "https://www.aa.com.tr/tr/spor/anadolu-efes-sahasinda-bayern-munihe-101-93-maglup-oldu/4089073",
+   "image": "",
+   "story": "anadolu-efes-maclari"
+  },
+  {
+   "source": "Yeni Akit",
+   "group": "progov",
+   "published": "2026-10-14T20:44:00Z",
+   "title": "Sağanak İstanbul'da hava ulaşımını da vurdu! Şiddetli yağış nedeniyle 43 uçak pist pas geçti!",
+   "link": "https://www.yeniakit.com.tr/haber/saganak-istanbulda-hava-ulasimini-da-vurdu-siddetli-yagis-nedeniyle-43-ucak-pist-pas-gecti-2028240.html",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Gazete Pencere",
+   "group": "independent",
+   "published": "2026-10-14T20:42:05Z",
+   "title": "Hava trafiğine yağış engeli: 43 uçak İstanbul Havalimanı'na inemedi",
+   "link": "https://www.gazetepencere.com/gundem/hava-trafigine-yagis-engeli-43-ucak-istanbul-havalimanina-inemedi-719286h",
+   "image": "https://cdn.gazetepencere.com/news/206759.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-14T20:42:00Z",
+   "title": "Zelenskiy: Trump'ın diğer tarafı seçmesi acı verici, güçlü bir ortağımızı kaybediyoruz",
+   "link": "https://www.evrensel.net/haber/6004973/zelenskiy-trumpin-diger-tarafi-secmesi-aci-verici-guclu-bir-ortagimizi-kaybediyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/366464.jpg",
+   "story": "abd-deki-silahli-saldirilar"
+  },
+  {
+   "source": "NTV",
+   "group": "independent",
+   "published": "2026-10-14T20:41:48Z",
+   "title": "Su birikintisinde elektrik akımına kapılan çocuk hayatını kaybetti",
+   "link": "https://www.ntv.com.tr/turkiye/video-su-birikintisinde-elektrik-akimina-kapilan-cocuk-hayatini-kaybetti-1746348",
+   "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-10-14234021-506917.png",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeni Akit",
+   "group": "progov",
+   "published": "2026-10-14T20:41:00Z",
+   "title": "Nevzat Demir Tesisleri yolunda araçlar suya gömüldü",
+   "link": "https://www.yeniakit.com.tr/haber/nevzat-demir-tesisleri-yolunda-araclar-suya-gomuldu-2028239.html",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Bianet",
+   "group": "opposition",
+   "published": "2026-10-14T20:41:00Z",
+   "title": "İstanbul'u sel aldı: 1.277 su baskını, bir ölüm, 15 heyelan, binlerce yardım çağrısı",
+   "link": "https://bianet.org/haber/istanbul-u-sel-aldi-1-277-su-baskini-bir-olum-15-heyelan-binlerce-yardim-cagrisi-324426",
+   "image": "https://static.bianet.org/haber/2026/10/15/istanbul-u-sel-aldi-1-277-su-baskini-15-heyelan-binlerce-yardim-cagrisi.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T20:39:00Z",
+   "title": "İstanbul'da hava trafiğine sağanak engeli: 43 uçak İstanbul Havalimanı'na inemedi",
+   "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-hava-trafigine-saganak-engeli-43-ucak-istanbul-havalimani-na-inemedi-2546860",
+   "image": "https://media.cumhuriyet.com.tr/Archive/3323e783-6e5a-4d3a-a277-921a2003198c.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
    "source": "CNN Türk",
    "group": "progov",
    "published": "2026-10-14T20:35:11Z",
@@ -2282,12 +3967,210 @@
    "story": "cumhurbaskanligi-yuksek-istisare-kurulu-toplandi"
   },
   {
+   "source": "Yeni Akit",
+   "group": "progov",
+   "published": "2026-10-14T20:35:00Z",
+   "title": "İstanbul’da gece ulaşımına sağanak ayarı!",
+   "link": "https://www.yeniakit.com.tr/haber/istanbulda-gece-ulasimina-saganak-ayari-cok-sayida-hatta-seferler-0200ye-kadar-uzatildi-2028238.html",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "NTV",
+   "group": "independent",
+   "published": "2026-10-14T20:34:01Z",
+   "title": "43 uçak İstanbul Havalimanı'na inemedi",
+   "link": "https://www.ntv.com.tr/turkiye/43-ucak-istanbul-havalimanina-inemedi-1746346",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_c1630804bf07a2e8bcc1b3c27bad881e-471170.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-14T20:30:14Z",
+   "title": "Gazeteci Oya Lale Arslan hakkında tahliye kararı",
+   "link": "https://www.yenicaggazetesi.com/gazeteci-oya-lale-arslan-hakkinda-tahliye-karari-1082257h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/14/gazeteci-oya-lale-arslan-hakkinda-tahliye-karari-s5an.jpg",
+   "story": "gazeteci-oya-lale-arslan-hakkinda-tahliye-karari"
+  },
+  {
+   "source": "A Haber",
+   "group": "progov",
+   "published": "2026-10-14T20:29:06Z",
+   "title": "İstanbul'da hava trafiğine fırtına engeli! 43 uçak İstanbul Havalimanı'na inemedi",
+   "link": "https://www.ahaber.com.tr/gundem/2026/10/14/istanbulda-hava-trafigine-firtina-engeli-43-ucak-istanbul-havalimanina-inemedi",
+   "image": "https://iaahbr.tmgrup.com.tr/06f8a0/1200/1200/230/0/949/720?u=https://iahbr.tmgrup.com.tr/2026/10/14/1792009548717.png",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-14T20:29:00Z",
+   "title": "Valilikler peş peşe açıklıyor: Eğitime sağanak engeli!",
+   "link": "https://www.birgun.net/haber/valilikler-pes-pese-acikliyor-egitime-saganak-engeli-740417",
+   "image": "https://static.birgun.net/resim/haber/2026/10/14/siddetli-yagis-egitimi-vurdu-valilikler-pes-pese-duyurdu-3-kentte-okullar-tatil.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-14T20:28:19Z",
+   "title": "İstanbul'da metrolara yağış düzenlemesi: 2'ye kadar çalışacak",
+   "link": "https://www.karar.com/guncel-haberler/istanbulda-metrolara-yagis-duzenlemesi-2ye-kadar-calisacak-2078448",
+   "image": "https://cdn.karar.com/news/1942066.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Gazete Pencere",
+   "group": "independent",
+   "published": "2026-10-14T20:27:12Z",
+   "title": "İstanbul'un ardından iki ilde daha eğitime 1 gün ara",
+   "link": "https://www.gazetepencere.com/gundem/istanbulun-ardindan-iki-ilde-daha-egitime-1-gun-ara-719285h",
+   "image": "https://cdn.gazetepencere.com/news/206758.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T20:26:16Z",
+   "title": "Pendik'te sağanak alt geçitleri göle çevirdi: Minibüs suda mahsur kaldı",
+   "link": "https://www.yenisafak.com/video/gundem/pendikte-saganak-alt-gecitleri-gole-cevirdi-minibus-suda-mahsur-kaldi-4864392",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/a9ec1df0-pendikte-saganak-alt-gecitleri-gole-cevirdi-minibus-suda.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeni Akit",
+   "group": "progov",
+   "published": "2026-10-14T20:26:00Z",
+   "title": "İstanbul'dan korkunç görüntü",
+   "link": "https://www.yeniakit.com.tr/haber/istanbuldan-korkunc-goruntu-2028237.html",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T20:24:58Z",
+   "title": "Hazine ve Maliye Bakan Yardımcısı Hatipoğlu: Fon dosyası kapsamında MASAK 29 farklı ülkeden 48 ayrı talepte bulundu",
+   "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakan-yardimcisi-hatipoglu-fon-dosyasi-kapsaminda-masak-29-farkli-ulkeden-48-ayri-talepte-bulundu/4089049",
+   "image": "",
+   "story": "eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi"
+  },
+  {
    "source": "CNN Türk",
    "group": "progov",
    "published": "2026-10-14T20:24:43Z",
    "title": "Sakarya Karasu'da 1 okul yarın tatil edildi",
    "link": "https://www.cnnturk.com/turkiye/sakarya-karasuda-1-okul-yarin-tatil-edildi-3479371",
    "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Diken",
+   "group": "opposition",
+   "published": "2026-10-14T20:22:49Z",
+   "title": "İstanbul'da altı üniversite eğitime ara verdi",
+   "link": "https://www.diken.com.tr/istanbulda-alti-universite-egitime-ara-verdi/?utm_source=rss&utm_medium=rss&utm_campaign=istanbulda-alti-universite-egitime-ara-verdi",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T20:20:35Z",
+   "title": "Bakan Kurum'dan İstanbul'daki sağanaktan olumsuz etkilenenlere \"geçmiş olsun\" mesajı",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurumdan-istanbuldaki-saganaktan-olumsuz-etkilenenlere-gecmis-olsun-mesaji/4089047",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T20:20:00Z",
+   "title": "Avrupa Türk Gazeteciler Birliği’nden 'Halk TV' tepkisi",
+   "link": "https://www.cumhuriyet.com.tr/siyaset/avrupa-turk-gazeteciler-birligi-nden-halk-tv-tepkisi-2546854",
+   "image": "https://media.cumhuriyet.com.tr/Archive/7665fe9a-05cd-44e8-a61a-67c5e7503e7a.jpg",
+   "story": "halk-tv-ye-kayyum-atanmasi-ve-operasyon"
+  },
+  {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-14T20:20:00Z",
+   "title": "SPK denetiminde fon tasfiyesi düzenlemesi kabul edildi!",
+   "link": "https://www.dirilispostasi.com/spk-denetiminde-fon-tasfiyesi-duzenlemesi-kabul-edildi",
+   "image": "https://dpcdn.tebilisim.com/crop/1280x720/uploads/2026/10/thumbs-b-c-f6bdff9d1eabc66af86879a13a9d725f.webp",
+   "story": "eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi"
+  },
+  {
+   "source": "Yeni Akit",
+   "group": "progov",
+   "published": "2026-10-14T20:19:00Z",
+   "title": "Marmara’da sel ve sağanak kabusu büyüyor! İstanbul’un ardından 3 ilde daha okullar tatil edildi!",
+   "link": "https://www.yeniakit.com.tr/haber/istanbuldan-sonra-2-kentte-daha-okullar-tatil-edildi-2028235.html",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "A Haber",
+   "group": "progov",
+   "published": "2026-10-14T20:17:21Z",
+   "title": "İstanbul'da sağanak yağışta son durum ne? Vali Davut Gül A Haber'de açıkladı: Zorunlu olmadıkça trafiğe çıkmayın",
+   "link": "https://www.ahaber.com.tr/gundem/2026/10/14/istanbulda-saganak-yagista-son-durum-ne-vali-davut-gul-a-haberde-acikladi",
+   "image": "https://iaahbr.tmgrup.com.tr/6c1369/1200/1200/0/0/456/456?u=https://iahbr.tmgrup.com.tr/2026/10/14/istanbulda-saganak-yagista-son-durum-ne-vali-davut-gul-a-haberde-aciklad-1792008661206.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T20:16:00Z",
+   "title": "Sağanak sonrası Bakan Kurum’dan açıklama",
+   "link": "https://www.cumhuriyet.com.tr/turkiye/saganak-sonrasi-bakan-kurum-dan-aciklama-2546852",
+   "image": "https://media.cumhuriyet.com.tr/Archive/0de8b2cc-5ea8-409a-b1fb-d266f30f49b8.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T20:14:22Z",
+   "title": "Fenerbahçelileri kızdıran sevinç: UEFA bu harekete ceza ver!",
+   "link": "https://www.yenisafak.com/spor/fenerbahcelileri-kizdiran-sevinc-uefa-bu-harekete-ceza-ver-4864390",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/64c287e4-nksvy2n8h6okhzptr4qz2c.webp",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-14T20:14:00Z",
+   "title": "15 Ekim Perşembe günü hangi illerde okullar tatil?",
+   "link": "https://www.evrensel.net/haber/6004972/15-ekim-persembe-gunu-hangi-illerde-okullar-tatil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/366461.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T20:12:00Z",
+   "title": "Gazeteci Oya Lale Arslan hakkında tahliye kararı",
+   "link": "https://www.cumhuriyet.com.tr/turkiye/gazeteci-oya-lale-arslan-hakkinda-tahliye-karari-2546850",
+   "image": "https://media.cumhuriyet.com.tr/Archive/88444811-afd8-4d47-a407-668c50f5ef28.jpg",
+   "story": "gazeteci-oya-lale-arslan-hakkinda-tahliye-karari"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-14T20:11:00Z",
+   "title": "Muş'ta midesinde uyuşturucu bulunan 3 zanlı yakalandı",
+   "link": "https://haberglobal.com/gundem/musta-midesinde-uyusturucu-bulunan-3-zanli-yakalandi-548736",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/14/musta-midesinde-uyusturucu-bulunan-3-zanli-yakalandi-7wrs.jpg",
+   "story": "terorle-mucadele-ve-operasyonlar"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-14T20:10:00Z",
+   "title": "Sağanak nedeniyle birçok ilde okullar tatil edildi: Valiliklerden peş peşe açıklamalar",
+   "link": "https://haberglobal.com/gundem/saganak-nedeniyle-bircok-ilde-okullar-tatil-edildi-valiliklerden-pes-pese-aciklamalar-548735",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/14/yalovada-okullar-1-gun-tatil-edildi-hmae.jpg",
    "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
   },
   {
@@ -2309,6 +4192,69 @@
    "story": "ilginiz"
   },
   {
+   "source": "Gazete Pencere",
+   "group": "independent",
+   "published": "2026-10-14T20:08:28Z",
+   "title": "Gazeteci Oya Lale Arslan hakkında tahliye kararı",
+   "link": "https://www.gazetepencere.com/medya/gazeteci-oya-lale-arslan-hakkinda-tahliye-karari-719284h",
+   "image": "https://cdn.gazetepencere.com/news/206757.jpg",
+   "story": "gazeteci-oya-lale-arslan-hakkinda-tahliye-karari"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T20:08:00Z",
+   "title": "Anadolu Efes'e Bayern Münih çelmesi! Üst üste 3. yenilgi...",
+   "link": "https://www.cumhuriyet.com.tr/spor/anadolu-efes-e-bayern-munih-celmesi-ust-uste-3-yenilgi-2546849",
+   "image": "https://media.cumhuriyet.com.tr/Archive/b388425e-ae5e-416e-85e0-62a94793536c.jpg",
+   "story": "anadolu-efes-maclari"
+  },
+  {
+   "source": "Artı Gerçek",
+   "group": "opposition",
+   "published": "2026-10-14T20:07:53Z",
+   "title": "Gazeteci Oya Lale Arslan tahliye edildi",
+   "link": "https://artigercek.com/guncel/gazeteci-oya-lale-arslan-tahliye-edildi-351627h",
+   "image": "https://image.artigercek.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/14/gazeteci-oya-lale-arslan-tahliye-edildi-m0nu.jpg",
+   "story": "gazeteci-oya-lale-arslan-hakkinda-tahliye-karari"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-14T20:06:00Z",
+   "title": "Avrupa Türk Gazeteciler Birliği’nden Halk TV operasyonuna tepki: Gazetecilik suç değildir",
+   "link": "https://www.evrensel.net/haber/6004971/avrupa-turk-gazeteciler-birliginden-halk-tv-operasyonuna-tepki-gazetecilik-suc-degildir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/366460.jpg",
+   "story": "halk-tv-ye-kayyum-atanmasi-ve-operasyon"
+  },
+  {
+   "source": "Gazete Pencere",
+   "group": "independent",
+   "published": "2026-10-14T20:05:06Z",
+   "title": "YENİ Parti’nin Halk TV önergesi AK Parti ve MHP oylarıyla reddedildi",
+   "link": "https://www.gazetepencere.com/gundem/yeni-partinin-halk-tv-onergesi-ak-parti-ve-mhp-oylariyla-reddedildi-719283h",
+   "image": "https://cdn.gazetepencere.com/news/206756.jpg",
+   "story": "halk-tv-ye-kayyum-atanmasi-ve-operasyon"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-14T20:04:36Z",
+   "title": "Anadolu Efes EuroLeague'de üst üste 3. yenilgisini aldı",
+   "link": "https://www.yenicaggazetesi.com/anadolu-efes-93-101-bayern-munih-euroleaguede-ust-uste-ucuncu-maglubiyet-1082256h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/14/anadolu-efes-93-101-bayern-munih-euroleaguede-ust-uste-ucuncu-maglubiyet-okyi.jpg",
+   "story": "anadolu-efes-maclari"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T20:03:59Z",
+   "title": "Arnavutköy'de su basan binada yüzen yılan cep telefonuyla görüntülendi",
+   "link": "https://www.yenisafak.com/video/gundem/arnavutkoyde-su-basan-binada-yuzen-yilan-cep-telefonuyla-goruntulendi-4864387",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/d0d6e0d3-00w4jfafnt3fyxs73gmltb.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
    "source": "CNN Türk",
    "group": "progov",
    "published": "2026-10-14T20:03:57Z",
@@ -2316,6 +4262,60 @@
    "link": "https://www.cnnturk.com/saglik/uzmanlar-uyardi-meme-kanserinde-dogru-bilinen-yanlislar-3479369",
    "image": "",
    "story": "ilginiz"
+  },
+  {
+   "source": "Yeni Akit",
+   "group": "progov",
+   "published": "2026-10-14T20:03:00Z",
+   "title": "Ayazağa’da sel dehşeti! İETT otobüsü sulara gömüldü, vatandaşlar otobüsün üzerine sığındı!",
+   "link": "https://www.yeniakit.com.tr/haber/ayazagada-sel-dehseti-iett-otobusu-sulara-gomuldu-vatandaslar-otobusun-uzerine-sigindi-2028230.html",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-14T20:03:00Z",
+   "title": "İstanbul'da yağış hayatı felç etti: Sanatçı Nazan Öncel de mahsur kaldı",
+   "link": "https://www.birgun.net/haber/istanbul-da-yagis-hayati-felc-etti-sanatci-nazan-oncel-de-mahsur-kaldi-740416",
+   "image": "https://static.birgun.net/resim/haber/2026/10/14/istanbul-da-yagis-hayati-felc-etti-sanatci-nazan-oncel-de-mahsur-kaldi.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeni Akit",
+   "group": "progov",
+   "published": "2026-10-14T20:02:00Z",
+   "title": "Bakan Kurum'dan İstanbul için \"geçmiş olsun\" mesajı",
+   "link": "https://www.yeniakit.com.tr/haber/bakan-murat-kurumdan-istanbul-icin-gecmis-olsun-mesaji-2028229.html",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-14T20:01:27Z",
+   "title": "Fenerbahçe'nin yıldızına İngiltere'de protesto! Top ayağına her geldiğinde yuhalandı",
+   "link": "https://www.sozcu.com.tr/fenerbahce-nin-yildizina-ingiltere-de-protesto-top-ayagina-her-geldiginde-yuhalandi-p369235",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/aa202610144275673442756724astonvillafenerbahcejpg-EgeF2Zxt0EqpZjY9NPBoJQ.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Independent Türkçe",
+   "group": "independent",
+   "published": "2026-10-14T20:01:24Z",
+   "title": "İstanbul’da sağanak ve fırtına: 14 yaşındaki çocuk elektrik akımına kapılarak hayatını kaybetti",
+   "link": "https://www.indyturk.com/node/783844/i%CC%87stanbul%E2%80%99da-sa%C4%9Fanak-ve-f%C4%B1rt%C4%B1na-14-ya%C5%9F%C4%B1ndaki-%C3%A7ocuk-elektrik-ak%C4%B1m%C4%B1na-kap%C4%B1larak-hayat%C4%B1n%C4%B1",
+   "image": "https://www.indyturk.com/sites/default/files/article/main_image/2026/10/14/1381721-1343041443.png",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T20:00:00Z",
+   "title": "YENİ Parti’nin Halk TV’ye kayyım atanmasıyla ilgili verdiği araştırma önergesi AKP ve MHP oylarıyla reddedildi: AKP'li ismin sözlerine sert yanıt!",
+   "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-parti-nin-halk-tv-ye-kayyim-atanmasiyla-ilgili-verdigi-arastirma-onergesi-akp-ve-mhp-oylariyla-reddedildi-akp-li-ismin-sozlerine-sert-yanit-2546848",
+   "image": "https://media.cumhuriyet.com.tr/Archive/a42aaec9-efd6-4452-9f33-a77004c32e70.jpg",
+   "story": "halk-tv-ye-kayyum-atanmasi-ve-operasyon"
   },
   {
    "source": "CNN Türk",
@@ -2327,6 +4327,204 @@
    "story": "fenerbahce-aston-villa-maci"
   },
   {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T19:59:00Z",
+   "title": "Yalova, Kocaeli, Zonguldak ve Sakarya'da eğitime 1 gün ara verildi",
+   "link": "https://www.cumhuriyet.com.tr/turkiye/yalova-ve-kocaeli-de-egitime-1-gun-ara-verildi-2546847",
+   "image": "https://media.cumhuriyet.com.tr/Archive/514d726f-b9ce-41e1-9217-921f7f8afc45.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T19:58:31Z",
+   "title": "İsrail ordusu işgal altındaki Selfit'te Filistin Kızılay binası ile devlet hastanesine baskın yaptı",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-isgal-altindaki-selfitte-filistin-kizilay-binasi-ile-devlet-hastanesine-baskin-yapti/4089035",
+   "image": "",
+   "story": "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler"
+  },
+  {
+   "source": "Hürriyet",
+   "group": "progov",
+   "published": "2026-10-14T19:56:00Z",
+   "title": "Aston Villa maçında Vedat Muriqi'nin 30 dakikası olay oldu: Fırsatları tepti, hata yaptı!",
+   "link": "https://www.hurriyet.com.tr/sporarena/aston-villa-macinda-vedat-muriqinin-30-dakikasi-olay-oldu-firsatlari-tepti-hata-yapti-43341941",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6acfdf67095f332ee1788471.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Artı Gerçek",
+   "group": "opposition",
+   "published": "2026-10-14T19:55:21Z",
+   "title": "İstanbul'da bazı üniversiteler yarın tatil edildi",
+   "link": "https://artigercek.com/guncel/istanbulda-bazi-universiteler-yarin-tatil-edildi-351626h",
+   "image": "https://image.artigercek.com/rcman/Cw150h84q95gc/storage/files/images/2026/09/18/universitelere-surec-vurgulu-17-maddelik-talimat-istihbarata-agirlik-verilecek-egvg.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Ekonomim",
+   "group": "independent",
+   "published": "2026-10-14T19:55:00Z",
+   "title": "İstanbul'un ardından iki ilde daha eğitime ara verildi",
+   "link": "https://www.ekonomim.com/gundem/istanbulun-ardindan-bir-ilde-daha-egitime-ara-verildi-haberi-924735",
+   "image": "https://img.ekonomim.com/storage/files/images/2026/10/14/istanbulun-ardindan-bir-ilde-daha-egitime-ara-verildi-sbnj_cover.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T19:53:34Z",
+   "title": "Bazı illerde sağanak nedeniyle eğitime ara verildi",
+   "link": "https://www.aa.com.tr/tr/gundem/bazi-illerde-saganak-nedeniyle-egitime-ara-verildi/4089031",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-14T19:53:00Z",
+   "title": "İstanbul'da gece ulaşımına yağış düzenlemesi: Sefer saatleri uzatıldı",
+   "link": "https://www.yenicaggazetesi.com/istanbulda-gece-ulasimina-yagis-duzenlemesi-sefer-saatleri-uzatildi-1082255h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/14/istanbulda-gece-ulasimina-yagis-duzenlemesi-sefer-saatleri-uzatildi-ojgy.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-14T19:53:00Z",
+   "title": "Gazeteci Oya Lale Arslan hakkında tahliye kararı",
+   "link": "https://www.evrensel.net/haber/6004970/gazeteci-oya-lale-arslan-hakkinda-tahliye-karari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/361446.jpg",
+   "story": "gazeteci-oya-lale-arslan-hakkinda-tahliye-karari"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-14T19:52:45Z",
+   "title": "Antalya’da sağanak felaketi: Araçlar sürüklendi, seralar zarar gördü",
+   "link": "https://www.sozcu.com.tr/antalya-da-saganak-felaketi-araclar-suruklendi-seralar-zarar-gordu-p369234",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/antalya-seljpg-eyooxpLmWU_W2BmK6k6B9Q.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Bianet",
+   "group": "opposition",
+   "published": "2026-10-14T19:52:00Z",
+   "title": "Dünyadan Halk TV'ye el konulmasına tepki: “Medya özgürlüğü yalnızca bir anı olacak”",
+   "link": "https://bianet.org/haber/dunyadan-halk-tv-ye-el-konulmasina-tepki-medya-ozgurlugu-yalnizca-bir-ani-olacak-324425",
+   "image": "https://static.bianet.org/haber/2026/10/14/dunyadan-halk-tv-ye-el-konulmasina-tepki-medya-ozgurlugu-yalnizca-bir-ani-olacak.jpg",
+   "story": "halk-tv-ye-kayyum-atanmasi-ve-operasyon"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-14T19:52:00Z",
+   "title": "Gazeteci Oya Lale Arslan hakkında tahliye kararı",
+   "link": "https://www.birgun.net/haber/gazeteci-oya-lale-arslan-hakkinda-tahliye-karari-740415",
+   "image": "https://static.birgun.net/resim/haber/2026/10/14/gazeteci-oya-lale-arslan-hakkinda-tahliye-karari.jpg",
+   "story": "gazeteci-oya-lale-arslan-hakkinda-tahliye-karari"
+  },
+  {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-14T19:52:00Z",
+   "title": "Trump duyurdu: İki yarı iletken tesisi için 21 milyar dolar",
+   "link": "https://www.dirilispostasi.com/trump-duyurdu-iki-yari-iletken-tesisi-icin-21-milyar-dolar",
+   "image": "https://dpcdn.tebilisim.com/crop/1280x720/uploads/2026/10/thumbs-b-c-9b0d219e7cc014a902d88b41fd65d5fa.webp",
+   "story": "abd-deki-silahli-saldirilar"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T19:50:14Z",
+   "title": "Kocaeli'de yarın okullar tatil mi? Valilikten son dakika açıklama",
+   "link": "https://www.yenisafak.com/gundem/kocaelide-yarin-okullar-tatil-mi-valilikten-son-dakika-aciklama-4864386",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/430de868-kocaelide-yarin-okullar-tatil-mi-valilikten-son-dakika.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-14T19:50:00Z",
+   "title": "İstanbul'un ardından 5 ilde daha okullar tatil edildi",
+   "link": "https://www.karar.com/guncel-haberler/istanbulun-ardindan-yalovada-da-okullar-tatil-edildi-2078445",
+   "image": "https://cdn.karar.com/news/1942065.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-14T19:50:00Z",
+   "title": "Osayi Samuel, Aston Villa maçına Fenerbahçe taraftarıyla gitti",
+   "link": "https://haberglobal.com/spor/osayi-samuel-aston-villa-macina-fenerbahce-taraftariyla-gitti-548733",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/14/osayi-samuel-aston-villa-macina-taraftarla-geldi-njoz.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Bloomberg HT",
+   "group": "progov",
+   "published": "2026-10-14T19:49:43Z",
+   "title": "Tasfiye edilecek yatırım fonlarına ilişkin teklif komisyondan geçti",
+   "link": "https://www.bloomberght.com/tasfiye-edilecek-yatirim-fonlarina-iliskin-teklif-komisyondan-gecti-3791398",
+   "image": "https://geoim.bloomberght.com/l/2026/10/14/ver1792007409/3791398/jpg/1280x720",
+   "story": "eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi"
+  },
+  {
+   "source": "Euronews Türkçe",
+   "group": "independent",
+   "published": "2026-10-14T19:49:21Z",
+   "title": "Fatih'te su birikintisine basan bir çocuk, akıma kapılarak hayatını kaybetti",
+   "link": "https://tr.euronews.com/2026/10/14/fatihte-su-birikintisine-basan-bir-cocuk-akima-kapilarak-hayatini-kaybetti",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Ekonomim",
+   "group": "independent",
+   "published": "2026-10-14T19:49:00Z",
+   "title": "İstanbul'da metro ve tramvaylara yağış düzenlemesi",
+   "link": "https://www.ekonomim.com/gundem/istanbulda-metro-ve-tramvaylara-yagis-duzenlemesi-haberi-924734",
+   "image": "https://img.ekonomim.com/storage/files/images/2026/10/14/istanbulda-metro-ve-tramvaylara-yagis-duzenlemesi-joti_cover.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T19:48:35Z",
+   "title": "İstanbul'da metro, tramvay ve füniküler hatlarında seferler saat 02.00'ye kadar uzatıldı",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-metro-tramvay-ve-funikuler-hatlarinda-seferler-saat-0200ye-kadar-uzatildi/4089027",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeni Akit",
+   "group": "progov",
+   "published": "2026-10-14T19:48:00Z",
+   "title": "Önce okullar şimdi ise... İstanbul Valiliğinden peş peşe yasak kararları",
+   "link": "https://www.yeniakit.com.tr/haber/once-okullar-simdi-ise-istanbul-valiliginden-pes-pese-yasak-kararlari-2028224.html",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T19:47:00Z",
+   "title": "NATO gemilerine hizmet veren şirkete 3 ülkede operasyon",
+   "link": "https://www.cumhuriyet.com.tr/dunya/nato-gemilerine-hizmet-veren-sirkete-3-ulkede-operasyon-2546846",
+   "image": "https://media.cumhuriyet.com.tr/Archive/91367d56-ea03-41fa-a3ae-b15491cb5b03.jpg",
+   "story": "terorle-mucadele-ve-operasyonlar"
+  },
+  {
+   "source": "Diken",
+   "group": "opposition",
+   "published": "2026-10-14T19:46:55Z",
+   "title": "Metro İstanbul: Seferlerimiz gece 2'ye kadar uzatıldı",
+   "link": "https://www.diken.com.tr/metro-istanbul-seferlerimiz-gece-2ye-kadar-uzatildi/?utm_source=rss&utm_medium=rss&utm_campaign=metro-istanbul-seferlerimiz-gece-2ye-kadar-uzatildi",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
    "source": "CNN Türk",
    "group": "progov",
    "published": "2026-10-14T19:46:45Z",
@@ -2334,6 +4532,177 @@
    "link": "https://www.cnnturk.com/dunya/washington-moskova-hattinda-surpriz-ziyaret-iddiasi-fbi-direktoru-rusyaya-mi-gitti-3479365",
    "image": "",
    "story": "ilginiz"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T19:45:50Z",
+   "title": "İstanbul'da kuvvetli sağanak hayatı olumsuz etkiledi: Alt geçit suyla doldu, araçlar mahsur kaldı",
+   "link": "https://www.yenisafak.com/galeri/gundem/istanbulda-kuvvetli-saganak-hayati-olumsuz-etkiledi-alt-gecit-suyla-doldu-araclar-mahsur-kaldi-4864385",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/08b9d5a7-istanbulda-kuvvetli-saganak-hayati-olumsuz-etkiledi.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-14T19:45:37Z",
+   "title": "Su birikintisi can aldı: Elektrik akımına kapılan çocuk hayatını kaybetti",
+   "link": "https://www.yenicaggazetesi.com/su-birikintisi-can-aldi-elektrik-akimina-kapilan-cocuk-hayatini-kaybetti-1082254h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/14/su-birikintisi-can-aldi-elektrik-akimina-kapilan-cocuk-hayatini-kaybetti-8rbh.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-14T19:45:00Z",
+   "title": "Balat'ta su birikintisine basan 14 yaşındaki çocuk hayatını kaybetti",
+   "link": "https://www.dirilispostasi.com/balatta-su-birikintisine-basan-14-yasindaki-cocuk-hayatini-kaybetti",
+   "image": "https://dpcdn.tebilisim.com/crop/1280x720/uploads/2026/10/fatih-te-su-birikintisine-basan-14-yasindaki-2-20330583-amp.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Gazete Pencere",
+   "group": "independent",
+   "published": "2026-10-14T19:45:00Z",
+   "title": "İstanbul'da metrolara 'sağanak' düzenlemesi: Seferler gece 02.00'ye kadar uzatıldı",
+   "link": "https://www.gazetepencere.com/gundem/istanbulda-metrolara-saganak-duzenlemesi-seferler-gece-00-02ye-kadar-uzatildi-719281h",
+   "image": "https://cdn.gazetepencere.com/news/206753.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Medyascope",
+   "group": "independent",
+   "published": "2026-10-14T19:42:42Z",
+   "title": "İstanbul’da elektrik akımına kapılan 14 yaşındaki çocuk hayatını kaybetti",
+   "link": "https://medyascope.tv/2026/10/14/istanbulda-elektrik-akimina-kapilan-14-yasindaki-cocuk-hayatini-kaybetti/",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T19:42:35Z",
+   "title": "Aston Villa tribünleri Fenerbahçeli yıldızı yuhaladı!",
+   "link": "https://www.yenisafak.com/galeri/spor/aston-villa-tribunleri-fenerbahceli-yildizi-yuhaladi-4864383",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/0401d6d9-aston-villa-tribunleri-fenerbahceli-yildizi-yuhaladi.webp",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T19:42:00Z",
+   "title": "İstanbul'da metrolara yağış düzenlemesi: 2'ye kadar çalışacak",
+   "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-metrolara-yagis-duzenlemesi-2-ye-kadar-calisacak-2546845",
+   "image": "https://media.cumhuriyet.com.tr/Archive/ebab4fd7-a657-4d3b-b7fd-e5a67b583266.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Independent Türkçe",
+   "group": "independent",
+   "published": "2026-10-14T19:41:40Z",
+   "title": "Tasfiyesine karar verilen bazı yatırım fonlarına ilişkin düzenlemeleri içeren kanun teklifi komisyonda kabul edildi",
+   "link": "https://www.indyturk.com/node/783843/haber/tasfiyesine-karar-verilen-baz%C4%B1-yat%C4%B1r%C4%B1m-fonlar%C4%B1na-ili%C5%9Fkin-d%C3%BCzenlemeleri-i%C3%A7eren",
+   "image": "https://www.indyturk.com/sites/default/files/article/main_image/2026/10/14/1381720-1531192854.png",
+   "story": "eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-14T19:40:00Z",
+   "title": "İsrail'de ABD'li Intel fabrikasında patlama: 1 işçi öldü, 2 işçi yaralandı",
+   "link": "https://www.birgun.net/haber/israil-de-abd-li-intel-fabrikasinda-patlama-1-isci-oldu-2-isci-yaralandi-740414",
+   "image": "https://static.birgun.net/resim/haber/2026/10/14/israil-de-abd-li-intel-fabrikasindaki-patlama-1-isci-oldu-2-isci-yaralandi.jpg",
+   "story": "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T19:39:32Z",
+   "title": "Fenerbahçelileri Aston Villa maçında çıldırttı: \"Futbol seni bırakmış!\"",
+   "link": "https://www.yenisafak.com/spor/fenerbahcelileri-aston-villa-macinda-cildirtti-futbol-seni-birakmis-4864381",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/8fc63917-fenerbahcelileri-aston-villa-macinda-cildirtti-futbol.webp",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-14T19:38:10Z",
+   "title": "İstanbul Valiliği duyurdu: 15 Ekim 2026 motosikletle trafiğe çıkmak yasak mı? Motosiklet yasağı ne zaman bitecek?",
+   "link": "https://www.karar.com/guncel-haberler/istanbul-valiligi-duyurdu-15-ekim-2026-motosikletle-trafige-cikmak-2078443",
+   "image": "https://cdn.karar.com/news/1942058.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "A Haber",
+   "group": "progov",
+   "published": "2026-10-14T19:38:07Z",
+   "title": "Türkiye sağanak ve fırtınaya teslim! Birçok ilde eğitime ara verildi",
+   "link": "https://www.ahaber.com.tr/gundem/2026/10/14/15-ekim-2026da-bircok-ilde-egitime-ara-verildi",
+   "image": "https://iaahbr.tmgrup.com.tr/7169d7/1200/1200/114/0/599/486?u=https://iahbr.tmgrup.com.tr/2026/10/14/turkiye-saganaga-teslim-4-ilde-egitime-15-ekim-2026da-ara-verildi-1792010546161.jpeg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Euronews Türkçe",
+   "group": "independent",
+   "published": "2026-10-14T19:37:52Z",
+   "title": "Fon yasası teklifi, TBMM komisyonunda kabul edildi",
+   "link": "https://tr.euronews.com/2026/10/14/fon-yasasi-teklifi-tbmm-komisyonunda-kabul-edildi",
+   "image": "",
+   "story": "eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-14T19:36:00Z",
+   "title": "Zelenskiy, ABD’ye sitem etti: \"Dürüst, açık ve güçlü ortaklar olmak istiyoruz\"",
+   "link": "https://haberglobal.com/dunya/zelenskiy-abdye-sitem-etti-durust-acik-ve-guclu-ortaklar-olmak-istiyoruz-548734",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/14/zelenskiy-abdye-sitem-etti-durust-acik-ve-guclu-ortaklar-olmak-istiyoruz-sfjz.jpg",
+   "story": "abd-deki-silahli-saldirilar"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T19:35:29Z",
+   "title": "Sağanak altında anlamlı hareket: Taksim Meydanı'nda yere düşen Türk bayrağını polis kaldırdı",
+   "link": "https://www.yenisafak.com/video/gundem/saganak-altinda-anlamli-hareket-taksim-meydaninda-yere-dusen-turk-bayragini-polis-kaldirdi-4864380",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/2b35651a-saganak-altinda-anlamli-hareket-taksim-meydaninda-yere.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-14T19:35:00Z",
+   "title": "Fatih'te su birikintisinde elektrik akımına kapılan çocuk hayatını kaybetti",
+   "link": "https://www.evrensel.net/haber/6004968/fatih-te-su-birikintisinde-elektrik-akimina-kapilan-cocuk-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/366454.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T19:34:59Z",
+   "title": "Üç metreye kadar yükselen sular Şile Otoyolu’nu göle çevirdi: Araçlar mahsur kaldı",
+   "link": "https://www.yenisafak.com/video/gundem/uc-metreye-kadar-yukselen-sular-sile-otoyolunu-gole-cevirdi-araclar-mahsur-kaldi-4864379",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/18ab99d5-uc-metreye-kadar-yukselen-sular-sile-otoyolunu-gole.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Artı Gerçek",
+   "group": "opposition",
+   "published": "2026-10-14T19:34:32Z",
+   "title": "İstanbul’da sağanak hayatı felç etti: Yollar göle döndü, araçlar mahsur kaldı",
+   "link": "https://artigercek.com/yasam/istanbulda-saganak-hayati-felc-etti-yollar-gole-dondu-araclar-mahsur-kaldi-351623h",
+   "image": "https://image.artigercek.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/14/istanbulda-saganak-hayati-felc-etti-yollar-gole-dondu-araclar-mahsur-kaldi-bjoh.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T19:32:06Z",
+   "title": "Tasfiyesine karar verilen bazı yatırım fonlarına ilişkin düzenlemeleri içeren kanun teklifi komisyonda kabul edildi",
+   "link": "https://www.aa.com.tr/tr/gundem/tasfiyesine-karar-verilen-bazi-yatirim-fonlarina-iliskin-duzenlemeleri-iceren-kanun-teklifi-komisyonda-kabul-edildi/4089013",
+   "image": "",
+   "story": "eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi"
   },
   {
    "source": "CNN Türk",
@@ -2345,6 +4714,15 @@
    "story": "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler"
   },
   {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-14T19:30:36Z",
+   "title": "Ateş Serbest-2026’da STM imzası: 20 İHA’dan koordineli taarruz",
+   "link": "https://www.yenicaggazetesi.com/ates-serbest-2026da-stm-imzasi-20-ihadan-koordineli-taarruz-1082253h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/14/ates-serbest-2026da-stm-imzasi-20-ihadan-koordineli-taarruz-ufgj.jpg",
+   "story": "stm-nin-suru-iha-teknolojisi"
+  },
+  {
    "source": "CNN Türk",
    "group": "progov",
    "published": "2026-10-14T19:29:42Z",
@@ -2352,6 +4730,33 @@
    "link": "https://www.cnnturk.com/spor/futbol/umraniyespor-boluspor-maci-yagmur-nedeniyle-yarida-kaldi-3479364",
    "image": "",
    "story": "umraniyespor-boluspor-maci-yagmur-nedeniyle-yarida-kaldi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T19:27:03Z",
+   "title": "Bursa'da cinayet firarisine operasyon: Adrese gelen polislere ateş açtılar",
+   "link": "https://www.yenisafak.com/gundem/bursada-cinayet-firarisine-operasyon-adrese-gelen-polislere-ates-actilar-4864378",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/65909359-15-yil-5-ay-hapis-cezasi-bulunan-firari-supheliyi-yakalamak.webp",
+   "story": "terorle-mucadele-ve-operasyonlar"
+  },
+  {
+   "source": "Yeni Akit",
+   "group": "progov",
+   "published": "2026-10-14T19:26:00Z",
+   "title": "İletişim Başkanı Duran'dan İstanbul için geçmiş olsun mesajı",
+   "link": "https://www.yeniakit.com.tr/haber/iletisim-baskani-duran-istanbul-icim-gecmis-olsun-mesaji-2028219.html",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Ekonomim",
+   "group": "independent",
+   "published": "2026-10-14T19:26:00Z",
+   "title": "Fon teklifi komisyondan geçti: Yatırımcıya ödeme nasıl yapılacak?",
+   "link": "https://www.ekonomim.com/ekonomi/fon-teklifi-komisyondan-gecti-haberi-924733",
+   "image": "https://img.ekonomim.com/storage/files/images/2026/10/14/fon-teklifi-komisyondan-gecti-lmdk_cover.jpg",
+   "story": "eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi"
   },
   {
    "source": "CNN Türk",
@@ -2363,6 +4768,42 @@
    "story": "ilginiz"
   },
   {
+   "source": "Yeni Akit",
+   "group": "progov",
+   "published": "2026-10-14T19:24:00Z",
+   "title": "İstanbul Valisi Davut Gül’den hayati uyarı! Yağış yarın Anadolu Yakası’nda şiddetleniyor!",
+   "link": "https://www.yeniakit.com.tr/haber/istanbul-valisi-davut-gulden-hayati-uyari-yagis-yarin-anadolu-yakasinda-siddetleniyor-2028217.html",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-14T19:23:40Z",
+   "title": "İstanbul’daki sağanakta Nazan Öncel de mahsur kaldı",
+   "link": "https://www.sozcu.com.tr/istanbul-daki-saganakta-nazan-oncel-de-mahsur-kaldi-p369230",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/nazan-oncal-sel-saganak-istanbul-yagmurjpg-UBtWzL7PaEKbQSPPZ4BXVA.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeni Akit",
+   "group": "progov",
+   "published": "2026-10-14T19:23:00Z",
+   "title": "İstanbul’da su birikintisine basan bir çocuk elektrik akımına kapılıp hayatını kaybetti",
+   "link": "https://www.yeniakit.com.tr/haber/istanbulda-sele-kapilan-bir-cocuk-hayatini-kaybetti-2028216.html",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Milliyet",
+   "group": "progov",
+   "published": "2026-10-14T19:21:46Z",
+   "title": "STM’nin sürü İHA’ları ateş serbest-2026’ya damga vurdu",
+   "link": "https://www.milliyet.com.tr/ekonomi/stmnin-suru-ihalari-ates-serbest-2026ya-damga-vurdu-7679755",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6acfcb8dea5ea19fcfcde0b3.jpg",
+   "story": "stm-nin-suru-iha-teknolojisi"
+  },
+  {
    "source": "CNN Türk",
    "group": "progov",
    "published": "2026-10-14T19:21:32Z",
@@ -2370,6 +4811,78 @@
    "link": "https://www.cnnturk.com/video/turkiye/turkiyenin-made-in-eu-statusu-bakan-kacir-hem-ab-hem-turkiye-kazan-kazan-icinde-olacak-3479358",
    "image": "",
    "story": "ticaret-bakanligi-internetten-yemek-siparislerine-iliskin-harekete-gecti"
+  },
+  {
+   "source": "Diken",
+   "group": "opposition",
+   "published": "2026-10-14T19:21:22Z",
+   "title": "Fatih'te su birikintisinde elektrik akımına kapılan çocuk hayatını kaybetti",
+   "link": "https://www.diken.com.tr/fatihte-su-birikintisinde-elektrik-akimina-kapilan-cocuk-hayatini-kaybetti/?utm_source=rss&utm_medium=rss&utm_campaign=fatihte-su-birikintisinde-elektrik-akimina-kapilan-cocuk-hayatini-kaybetti",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-14T19:21:00Z",
+   "title": "İstanbul Fatih'te su birikintisine basan 14 yaşındaki çocuk elektrik akımına kapılarak hayatını kaybetti",
+   "link": "https://www.birgun.net/haber/istanbul-fatih-te-su-birikintisine-basan-14-yasindaki-cocuk-elektrik-akimina-kapilarak-hayatini-kaybetti-740413",
+   "image": "https://static.birgun.net/resim/haber/2026/10/14/istanbul-da-su-birikintisine-basan-14-yasindaki-cocuk-elektrik-akimina-kapilarak-hayatini-kaybetti.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-14T19:21:00Z",
+   "title": "Fon yasa teklifi TBMM Komisyonundan geçti",
+   "link": "https://www.evrensel.net/haber/6004967/fon-yasa-teklifi-tbmm-komisyonundan-gecti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/319509.jpg",
+   "story": "eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T19:20:03Z",
+   "title": "Sarıyer'de sağanak AVM otoparkını vurdu: Park halindeki araçlar sular altında kaldı",
+   "link": "https://www.yenisafak.com/video/gundem/sariyerde-saganak-avm-otoparkini-vurdu-park-halindeki-araclar-sular-altinda-kaldi-4864377",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/eeb44eaf-sariyerde-saganak-avm-otoparkini-vurdu-park-halindeki.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeni Akit",
+   "group": "progov",
+   "published": "2026-10-14T19:20:00Z",
+   "title": "TBMM Başkanı Kurtulmuş'tan İstanbul mesajı",
+   "link": "https://www.yeniakit.com.tr/haber/tbmm-baskani-kurtulmustan-istanbul-mesaji-2028215.html",
+   "image": "",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Gazete Pencere",
+   "group": "independent",
+   "published": "2026-10-14T19:13:00Z",
+   "title": "Su birikintisinde akıma kapıldı: 14 yaşındaki çocuk hayatını kaybetti...",
+   "link": "https://www.gazetepencere.com/gundem/su-birikintisinde-akima-kapildi-14-yasindaki-cocuk-hayatini-kaybetti-719280h",
+   "image": "https://cdn.gazetepencere.com/news/206754.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-14T19:13:00Z",
+   "title": "Son dakika... İstanbul’da sağanak faciası: 14 yaşındaki çocuk elektrik akımına kapılarak hayatını kaybetti",
+   "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-istanbul-da-saganak-faciasi-14-yasindaki-cocuk-elektrik-akimina-kapilarak-hayatini-kaybetti-2546839",
+   "image": "https://media.cumhuriyet.com.tr/Archive/5a6b9f32-8cbe-408c-a7f9-5154716c9271.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-14T19:12:00Z",
+   "title": "İstanbul'da feci ölüm: Su birikintisine basan 14 yaşındaki çocuk elektrik akımına kapıldı",
+   "link": "https://www.karar.com/guncel-haberler/istanbulda-feci-olum-su-birikintisine-basan-14-yasindaki-cocuk-elektrik-2078440",
+   "image": "https://cdn.karar.com/news/1942067.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
   },
   {
    "source": "CNN Türk",
@@ -2381,6 +4894,78 @@
    "story": "ilginiz"
   },
   {
+   "source": "Diken",
+   "group": "opposition",
+   "published": "2026-10-14T19:09:56Z",
+   "title": "Fon tasfiyesine ilişkin kanun teklifi komisyondan geçti",
+   "link": "https://www.diken.com.tr/fon-tasfiyesine-iliskin-kanun-teklifi-komisyondan-gecti/?utm_source=rss&utm_medium=rss&utm_campaign=fon-tasfiyesine-iliskin-kanun-teklifi-komisyondan-gecti",
+   "image": "",
+   "story": "eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T19:09:07Z",
+   "title": "Şile Otoyolu'nda sağanak kazası: İstanbul'da kuvvetli yağış hayatı olumsuz etkiledi",
+   "link": "https://www.yenisafak.com/galeri/gundem/sile-otoyolunda-saganak-kazasi-istanbulda-kuvvetli-yagis-hayati-olumsuz-etkiledi-4864376",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/936ed8d3-istanbulda-kuvvetli-saganak-hayati-olumsuz-etkiledi.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T19:08:39Z",
+   "title": "Sarıyer'de istinat duvarı şelaleye döndü: Araçlar sürüklendi",
+   "link": "https://www.yenisafak.com/video/gundem/sariyerde-istinat-duvari-selaleye-dondu-araclar-suruklendi-4864375",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/29c7db83-744lzwsrhun3fz2hm4ctyk.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-14T19:05:02Z",
+   "title": "Yer Nepal değil İstanbul! Vatandaşlar korku dolu gözlerle izledi",
+   "link": "https://www.sozcu.com.tr/yer-nepal-degil-istanbul-vatandaslar-korku-dolu-gozlerle-izledi-p369223",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/basakjpg-cLs3fOPLx0_YndwkqxozOw.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-14T19:04:55Z",
+   "title": "Saryer'de araçlar sel sularına kapıldı",
+   "link": "https://www.karar.com/guncel-haberler/saryerde-araclar-sel-sularina-kapildi-2078439",
+   "image": "https://cdn.karar.com/news/1942054.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-14T19:04:00Z",
+   "title": "'Fon' yasa teklifi TBMM'de komisyondan geçti",
+   "link": "https://www.birgun.net/haber/fon-yasa-teklifi-tbmm-de-komisyondan-gecti-740412",
+   "image": "https://static.birgun.net/resim/haber/2026/10/14/fon-yasa-teklifi-tbmm-de-komisyondan-gecti.webp",
+   "story": "eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T19:03:21Z",
+   "title": "'Fon yasa teklifi' komisyondan geçti: Yatırımcılara 1 milyon liraya kadar ara ödeme yapılacak",
+   "link": "https://www.yenisafak.com/ekonomi/fon-yasa-teklifi-komisyondan-gecti-yatirimcilara-1-milyon-liraya-kadar-ara-odeme-yapilacak-4864373",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/00f497fe-fon-yasa-teklifi-komisyondan-gecti-yatirimcilara-1.webp",
+   "story": "eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi"
+  },
+  {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-14T19:01:00Z",
+   "title": "Bakan Çiftçi’den vatandaşlara sel ve su baskını uyarısı",
+   "link": "https://www.dirilispostasi.com/bakan-ciftciden-vatandaslara-sel-ve-su-baskini-uyarisi",
+   "image": "https://dpcdn.tebilisim.com/crop/1280x720/uploads/2026/10/thumbs-b-c-7f78c19e8ead2f15a94e404a95ab5839-1.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
    "source": "CNN Türk",
    "group": "progov",
    "published": "2026-10-14T19:00:08Z",
@@ -2388,6 +4973,78 @@
    "link": "https://www.cnnturk.com/ekonomi/son-dakika-borsa-carsamba-gununu-dususle-tamamladi-3479351",
    "image": "",
    "story": "borsa-gunu-dususle-tamamladi"
+  },
+  {
+   "source": "Yeni Akit",
+   "group": "progov",
+   "published": "2026-10-14T19:00:00Z",
+   "title": "TBMM’den kritik finans adımı! Tasfiye edilecek yatırım fonlarına ilişkin kanun teklifi komisyondan geçti!",
+   "link": "https://www.yeniakit.com.tr/haber/tbmmden-kritik-finans-adimi-tasfiye-edilecek-yatirim-fonlarina-iliskin-kanun-teklifi-komisyondan-gecti-2028210.html",
+   "image": "",
+   "story": "eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi"
+  },
+  {
+   "source": "Sabah",
+   "group": "progov",
+   "published": "2026-10-14T18:59:29Z",
+   "title": "İstanbul Valisi Gül'den sağanak uyarısı: \"Özel araçlarınızla trafiğe çıkmaktan kaçının\"",
+   "link": "https://www.sabah.com.tr/gundem/2026/10/14/istanbul-valisi-gulden-saganak-uyarisi-ozel-araclarinizla-trafige-cikmaktan-kacinin",
+   "image": "https://iasbh.tmgrup.com.tr/1e845e/1200/675/0/0/863/486?u=https://isbh.tmgrup.com.tr/sbh/2026/10/14/1792004326769.jpeg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Medyascope",
+   "group": "independent",
+   "published": "2026-10-14T18:59:05Z",
+   "title": "Halk TV olayı bize neler söylüyor? | Ruşen Çakır yorumladı",
+   "link": "https://medyascope.tv/2026/10/14/halk-tv-olayi-bize-neler-soyluyor-rusen-cakir-video/",
+   "image": "https://medyascope.tv/wp-content/uploads/2026/10/pccs22nz36c.jpg",
+   "story": "halk-tv-ye-kayyum-atanmasi-ve-operasyon"
+  },
+  {
+   "source": "Yeni Akit",
+   "group": "progov",
+   "published": "2026-10-14T18:59:00Z",
+   "title": "20 KARGU'luk sürü Ateş Serbest-2026 Tatbikatı'nda hedefleri gerçek mühimmatla imha etti",
+   "link": "https://www.yeniakit.com.tr/haber/20-karguluk-suru-ates-serbest-2026-tatbikatinda-hedefleri-gercek-muhimmatla-imha-etti-2028209.html",
+   "image": "",
+   "story": "stm-nin-suru-iha-teknolojisi"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T18:58:38Z",
+   "title": "Yemen Başbakanı Zindani: Husilerin Taiz'i kuşatması ve sivilleri hedef alması savaş suçudur",
+   "link": "https://www.aa.com.tr/tr/dunya/yemen-basbakani-zindani-husilerin-taizi-kusatmasi-ve-sivilleri-hedef-almasi-savas-sucudur/4088987",
+   "image": "",
+   "story": "yemen-deki-husiler-ve-suudi-arabistan"
+  },
+  {
+   "source": "Gazete Pencere",
+   "group": "independent",
+   "published": "2026-10-14T18:58:00Z",
+   "title": "'Fon' yasa teklifi Meclis komisyonundan geçti",
+   "link": "https://www.gazetepencere.com/gundem/fon-yasa-teklifi-meclis-komisyonundan-gecti-719279h",
+   "image": "https://cdn.gazetepencere.com/news/205457.jpg",
+   "story": "eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-14T18:58:00Z",
+   "title": "TBMM komisyonunda fon mağdurlarına yapılacak ödemelerin hesaplama yöntemi değiştirildi",
+   "link": "https://haberglobal.com/gundem/tbmm-komisyonunda-fon-magdurlarina-yapilacak-odemelerin-hesaplama-yontemi-degistirildi-548731",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/14/tbmm-komisyonunda-fon-magdurlarina-yapilacak-odemelerin-hesaplama-yontemi-degistirildi-wwdk.jpg",
+   "story": "eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-14T18:58:00Z",
+   "title": "Yatırım fonları için yeni dönem: 1 milyon liraya kadar ara ödeme",
+   "link": "https://www.yenicaggazetesi.com/yatirim-fonlari-icin-yeni-donem-1-milyon-liraya-kadar-ara-odeme-1082252h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/14/yatirim-fonlari-icin-yeni-donem-1-milyon-liraya-kadar-ara-odeme-ajnf.jpg",
+   "story": "eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi"
   },
   {
    "source": "CNN Türk",
@@ -2399,6 +5056,24 @@
    "story": "fenerbahce-aston-villa-maci"
   },
   {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-14T18:55:00Z",
+   "title": "İstanbul'u sağanak vurdu: Vali Gül'den 'evden çıkmayın' uyarısı",
+   "link": "https://www.yenicaggazetesi.com/istanbulu-saganak-vurdu-vali-gulden-evden-cikmayin-uyarisi-1082250h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/14/istanbulu-saganak-vurdu-vali-gulden-evden-cikmayin-uyarisi-fqgg.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Hürriyet",
+   "group": "progov",
+   "published": "2026-10-14T18:54:31Z",
+   "title": "Fon tasfiyesi kanunu Bütçe Komisyonu'ndan geçti",
+   "link": "https://www.hurriyet.com.tr/gundem/fon-tasfiyesi-kanunu-butce-komisyonundan-gecti-43341903",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6acfcfe4fb23dcac958214b1.jpg",
+   "story": "eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi"
+  },
+  {
    "source": "CNN Türk",
    "group": "progov",
    "published": "2026-10-14T18:52:44Z",
@@ -2406,6 +5081,114 @@
    "link": "https://www.cnnturk.com/turkiye/son-dakika-istanbul-valiligi-duyurdu-egitime-1-gun-ara-verildi-3479352",
    "image": "",
    "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T18:50:55Z",
+   "title": "Ümraniye'de sağanak vurdu: Nevzat Demir Tesisleri yolu göle döndü",
+   "link": "https://www.yenisafak.com/video/gundem/umraniyede-saganak-vurdu-nevzat-demir-tesisleri-yolu-gole-dondu-4864370",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/56cfcc41-efnjsbemaulfybq45owe6j.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "TRT Haber",
+   "group": "progov",
+   "published": "2026-10-14T18:50:00Z",
+   "title": "Fon düzenlemelerini içeren kanun teklifi komisyondan geçti",
+   "link": "https://www.trthaber.com/haber/gundem/fon-duzenlemelerini-iceren-kanun-teklifi-komisyondan-gecti-960126.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2488000/fon-sorusturmasi-2489782.jpg",
+   "story": "eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi"
+  },
+  {
+   "source": "Gazete Pencere",
+   "group": "independent",
+   "published": "2026-10-14T18:49:38Z",
+   "title": "İETT otobüsünde sular yükseldi: Yolcular boğulmamak için tavana tırmandı!",
+   "link": "https://www.gazetepencere.com/gundem/iett-otobusunde-sular-yukseldi-yolcular-bogulmamak-icin-tavana-tirmandi-719278h",
+   "image": "https://cdn.gazetepencere.com/news/206752.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Independent Türkçe",
+   "group": "independent",
+   "published": "2026-10-14T18:48:59Z",
+   "title": "İstanbul'da sağanak nedeniyle 2 bin 518 ihbar yapıldı",
+   "link": "https://www.indyturk.com/node/783842/haber/i%CC%87stanbulda-sa%C4%9Fanak-nedeniyle-2-bin-518-ihbar-yap%C4%B1ld%C4%B1",
+   "image": "https://www.indyturk.com/sites/default/files/article/main_image/2026/10/14/1381719-1424294039.png",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Euronews Türkçe",
+   "group": "independent",
+   "published": "2026-10-14T18:47:10Z",
+   "title": "Özgür Özel, Halk TV'de açıklama yaptı: 'Çok çok kritik bir noktadayız'",
+   "link": "https://tr.euronews.com/2026/10/14/ozgur-ozel-halk-tvde-aciklama-yapti-cok-cok-kritik-bir-noktadayiz",
+   "image": "",
+   "story": "halk-tv-ye-kayyum-atanmasi-ve-operasyon"
+  },
+  {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-14T18:47:00Z",
+   "title": "İstanbul'da bazı üniversitelerde eğitime bir gün ara verildi",
+   "link": "https://www.dirilispostasi.com/istanbulda-bazi-universitelerde-egitime-bir-gun-ara-verildi",
+   "image": "https://dpcdn.tebilisim.com/crop/1280x720/uploads/2026/10/istanbuldaki-bazi-universitelerde-egitime-bir-gun-20330391-3255-amp.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T18:43:36Z",
+   "title": "Arnavutköy'de yağış nedeniyle Alibey Deresi yola taştı: Sular okul bahçesine doldu",
+   "link": "https://www.yenisafak.com/galeri/gundem/arnavutkoyde-yagis-nedeniyle-alibey-deresi-yola-tasti-sular-okul-bahcesine-doldu-4864367",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/1765941c-arnavutkoyde-yagis-nedeniyle-alibey-deresi-yola-tasti.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-14T18:43:18Z",
+   "title": "TBMM Başkanı Kurtulmuş ve AK Parti Sözcüsü Çelik'ten İstanbul'a 'geçmiş olsun' mesajı",
+   "link": "https://www.yenisafak.com/gundem/tbmm-baskani-kurtulmus-ve-ak-parti-sozcusu-celikten-istanbula-gecmis-olsun-mesaji-4864366",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/14/c19bfe4a-tbmm-baskani-kurtulmus-ve-ak-parti-sozcusu-celikten.webp",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-14T18:40:00Z",
+   "title": "Murat Boz selde mahsur kaldı: Acil yardım edin",
+   "link": "https://www.karar.com/guncel-haberler/murat-boz-selde-mahsur-kaldi-acil-yardim-edin-2078437",
+   "image": "https://cdn.karar.com/news/1942053.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-14T18:40:00Z",
+   "title": "NATO gemilerine hizmet veren şirkete 3 ülkede operasyon",
+   "link": "https://www.evrensel.net/haber/6004966/nato-gemilerine-hizmet-veren-sirkete-3-ulkede-operasyon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/341526.jpg",
+   "story": "terorle-mucadele-ve-operasyonlar"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-14T18:39:31Z",
+   "title": "İstanbul’daki seli günler öncesinden bilen uzman isimden korkutan uyarı: Daha derin bir sistem geliyor, afet oluşabilir",
+   "link": "https://www.karar.com/guncel-haberler/istanbuldaki-seli-gunler-oncesinden-bilen-uzman-isimden-korkutan-uyari-2078436",
+   "image": "https://cdn.karar.com/news/1942052.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-14T18:38:26Z",
+   "title": "STM’nin sürü İHA'ları Ateş Serbest-2026'ya damga vurdu",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/stm-nin-suru-ihalari-ates-serbest-2026ya-damga-vurdu/4088975",
+   "image": "",
+   "story": "stm-nin-suru-iha-teknolojisi"
   },
   {
    "source": "Sözcü",
@@ -2669,6 +5452,15 @@
    "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
   },
   {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-14T18:21:00Z",
+   "title": "İstanbul'da bazı üniversiteler tatil kararı aldı: Rektörlükler arka arkaya açıklıyor",
+   "link": "https://www.birgun.net/haber/istanbul-da-bazi-universiteler-tatil-karari-aldi-rektorlukler-arka-arkaya-acikliyor-740406",
+   "image": "https://static.birgun.net/resim/haber/2026/10/14/istanbul-da-bazi-universiteler-tatil-karari-aldi-rektorlukler-arka-arkaya-acikliyor.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
    "source": "Cumhuriyet",
    "group": "opposition",
    "published": "2026-10-14T18:20:00Z",
@@ -2739,6 +5531,15 @@
    "link": "https://www.cumhuriyet.com.tr/spor/hoffenheim-maci-oncesi-vincenzo-italiano-dan-dusan-vlahovic-aciklamasi-2546829",
    "image": "https://media.cumhuriyet.com.tr/Archive/bdd03b4e-e352-4166-ac7c-8a8c052413c8.jpg",
    "story": "ilginiz"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-14T18:17:00Z",
+   "title": "İTÜ'de sınıfı ve yurdu su bastı",
+   "link": "https://www.evrensel.net/haber/6004964/itu-de-sinifi-ve-yurdu-su-basti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/366452.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
   },
   {
    "source": "Sözcü",
@@ -2867,6 +5668,15 @@
    "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
   },
   {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-14T18:12:00Z",
+   "title": "Şampiyonlar Ligi'nde 2. hafta: Aston Villa-Fenerbahçe 6-0",
+   "link": "https://www.evrensel.net/haber/6004963/sampiyonlar-ligi-nde-2-hafta-aston-villa-fenerbahce-6-0?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/366457.jpg",
+   "story": "fenerbahce-aston-villa-maci"
+  },
+  {
    "source": "Sözcü",
    "group": "opposition",
    "published": "2026-10-14T18:11:32Z",
@@ -2910,6 +5720,15 @@
    "link": "https://www.cumhuriyet.com.tr/turkiye/istismara-maruz-kalip-oldurulmustu-9-yasindaki-suriyeli-gina-davasinda-karar-2546828",
    "image": "https://media.cumhuriyet.com.tr/Archive/80f80c1e-a534-4c69-9ce9-cc8948d06ed1.jpg",
    "story": "ilginiz"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-14T18:11:00Z",
+   "title": "İstanbul'un sağanakla imtihanı: İlçe ilçe hasar raporu",
+   "link": "https://www.evrensel.net/haber/6004965/istanbul-un-saganakla-imtihani-ilce-ilce-hasar-raporu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/366453.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
   },
   {
    "source": "Gazete Pencere",
@@ -3036,6 +5855,15 @@
    "link": "https://www.yenisafak.com/galeri/spor/aston-villa-fenerbahce-canli-trt-1-izle-aston-villa-fenerbahce-maci-hangi-kanalda-trt-canli-yayin-ekrani-4864232",
    "image": "https://img.piri.net/piri/upload/3/2026/10/14/efd7e77d-aston-villa-fenerbahce-canli-trt-1-izle-aston-villa-.webp",
    "story": "fenerbahce-aston-villa-maci"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-14T18:05:00Z",
+   "title": "NATO gemilerine hizmet veren şirkete yönelik soruşturma kapsamında 3 ülkede operasyon düzenlendi",
+   "link": "https://www.birgun.net/haber/nato-gemilerine-hizmet-veren-sirkete-yonelik-sorusturma-kapsaminda-3-ulkede-operasyon-duzenlendi-740404",
+   "image": "https://static.birgun.net/resim/haber/2026/10/14/nato-gemilerine-hizmet-veren-sirkete-yonelik-sorusturma-kapsaminda-3-ulkede-operasyon-duzenlendi.webp",
+   "story": "terorle-mucadele-ve-operasyonlar"
   },
   {
    "source": "Akşam",
@@ -3207,6 +6035,15 @@
    "link": "https://www.diken.com.tr/istanbulda-saganak-bilancosu-1277-su-baskini-ve-15-heyelan/?utm_source=rss&utm_medium=rss&utm_campaign=istanbulda-saganak-bilancosu-1277-su-baskini-ve-15-heyelan",
    "image": "",
    "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-14T17:52:00Z",
+   "title": "Fenerbahçe'ye İngiltere'de ağır darbe: Aston Villa 6 golle kazandı",
+   "link": "https://www.yenicaggazetesi.com/fenerbahceye-ingilterede-agir-darbe-aston-villa-6-golle-kazandi-1082236h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/14/fenerbahceye-ingilterede-agir-darbe-aston-villa-6-golle-kazandi-h4xm.jpg",
+   "story": "fenerbahce-aston-villa-maci"
   },
   {
    "source": "Akşam",
@@ -3808,6 +6645,15 @@
    "published": "2026-10-14T17:23:00Z",
    "title": "İstanbul Valiliği'nden sağanak açıklaması: 1227 su baskını yaşandı",
    "link": "https://www.birgun.net/haber/istanbul-valiligi-nden-saganak-aciklamasi-1227-su-baskini-yasandi-740403",
+   "image": "https://static.birgun.net/resim/haber/2026/10/14/istanbul-valiligi-nden-saganak-aciklamasi-1227-su-baskini-yasandi.jpg",
+   "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-14T17:23:00Z",
+   "title": "İstanbul'u sağanak vurdu: Birisi çocuk iki yurttaş hayatını kaybetti",
+   "link": "https://www.birgun.net/haber/istanbul-u-saganak-vurdu-birisi-cocuk-iki-yurttas-hayatini-kaybetti-740403",
    "image": "https://static.birgun.net/resim/haber/2026/10/14/istanbul-valiligi-nden-saganak-aciklamasi-1227-su-baskini-yasandi.jpg",
    "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
   },
@@ -86745,6 +89591,215 @@
   "https://www.yeniakit.com.tr/haber/imamoglundan-durusmada-haysiyetsizdir-namussuzdur-serefsizdir-sozleri-murat-agirel-umit-ozlale-ve-ozgur-ozeli-mi-kastetti-2028180.html": "2026-10-14T15:43:00Z",
   "https://www.birgun.net/haber/sarkici-murat-boz-her-yer-sular-altinda-mahsur-kaldik-acil-destek-bekliyoruz-740398": "2026-10-14T16:40:00Z",
   "https://www.evrensel.net/haber/6004949/smartta-durus-suresi-uzadi-direnis-suruyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-14T15:08:00Z",
-  "https://www.yenicaggazetesi.com/istanbul-saganak-yagisa-teslim-oldu-yollar-ve-caddeler-sular-altinda-kaldi-1082220h.htm": "2026-10-14T15:33:00Z"
+  "https://www.yenicaggazetesi.com/istanbul-saganak-yagisa-teslim-oldu-yollar-ve-caddeler-sular-altinda-kaldi-1082220h.htm": "2026-10-14T15:33:00Z",
+  "https://www.sabah.com.tr/gundem/2026/10/14/icisleri-bakani-ciftci-mudahale-ihtiyaclari-icin-hazirliklari-tamamladik": "2026-10-14T20:58:41Z",
+  "https://www.hurriyet.com.tr/resmi-ilanlar/ankara-26-sulh-hukuk-mahkemesi-hakimligi-43341457": "2026-10-14T21:00:00Z",
+  "https://www.hurriyet.com.tr/sporarena/greenwooda-ingilterede-buyuk-tepki-protestonun-nedeni-ortaya-cikti-43341976": "2026-10-14T20:36:17Z",
+  "https://www.cnnturk.com/magazin/masterchef-eleme-adayi-14-ekim-2026-masterchefte-eleme-adayi-kim-oldu-dokunulmazlik-oyununu-hangi-takim-kazandi-3479381": "2026-10-15T02:01:41Z",
+  "https://www.cnnturk.com/turkiye/kiliste-9-yasindaki-gina-mercimek-cinayetinde-karar-2-saniga-agirlastirilmis-muebbet-3479411": "2026-10-15T00:57:11Z",
+  "https://www.cnnturk.com/resmi-ilanlar/edirne-4-asliye-hukuk-mahkemesi-hakimligi-3479327": "2026-10-15T00:00:07Z",
+  "https://www.cnnturk.com/resmi-ilanlar/seferihisar-sulh-hukuk-mahkemesi-satis-memurlugu-3479326": "2026-10-15T00:00:07Z",
+  "https://www.cnnturk.com/resmi-ilanlar/edirne-4-asliye-hukuk-mahkemesi-hakimligi-3479323": "2026-10-15T00:00:07Z",
+  "https://www.cnnturk.com/resmi-ilanlar/kelkit-2-asliye-hukuk-mahkemesi-hakimligi-3479321": "2026-10-15T00:00:07Z",
+  "https://www.cnnturk.com/resmi-ilanlar/kahramankazan-1-asliye-ceza-mahkemesi-3479318": "2026-10-15T00:00:07Z",
+  "https://www.cnnturk.com/resmi-ilanlar/ayvacik-2-asliye-hukuk-mahkemesi-hakimligi-3479317": "2026-10-15T00:00:07Z",
+  "https://www.cnnturk.com/resmi-ilanlar/diyarbakir-bolge-adliye-mah-1-hukuk-dairesi-bask-3479316": "2026-10-15T00:00:07Z",
+  "https://www.cnnturk.com/resmi-ilanlar/samsun-2-asliye-hukuk-mahkemesi-3479315": "2026-10-15T00:00:07Z",
+  "https://www.cnnturk.com/resmi-ilanlar/izmir-10-aile-mahkemesi-3479314": "2026-10-15T00:00:07Z",
+  "https://www.cnnturk.com/resmi-ilanlar/istanbul-27-asliye-ceza-mahkemesi-3479313": "2026-10-15T00:00:07Z",
+  "https://www.cnnturk.com/resmi-ilanlar/bursa-14-asliye-hukuk-mahkemesi-3479312": "2026-10-15T00:00:07Z",
+  "https://www.cnnturk.com/video/turkiye/vizesiz-avrupa-seyahatleri-icin-calismalar-hizlandi-3479402": "2026-10-14T23:41:34Z",
+  "https://www.cnnturk.com/ekonomi/bakanliktan-tobba-yazi-online-yemek-siparislerinde-gramaj-mercek-altinda-3479399": "2026-10-14T23:13:37Z",
+  "https://www.cnnturk.com/yerel-haberler/manisa/kula/manisada-zincirleme-kaza-5-yarali-3479514": "2026-10-15T02:07:28Z",
+  "https://www.cnnturk.com/yerel-haberler/istanbul/zeytinburnu/zeytinburnunda-elektrik-kacagindan-dolayi-cikan-yangin-sonduruldu-3479511": "2026-10-15T02:07:29Z",
+  "https://www.cnnturk.com/yerel-haberler/istanbul/gecmisin-mirasi-izlerden-ufuklara-sergisi-dolmabahcede-acildi-3479508": "2026-10-15T02:07:32Z",
+  "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginin-ikinci-haftasi-oynanan-9-macla-tamamlandi/4089108": "2026-10-14T21:27:16Z",
+  "https://www.aa.com.tr/tr/gundem/fatihte-su-birikintisinde-elektrik-akimina-kapilan-cocuk-hayatini-kaybetti/4089077": "2026-10-14T20:47:30Z",
+  "https://www.aa.com.tr/tr/dunya/iran-meclis-baskani-kalibaf-hedefe-ulasmak-icin-hem-savasiyor-hem-muzakere-ediyoruz/4089063": "2026-10-14T20:35:44Z",
+  "https://www.aa.com.tr/tr/gundem/onderden-basortululerin-egitim-hakkindan-mahrum-birakilmasina-iliskin-aciklama/4089034": "2026-10-14T19:57:59Z",
+  "https://www.aa.com.tr/tr/ekonomi/fedin-bej-kitabi-fiyat-baskilarinin-surdugune-ve-bazi-bolgelerde-yogunlastigina-isaret-etti/4089025": "2026-10-14T19:46:37Z",
+  "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolattan-abnin-sanayi-duzenlemesi-turkiye-ab-ortakligini-zedelememeli-uyarisi/4088787": "2026-10-14T15:22:52Z",
+  "https://www.yenisafak.com/gundem/bursada-motosiklet-yayaya-carpti-iki-kisi-yaralandi-4864420": "2026-10-14T22:15:41Z",
+  "https://www.yenisafak.com/yazarlar/ergin-aslan/aci-gercegi-hatirlamak-4864401": "2026-10-14T21:17:00Z",
+  "https://www.yenisafak.com/gundem/eskisehirde-faciadan-donuldu-otomobiliyle-tramvay-duragina-daldi-4864399": "2026-10-14T21:14:07Z",
+  "https://www.yenisafak.com/galeri/ekonomi/samsunda-cilek-uretimi-sevgi-yilmazin-7-donumluk-bahcesi-4864396": "2026-10-14T20:59:00Z",
+  "https://www.yenisafak.com/galeri/gundem/tir-kaza-yapti-yuksekova-van-karayolunda-onlarca-arac-yolda-mahsur-kaldi-4864408": "2026-10-14T20:44:00Z",
+  "https://www.yenisafak.com/gundem/tek-katli-ev-yangin-sonrasi-yikildi-4864405": "2026-10-14T20:35:00Z",
+  "https://www.yenisafak.com/galeri/ekonomi/karadenizde-palamut-bereketi-sadece-uc-saatte-bin-500-kasa-avladilar-4864391": "2026-10-14T20:14:35Z",
+  "https://www.yenisafak.com/galeri/gundem/manisada-zincirleme-kaza-bes-kisi-yaralandi-4864389": "2026-10-14T20:08:13Z",
+  "https://www.yenisafak.com/video/gundem/hudayi-vakfinin-yozlasma-manifestosuna-destek-bize-muslumanligimizi-hatirlatan-metinden-sikayetci-olamayiz-4864388": "2026-10-14T20:07:55Z",
+  "https://www.yenisafak.com/galeri/gundem/annesinin-evini-kundakladigi-iddia-edilen-genc-kiz-kayiplara-karisti-4864402": "2026-10-14T20:00:00Z",
+  "https://www.yenisafak.com/dunya/israilde-intelin-cip-fabrikasinda-patlama-1-olu-2-yarali-4864382": "2026-10-14T19:40:14Z",
+  "https://www.yenisafak.com/spor/sampiyonlar-liginde-9-gollu-mac-6-3-bitti-4864371": "2026-10-14T18:51:07Z",
+  "https://www.yenisafak.com/video/gundem/kapitalizm-bir-gunlugune-dursun-istanbuldaki-avmler-yarin-kapatilsin-4864369": "2026-10-14T18:49:01Z",
+  "https://www.aksam.com.tr/spor/nicolas-jackson-hat-trick-yapmak-istediim/haber-1706294": "2026-10-14T22:44:00Z",
+  "https://www.aksam.com.tr/spor/teknik-direktor-nenad-bjelica-samsuna-geldi/haber-1706293": "2026-10-14T22:43:00Z",
+  "https://www.aksam.com.tr/guncel/eskisehirde-tramvay-duragina-carpan-otomobilin-surucusu-yaralandi/haber-1706292": "2026-10-14T22:37:00Z",
+  "https://www.aksam.com.tr/spor/hayalllerimiz-var/haber-1706288": "2026-10-14T22:16:00Z",
+  "https://www.aksam.com.tr/spor/bir-garip-vlahovic-isyani/haber-1706287": "2026-10-14T22:06:00Z",
+  "https://www.aksam.com.tr/spor/hedef-cifte-zafer/haber-1706285": "2026-10-14T21:50:00Z",
+  "https://www.aksam.com.tr/spor/ikinci-hafta-tamamlandi-iste-sampiyonlar-liginde-puan-durumu/haber-1706284": "2026-10-14T21:46:00Z",
+  "https://www.aksam.com.tr/spor/onceligimiz-yola-devam-etmek/haber-1706283": "2026-10-14T21:43:00Z",
+  "https://www.aksam.com.tr/spor/barcelona-cehennemi-soguttu/haber-1706282": "2026-10-14T21:37:00Z",
+  "https://www.aksam.com.tr/yazarlar/bu-kafayla-olmaz/haber-1706281": "2026-10-14T21:37:00Z",
+  "https://www.aksam.com.tr/spor/2-gol-iptal-edilmeseydi-isler-daha-zorlasirdi/haber-1706279": "2026-10-14T21:32:00Z",
+  "https://www.aksam.com.tr/spor/milan-skriniar-utanc-verici-seviyemizi-yukari-cikarmaliyiz/haber-1706277": "2026-10-14T21:27:00Z",
+  "https://www.aksam.com.tr/spor/ingiliz-taraftarlardan-mason-greenwooda-tepki/haber-1706276": "2026-10-14T21:23:00Z",
+  "https://www.star.com.tr/spor/nenad-bjelica-samsuna-geldi-haber-2046641/": "2026-10-14T22:43:00Z",
+  "https://www.star.com.tr/spor/psg-manchester-cityi-4-golle-gecti-haber-2046640/": "2026-10-14T22:42:00Z",
+  "https://www.star.com.tr/spor/skriniar-cok-buyuk-hatalar-yaptik-haber-2046639/": "2026-10-14T22:34:00Z",
+  "https://www.star.com.tr/spor/iste-sampiyonlar-liginde-gecenin-sonuclari-haber-2046637/": "2026-10-14T21:56:00Z",
+  "https://www.yeniakit.com.tr/haber/chpli-belediyelerde-milyonluk-ihale-skandali-cafer-mahiroglunun-adi-rusvet-carkinin-merkezinde-2028202.html": "2026-10-14T18:48:00Z",
+  "https://www.yeniakit.com.tr/haber/istanbul-eski-muftusu-selahattin-kaya-hakka-yurudu-2028201.html": "2026-10-14T18:40:00Z",
+  "https://www.dirilispostasi.com/uefa-sampiyonlar-liginde-ikinci-hafta-sona-erdi": "2026-10-14T21:31:00Z",
+  "https://www.haberturk.com/gundem/meteorolojiden-48-il-icin-sari-5-il-icin-turuncu-uyari-3919806": "2026-10-14T21:33:41Z",
+  "https://www.bloomberght.com/resmi-gazete-de-bugun-15102026-3791400": "2026-10-14T21:07:50Z",
+  "https://www.bloomberght.com/fed-bej-kitap-bazi-bolgelerde-fiyat-artislari-hizlandi-3791395": "2026-10-14T19:14:09Z",
+  "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-15-ekim-2026-1746349": "2026-10-15T00:30:00Z",
+  "https://tr.euronews.com/2026/10/14/rusyada-internet-kesintileri-sabit-hatli-telefon-kullanimini-yeniden-gundeme-tasidi": "2026-10-14T20:02:45Z",
+  "https://www.indyturk.com/node/783845/haber/k%C4%B1sa-haberler": "2026-10-14T21:04:40Z",
+  "https://www.gazetepencere.com/muhalif-takvimi/dunya-el-yikama-gunu-4-719288h": "2026-10-14T21:06:05Z",
+  "https://www.gazetepencere.com/karikatur/i-bulent-celikin-15-ekim-2026-tarihli-karikaturu-719287h": "2026-10-14T21:02:26Z",
+  "https://www.gazetepencere.com/spor/besiktas-hapoel-tel-avive-farkli-maglup-oldu-719282h": "2026-10-14T20:00:18Z",
+  "https://medyascope.tv/2026/10/14/dunden-bugune-mehmet-altan-yazdi-basin-tarihi-53/": "2026-10-14T19:57:56Z",
+  "https://medyascope.tv/2026/10/14/14-ekim-2026-gunun-en-onemli-haberleri/": "2026-10-14T18:55:23Z",
+  "https://www.dunya.com/sirketler/migrostan-ciftcilere-yeni-destek-alisverislerde-yuzde-5e-varan-money-iadesi-haberi-843799": "2026-10-14T21:01:00Z",
+  "https://www.dunya.com/sektorler/gumruk-birligi-modernizasyonu-fiilen-basladi-haberi-843874": "2026-10-14T21:00:00Z",
+  "https://www.dunya.com/sektorler/hazir-giyim-sektorunu-farkli-tasarimlar-gelecegi-tasiyacak-haberi-843875": "2026-10-14T21:00:00Z",
+  "https://www.dunya.com/sektorler/tarimin-gelecegi-kadin-emegiyle-buyuyor-haberi-843884": "2026-10-14T21:00:00Z",
+  "https://www.dunya.com/sektorler/tarim/kadin-emeginin-aldigi-pay-daha-gorunur-ve-adil-olmali-haberi-843887": "2026-10-14T21:00:00Z",
+  "https://www.dunya.com/sektorler/tarim/yarinin-gidasi-sayica-yukselen-kadin-ciftcilerle-guvence-altinda-haberi-843888": "2026-10-14T21:00:00Z",
+  "https://www.dunya.com/enerji/yuk-muhendisligi-gucumuzu-korumali-ve-buyutmeliyiz-haberi-843889": "2026-10-14T21:00:00Z",
+  "https://www.dunya.com/sirketler/yilnak-magdenli-birlikteligi-proje-lojistiginde-uluslararasi-konumunu-guclendiriyor-haberi-843890": "2026-10-14T21:00:00Z",
+  "https://www.dunya.com/sirketler/sektor-avrupada-enerji-yatirimlariyla-hizlaniyor-haberi-843892": "2026-10-14T21:00:00Z",
+  "https://www.dunya.com/sirketler/hareket-yeni-yapilanmasiyla-kuresel-faaliyetlerini-buyutuyor-haberi-843893": "2026-10-14T21:00:00Z",
+  "https://www.dunya.com/is-dunyasi/tuiosb-yatirim-icin-kapasitesini-genisletecek-haberi-843897": "2026-10-14T21:00:00Z",
+  "https://www.dunya.com/is-dunyasi/disiderden-ulasim-aksina-destek-haberi-843898": "2026-10-14T21:00:00Z",
+  "https://www.dunya.com/sirketler/yillik-6-milyon-ton-yapi-alcisi-uretiyoruz-haberi-843899": "2026-10-14T21:00:00Z",
+  "https://www.dunya.com/sektorler/210-milyar-dolarlik-pastadan-10-milyar-dolarlik-pay-alacak-haberi-843900": "2026-10-14T21:00:00Z",
+  "https://www.dunya.com/sektorler/emlak/uc-yilda-1-milyon-celik-konut-uretebiliriz-haberi-843901": "2026-10-14T21:00:00Z",
+  "https://www.dunya.com/sektorler/ureticiler-kendileri-toplasa-bile-zarar-eder-haberi-843904": "2026-10-14T21:00:00Z",
+  "https://www.dunya.com/is-dunyasi/kayseri-ile-erbil-arasinda-5-sektorde-ticari-on-anlasma-haberi-843909": "2026-10-14T21:00:00Z",
+  "https://www.dunya.com/sirketler/girisimcilerin-dijitale-erisimi-destekleniyor-haberi-843910": "2026-10-14T21:00:00Z",
+  "https://www.dunya.com/sektorler/mobilya-sektoru-ingiltere-ihracatini-artiracak-haberi-843911": "2026-10-14T21:00:00Z",
+  "https://www.dunya.com/sehirler/malatyada-konteynerdeki-esnafa-yil-sonuna-kadar-sure-talebi-haberi-843913": "2026-10-14T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/japonyadan-abdye-21-milyar-dolarlik-cip-yatirimi-iki-yeni-uretim-tesisi-kurulacak-haberi-924763": "2026-10-14T22:55:00Z",
+  "https://www.ekonomim.com/ekonomi/12-ay-taksit-siniri-kaldirildi-bakanlik-sure-ve-tutar-siniri-belirleyebilecek-haberi-924747": "2026-10-14T21:35:00Z",
+  "https://www.ekonomim.com/foto-galeri/aktuel/bimde-indirim-soleni-fiyatlar-tek-tek-belli-oldu-bim-20-26-ekim-s1-galeri-924743": "2026-10-14T21:14:00Z",
+  "https://www.ekonomim.com/foto-galeri/aktuel/bimde-alisveris-listeleri-yeniden-yaziliyor-iste-haftanin-one-cikan-urunleri-bim-16-22-ekim-s1-galeri-924740": "2026-10-14T21:05:00Z",
+  "https://www.ekonomim.com/ekonomi/new-york-borsasi-gunu-dususle-kapatti-haberi-924737": "2026-10-14T21:01:00Z",
+  "https://www.ekonomim.com/sirketler/migros-tarim-platformu-tum-yerel-ureticilere-acildi-haberi-924403": "2026-10-14T21:00:00Z",
+  "https://www.ekonomim.com/foto-galeri/yasam/tarihte-bugun-15-ekim-s1-galeri-924718": "2026-10-14T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/serbest-fonlarin-havasi-bir-baska-haberi-924739": "2026-10-14T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/odeme-zincirleri-de-gerildi-haberi-924741": "2026-10-14T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/yuzde-3luk-doviz-donusum-destegi-kagit-ustunde-kaldi-haberi-924742": "2026-10-14T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/kuresel-pamuk-sektoru-istanbul-zirvesinde-bulustu-haberi-924744": "2026-10-14T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/bakir-cesur-hamle-pesinde-haberi-924745": "2026-10-14T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/kilic-deniz-2027de-yem-fabrikasini-devreye-alacak-haberi-924746": "2026-10-14T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/boyada-buyume-hacimde-degil-katma-deger-ve-inovatif-urunde-haberi-924748": "2026-10-14T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/eskisehir-sanayisinin-yarim-asirlik-hayali-gercege-donusuyor-haberi-924749": "2026-10-14T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/tucsadan-depreme-dayanikli-yapilasmada-celik-bina-hamlesi-haberi-924750": "2026-10-14T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/bacaci-zade-vitale-1-milyar-lira-yatirim-yapti-haberi-924751": "2026-10-14T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/fed-bej-kitap-6-bolgede-fiyat-baskisi-yukseldi-haberi-924732": "2026-10-14T19:20:00Z",
+  "https://haberglobal.com/spor/samsunsporun-yeni-hocasi-nenad-bjelica-sehre-geldi-548746": "2026-10-14T21:54:00Z",
+  "https://haberglobal.com/spor/sampiyonlar-liginde-arda-turan-icin-tarihi-gece-548740": "2026-10-14T21:13:00Z",
+  "https://haberglobal.com/gundem/bakan-fidan-bakude-cumhurbaskani-aliyevin-ev-sahipligindeki-aksam-yemegine-katildi-548741": "2026-10-14T21:05:00Z",
+  "https://haberglobal.com/spor/sivassporda-amilton-minervino-1-ay-oynamayacak-548732": "2026-10-14T19:11:00Z",
+  "https://haberglobal.com/spor/mac-ozeti-lask-3-6-liverpool-sampiyonlar-ligi-548730": "2026-10-14T19:00:00Z",
+  "https://www.sozcu.com.tr/sampiyonlar-ligi-nde-46-gollu-super-gece-devler-ligi-nde-2-hafta-tamamlandi-p369251": "2026-10-14T21:42:10Z",
+  "https://www.sozcu.com.tr/skriniar-agir-maglubiyeti-yorumladi-utanc-vericiydi-p369246": "2026-10-14T21:27:54Z",
+  "https://www.sozcu.com.tr/koy-evinin-bahcesinde-tesadufen-bulundu-yetkililer-bolgeyi-kazmaya-basladi-p369237": "2026-10-14T20:37:54Z",
+  "https://www.sozcu.com.tr/vincenzo-italiano-avrupa-daki-hedeflerini-acikladi-p369221": "2026-10-14T18:57:27Z",
+  "https://www.sozcu.com.tr/sampiyonlar-ligi-nde-9-gollu-cilgin-macta-kazanan-liverpool-yildiz-futbolcu-hat-trick-yapti-p369215": "2026-10-14T18:45:06Z",
+  "https://www.sozcu.com.tr/ucsuz-bucaksiz-kizil-col-bir-anda-ciceklerle-kaplandi-p369214": "2026-10-14T18:30:53Z",
+  "https://www.cumhuriyet.com.tr/turkiye/mhp-li-ilce-baskan-yardimcisi-hayatini-kaybetti-nedeni-belli-oldu-2546897": "2026-10-14T21:59:00Z",
+  "https://www.cumhuriyet.com.tr/spor/bodo-glimt-ten-borussia-dortmund-a-celme-2546895": "2026-10-14T21:56:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/ankara-barosu-nun-yeni-yonetimi-ilk-toplantisini-yapti-gorev-dagilimi-belli-oldu-2546890": "2026-10-14T21:52:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/tir-kaza-yapti-onlarca-arac-yolda-mahsur-kaldi-2546885": "2026-10-14T21:41:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/aym-den-26-siyasi-partiye-iliskin-30-mali-denetim-karari-2546882": "2026-10-14T21:34:00Z",
+  "https://www.cumhuriyet.com.tr/spor/milan-skriniar-dan-maglubiyet-aciklamasi-bugun-utanc-vericiydi-2546880": "2026-10-14T21:31:00Z",
+  "https://www.cumhuriyet.com.tr/spor/stuttgart-deplasmanda-uc-puani-3-golle-aldi-2546879": "2026-10-14T21:25:00Z",
+  "https://www.cumhuriyet.com.tr/spor/ispanya-daki-duelloda-kazanan-real-betis-2546877": "2026-10-14T21:20:00Z",
+  "https://www.cumhuriyet.com.tr/spor/psg-manchester-city-ye-sans-tanimadi-erling-haaland-in-cabasi-yetmedi-2546874": "2026-10-14T21:14:00Z",
+  "https://www.cumhuriyet.com.tr/tv-rehberi/masterchef-eleme-potasinda-kim-var-14-ekim-masterchef-dokunulmazlik-oyununu-kim-kazandi-2546869": "2026-10-14T21:08:00Z",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-bakirkoy-5-sulh-hukuk-mahkemesi-2546779": "2026-10-14T21:01:00Z",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-kocaeli-2-tuketici-mahkemesi-hakimligi-2546780": "2026-10-14T21:01:00Z",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-biga-icra-dairesi-mudurlugu-2546782": "2026-10-14T21:01:00Z",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-kirikkale-2-sulh-hukuk-mahkemesi-2546783": "2026-10-14T21:01:00Z",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-eleskirt-asliye-hukuk-mahkemesi-2546785": "2026-10-14T21:01:00Z",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-istanbul-36-asliye-hukuk-mahkemesi-2546787": "2026-10-14T21:01:00Z",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-izmir-59-asliye-ceza-mahkemesi-hakimligi-2546788": "2026-10-14T21:01:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/14-yasindaki-cocuga-cinsel-istismar-davasinda-karar-aciklandi-2546865": "2026-10-14T20:53:00Z",
+  "https://www.cumhuriyet.com.tr/spor/nicolas-jackson-kimdir-kac-yasinda-nereli-nicolas-jackson-hangi-takimlarda-oynadi-2546857": "2026-10-14T20:28:00Z",
+  "https://www.cumhuriyet.com.tr/spor/tofas-eurocup-ta-3-te-uc-yapti-2546855": "2026-10-14T20:23:00Z",
+  "https://www.cumhuriyet.com.tr/spor/fenerbahce-tarfin-den-euroleague-e-farkli-baslangic-2546853": "2026-10-14T20:20:00Z",
+  "https://www.cumhuriyet.com.tr/spor/emlak-konut-euroleague-e-galibiyetle-basladi-2546851": "2026-10-14T20:14:00Z",
+  "https://www.cumhuriyet.com.tr/spor/kante-aston-villa-macinda-neden-yok-n-golo-kante-sakat-mi-2546844": "2026-10-14T19:39:00Z",
+  "https://www.cumhuriyet.com.tr/spor/besiktas-sofya-da-kayip-hapoel-tel-aviv-e-takildi-2546843": "2026-10-14T19:38:00Z",
+  "https://www.cumhuriyet.com.tr/spor/eczacibasi-peron-istanbul-voleybol-sultanlar-ligi-nde-kayipsiz-2546842": "2026-10-14T19:25:00Z",
+  "https://www.cumhuriyet.com.tr/spor/vakifbank-voleybol-sultanlar-ligi-nde-ucte-uc-yapti-2546841": "2026-10-14T19:20:00Z",
+  "https://www.cumhuriyet.com.tr/spor/bradley-barcola-hat-trick-yapti-liverpool-9-gollu-macta-farkli-kazandi-2546840": "2026-10-14T19:15:00Z",
+  "https://www.birgun.net/haber/tbmm-de-turk-kizilay-kanunu-teklifi-tartismasi-dem-parti-den-6-subat-elestirisi-ve-daha-fazla-denetim-talebi-740439": "2026-10-14T22:01:00Z",
+  "https://www.birgun.net/haber/efsunun-ilk-romani-asiklar-timi-yayimlandi-740411": "2026-10-14T18:55:00Z",
+  "https://www.birgun.net/haber/altin-portakal-film-forumun-finalistleri-aciklandi-740410": "2026-10-14T18:53:00Z",
+  "https://www.birgun.net/haber/adanada-60-genc-muzisyen-halk-muzigi-kampinda-bulustu-740409": "2026-10-14T18:52:00Z",
+  "https://www.birgun.net/haber/ankara-film-festivalinde-10-film-yarisacak-740408": "2026-10-14T18:51:00Z",
+  "https://www.birgun.net/haber/bakan-kurum-ve-uraloglu-akp-li-belediye-baskani-tugay-ile-gorustu-740407": "2026-10-14T18:32:00Z",
+  "https://www.birgun.net/haber/tera-yatirim-in-sermaye-artirimi-ve-borclanma-araci-ihraci-basvurulari-islemden-kaldirildi-740405": "2026-10-14T18:24:00Z",
+  "https://www.evrensel.net/haber/6004983/yogun-yagisin-ardindan-ford-otosan-su-aliyor-isciler-calismaya-devam-ediyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-14T22:25:00Z",
+  "https://www.evrensel.net/haber/6004936/iude-hazirlik-kitaplari-cep-yakiyor-ogrenci-ucuz-kitap-almasin-diye-kod-oyunu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-14T21:23:00Z",
+  "https://www.evrensel.net/haber/6004951/mercedes-iscisi-faturayi-vurguncular-odesin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-14T21:20:00Z",
+  "https://www.evrensel.net/haber/6004950/boschta-isciler-borc-ve-isten-atilma-korkusu-golgesinde-siradaki-ben-miyim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-14T21:15:00Z",
+  "https://www.evrensel.net/haber/6004954/bostandan-arsaya-ormandan-denize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-14T21:14:00Z",
+  "https://www.evrensel.net/haber/6004974/sampiyonlar-ligi-nde-2-haftanin-gorunumu-fenerbahce-ve-galatasaray-in-kara-haftasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-14T21:03:00Z",
+  "https://www.evrensel.net/haber/6004969/murat-boz-ve-demet-ozdemir-sel-nedeniyle-mahsur-kaldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-14T19:49:00Z",
+  "https://www.diken.com.tr/britanyada-iki-fenerbahce-taraftari-gozaltina-alindi/?utm_source=rss&utm_medium=rss&utm_campaign=britanyada-iki-fenerbahce-taraftari-gozaltina-alindi": "2026-10-14T20:38:03Z",
+  "https://www.karar.com/teknoloji-haberleri/yapay-zeka-ile-kiyafet-giydirme-nasil-yapilir-sanal-kiyafet-deneme-2078456": "2026-10-14T21:36:22Z",
+  "https://www.karar.com/guncel-haberler/istanbulda-bugun-avmler-acik-mi-kapali-mi-15-ekim-alisveris-merkezleri-2078446": "2026-10-14T21:03:00Z",
+  "https://www.karar.com/gorusler/ekonomik-istikrar-kimin-icin-ovp-kentler-ve-belediyelerin-yeni-sinavi-2078444": "2026-10-14T21:01:00Z",
+  "https://www.karar.com/kultur-sanat-haberleri/dostlari-ali-haydar-haksali-karara-anlatti-entelektuelligi-ve-2078447": "2026-10-14T21:01:00Z",
+  "https://www.karar.com/yazarlar/ismet-berkan/bir-tek-benim-mi-gozume-batiyor-bu-siyasi-faydacilik-1609483": "2026-10-14T21:01:00Z",
+  "https://www.karar.com/yazarlar/sacide-ozlem/hicabini-acip-mektebe-dahil-olmak-istirsen-1609485": "2026-10-14T21:01:00Z",
+  "https://www.karar.com/yazarlar/ali-bayramoglu/eski-ve-yeni-turkiye-ne-demek-1609486": "2026-10-14T21:01:00Z",
+  "https://www.karar.com/yazarlar/fehmi-koru/kaderimiz-mi-bu-1609487": "2026-10-14T21:01:00Z",
+  "https://www.karar.com/yazarlar/ahmet-tasgetiren/camia-ses-yukseltiyor-1609489": "2026-10-14T21:01:00Z",
+  "https://www.karar.com/yazarlar/yagmur-tunali/memlekette-yagma-ve-talandan-gecilmez-oldu-1609491": "2026-10-14T21:01:00Z",
+  "https://www.karar.com/yazarlar/osman-sert1/turkiyenin-azerbaycan-sinavi-1609492": "2026-10-14T21:01:00Z",
+  "https://www.karar.com/yazarlar/meliksah-aydin1/kucuk-anlar-buyuk-sonuclar-1609493": "2026-10-14T21:01:00Z",
+  "https://www.karar.com/yazarlar/gokhan-akturk/para-harcayanlar-deger-uretenler-1609494": "2026-10-14T21:01:00Z",
+  "https://www.karar.com/ekonomi-haberleri/turkiyede-trafikte-kac-arac-var-arac-degistirme-imkanlari-artacak-mi-2078441": "2026-10-14T19:30:14Z",
+  "https://www.karar.com/guncel-haberler/portekiz-d7-vizesi-sartlari-neler-kira-geliriyle-avrupada-oturum-alinir-2078438": "2026-10-14T18:57:25Z",
+  "https://www.yenicaggazetesi.com/deniz-urunlerinde-yeni-donem-5165-milyon-dolardan-sonra-hedef-buyudu-1082270h.htm": "2026-10-14T23:53:38Z",
+  "https://www.yenicaggazetesi.com/masterchefte-kritik-gece-haftanin-ilk-eleme-adaylari-belli-oldu-1082269h.htm": "2026-10-14T23:37:56Z",
+  "https://www.yenicaggazetesi.com/tbmm-genel-kurulunda-kritik-secim-kvkknin-yeni-uyeleri-belli-oldu-1082265h.htm": "2026-10-14T22:22:34Z",
+  "https://www.yenicaggazetesi.com/bayrampasa-belediye-baskanligi-sosyal-hizmetler-mudurlugu-1081700h.htm": "2026-10-14T21:01:00Z",
+  "https://www.yenicaggazetesi.com/tc-eskipazar-sulh-hukuk-mahkemesinden-1081702h.htm": "2026-10-14T21:01:00Z",
+  "https://www.yenicaggazetesi.com/tc-akyurt-sulh-hukuk-mah-satis-memurlugu-1081817h.htm": "2026-10-14T21:01:00Z",
+  "https://www.yenicaggazetesi.com/tc-ankara-20-icra-hukuk-mahkemesi-1081819h.htm": "2026-10-14T21:01:00Z",
+  "https://www.yenicaggazetesi.com/yozgat-belediye-baskanligindan-ilan-1081851h.htm": "2026-10-14T21:01:00Z",
+  "https://www.yenicaggazetesi.com/tc-malatya-3-asliye-hukuk-mahkemesinden-1081855h.htm": "2026-10-14T21:01:00Z",
+  "https://www.yenicaggazetesi.com/istanbul-il-saglik-mudurlugu-istanbul-sisli-hamidiye-etfal-egitim-ve-arastirma-hastanesi-bashekimligi-1081863h.htm": "2026-10-14T21:01:00Z",
+  "https://www.yenicaggazetesi.com/tc-gaziosmanpasa-9-asliye-ceza-mahkemesi-ilan-1081866h.htm": "2026-10-14T21:01:00Z",
+  "https://www.yenicaggazetesi.com/tc-seferihisar-sulh-hukuk-mah-satis-memurlugu-1081868h.htm": "2026-10-14T21:01:00Z",
+  "https://www.yenicaggazetesi.com/sattigin-yerleri-toprak-diyerek-gecme-tani-1082174h.htm": "2026-10-14T21:01:00Z",
+  "https://www.yenicaggazetesi.com/tarihte-bugun-15-ekim-1082179h.htm": "2026-10-14T21:01:00Z",
+  "https://www.yenicaggazetesi.com/kul-olmadan-once-35-dakika-1082218h.htm": "2026-10-14T21:01:00Z",
+  "https://www.yenicaggazetesi.com/iktidarlar-baskiyla-ayakta-kalabilir-mi-1082237h.htm": "2026-10-14T21:01:00Z",
+  "https://www.yenicaggazetesi.com/guldur-guldur-show-14-sezona-basliyor-1082238h.htm": "2026-10-14T21:01:00Z",
+  "https://www.yenicaggazetesi.com/med9a-kibris-turk-halkinin-egemenligini-yok-sayma-hakkini-kim-verdi-1082239h.htm": "2026-10-14T21:01:00Z",
+  "https://www.yenicaggazetesi.com/okulun-kapisindaki-siddet-bir-toplum-cocuguna-ne-ogretiyor-1082241h.htm": "2026-10-14T21:01:00Z",
+  "https://www.yenicaggazetesi.com/kimi-insanlar-hem-bilge-hem-bilgindir-prof-dr-bayram-durbilmez-1082243h.htm": "2026-10-14T21:01:00Z",
+  "https://www.yenicaggazetesi.com/atalim-sandiga-oyumuzu-gorelim-sonucunu-1082246h.htm": "2026-10-14T21:01:00Z",
+  "https://www.yenicaggazetesi.com/yenilenebilir-enerjide-ornek-adim-umraniye-belediyesi-ges-projesine-basladi-1082251h.htm": "2026-10-14T18:56:40Z",
+  "https://www.yenicaggazetesi.com/rakibinin-sacini-ceken-vini-jra-4-mac-ceza-el-clasicoda-yok-1082249h.htm": "2026-10-14T18:39:32Z",
+  "https://kisadalga.net/haber/ozel-haber/bir-egitim-sisteminin-anatomisi-cocuklarin-gorunmeyen-mucadeleleri-sistemin-aciklari-ve-esitsizliklerin-belirledigi-gelecek-140913": "2026-10-14T21:12:00Z",
+  "https://artigercek.com/gozden-kacmasin/taze-fasulyeye-1-kasik-eklendiginde-lezzeti-katlaniyormus-izmirli-ascilarin-yontemi-351629h": "2026-10-14T20:49:35Z",
+  "https://artigercek.com/gozden-kacmasin/muzlarin-curumesini-onleyen-yontem-bir-ay-saklamak-mumkun-351628h": "2026-10-14T20:12:25Z",
+  "https://artigercek.com/dunya/israil-cumhurbaskani-herzog-azerbaycanda-aliyev-ile-gorustu-351625h": "2026-10-14T19:49:00Z",
+  "https://artigercek.com/gozden-kacmasin/kisirin-lezzetini-artiran-malzeme-urfalilarin-kullandigi-1-kasikla-tadi-degisiyor-351624h": "2026-10-14T19:41:19Z",
+  "https://artigercek.com/yasam/fatihte-su-birikintisinde-akimina-kapilan-cocuk-hayatini-kaybetti-351622h": "2026-10-14T19:20:00Z",
+  "https://bianet.org/haber/berlin-sol-partiye-milletvekilini-dislama-dayatmasi-bosa-cikti-spd-ve-yesiller-koalisyon-gorusmelerine-donuyor-324427": "2026-10-14T22:14:00Z",
+  "https://serbestiyet.com/haberler/kultur-sanat/filistine-desteginin-bedeli-unlu-yazar-sally-rooneynin-kitaplari-ingilterede-satistan-kaldiriliyor-251433/": "2026-10-14T18:59:07Z",
+  "https://serbestiyet.com/haberler/dunya/trumpin-eski-avukatiyla-evlenen-turk-is-insaninin-milyonlarca-dolarlik-bagisi-kayip-beyaz-saray-sorusturuyor-251429/": "2026-10-14T18:47:40Z"
  }
 }
