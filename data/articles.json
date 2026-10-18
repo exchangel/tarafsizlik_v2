@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T16:57:11Z",
+ "updated": "2026-10-18T17:21:37Z",
  "stories": {
   "sermaye-piyasasi-ve-fon-sorusturmasi": {
    "title_tr": "Sermaye Piyasası ve Fon Soruşturması",
@@ -791,9 +791,9 @@
   },
   "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler": {
    "title_tr": "İsrail'in Gazze'ye Saldırıları ve Uluslararası Tepkiler",
-   "title_en": "Israel's Attacks on Gaza and International Reactions",
-   "summary_tr": "İsrail'in Gazze'ye yönelik saldırıları sürerken uluslararası alanda tepkiler ve insani durum ele alındı.",
-   "summary_en": "While Israel's attacks on Gaza continued, international reactions and the humanitarian situation were addressed.",
+   "title_en": "Israel's attacks on Gaza and international reactions",
+   "summary_tr": "Gazze'deki saldırılarda yaşamını yitirenlerin naaşlarına ulaşılırken, İsrail askerleri sivillerin hedef alındığını itiraf etti.",
+   "summary_en": "While the bodies of those who lost their lives in the attacks in Gaza are being recovered, Israeli soldiers admitted that civilians were targeted.",
    "tags": [
     "#DışPolitika",
     "#İnsanHaklarıVeHukuk"
@@ -3120,9 +3120,82 @@
    "tags": [
     "#EkonomiVePiyasalar"
    ]
+  },
+  "boran-8-atisli-tatbikati": {
+   "title_tr": "BORAN-8 Atışlı Tatbikatı",
+   "title_en": "BORAN-8 Firing Exercise",
+   "summary_tr": "Bakan Çiftçi, BORAN-8 atışlı tatbikatında dereceye giren personeli ve takımları tebrik etti.",
+   "summary_en": "Minister Çiftçi congratulated the personnel and teams who ranked in the BORAN-8 firing exercise.",
+   "tags": [
+    "#SavunmaSanayii",
+    "#İçPolitika"
+   ]
+  },
+  "milli-halterci-tuana-suren-in-avrupa-sampiyonasi-basarisi": {
+   "title_tr": "Milli halterci Tuana Süren'in Avrupa Şampiyonası başarısı",
+   "title_en": "National weightlifter Tuana Süren's European Championship success",
+   "summary_tr": "Milli halterci Tuana Süren, Avrupa Gençler Şampiyonası'nda 3 altın madalya kazandı.",
+   "summary_en": "National weightlifter Tuana Süren won 3 gold medals at the European Junior Championships.",
+   "tags": [
+    "#Spor"
+   ]
+  },
+  "husumetli-komsusu-tarafindan-oldurulen-kisi": {
+   "title_tr": "Husumetli komşusu tarafından öldürülen kişi",
+   "title_en": "Person killed by a hostile neighbor",
+   "summary_tr": "Adapazarı'nda eski evinden eşyalarını almaya giden kişi, husumetli olduğu komşusu tarafından öldürüldü.",
+   "summary_en": "A person who went to collect belongings from their old house in Adapazarı was killed by their hostile neighbor.",
+   "tags": [
+    "#AdaletVeYargı"
+   ]
+  },
+  "slavia-prag-fenerbahce-maci-krizi": {
+   "title_tr": "Slavia Prag - Fenerbahçe maçı krizi",
+   "title_en": "Slavia Prague vs Fenerbahçe match crisis",
+   "summary_tr": "Slavia Prag takımında Fenerbahçe maçı öncesi kadro krizi yaşandığı iddia edildi.",
+   "summary_en": "It is claimed that there is a squad crisis in the Slavia Prague team before the Fenerbahçe match.",
+   "tags": [
+    "#Spor"
+   ]
+  },
+  "yunanistan-da-orman-yangini": {
+   "title_tr": "Yunanistan'da orman yangını",
+   "title_en": "Forest fire in Greece",
+   "summary_tr": "Yunanistan'ın Rodop ilinde ormanlık alanda yangın meydana geldi.",
+   "summary_en": "A forest fire occurred in the Rodopi region of Greece.",
+   "tags": [
+    "#ÇevreVeİklim"
+   ]
+  },
+  "aykut-erdogdu-nun-chp-den-istifasi": {
+   "title_tr": "Aykut Erdoğdu'nun CHP'den istifası",
+   "title_en": "Aykut Erdoğdu's resignation from CHP",
+   "summary_tr": "Aykut Erdoğdu, CHP'den istifa ettiğini açıkladı.",
+   "summary_en": "Aykut Erdoğdu announced his resignation from the CHP.",
+   "tags": [
+    "#SeçimVePartiler"
+   ]
+  },
+  "trabzonspor-besiktas-derbisi-gelismeleri": {
+   "title_tr": "Trabzonspor - Beşiktaş derbisi gelişmeleri",
+   "title_en": "Trabzonspor vs Beşiktaş derby developments",
+   "summary_tr": "Beşiktaş yönetiminin derbi öncesi aldığı kararlar ve Trabzonspor'da Mustafa Eskihellaç'ın maç kadrosunda olmayacağı açıklandı.",
+   "summary_en": "Decisions taken by the Beşiktaş management before the derby and the announcement that Mustafa Eskihellaç will not be in the Trabzonspor match squad were reported.",
+   "tags": [
+    "#Spor"
+   ]
   }
  },
  "articles": [
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-18T20:09:12Z",
+   "title": "Gazze'de 75 naaş enkazdan çıkartıldı",
+   "link": "https://www.cnnturk.com/video/dunya/gazzede-75-naas-enkazdan-cikartildi-3481128",
+   "image": "",
+   "story": "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler"
+  },
   {
    "source": "CNN Türk",
    "group": "progov",
@@ -3196,6 +3269,105 @@
    "story": "mardin-kultur-yolu-festivali"
   },
   {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-18T17:19:00Z",
+   "title": "Yunanistan'ın Rodop ilinde ormanlık alanda yangın çıktı",
+   "link": "https://www.dirilispostasi.com/yunanistanin-rodop-ilinde-ormanlik-alanda-yangin-cikti",
+   "image": "https://dpcdn.tebilisim.com/crop/1280x720/uploads/2026/10/thumbs-b-c-b869842ab8f3026c261642178bd0e3a9.webp",
+   "story": "yunanistan-da-orman-yangini"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-18T17:18:36Z",
+   "title": "Son eşyalarını almak için eski evine gitti: Husumetli komşusu tarafından öldürüldü",
+   "link": "https://www.yenicaggazetesi.com/son-esyalarini-almak-icin-eski-evine-gitti-husumetli-komsusu-tarafindan-olduruldu-1082980h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/18/son-esyalarini-almak-icin-eski-evine-gitti-husumetli-komsusu-tarafindan-olduruldu-bw7f.jpg",
+   "story": "husumetli-komsusu-tarafindan-oldurulen-kisi"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-18T17:18:30Z",
+   "title": "Trabzonspor'da Mustafa Eskihellaç Beşiktaş derbisinde yok",
+   "link": "https://www.yenicaggazetesi.com/trabzonsporda-mustafa-eskihellac-besiktas-derbisinde-yok-1082979h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/18/trabzonsporda-mustafa-eskihellac-besiktas-derbisinde-yok-59ef.jpg",
+   "story": "trabzonspor-besiktas-derbisi-gelismeleri"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-18T17:15:30Z",
+   "title": "Aykut Erdoğdu CHP'den istifa etti",
+   "link": "https://www.sozcu.com.tr/aykut-erdogdu-chp-istifa-etti-p370402",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/son-dakikajpg-i0bPD0o_eU2aGBissFL1Mg.jpg",
+   "story": "aykut-erdogdu-nun-chp-den-istifasi"
+  },
+  {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-18T17:14:00Z",
+   "title": "İsrail askerlerinden Gazze'de sivillerin hedef alındığı itirafı",
+   "link": "https://www.dirilispostasi.com/israil-askerlerinden-gazzede-sivillerin-hedef-alindigi-itirafi",
+   "image": "https://dpcdn.tebilisim.com/crop/1280x720/uploads/2026/10/thumbs-b-c-d2bbaff2e5864003b733dfd95bfc73e4.webp",
+   "story": "israil-in-gazze-ye-saldirilari-ve-uluslararasi-tepkiler"
+  },
+  {
+   "source": "Star",
+   "group": "progov",
+   "published": "2026-10-18T17:14:00Z",
+   "title": "Slavia Prag'da Fenerbahçe maçı öncesi büyük kriz! \"İstanbul'a gelmeyecek\"",
+   "link": "https://www.star.com.tr/spor/slavia-pragda-fenerbahce-maci-oncesi-buyuk-kriz-istanbula-gelmeyecek-haber-2047449/",
+   "image": "https://imgs.star.com.tr/imgsdisk/2026/10/18/slavia-pragda-fenerbahce--887.jpg",
+   "story": "slavia-prag-fenerbahce-maci-krizi"
+  },
+  {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-18T17:12:00Z",
+   "title": "Milli halterci Tuana Süren, Avrupa Gençler Şampiyonası'nda 3 altın madalya kazandı",
+   "link": "https://www.dirilispostasi.com/milli-halterci-tuana-suren-avrupa-gencler-sampiyonasinda-3-altin-madalya-kazandi",
+   "image": "https://dpcdn.tebilisim.com/crop/1280x720/uploads/2026/10/thumbs-b-c-939f8beb95a4cbebd69ae5efaf7cd9ef.webp",
+   "story": "milli-halterci-tuana-suren-in-avrupa-sampiyonasi-basarisi"
+  },
+  {
+   "source": "Gazete Pencere",
+   "group": "independent",
+   "published": "2026-10-18T17:12:00Z",
+   "title": "Aykut Erdoğdu CHP'den istifa etti: 'Bu yükü daha fazla taşıyamayacağım'",
+   "link": "https://www.gazetepencere.com/gundem/aykut-erdogdu-chpden-istifa-etti-bu-yuku-daha-fazla-tasiyamayacagim-719825h",
+   "image": "https://i.gazetepencere.com/2/150/84/storage/files/images/2026/10/18/aykut-erdogdu-chpden-istifa-etti-bu-yuku-daha-fazla-tasiyamayacagim-9wse.jpg",
+   "story": "aykut-erdogdu-nun-chp-den-istifasi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-18T17:11:08Z",
+   "title": "Adapazarı’nda komşu dehşeti: Eşyalarını almaya geldi, hayatını kaybetti",
+   "link": "https://www.yenisafak.com/galeri/gundem/adapazarinda-komsu-dehseti-hakan-turak-hayatini-kaybetti-4865371",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/18/a872cc81-evinin-son-esyalarini-almak-icin-geldi-tartistigi-komsusu.webp",
+   "story": "husumetli-komsusu-tarafindan-oldurulen-kisi"
+  },
+  {
+   "source": "Star",
+   "group": "progov",
+   "published": "2026-10-18T17:08:00Z",
+   "title": "BORAN-8'de gururlandıran tablo! Bakan Çiftçi, dereceye giren takımları kutladı",
+   "link": "https://www.star.com.tr/guncel/boran-8de-gururlandiran-tablo-bakan-ciftci-dereceye-giren-takimlari-kutladi-haber-2047448/",
+   "image": "https://imgs.star.com.tr/imgsdisk/2026/10/18/boran-8de-gururlandiran-t-257.jpg",
+   "story": "boran-8-atisli-tatbikati"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-18T17:05:00Z",
+   "title": "Aykut Erdoğdu CHP'den istifa kararını duyurdu: 'Bu yükü daha fazla taşıyamayacağım'",
+   "link": "https://www.cumhuriyet.com.tr/siyaset/aykut-erdogdu-chp-den-istifa-kararini-duyurdu-bu-yuku-daha-fazla-tasiyamayacagim-2547976",
+   "image": "https://media.cumhuriyet.com.tr/Archive/f8d7f6f4-0c37-4cb1-b6b2-01ed69234c0d.jpg",
+   "story": "aykut-erdogdu-nun-chp-den-istifasi"
+  },
+  {
    "source": "CNN Türk",
    "group": "progov",
    "published": "2026-10-18T17:04:00Z",
@@ -3203,6 +3375,33 @@
    "link": "https://www.cnnturk.com/yerel-haberler/istanbul/gebzede-sele-kapilan-cipteki-2-kisiden-birinin-cansiz-bedeni-pendikte-bulundu-3481084",
    "image": "",
    "story": "istanbul-da-saganak-yagis-ve-sel-felaketi"
+  },
+  {
+   "source": "Sabah",
+   "group": "progov",
+   "published": "2026-10-18T17:01:06Z",
+   "title": "Bakan Çiftçi’den BORAN-8 paylaşımı: Kahraman personelimizi yürekten tebrik ediyorum”",
+   "link": "https://www.sabah.com.tr/gundem/2026/10/18/bakan-ciftciden-boran-8-paylasimi-kahraman-personelimizi-yurekten-tebrik-ediyorum",
+   "image": "https://iasbh.tmgrup.com.tr/bdc1dd/1200/675/0/0/864/486?u=https://isbh.tmgrup.com.tr/sbh/2026/10/18/bakan-ciftciden-boran-8-paylasimi-kahraman-personelimizi-yurekten-tebrik-ediyorum-1792342813199.jpeg",
+   "story": "boran-8-atisli-tatbikati"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-18T17:00:15Z",
+   "title": "Milli halterci Tuana Süren, Avrupa Gençler Şampiyonası'nda 3 altın madalya elde etti",
+   "link": "https://www.aa.com.tr/tr/spor/milli-halterci-tuana-suren-avrupa-gencler-sampiyonasinda-3-altin-madalya-elde-etti/4092847",
+   "image": "",
+   "story": "milli-halterci-tuana-suren-in-avrupa-sampiyonasi-basarisi"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-18T16:57:16Z",
+   "title": "Beşiktaş Başkanı Serdal Adalı’dan Trabzonspor derbisine saatler kala flaş karar! Yetki o isme geçti",
+   "link": "https://www.sozcu.com.tr/besiktas-baskani-serdal-adalidan-trabzonspor-derbisine-saatler-kala-flas-karar-yetki-o-isme-gecti-p370401",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/193jpg-CQLIxJbQnEua35IfqqTSYQ.jpg",
+   "story": "trabzonspor-besiktas-derbisi-gelismeleri"
   },
   {
    "source": "Akşam",
@@ -119662,6 +119861,28 @@
   "https://bianet.org/haber/feministler-sishaneden-seslendi-fatma-nur-ve-hifa-ikra-neden-korunmadi-324560": "2026-10-18T16:35:00Z",
   "https://bianet.org/haber/fransada-kitlesel-eylemlerin-ardindan-gozaltilar-2-bini-asti-324559": "2026-10-18T13:30:00Z",
   "https://bianet.org/haber/ciftcinin-traktoru-calisacagi-zaman-zamlar-geliyor-324556": "2026-10-18T11:45:00Z",
-  "https://serbestiyet.com/featured/trumptan-netanyahuya-secim-icin-acik-destek-bibi-disinda-biri-secilirse-iranla-amerika-ugrasmak-zorunda-kalir-251741/": "2026-10-18T16:46:12Z"
+  "https://serbestiyet.com/featured/trumptan-netanyahuya-secim-icin-acik-destek-bibi-disinda-biri-secilirse-iranla-amerika-ugrasmak-zorunda-kalir-251741/": "2026-10-18T16:46:12Z",
+  "https://www.hurriyet.com.tr/sporarena/lilleden-berke-ozer-aciklamasi-galatasaraya-karsi-oynayacak-mi-43346493": "2026-10-18T16:34:28Z",
+  "https://www.milliyet.com.tr/dunya/yaklasan-ara-secim-oncesi-trumpa-mesaj-abd-halkinin-yuzde-71i-ayni-seyi-soyledi-7682508": "2026-10-18T17:04:14Z",
+  "https://www.yenisafak.com/dunya/canli-yayinda-korkunc-olay-uzerine-hac-dusen-rahip-oldu-4865369": "2026-10-18T17:04:25Z",
+  "https://www.aksam.com.tr/spor/real-madrid-jose-mourinhonun-alternatifini-simdiden-belirledi/haber-1707270": "2026-10-18T17:20:00Z",
+  "https://www.star.com.tr/guncel/duzcede-saganak-sonrasi-dere-tasti-tarlalari-su-basti-haber-2047450/": "2026-10-18T17:16:00Z",
+  "https://www.star.com.tr/dunya/pariste-gerilim-tirmaniyor-sokaklar-savas-alanina-dondu-haber-2047447/": "2026-10-18T16:59:00Z",
+  "https://www.yeniakit.com.tr/haber/somuru-duzenine-ve-faiz-lobiye-nester-vurulmali-huda-par-genel-baskani-zekeriya-yapicioglundan-tarihi-cagri-2028902.html": "2026-10-18T17:10:00Z",
+  "https://www.yeniakit.com.tr/haber/yeni-partiden-secim-tiyatrosu-tek-aday-girdigi-secimi-mecburen-kazandi-2028901.html": "2026-10-18T17:03:00Z",
+  "https://www.dirilispostasi.com/baski-sanatinin-oncu-ismi-suleyman-saim-tekcan": "2026-10-18T17:16:00Z",
+  "https://www.ntv.com.tr/turkiye/galeri-sans-topu-sonuclari-sorgulama-ekrani-2026-51-kazandiran-numaralar-ve-mpi-bilet-sorgulama-sayfasi-1746902": "2026-10-18T17:14:33Z",
+  "https://www.gazetepencere.com/gozden-kacmasin/sgk-uzmani-isa-karakas-sgkdan-odeme-almak-icin-basvurun-719826h": "2026-10-18T17:20:57Z",
+  "https://www.gazetepencere.com/gundem/umit-ozlaleden-10-milyar-tllik-dask-iddiasi-icin-yeni-aciklama-kamu-zarari-yok-ama-baski-var-719824h": "2026-10-18T17:05:00Z",
+  "https://www.ekonomim.com/gundem/yeni-parti-istanbul-on-secimlerinde-kazanan-belli-oldu-haberi-925472": "2026-10-18T17:10:00Z",
+  "https://www.ekonomim.com/foto-galeri/teknoloji/kuresel-elektronik-uretiminde-dengeler-degisti-turkiyenin-kuresel-payi-belli-oldu-galeri-925471": "2026-10-18T17:06:00Z",
+  "https://haberglobal.com/spor/batman-petrolspordan-selcuk-sahine-destek-kara-gece-549337": "2026-10-18T17:12:00Z",
+  "https://www.cumhuriyet.com.tr/spor/psg-ve-real-madrid-maclari-oncesi-barcelona-ya-iki-kotu-haber-2547975": "2026-10-18T17:03:00Z",
+  "https://www.cumhuriyet.com.tr/tv-rehberi/daha-17-dizisinin-yeni-bolumu-ne-zaman-yayimlanacak-daha-17-dizisinin-son-bolumunde-ne-oldu-2547974": "2026-10-18T17:00:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/rusya-dan-ukrayna-aciklamasi-zelenskiy-moskova-ile-muzakere-istemiyor-2547973": "2026-10-18T16:56:00Z",
+  "https://www.birgun.net/haber/real-madrid-sevilla-maci-saat-kacta-ve-hangi-kanalda-741064": "2026-10-18T17:00:00Z",
+  "https://www.karar.com/dunya-haberleri/avrupaya-kac-kisi-sigindi-avrupaya-iltica-basvurulari-kac-oldu-siginma-2079227": "2026-10-18T17:06:19Z",
+  "https://www.karar.com/guncel-haberler/izmir-barosunun-yeni-baskani-belli-oldu-2079226": "2026-10-18T17:05:03Z",
+  "https://www.yenicaggazetesi.com/corumda-iki-otomobil-carpisti-7-yarali-1082978h.htm": "2026-10-18T16:58:18Z"
  }
 }
