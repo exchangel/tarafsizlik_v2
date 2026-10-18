@@ -45,13 +45,13 @@ karşılaştırmak için kullanılacak; bu yüzden gruplama hatasız ve dengeli 
 - Kontrol: Grubun özetini TEK bir somut olay cümlesiyle yazamıyorsan grubu böl.
 - Tek başlıklı grup olabilir; zorla birleştirme.
 
-2) GÜNDEM DIŞI HABERLER → "Ilgisiz"
-Aşağıdakileri SADECE "Ilgisiz" adlı tek grupta topla ve etiket verme:
+2) GÜNDEM DIŞI HABERLER → ÇIKTIYA KOYMA
+Aşağıdakileri hiçbir gruba koyma ve çıktıda HİÇ yazma (id'lerini de listeleme), sadece atla:
 - Magazin, ünlüler, dizi/film, burç, yaşam tarzı, sağlık/diyet önerileri, tarifler, reklam ve ürün haberleri.
 - Rutin hava durumu, sıradan trafik kazaları ve kamuoyu boyutu olmayan tekil adli olaylar. Buna tek bir
   yerel kadına/çocuğa şiddet vakası ve tek kişinin öldüğü bir iş kazası da dahildir.
 - Spor: aşağıdaki istisnalar dışında TÜM spor haberleri (maç sonuçları, transfer, sakatlık, teknik direktör açıklamaları).
-Şunlar ise toplumsal gündemdir, "Ilgisiz" SAYMA:
+Şunlar ise toplumsal gündemdir, ATLAMA:
 - Kadına/çocuğa şiddet ve iş cinayetlerinde kamuoyu boyutu olanlar: ülke çapında tepki ve protesto doğuran vakalar,
   mahkeme kararları ve cezalar (ör. iyi hal indirimi tartışması), kamu görevlisi veya kurum ihmali iddiası taşıyanlar,
   aylık/yıllık raporlar ve istatistikler (ör. Kadın Cinayetlerini Durduracağız Platformu, İSİG Meclisi), yasa ve politika değişiklikleri.
@@ -84,7 +84,8 @@ Spor haberini SADECE şu durumlarda grupla:
 Her grup için SADECE aşağıdaki listeden en uygun 1-3 etiketi seç; liste dışında etiket KULLANMA:
 {tags}
 
-ÇIKTI: Sadece aşağıdaki biçimde bir JSON listesi döndür, başka metin yazma. Her haber id'si en fazla bir grupta yer alsın.
+ÇIKTI: Sadece aşağıdaki biçimde bir JSON listesi döndür, başka metin yazma. Her haber id'si en fazla bir grupta yer alsın;
+gündem dışı haberlerin id'leri hiçbir yerde geçmesin.
 [
   {{
     "konu_basligi": "Konu Başlığı",
@@ -194,6 +195,7 @@ def merge(store, pending, groups, now):
 
 
 def ask_model(prompt):
+    """Groups from the first model that answers with valid JSON, or None."""
     from google import genai  # imported here so tests don't need the SDK
 
     client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
@@ -205,11 +207,17 @@ def ask_model(prompt):
                 contents=prompt,
                 config={"response_mime_type": "application/json"},
             )
-            if response.text:
-                return response.text
+            if not response.text:
+                continue
         except Exception as e:
             print(f"{model} failed: {e}")
             time.sleep(2)
+            continue
+        try:
+            return parse_response(response.text)
+        except (json.JSONDecodeError, ValueError) as e:
+            print(f"{model} returned unparseable output: {e}")
+            print(response.text[-2000:])
     return None
 
 
@@ -228,15 +236,9 @@ def main():
         return
 
     print(f"Clustering {len(pending)} headlines...")
-    text = ask_model(build_prompt(pending, reusable_titles(store, now)))
-    if not text:
-        sys.exit("No model answered. Check the API key and quota.")
-
-    try:
-        groups = parse_response(text)
-    except (json.JSONDecodeError, ValueError) as e:
-        print(text)
-        sys.exit(f"Could not parse model output: {e}")
+    groups = ask_model(build_prompt(pending, reusable_titles(store, now)))
+    if groups is None:
+        sys.exit("No model returned usable output. Check the API key, quota and the log above.")
 
     store, matched = merge(store, pending, groups, now)
     save_json(ARTICLES_FILE, store)
