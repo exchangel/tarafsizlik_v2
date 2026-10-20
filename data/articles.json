@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T19:54:52Z",
+ "updated": "2026-10-20T01:05:52Z",
  "stories": {
   "sermaye-piyasasi-ve-fon-sorusturmasi": {
    "title_tr": "Sermaye Piyasası ve Fon Soruşturması",
@@ -2283,8 +2283,8 @@
   "trabzonspor-besiktas-maci": {
    "title_tr": "Trabzonspor - Beşiktaş maçı",
    "title_en": "Trabzonspor - Beşiktaş match",
-   "summary_tr": "Trabzonspor ile Beşiktaş arasında oynanan derbi maçını Trabzonspor 2-0 kazandı.",
-   "summary_en": "Trabzonspor won the derby match against Beşiktaş 2-0.",
+   "summary_tr": "Süper Lig'de oynanan Trabzonspor - Beşiktaş maçını Trabzonspor 2-0 kazandı.",
+   "summary_en": "Trabzonspor won the Super Lig match against Beşiktaş 2-0.",
    "tags": [
     "#Spor"
    ]
@@ -3459,10 +3459,11 @@
   "sarigul-ailesine-yonelik-kara-para-aklama-sorusturmasi": {
    "title_tr": "Sarıgül ailesine yönelik kara para aklama soruşturması",
    "title_en": "Money laundering investigation into the Sarıgül family",
-   "summary_tr": "Sarıgül ailesine yönelik yürütülen kara para aklama soruşturması kapsamında Emir Sarıgül emniyete giderek teslim oldu.",
-   "summary_en": "Emir Sarıgül surrendered to the police as part of a money laundering investigation into the Sarıgül family.",
+   "summary_tr": "Sarıgül ailesine yönelik kara para aklama soruşturması kapsamında gazeteci Murat Ağırel'in de aralarında bulunduğu 15 kişi tutuklandı.",
+   "summary_en": "15 people, including journalist Murat Ağırel, were arrested as part of a money laundering investigation into the Sarıgül family.",
    "tags": [
-    "#AdaletVeYargı"
+    "#AdaletVeYargı",
+    "#MedyaVeİfadeÖzgürlüğü"
    ]
   },
   "sile-belediyesi-davasi": {
@@ -3536,18 +3537,17 @@
   "fransa-da-protestolar-ve-sokaga-cikma-yasagi": {
    "title_tr": "Fransa'da protestolar ve sokağa çıkma yasağı",
    "title_en": "Protests and curfew in France",
-   "summary_tr": "Fransa'da yaşanan şiddetli protestolar nedeniyle birçok kentte sokağa çıkma yasağı ilan edildi.",
-   "summary_en": "A curfew has been declared in several cities due to violent protests in France.",
+   "summary_tr": "Fransa'da şiddetlenen protestolar nedeniyle birçok kentte kısmi sokağa çıkma yasağı ilan edildi.",
+   "summary_en": "Partial curfews have been declared in several cities due to intensifying protests in France.",
    "tags": [
-    "#DışPolitika",
-    "#İnsanHaklarıVeHukuk"
+    "#DışPolitika"
    ]
   },
   "israil-in-gazze-ye-saldirilari": {
    "title_tr": "İsrail'in Gazze'ye Saldırıları",
    "title_en": "Israel's attacks on Gaza",
-   "summary_tr": "İsrail'in Gazze'ye yönelik saldırıları devam ederken uluslararası toplum ve spor dünyasından tepkiler gelmeye devam ediyor.",
-   "summary_en": "As Israel's attacks on Gaza continue, reactions from the international community and the sports world persist.",
+   "summary_tr": "İsrail'in Gazze ve Batı Şeria'daki saldırıları ile bölgedeki insani kriz sürerken uluslararası alanda tepkiler yükseliyor.",
+   "summary_en": "While Israel's attacks on Gaza and the West Bank continue along with the humanitarian crisis, international reactions are increasing.",
    "tags": [
     "#DışPolitika",
     "#İnsanHaklarıVeHukuk"
@@ -3733,9 +3733,317 @@
     "#SeçimVePartiler",
     "#MedyaVeİfadeÖzgürlüğü"
    ]
+  },
+  "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar": {
+   "title_tr": "Ekonomi bürokrasisinde fon tasfiyesi ve atamalar",
+   "title_en": "Fund liquidation and appointments in economic bureaucracy",
+   "summary_tr": "Fon soruşturması sonrası SPK ve KGK başkanları görevden alınmış, Hazine ve Maliye Bakan Yardımcılığına Kutluhan Taşkın atanmıştır.",
+   "summary_en": "Following a fund investigation, the chairs of the SPK and KGK were dismissed, and Kutluhan Taşkın was appointed as Deputy Minister of Treasury and Finance.",
+   "tags": [
+    "#EkonomiVePiyasalar",
+    "#İçPolitika"
+   ]
+  },
+  "milano-cidde-ucagi-bomba-ihbari": {
+   "title_tr": "Milano-Cidde uçağı bomba ihbarı",
+   "title_en": "Bomb threat on Milan-Jeddah flight",
+   "summary_tr": "Milano-Cidde seferini yapan bir yolcu uçağı, bomba ihbarı nedeniyle Roma'ya acil iniş yaptı.",
+   "summary_en": "A passenger plane on the Milan-Jeddah route made an emergency landing in Rome due to a bomb threat.",
+   "tags": [
+    "#GüvenlikVeTerör"
+   ]
+  },
+  "isparta-da-kanyonda-mahsur-kalanlar-kurtarildi": {
+   "title_tr": "Isparta'da kanyonda mahsur kalanlar kurtarıldı",
+   "title_en": "Those stranded in the canyon in Isparta were rescued",
+   "summary_tr": "Isparta'da kanyonda mahsur kalan İHH gönüllüleri ve diğer vatandaşlar yürütülen çalışma ile kurtarıldı.",
+   "summary_en": "IHH volunteers and other citizens stranded in a canyon in Isparta were rescued through ongoing efforts.",
+   "tags": [
+    "#DepremVeAfet"
+   ]
+  },
+  "ankara-da-siber-suclar-operasyonu": {
+   "title_tr": "Ankara'da siber suçlar operasyonu",
+   "title_en": "Cybercrime operation in Ankara",
+   "summary_tr": "Ankara'da gerçekleştirilen operasyonlarda faili meçhul siber suç dosyaları aydınlatılarak çok sayıda şüpheli hakkında işlem yapıldı.",
+   "summary_en": "In operations carried out in Ankara, unsolved cybercrime files were resolved and proceedings were initiated against a number of suspects.",
+   "tags": [
+    "#GüvenlikVeTerör"
+   ]
+  },
+  "tanju-ozcan-in-mahkemedeki-savunmasi": {
+   "title_tr": "Tanju Özcan'ın mahkemedeki savunması",
+   "title_en": "Tanju Özcan's defense in court",
+   "summary_tr": "Tanju Özcan mahkemede verdiği savunmada, hakkındaki iddialara yanıt vererek serbest kalma talebinde bulundu.",
+   "summary_en": "Tanju Özcan responded to the allegations against him in his court defense and requested to be released.",
+   "tags": [
+    "#AdaletVeYargı",
+    "#İçPolitika"
+   ]
+  },
+  "beyoglu-nda-yangin": {
+   "title_tr": "Beyoğlu'nda yangın",
+   "title_en": "Fire in Beyoğlu",
+   "summary_tr": "Beyoğlu'nda bir binada çıkan yangın itfaiye ekiplerinin müdahalesiyle söndürüldü.",
+   "summary_en": "A fire in a building in Beyoğlu was extinguished by the intervention of fire brigades.",
+   "tags": [
+    "#DepremVeAfet"
+   ]
+  },
+  "trump-in-zelenskiy-e-muzakere-mesaji": {
+   "title_tr": "Trump'ın Zelenskiy'e müzakere mesajı",
+   "title_en": "Trump's negotiation message to Zelensky",
+   "summary_tr": "ABD Başkanı Donald Trump, Ukrayna Devlet Başkanı Zelenskiy'e Rusya ile müzakereleri başkasına devretmesi gerektiği yönünde mesaj verdi.",
+   "summary_en": "US President Donald Trump messaged Ukrainian President Zelensky that he should hand over negotiations with Russia to someone else.",
+   "tags": [
+    "#DışPolitika"
+   ]
   }
  },
  "articles": [
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-20T01:45:20Z",
+   "title": "SON DAKİKA HABERİ: SPK Başkanı Sütçü görevden alındı",
+   "link": "https://www.cnnturk.com/turkiye/son-dakika-haberi-spk-baskani-sutcu-gorevden-alindi-3481657",
+   "image": "",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-20T01:00:00Z",
+   "title": "Ekonomi bürokrasisinde fon depremi",
+   "link": "https://www.yenisafak.com/ekonomi/ekonomi-burokrasisinde-fon-depremi-4865663",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/20/b2d0317a-ekonomi-burokrasisinde-fon-depremi.webp",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-20T01:00:00Z",
+   "title": "Trabzonspor, Süper Lig’de konuk ettiği Beşiktaş’ı 2-0 yendi: ‘Salah tufan'ı",
+   "link": "https://www.cumhuriyet.com.tr/spor/trabzonspor-super-lig-de-konuk-ettigi-besiktas-i-2-0-yendi-salah-tufan-i-2548387",
+   "image": "https://media.cumhuriyet.com.tr/Archive/1985af08-a219-4d4f-ad88-fccdebd41acc.jpg",
+   "story": "trabzonspor-besiktas-maci"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-20T01:00:00Z",
+   "title": "Kuriş’in para ağı çöktü",
+   "link": "https://www.yenisafak.com/gundem/kurisin-para-agi-coktu-4865685",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/20/16220691-kurisin-para-agi-coktu.webp",
+   "story": "sarigul-ailesine-yonelik-kara-para-aklama-sorusturmasi"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-20T01:00:00Z",
+   "title": "‘Ağırel’e kumpas’ın korkutuculuğu",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/emre-kongar/agirel-e-kumpas-in-korkutuculugu-2548362",
+   "image": "https://media.cumhuriyet.com.tr/Archive/yazarlar/sabit/yazar22_cover.jpeg",
+   "story": "sarigul-ailesine-yonelik-kara-para-aklama-sorusturmasi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-20T01:00:00Z",
+   "title": "Fransa’da dört kentte sokağa çıkma yasağı",
+   "link": "https://www.yenisafak.com/dunya/fransada-dort-kentte-sokaga-cikma-yasagi-4865670",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/20/ea3d0f2b-fransada-dort-kentte-sokaga-cikma-yasagi.webp",
+   "story": "fransa-da-protestolar-ve-sokaga-cikma-yasagi"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-20T01:00:00Z",
+   "title": "Fransa İçişleri bakanı dinmeyen protestoların ardından istifasını sundu ancak kabul edilmedi: ‘Kontrolü kaybettik’",
+   "link": "https://www.cumhuriyet.com.tr/dunya/fransa-icisleri-bakani-dinmeyen-protestolarin-ardindan-istifasini-sundu-ancak-kabul-edilmedi-kontrolu-kaybettik-2548385",
+   "image": "https://media.cumhuriyet.com.tr/Archive/9df1ac89-956a-4e3c-9344-04a04f7e068c.jpg",
+   "story": "fransa-da-protestolar-ve-sokaga-cikma-yasagi"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-20T01:00:00Z",
+   "title": "500 bin Gazzeliye yardım kesildi",
+   "link": "https://www.yenisafak.com/dunya/500-bin-gazzeliye-yardim-kesildi-4865674",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/20/02fed532-500-bin-gazzeliye-yardim-kesildi.webp",
+   "story": "israil-in-gazze-ye-saldirilari"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-20T01:00:00Z",
+   "title": "Haritayla tehdit etti",
+   "link": "https://www.yenisafak.com/dunya/haritayla-tehdit-etti-4865675",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/20/6ae1f478-haritayla-tehdit-etti.webp",
+   "story": "israil-in-gazze-ye-saldirilari"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-20T01:00:00Z",
+   "title": "İsrail Yunan halkını evsiz bırakıyor",
+   "link": "https://www.yenisafak.com/dunya/israil-yunan-halkini-evsiz-birakiyor-4865676",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/20/d1d10379-israil-yunan-halkini-evsiz-birakiyor.webp",
+   "story": "israil-in-gazze-ye-saldirilari"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-20T01:00:00Z",
+   "title": "Soykırımcı Netanyahu’nun kader seçimi..",
+   "link": "https://www.yenisafak.com/yazarlar/abdullah-muradoglu/soykirimci-netanyahunun-kader-secimi-4865690",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/20/20b37df7-soykirimci-netanyahunun-kader-secimi.webp",
+   "story": "israil-in-gazze-ye-saldirilari"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-20T01:00:00Z",
+   "title": "30 saatlik operasyonla kurtuldular",
+   "link": "https://www.yenisafak.com/gundem/30-saatlik-operasyonla-kurtuldular-4865692",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/20/1fdeb0fd-30-saatlik-operasyonla-kurtuldular.webp",
+   "story": "isparta-da-kanyonda-mahsur-kalanlar-kurtarildi"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-20T00:57:56Z",
+   "title": "SPK'den Tera Yatırım Holding ve Peker Gayrimenkul Yatırım Ortaklığına ilişkin karar",
+   "link": "https://www.cnnturk.com/ekonomi/spkden-tera-yatirim-holding-ve-peker-gayrimenkul-yatirim-ortakligina-iliskin-karar-3481661",
+   "image": "",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "NTV",
+   "group": "independent",
+   "published": "2026-10-20T00:49:34Z",
+   "title": "Başkentteki uyuşturucu operasyonu. 47 şüpheli yakalandı",
+   "link": "https://www.ntv.com.tr/turkiye/baskentteki-uyusturucu-operasyonu-47-supheli-yakalandi-1747076",
+   "image": "https://images.ntv.com.tr/images/gözaltı-966149.jpg",
+   "story": "ankara-da-siber-suclar-operasyonu"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-20T00:39:45Z",
+   "title": "KUTLUHAN TAŞKIN KİMDİR? Hazine ve Maliye Bakan Yardımcılığına atanan Kutluhan Taşkın kaç yaşında ve nereli?",
+   "link": "https://www.cnnturk.com/turkiye/kutluhan-taskin-kimdir-hazine-ve-maliye-bakan-yardimciligina-atanan-kutluhan-taskin-kac-yasinda-ve-nereli-3481659",
+   "image": "",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-20T00:31:51Z",
+   "title": "Milano-Cidde seferinde bomba alarmı: Uçak acil iniş yaptı",
+   "link": "https://www.yenicaggazetesi.com/milano-cidde-seferinde-bomba-alarmi-ucak-acil-inis-yapti-1083364h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/20/milano-cidde-seferinde-bomba-alarmi-ucak-acil-inis-yapti-5ndm.jpg",
+   "story": "milano-cidde-ucagi-bomba-ihbari"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-20T00:21:31Z",
+   "title": "SON DAKİKA HABERİ: Hazine ve Maliye Bakan Yardımcılığına Kutluhan Taşkın atandı",
+   "link": "https://www.cnnturk.com/turkiye/son-dakika-haberi-hazine-ve-maliye-bakan-yardimciligina-kutluhan-taskin-atandi-3481654",
+   "image": "",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-20T00:04:15Z",
+   "title": "Trump’tan Fransa'daki protestolar için dikkat çeken sözler",
+   "link": "https://www.yenicaggazetesi.com/trumptan-fransadaki-protestolar-icin-dikkat-ceken-sozler-1083361h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/20/trumptan-fransadaki-protestolar-icin-dikkat-ceken-sozler-bntr.jpg",
+   "story": "fransa-da-protestolar-ve-sokaga-cikma-yasagi"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-20T00:02:41Z",
+   "title": "İsrail ordusu Suriye'nin Kuneytra kırsalında baskın düzenledi",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-suriyenin-kuneytra-kirsalinda-baskin-duzenledi/4093999",
+   "image": "",
+   "story": "israil-in-gazze-ye-saldirilari"
+  },
+  {
+   "source": "Milliyet",
+   "group": "progov",
+   "published": "2026-10-19T23:59:41Z",
+   "title": "Ankara'da 6 faili meçhul siber olay aydınlatıldı",
+   "link": "https://www.milliyet.com.tr/gundem/ankarada-6-faili-mechul-siber-olay-aydinlatildi-7683347",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ad6a43dad4ceab0d14ff415.jpg",
+   "story": "ankara-da-siber-suclar-operasyonu"
+  },
+  {
+   "source": "NTV",
+   "group": "independent",
+   "published": "2026-10-19T23:49:25Z",
+   "title": "Fon teklifi bugün Genel Kurul'a geliyor",
+   "link": "https://www.ntv.com.tr/turkiye/fon-teklifi-bugun-genel-kurula-geliyor-1747074",
+   "image": "https://images.ntv.com.tr/images/tbmm-240302.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-19T23:47:26Z",
+   "title": "İsrail, işgal altındaki Batı Şeria'da Filistinlilere ait yaklaşık 183 dönüm araziye el koydu",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-isgal-altindaki-bati-seriada-filistinlilere-ait-yaklasik-183-donum-araziye-el-koydu/4093997",
+   "image": "",
+   "story": "israil-in-gazze-ye-saldirilari"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-19T23:11:00Z",
+   "title": "Trump'tan Fransa yorumu: Yaşananlar göçle ilgili, okullarla ya da başka bir şeyle ilgili değil",
+   "link": "https://www.evrensel.net/haber/6005709/trumptan-fransa-yorumu-yasananlar-gocle-ilgili-okullarla-ya-da-baska-bir-seyle-ilgili-degil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/367125.jpg",
+   "story": "fransa-da-protestolar-ve-sokaga-cikma-yasagi"
+  },
+  {
+   "source": "CNN Türk",
+   "group": "progov",
+   "published": "2026-10-19T23:06:42Z",
+   "title": "Thomas Reis: Plan disiplinli olabilmekti",
+   "link": "https://www.cnnturk.com/spor/futbol/thomas-reis-plan-disiplinli-olabilmekti-3481637",
+   "image": "",
+   "story": "trabzonspor-besiktas-maci"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-19T23:03:00Z",
+   "title": "SPK'den Tera Yatırım kararı: Oy hakları donduruldu, Borsa'da işlem kısıtı getirildi",
+   "link": "https://www.birgun.net/haber/spk-den-tera-yatirim-karari-oy-haklari-donduruldu-borsa-da-islem-kisiti-getirildi-741314",
+   "image": "https://static.birgun.net/resim/haber/2026/10/20/spk-den-tera-yatirim-karari-oy-haklari-donduruldu-borsa-da-islem-kisiti-getirildi.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Yeni Akit",
+   "group": "progov",
+   "published": "2026-10-19T23:03:00Z",
+   "title": "Ankara’da 6 siber dolandırıcılık dosyası aydınlatıldı: 7 şüpheliye adli işlem",
+   "link": "https://www.yeniakit.com.tr/haber/ankarada-6-siber-dolandiricilik-dosyasi-aydinlatildi-7-supheliye-adli-islem-2029119.html",
+   "image": "",
+   "story": "ankara-da-siber-suclar-operasyonu"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-19T22:46:39Z",
+   "title": "Fransa'da sokaklar karıştı! Başbakandan sokağa çıkma yasağı talimatı",
+   "link": "https://www.karar.com/dunya-haberleri/fransada-sokaklar-karisti-basbakandan-sokaga-cikma-yasagi-talimati-2079483",
+   "image": "https://cdn.karar.com/news/1943136.jpg",
+   "story": "fransa-da-protestolar-ve-sokaga-cikma-yasagi"
+  },
   {
    "source": "CNN Türk",
    "group": "progov",
@@ -3744,6 +4052,42 @@
    "link": "https://www.cnnturk.com/turkiye/kara-para-aklama-sorusturmasinda-yeni-gelisme-15-kisi-icin-tutuklama-talebi-iste-isim-isim-o-liste-3481620",
    "image": "",
    "story": "kara-para-aklama-sorusturmasi"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-19T22:39:00Z",
+   "title": "Fırtına yine evinde esti, Beşiktaş'ı devirdi",
+   "link": "https://www.birgun.net/haber/firtina-yine-evinde-esti-besiktas-i-devirdi-741309",
+   "image": "https://static.birgun.net/resim/haber/2026/10/20/firtina-yine-evinde-esti-besiktas-i-devirdi.jpg",
+   "story": "trabzonspor-besiktas-maci"
+  },
+  {
+   "source": "Ekonomim",
+   "group": "independent",
+   "published": "2026-10-19T22:37:00Z",
+   "title": "Bir kişi hayatını kaybetmişti! Isparta’da kanyonda mahsur kalan 13 kişi kurtarıldı",
+   "link": "https://www.ekonomim.com/gundem/bir-kisi-hayatini-kaybetmisti-ispartada-kanyonda-mahsur-kalan-13-kisi-kurtarildi-haberi-925751",
+   "image": "https://img.ekonomim.com/storage/files/images/2026/10/20/bir-kisi-hayatini-kaybetmisti-ispartada-kanyonda-mahsur-kalan-13-kisi-kurtarildi-fs5l_cover.jpg",
+   "story": "isparta-da-kanyonda-mahsur-kalanlar-kurtarildi"
+  },
+  {
+   "source": "Habertürk",
+   "group": "progov",
+   "published": "2026-10-19T22:36:38Z",
+   "title": "Hazine ve Maliye Bakanlığına üst düzey atama",
+   "link": "https://www.haberturk.com/gundem/son-dakika-hazine-ve-maliye-bakanligina-ust-duzey-atama-3920963",
+   "image": "https://im.haberturk.com/l/2026/10/20/ver1792448724/3920963/jpg/1920x1080",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-19T22:26:00Z",
+   "title": "Ankara'da 6 faili meçhul olay aydınlatıldı: 7 şahıs hakkında işlem başlatıldı",
+   "link": "https://www.aksam.com.tr/yasam/ankarada-6-faili-mechul-olay-aydinlatildi-7-sahis-hakkinda-islem-baslatildi/haber-1707561",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/20/ankarada-6-faili-mechul-o-213_2.jpg",
+   "story": "ankara-da-siber-suclar-operasyonu"
   },
   {
    "source": "CNN Türk",
@@ -3764,6 +4108,15 @@
    "story": "trabzonspor-besiktas-maci"
   },
   {
+   "source": "NTV",
+   "group": "independent",
+   "published": "2026-10-19T22:23:32Z",
+   "title": "Atama ve görevden alma kararları Resmi Gazete'de",
+   "link": "https://www.ntv.com.tr/turkiye/atama-ve-gorevden-alma-kararlari-resmi-gazetede-1747073",
+   "image": "https://images.ntv.com.tr/images/thumbs_b_c_28f16691f9ef79c89405a-414952.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
    "source": "CNN Türk",
    "group": "progov",
    "published": "2026-10-19T22:03:23Z",
@@ -3773,12 +4126,84 @@
    "story": "tanju-ozcan-a-irtikap-sorusturmasi"
   },
   {
+   "source": "Milliyet",
+   "group": "progov",
+   "published": "2026-10-19T21:55:08Z",
+   "title": "SPK Başkanı Mahmut Sütcü görevden alındı! Hazine ve Maliye Bakan Yardımcılığına Kutluhan Taşkın atandı",
+   "link": "https://www.milliyet.com.tr/gundem/spk-baskani-mahmut-sutcu-gorevden-alindi-hazine-ve-maliye-bakan-yardimciligina-kutluhan-taskin-atandi-7683286",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ad689eeea5ea19fcfcdfbdf.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
    "source": "CNN Türk",
    "group": "progov",
    "published": "2026-10-19T21:54:12Z",
    "title": "Trabzonspor 2-0 Beşiktaş Maç Özeti | Fırtına, sahasında kazandı",
    "link": "https://www.cnnturk.com/spor/futbol/live-trabzonspor-2-0-besiktas-mac-ozeti-firtina-sahasinda-kazandi-3481381",
    "image": "",
+   "story": "trabzonspor-besiktas-maci"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-19T21:53:00Z",
+   "title": "SPK'den Tera Yatırım'a zorunlu pay alım teklifi kararı: Oy hakları donduruldu, paylara işlem kısıtı getirildi",
+   "link": "https://www.cumhuriyet.com.tr/siyaset/spk-den-tera-yatirim-a-zorunlu-pay-alim-teklifi-karari-oy-haklari-donduruldu-paylara-islem-kisiti-getirildi-2548394",
+   "image": "https://media.cumhuriyet.com.tr/Archive/8c83076b-6be4-495e-bc78-2a273e14af5f.png",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-19T21:53:00Z",
+   "title": "Ozan Tufan'dan gol itirafı: Beşiktaş’ın şanssızlığı",
+   "link": "https://haberglobal.com/spor/ozan-tufandan-gol-itirafi-besiktasin-sanssizligi-549500",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/20/ozan-tufandan-gol-itirafi-besiktasin-sanssizligi-35t9.jpg",
+   "story": "trabzonspor-besiktas-maci"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-19T21:53:00Z",
+   "title": "Ozan Tufan'dan gol itirafı: 'Biraz da Beşiktaş'ın şansızlığı'",
+   "link": "https://www.yenicaggazetesi.com/ozan-tufandan-gol-itirafi-biraz-da-besiktasin-sansizligi-1083353h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/20/ozan-tufandan-gol-itirafi-biraz-da-besiktasin-sansizligi-cfjj.jpg",
+   "story": "trabzonspor-besiktas-maci"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-19T21:53:00Z",
+   "title": "Tanju Özcan'dan mahkemede dikkat çeken savunma: \"Serbest kalmak istiyorum, evimde kedi gibi oturacağım\"",
+   "link": "https://www.birgun.net/haber/tanju-ozcan-dan-mahkemede-dikkat-ceken-savunma-serbest-kalmak-istiyorum-evimde-kedi-gibi-oturacagim-741308",
+   "image": "https://static.birgun.net/resim/haber/2026/10/20/tanju-ozcan-dan-mahkemede-dikkat-ceken-savunma-serbest-kalmak-istiyorum-evimde-kedi-gibi-oturacagim.jpg",
+   "story": "tanju-ozcan-in-mahkemedeki-savunmasi"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-19T21:52:15Z",
+   "title": "Eski eşi ve oğlu tutuklanan Mustafa Sarıgül'den ilk açıklama",
+   "link": "https://www.yenicaggazetesi.com/eski-esi-ve-oglu-tutuklanan-mustafa-sarigulden-ilk-aciklama-1083352h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/20/eski-esi-ve-oglu-tutuklanan-mustafa-sarigulden-ilk-aciklama-1ulz.jpg",
+   "story": "sarigul-ailesine-yonelik-kara-para-aklama-sorusturmasi"
+  },
+  {
+   "source": "Ekonomim",
+   "group": "independent",
+   "published": "2026-10-19T21:52:00Z",
+   "title": "Mustafa Sarıgül'den oğlu ve eski eşinin tutuklanması sonrası açıklama: Belgeler sahte",
+   "link": "https://www.ekonomim.com/gundem/mustafa-sarigulden-oglu-ve-eski-esinin-tutuklanmasi-sonrasi-aciklama-belgeler-sahte-haberi-925749",
+   "image": "https://img.ekonomim.com/storage/files/images/2026/10/20/mustafa-sarigulden-oglu-ve-eski-esinin-tutuklanmasi-sonrasi-aciklama-belgeler-sahte-6gpj_cover.jpg",
+   "story": "sarigul-ailesine-yonelik-kara-para-aklama-sorusturmasi"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-19T21:50:07Z",
+   "title": "Trabzonsporlu futbolcudan olay paylaşım! Beşiktaşlı yıldızı ayakkabı boyacısı yaptı",
+   "link": "https://www.sozcu.com.tr/trabzonsporlu-futbolcudan-olay-paylasim-besiktasli-yildizi-ayakkabi-boyacisi-yapti-p370776",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/ekran-resmi-20261019-234144png-vg8Lc5BzEUeSwwm3UPTRzw.png",
    "story": "trabzonspor-besiktas-maci"
   },
   {
@@ -3800,6 +4225,303 @@
    "story": "trabzonspor-besiktas-maci"
   },
   {
+   "source": "NTV",
+   "group": "independent",
+   "published": "2026-10-19T21:47:24Z",
+   "title": "Hazine ve Maliye Bakan Yardımcılığına Kutluhan Taşkın atandı. Sütcü ve Gönül görevden alındı",
+   "link": "https://www.ntv.com.tr/turkiye/hazine-ve-maliye-bakan-yardimciligina-kutluhan-taskin-atandi-1747070",
+   "image": "https://images.ntv.com.tr/images/KutluhanTaskin-2-469746.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Star",
+   "group": "progov",
+   "published": "2026-10-19T21:46:00Z",
+   "title": "Beyoğlu'nda korkutan yangın paniği: Ekiplerin müdahalesi ile söndürüldü",
+   "link": "https://www.star.com.tr/guncel/beyoglunda-korkutan-yangin-panigi-ekiplerin-mudahalesi-ile-sonduruldu-haber-2047710/",
+   "image": "https://imgs.star.com.tr/imgsdisk/2026/10/20/beyoglunda-korkutan-yangi-581.jpg",
+   "story": "beyoglu-nda-yangin"
+  },
+  {
+   "source": "Gazete Pencere",
+   "group": "independent",
+   "published": "2026-10-19T21:45:41Z",
+   "title": "Eski SPK başkanı Ömer Gönül, Kamu Gözetimi Kurumu Başkanlığından alındı",
+   "link": "https://www.gazetepencere.com/gundem/eski-spk-baskani-omer-gonul-kamu-gozetimi-kurumu-baskanligindan-alindi-719989h",
+   "image": "https://i.gazetepencere.com/2/150/84/storage/files/images/2026/10/20/eski-spk-baskani-omer-gonul-kamu-gozetimi-kurumu-baskanligindan-alindi-uzyq.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Yeni Akit",
+   "group": "progov",
+   "published": "2026-10-19T21:45:00Z",
+   "title": "Ekonomi yönetiminde görev değişiklikleri! Kritik kurumlara atamalar yapıldı",
+   "link": "https://www.yeniakit.com.tr/haber/ekonomi-yonetiminde-gorev-degisiklikleri-kritik-kurumlara-atamalar-yapildi-2029118.html",
+   "image": "",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-19T21:44:00Z",
+   "title": "SPK'den Tera Yatırım Holding ve Peker Gayrimenkul Yatırım Ortaklığına ilişkin karar: Oy hakları donduruldu, paylara işlem kısıtı getirildi",
+   "link": "https://www.evrensel.net/haber/6005704/spk-den-tera-yatirim-holding-ve-peker-gayrimenkul-yatirim-ortakligina-iliskin-karar-oy-haklari-donduruldu-paylara-islem-kisiti-getirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/363056.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Habertürk",
+   "group": "progov",
+   "published": "2026-10-19T21:43:50Z",
+   "title": "SPK Başkanı Sütcü görevden alındı",
+   "link": "https://www.haberturk.com/gundem/son-dakika-spk-baskani-sutcu-gorevden-alindi-3920964",
+   "image": "https://im.haberturk.com/l/2026/10/20/ver1792446215/3920964/jpg/1920x1080",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Star",
+   "group": "progov",
+   "published": "2026-10-19T21:42:00Z",
+   "title": "\"Milano-Cidde\" uçağında bomba ihbarı:  Roma'ya acil iniş yapıldı",
+   "link": "https://www.star.com.tr/dunya/milano-cidde-ucaginda-bomba-ihbari-romaya-acil-inis-yapildi-haber-2047709/",
+   "image": "https://imgs.star.com.tr/imgsdisk/2026/10/20/milano-cidde-ucaginda-bom-698.jpg",
+   "story": "milano-cidde-ucagi-bomba-ihbari"
+  },
+  {
+   "source": "Independent Türkçe",
+   "group": "independent",
+   "published": "2026-10-19T21:37:34Z",
+   "title": "Resmi Gazete’de yayımlandı: Kutluhan Taşkın bakan yardımcısı oldu, SPK Başkanı Sütcü görevden alındı",
+   "link": "https://www.indyturk.com/node/784054/haber/resmi-gazete%E2%80%99de-yay%C4%B1mland%C4%B1-kutluhan-ta%C5%9Fk%C4%B1n-bakan-yard%C4%B1mc%C4%B1s%C4%B1-oldu-spk-ba%C5%9Fkan%C4%B1-s%C3%BCtc%C3%BC",
+   "image": "https://www.indyturk.com/sites/default/files/article/main_image/2026/10/20/1382028-889224673.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-19T21:35:00Z",
+   "title": "SPK Başkanı Sütcü’nün görevden alınması Resmi Gazete’de: Maliye ve Çevre ve Şehircilik Bakanlıklarında görevden alma ve atamalar",
+   "link": "https://www.evrensel.net/haber/6005703/spk-baskani-sutcunun-gorevden-alinmasi-resmi-gazetede-maliye-ve-cevre-ve-sehircilik-bakanliklarinda-gorevden-alma-ve-atamalar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/367088.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-19T21:35:00Z",
+   "title": "Gelir İdaresi Başkanlığı'na neşter: Başkan ve 4 başkan yardımcısı değişti",
+   "link": "https://www.yenicaggazetesi.com/gelir-idaresi-baskanligina-nester-baskan-ve-4-baskan-yardimcisi-degisti-1083350h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/20/gelir-idaresi-baskanligina-nester-baskan-ve-4-baskan-yardimcisi-degisti-iclz.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-19T21:35:00Z",
+   "title": "Bomba ihbarı yaptılar: Uçak acil iniş yaptı",
+   "link": "https://www.cumhuriyet.com.tr/dunya/bomba-ihbari-yaptilar-ucak-acil-inis-yapti-2548393",
+   "image": "https://media.cumhuriyet.com.tr/Archive/cb6c5d26-ab81-4607-8491-ab82b041e3f3.jpg",
+   "story": "milano-cidde-ucagi-bomba-ihbari"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-19T21:33:00Z",
+   "title": "Trump: 'Belki de Zelensky’nin müzakereleri, başka birine devretmesinin zamanı gelmiştir'",
+   "link": "https://www.cumhuriyet.com.tr/dunya/trump-belki-de-zelensky-nin-muzakereleri-baska-birine-devretmesinin-zamani-gelmistir-2548392",
+   "image": "https://media.cumhuriyet.com.tr/Archive/15529c68-81c1-46f9-a803-86f22dd4cedc.jpg",
+   "story": "trump-in-zelenskiy-e-muzakere-mesaji"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-19T21:31:09Z",
+   "title": "Mustafa Sarıgül eski eşi ve oğlunun tutuklanmasına ilk tepki",
+   "link": "https://www.sozcu.com.tr/mustafa-sarigul-aylin-kotil-ve-omer-sarigul-tutuklanmasinin-ardindan-aciklama-p370759",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/494jpg-J0gxvSAAiU2Pvid9wjRGUQ.jpg",
+   "story": "sarigul-ailesine-yonelik-kara-para-aklama-sorusturmasi"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-19T21:31:00Z",
+   "title": "Hasan Al yazdı: 'Trabzonspor akıllı oynadı'",
+   "link": "https://www.cumhuriyet.com.tr/spor/hasan-al-yazdi-trabzonspor-akilli-oynadi-2548391",
+   "image": "https://media.cumhuriyet.com.tr/Archive/a727eaa9-d475-411c-9a7a-c1d680fd7f18.jpg",
+   "story": "trabzonspor-besiktas-maci"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-19T21:31:00Z",
+   "title": "Tanju Özcan: Serbest kalmak istiyorum, isterse Öcalan'ı çıkarsınlar umurumda değil",
+   "link": "https://www.karar.com/guncel-haberler/tanju-ozcan-serbest-kalmak-istiyorum-isterse-ocalani-cikarsinlar-2079480",
+   "image": "https://cdn.karar.com/news/1943133.jpg",
+   "story": "tanju-ozcan-in-mahkemedeki-savunmasi"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-19T21:24:00Z",
+   "title": "Resmi Gazete'de yayımlandı... Soruşturma izni verilmişti: O isim görevden alındı!",
+   "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-resmi-gazete-de-yayimlandi-bir-gorevden-alma-daha-2548388",
+   "image": "https://media.cumhuriyet.com.tr/Archive/dd45e23e-3f1f-469d-9182-f7a7799e067e.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-19T21:24:00Z",
+   "title": "3 gün arayla 2 kuruma atandı: Kutluhan Taşkın'a yeni görev",
+   "link": "https://www.yenicaggazetesi.com/3-gun-arayla-2-kuruma-atandi-kutluhan-taskina-yeni-gorev-1083348h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/20/3-gun-arayla-2-kuruma-atandi-kutluhan-taskina-yeni-gorev-ikma.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-19T21:23:00Z",
+   "title": "Tutuklamalar sonrası Mustafa Sarıgül'den açıklama: Belgeler sahte",
+   "link": "https://www.evrensel.net/haber/6005702/tutuklamalar-sonrasi-mustafa-sarigulden-aciklama-belgeler-sahte?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/367122.jpg",
+   "story": "sarigul-ailesine-yonelik-kara-para-aklama-sorusturmasi"
+  },
+  {
+   "source": "A Haber",
+   "group": "progov",
+   "published": "2026-10-19T21:22:39Z",
+   "title": "Atama kararları Resmi Gazete’de! SPK Başkanı Mahmut Sütcü görevden alındı: İşte yeni görevlendirmeler",
+   "link": "https://www.ahaber.com.tr/gundem/2026/10/19/resmi-gazetede-dev-atama-ve-gorevden-alma-kararlari",
+   "image": "https://iaahbr.tmgrup.com.tr/ea29b9/0/0/0/0/1254/1254?u=https://iahbr.tmgrup.com.tr/2026/10/20/atama-kararlari-resmi-gazetede-spk-baskani-mahmut-sutcu-gorevden-alindi-iste-yeni-gorevlendirmeler-1792447697045.png",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Bloomberg HT",
+   "group": "progov",
+   "published": "2026-10-19T21:22:37Z",
+   "title": "Resmi Gazete'de bugün (20.10.2026)",
+   "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-20102026-3791848",
+   "image": "https://geoim.bloomberght.com/l/2026/10/20/ver1792444985/3791848/jpg/1280x720",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-19T21:22:00Z",
+   "title": "Bomba ihbarı nedeniyle Milano-Cidde uçağı Roma’ya acil iniş yaptı",
+   "link": "https://www.dirilispostasi.com/bomba-ihbari-nedeniyle-milano-cidde-ucagi-romaya-acil-inis-yapti",
+   "image": "https://dirilispostasicom.teimg.com/crop/1280x720/dirilispostasi-com/uploads/2026/10/thumbs-b-c-348f37f764b0a64b45cac1135d4e4c48.webp",
+   "story": "milano-cidde-ucagi-bomba-ihbari"
+  },
+  {
+   "source": "Diken",
+   "group": "opposition",
+   "published": "2026-10-19T21:21:46Z",
+   "title": "Tanju Özcan: İsterlerse Öcalan'ı çıkarsınlar umrumda değil, evde kedi gibi oturacağım",
+   "link": "https://www.diken.com.tr/tanju-ozcan-isterlerse-ocalani-cikarsinlar-umrumda-degil-evde-kedi-gibi-oturacagim/?utm_source=rss&utm_medium=rss&utm_campaign=tanju-ozcan-isterlerse-ocalani-cikarsinlar-umrumda-degil-evde-kedi-gibi-oturacagim",
+   "image": "",
+   "story": "tanju-ozcan-in-mahkemedeki-savunmasi"
+  },
+  {
+   "source": "Milliyet",
+   "group": "progov",
+   "published": "2026-10-19T21:21:37Z",
+   "title": "'Milano-Cidde' uçağı bomba ihbarı nedeniyle Roma'ya acil iniş yaptı",
+   "link": "https://www.milliyet.com.tr/dunya/milano-cidde-ucagi-bomba-ihbari-nedeniyle-romaya-acil-inis-yapti-7683288",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ad689cead4ceab0d14ff30b.jpg",
+   "story": "milano-cidde-ucagi-bomba-ihbari"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-19T21:21:14Z",
+   "title": "Sermaye Piyasası Kurulu (SPK) Başkanı ile Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu Başkanı görevden alındı",
+   "link": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-kurulu-spk-baskani-ile-kamu-gozetimi-muhasebe-ve-denetim-standartlari-kurumu-baskani-gorevden-alindi/4093980",
+   "image": "",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-19T21:21:00Z",
+   "title": "Fon vurgununda damadı tutuklanan Osman Çelik emeklilik dilekçesi vermişti: Hazine ve Maliye Bakan Yardımcılığı'na Kutluhan Taşkın atandı",
+   "link": "https://www.evrensel.net/haber/6005701/fon-vurgununda-damadi-tutuklanan-osman-celik-emeklilik-dilekcesi-vermisti-hazine-ve-maliye-bakan-yardimciligi-na-kutluhan-taskin-atandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/367121.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Diriliş Postası",
+   "group": "progov",
+   "published": "2026-10-19T21:19:00Z",
+   "title": "Trump’tan Zelenskiy’e Rusya ile müzakereleri devretme mesajı",
+   "link": "https://www.dirilispostasi.com/trumptan-zelenskiye-rusya-ile-muzakereleri-devretme-mesaji",
+   "image": "https://dirilispostasicom.teimg.com/crop/1280x720/dirilispostasi-com/uploads/2026/10/thumbs-b-c-6ce6b43146be6458b03d14b930d2ceed.webp",
+   "story": "trump-in-zelenskiy-e-muzakere-mesaji"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-19T21:17:40Z",
+   "title": "Fransa Cumhurbaşkanı Macron ülkesi yanarken Körfez turuna çıktı",
+   "link": "https://www.yenisafak.com/dunya/fransa-cumhurbaskani-macron-ulkesi-yanarken-korfez-turuna-cikti-4865651",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/20/76e74362-fransa-cumhurbaskani-macron-ulkesi-yanarken-korfez-turuna.webp",
+   "story": "fransa-da-protestolar-ve-sokaga-cikma-yasagi"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-19T21:17:00Z",
+   "title": "Fon soruşturmasının ardından ekonomi yönetiminde peş peşe görevden almalar: SPK Başkanı ve eski başkan Gönül görevden alındı",
+   "link": "https://www.karar.com/ekonomi-haberleri/fon-sorusturmasinin-ardindan-ekonomi-yonetiminde-pes-pese-gorevden-2079478",
+   "image": "https://cdn.karar.com/news/1943132.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Gazete Pencere",
+   "group": "independent",
+   "published": "2026-10-19T21:16:00Z",
+   "title": "3 gün önce ESK'ya atandı: Kutluhan Taşkın bu kez Hazine ve Maliye Bakan Yardımcısı oldu!",
+   "link": "https://www.gazetepencere.com/gundem/3-gun-once-eskya-atandi-ayni-isim-hazine-ve-maliye-bakan-yardimciligina-getirildi-719988h",
+   "image": "https://i.gazetepencere.com/2/150/84/storage/files/images/2026/10/20/3-gun-once-eskya-atandi-kutluhan-taskin-bu-kez-hazine-ve-maliye-bakan-yardimcisi-oldu-xywp.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-19T21:15:00Z",
+   "title": "Beyoğlu’nda 6 katlı binanın çatısında korkutan yangın",
+   "link": "https://haberglobal.com/gundem/beyoglunda-6-katli-binanin-catisinda-korkutan-yangin-549498",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/20/beyoglunda-6-katli-binanin-catisinda-korkutan-yangin-jmei.jpg",
+   "story": "beyoglu-nda-yangin"
+  },
+  {
+   "source": "Diken",
+   "group": "opposition",
+   "published": "2026-10-19T21:14:57Z",
+   "title": "Eski SPK başkanı Ömer Gönül, Kamu Gözetimi Kurumu başkanlığından alındı",
+   "link": "https://www.diken.com.tr/eski-spk-baskani-omer-gonul-kamu-gozetimi-kurumu-baskanligindan-alindi/?utm_source=rss&utm_medium=rss&utm_campaign=eski-spk-baskani-omer-gonul-kamu-gozetimi-kurumu-baskanligindan-alindi",
+   "image": "",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Bloomberg HT",
+   "group": "progov",
+   "published": "2026-10-19T21:14:53Z",
+   "title": "Hazine ve Maliye Bakan Yardımcılığına Kutluhan Taşkın atandı",
+   "link": "https://www.bloomberght.com/hazine-ve-maliye-bakan-yardimciligina-kutluhan-taskin-atandi-3791847",
+   "image": "https://geoim.bloomberght.com/l/2026/10/20/ver1792444543/3791847/jpg/1280x720",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Yeni Şafak",
+   "group": "progov",
+   "published": "2026-10-19T21:13:35Z",
+   "title": "Ekonomi yönetimlerine kritik atamalar: Hazine'de bir haftada iki yardımcı değişti",
+   "link": "https://www.yenisafak.com/galeri/gundem/ekonomi-yonetimlerine-kritik-atamalar-hazinede-bir-haftada-iki-yardimci-degisti-4865650",
+   "image": "https://img.piri.net/piri/upload/3/2026/10/20/11eee8c9-hazine-ve-maliye-bakan-yardimciligina-kutluhan-taskin-atandi.webp",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
    "source": "CNN Türk",
    "group": "progov",
    "published": "2026-10-19T21:13:11Z",
@@ -3809,6 +4531,141 @@
    "story": "fransa-da-protestolar-ve-sokaga-cikma-yasagi"
   },
   {
+   "source": "TRT Haber",
+   "group": "progov",
+   "published": "2026-10-19T21:13:00Z",
+   "title": "Atama ve görevden alma kararları Resmi Gazete'de",
+   "link": "https://www.trthaber.com/haber/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede-960575.html",
+   "image": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2004000/erdogan-imza-aa-2005882.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-19T21:13:00Z",
+   "title": "Trabzonspor'dan Beşiktaş'a derbi sonrası gönderme: Çıkışınız yapıldı",
+   "link": "https://www.karar.com/spor-haberleri/trabzonspordan-besiktasa-derbi-sonrasi-gonderme-cikisiniz-yapildi-2079477",
+   "image": "https://cdn.karar.com/news/1943124.jpg",
+   "story": "trabzonspor-besiktas-maci"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-19T21:12:00Z",
+   "title": "Başkan Erdoğan imzaladı: Atama ve görevden alma kararları Resmi Gazete'de",
+   "link": "https://www.aksam.com.tr/guncel/baskan-erdogan-imzaladi-atama-ve-gorevden-alma-kararlari-resmi-gazetede/haber-1707553",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/20/baskan-erdogan-imzaladi-a-149_2.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-19T21:10:00Z",
+   "title": "Erdoğan imzaladı: Fon vurgununun ardından ekonomi bürokrasisinde kritik atama ve görevden almalar",
+   "link": "https://www.birgun.net/haber/erdogan-imzaladi-fon-vurgununun-ardindan-ekonomi-burokrasisinde-kritik-atama-ve-gorevden-almalar-741306",
+   "image": "https://static.birgun.net/resim/haber/2026/10/20/erdogan-imzaladi-fon-vurgununun-ardindan-ekonomi-burokrasisinde-kritik-atama-ve-gorevden-almalar-1.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-19T21:08:59Z",
+   "title": "SPK’dan Tera Yatırım Holding’e oy hakkı yaptırımı",
+   "link": "https://www.yenicaggazetesi.com/spkdan-tera-yatirim-holdinge-oy-hakki-yaptirimi-1083347h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/20/spkdan-tera-yatirim-holdinge-oy-hakki-yaptirimi-5ebs.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-19T21:08:50Z",
+   "title": "Bomba ihbarı sebebiyle \"Milano-Cidde\" uçağı Roma'ya acil iniş yaptı",
+   "link": "https://www.aa.com.tr/tr/dunya/bomba-ihbari-sebebiyle-milano-cidde-ucagi-romaya-acil-inis-yapti/4093974",
+   "image": "",
+   "story": "milano-cidde-ucagi-bomba-ihbari"
+  },
+  {
+   "source": "Dünya Gazetesi",
+   "group": "independent",
+   "published": "2026-10-19T21:08:00Z",
+   "title": "Atama ve görevden alma kararları Resmî Gazete'de yayımlandı",
+   "link": "https://www.dunya.com/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede-yayimlandi-haberi-844495",
+   "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/20/vvv-4fwy_cover.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Ekonomim",
+   "group": "independent",
+   "published": "2026-10-19T21:07:00Z",
+   "title": "Kutluhan Taşkın kaç yaşında, nereli? Hazine ve Maliye Bakan Yardımcılığına atanan Kutluhan Taşkın kimdir?",
+   "link": "https://www.ekonomim.com/ekonomi/kutluhan-taskin-kac-yasinda-nereli-hazine-ve-maliye-bakan-yardimciligina-atanan-kutluhan-taskin-kimdir-haberi-925736",
+   "image": "https://img.ekonomim.com/storage/files/images/2026/10/20/kutluhan-taskin-kac-yasinda-nereli-hazine-ve-maliye-bakan-yardimciligina-atanan-kutluhan-taskin-kimdir-hwcy_cover.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-19T21:07:00Z",
+   "title": "3 gün önce Et ve Süt Kurumu Üyeliği'ne atanmıştı... Aynı isim Hazine ve Maliye Bakan Yardımcılığı'na getirildi",
+   "link": "https://www.cumhuriyet.com.tr/siyaset/3-gun-once-et-ve-sut-kurumu-uyeligi-ne-atanmisti-ayni-isim-hazine-ve-maliye-bakan-yardimciligi-na-getirildi-2548381",
+   "image": "https://media.cumhuriyet.com.tr/Archive/e04e283d-aabf-446c-9081-87d4d0d3eda4.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Sabah",
+   "group": "progov",
+   "published": "2026-10-19T21:04:28Z",
+   "title": "Resmi Gazete'de yayımlandı! SPK Başkanı Mahmut Sütcü görevden alındı",
+   "link": "https://www.sabah.com.tr/gundem/2026/10/19/hazine-ve-maliye-bakan-yardimciligina-kutluhan-taskin-atandi",
+   "image": "https://iasbh.tmgrup.com.tr/1acd11/1200/675/0/0/1280/720?u=https://isbh.tmgrup.com.tr/sbh/2026/10/20/resmi-gazetede-yayimlandi-spk-baskani-mahmut-sutcu-gorevden-alindi-1792444289378.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Independent Türkçe",
+   "group": "independent",
+   "published": "2026-10-19T21:01:18Z",
+   "title": "Paris, Lyon, Lille ve Nice dahil Fransa'nın birçok kentinde kısmi sokağa çıkma yasağı ilan edildi",
+   "link": "https://www.indyturk.com/node/784053/d%C3%BCnya/paris-lyon-lille-ve-nice-dahil-fransan%C4%B1n-bir%C3%A7ok-kentinde-k%C4%B1smi-soka%C4%9Fa-%C3%A7%C4%B1kma-yasa%C4%9F%C4%B1",
+   "image": "https://www.indyturk.com/sites/default/files/article/main_image/2026/10/20/1382027-427732095.png",
+   "story": "fransa-da-protestolar-ve-sokaga-cikma-yasagi"
+  },
+  {
+   "source": "Ekonomim",
+   "group": "independent",
+   "published": "2026-10-19T21:01:00Z",
+   "title": "Hazine ve Maliye Bakanlığına üst düzey atama: SPK ve KGK başkanları görevden alındı",
+   "link": "https://www.ekonomim.com/ekonomi/hazine-ve-maliye-bakanligina-yeni-atama-haberi-925735",
+   "image": "https://img.ekonomim.com/storage/files/images/2026/10/20/hazine-ve-maliye-bakanliginda-yeni-atama-spk-ve-kgk-baskanlari-gorevden-alindi-uyc3_cover.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Ekonomim",
+   "group": "independent",
+   "published": "2026-10-19T21:00:00Z",
+   "title": "Borsada \"fon\" etkisiyle görünüm bulanıklaşıyor",
+   "link": "https://www.ekonomim.com/ekonomi/borsada-fon-etkisiyle-gorunum-bulaniklasiyor-haberi-925710",
+   "image": "https://img.ekonomim.com/storage/files/images/2026/10/19/borsada-fon-etkisiyle-gorunum-bulaniklasiyor-gt2t_cover.jpg",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Gazete Pencere",
+   "group": "independent",
+   "published": "2026-10-19T20:59:25Z",
+   "title": "Trabzonsporlu Nwaiwu'dan Beşiktaşlı taraftarları kızdıracak paylaşım",
+   "link": "https://www.gazetepencere.com/spor/trabzonsporlu-nwaiwudan-besiktasli-taraftarlari-kizdiracak-paylasim-719987h",
+   "image": "https://i.gazetepencere.com/2/150/84/storage/files/images/2026/10/19/trabzonsporlu-nwaiwudan-besiktasli-taraftarlari-kizdiracak-paylasim-u6qa.jpg",
+   "story": "trabzonspor-besiktas-maci"
+  },
+  {
+   "source": "Bloomberg HT",
+   "group": "progov",
+   "published": "2026-10-19T20:56:17Z",
+   "title": "SPK'dan Tera Yatırım ve Peker Gayrimenkul Yatırım ortaklığına ilişkin karar",
+   "link": "https://www.bloomberght.com/spk-dan-tera-yatirim-ve-peker-gayrimenkul-yatirim-ortakligina-iliskin-karar-3791846",
+   "image": "https://geoim.bloomberght.com/l/2026/10/19/ver1792443402/3791846/jpg/1280x720",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
    "source": "CNN Türk",
    "group": "progov",
    "published": "2026-10-19T20:55:02Z",
@@ -3816,6 +4673,294 @@
    "link": "https://www.cnnturk.com/dunya/son-dakika-haberi-fransada-4-sehirde-sokaga-cikma-yasagi-3481623",
    "image": "",
    "story": "fransa-da-protestolar-ve-sokaga-cikma-yasagi"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-19T20:54:00Z",
+   "title": "Erman Toroğlu'ndan derbi sonrası Cihan Aydın eleştirisi: 'Hakemlik bu değil'",
+   "link": "https://www.yenicaggazetesi.com/erman-toroglundan-derbi-sonrasi-cihan-aydin-elestirisi-hakemlik-bu-degil-1083346h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/19/erman-toroglundan-derbi-sonrasi-cihan-aydin-elestirisi-hakemlik-bu-degil-diem.jpg",
+   "story": "trabzonspor-besiktas-maci"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-19T20:53:00Z",
+   "title": "Chibuike Nwaiwu'dan Beşiktaş maçı sonrası dikkat çeken paylaşım!",
+   "link": "https://www.cumhuriyet.com.tr/spor/chibuike-nwaiwu-dan-besiktas-maci-sonrasi-dikkat-ceken-paylasim-2548376",
+   "image": "https://media.cumhuriyet.com.tr/Archive/a727eaa9-d475-411c-9a7a-c1d680fd7f18.jpg",
+   "story": "trabzonspor-besiktas-maci"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-19T20:49:00Z",
+   "title": "Tanju Özcan savunmasını tamamladı: 'Evimde kedi gibi hiçbir şeye karışmadan oturacağım'",
+   "link": "https://www.cumhuriyet.com.tr/siyaset/tanju-ozcan-savunmasini-tamamladi-evimde-kedi-gibi-hicbir-seye-karismadan-oturacagim-2548375",
+   "image": "https://media.cumhuriyet.com.tr/Archive/9a274d40-f4a6-4bbe-99e1-bc485947facc.jpg",
+   "story": "tanju-ozcan-in-mahkemedeki-savunmasi"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-19T20:49:00Z",
+   "title": "Beyoğlu'nda 6 katlı binada çıkan yangın söndürüldü",
+   "link": "https://www.evrensel.net/haber/6005699/beyoglunda-6-katli-binada-cikan-yangin-sonduruldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/367118.jpg",
+   "story": "beyoglu-nda-yangin"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-19T20:47:17Z",
+   "title": "Trump'tan Zelenskiy'e \"Rusya ile müzakereleri devretmesinin zamanının geldiği\" mesajı",
+   "link": "https://www.aa.com.tr/tr/dunya/trumptan-zelenskiye-rusya-ile-muzakereleri-devretmesinin-zamaninin-geldigi-mesaji/4093953",
+   "image": "",
+   "story": "trump-in-zelenskiy-e-muzakere-mesaji"
+  },
+  {
+   "source": "Bloomberg HT",
+   "group": "progov",
+   "published": "2026-10-19T20:46:59Z",
+   "title": "Trump: Fransa'daki protestolar okullarla değil, göçle ilgili",
+   "link": "https://www.bloomberght.com/trump-fransa-daki-protestolar-okullarla-degil-gocle-ilgili-3791845",
+   "image": "https://geoim.bloomberght.com/l/2026/10/19/ver1792442902/3791845/jpg/1280x720",
+   "story": "fransa-da-protestolar-ve-sokaga-cikma-yasagi"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-19T20:44:34Z",
+   "title": "Sarı Yelekliler eylemlerinin ardından ABD'den Fransa'daki vatandaşlarına güvenlik uyarısı",
+   "link": "https://www.aa.com.tr/tr/dunya/sari-yelekliler-eylemlerinin-ardindan-abdden-fransadaki-vatandaslarina-guvenlik-uyarisi/4093947",
+   "image": "",
+   "story": "fransa-da-protestolar-ve-sokaga-cikma-yasagi"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-19T20:43:00Z",
+   "title": "Trump'tan Zelenskiy açıklaması: Rusya ile müzakereleri başka birine devretmesinin zamanı geldi",
+   "link": "https://www.evrensel.net/haber/6005698/trumptan-zelenskiy-aciklamasi-rusya-ile-muzakereleri-baska-birine-devretmesinin-zamani-geldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/302662.jpg",
+   "story": "trump-in-zelenskiy-e-muzakere-mesaji"
+  },
+  {
+   "source": "Anadolu Ajansı",
+   "group": "progov",
+   "published": "2026-10-19T20:41:28Z",
+   "title": "SPK'den Tera Yatırım Holding ve Peker Gayrimenkul Yatırım Ortaklığına ilişkin karar",
+   "link": "https://www.aa.com.tr/tr/ekonomi/spkden-tera-yatirim-holding-ve-peker-gayrimenkul-yatirim-ortakligina-iliskin-karar/4093943",
+   "image": "",
+   "story": "ekonomi-burokrasisinde-fon-tasfiyesi-ve-atamalar"
+  },
+  {
+   "source": "Milliyet",
+   "group": "progov",
+   "published": "2026-10-19T20:41:10Z",
+   "title": "Fransa'da yaşanan olaylarla ilgili Trump'tan açıklama: Macron'u uyarmıştım ülkesi mahvoldu",
+   "link": "https://www.milliyet.com.tr/dunya/fransada-yasanan-olaylarla-ilgili-trumptan-aciklama-macronu-uyarmistim-ulkesi-mahvoldu-7683269",
+   "image": "https://image.milimaj.com/i/milliyet/75/460x340/6ad678e9ad4ceab0d14ff2c5.jpg",
+   "story": "fransa-da-protestolar-ve-sokaga-cikma-yasagi"
+  },
+  {
+   "source": "Dünya Gazetesi",
+   "group": "independent",
+   "published": "2026-10-19T20:41:00Z",
+   "title": "ABD'den Fransa'daki vatandaşlarına güvenlik uyarısı",
+   "link": "https://www.dunya.com/dunya/abdden-fransadaki-vatandaslarina-guvenlik-uyarisi-haberi-844493",
+   "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/19/fransa-ppvy_cover.jpg",
+   "story": "fransa-da-protestolar-ve-sokaga-cikma-yasagi"
+  },
+  {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-19T20:31:00Z",
+   "title": "Taksim'de yangın paniği: 6 katlı binada alevler yükseldi",
+   "link": "https://www.yenicaggazetesi.com/taksimde-yangin-panigi-6-katli-binada-alevler-yukseldi-1083343h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/20/taksimde-yangin-panigi-6-katli-binada-alevler-yukseldi-q5j4.jpg",
+   "story": "beyoglu-nda-yangin"
+  },
+  {
+   "source": "Haber Global",
+   "group": "independent",
+   "published": "2026-10-19T20:30:00Z",
+   "title": "ABD Başkanı Trump’tan Ukrayna ve Fransa açıklaması: “Macron’a ülkeni mahvedeceksin dedim”",
+   "link": "https://haberglobal.com/gundem/abd-baskani-trumptan-ukrayna-ve-fransa-aciklamasi-macrona-ulkeni-mahvedeceksin-dedim-549493",
+   "image": "https://i.haberglobal.com/storage/files/images/2026/10/19/abd-baskani-trumptan-ukrayna-ve-fransa-aciklamasi-macrona-ulkeni-mahvedeceksin-dedim-qxko.jpg",
+   "story": "fransa-da-protestolar-ve-sokaga-cikma-yasagi"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-19T20:27:55Z",
+   "title": "Trump'tan Fransa ve Ukrayna açıklamaları",
+   "link": "https://www.sozcu.com.tr/trump-tan-fransa-ve-ukrayna-aciklamalari-p370756",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/turanjpg-_B5ASn77j0iyKcbD7AaecQ.jpg",
+   "story": "fransa-da-protestolar-ve-sokaga-cikma-yasagi"
+  },
+  {
+   "source": "Gazete Pencere",
+   "group": "independent",
+   "published": "2026-10-19T20:27:37Z",
+   "title": "Oğlu ve eski eşi tutuklanan Mustafa Sarıgül'den ilk açıklama: 'Kişisel husumet için yargıyı alet ettiler'",
+   "link": "https://www.gazetepencere.com/gundem/oglu-ve-eski-esi-tutuklanan-mustafa-sarigulden-ilk-aciklama-kisisel-husumet-icin-yargiyi-alet-ettiler-719985h",
+   "image": "https://i.gazetepencere.com/2/150/84/storage/files/images/2026/10/19/oglu-ve-eski-esi-tutuklanan-mustafa-sarigulden-ilk-aciklama-kisisel-husumet-icin-yargiyi-alet-ettiler-g7dl.jpg",
+   "story": "sarigul-ailesine-yonelik-kara-para-aklama-sorusturmasi"
+  },
+  {
+   "source": "Independent Türkçe",
+   "group": "independent",
+   "published": "2026-10-19T20:23:28Z",
+   "title": "Gazeteci Murat Ağırel ve Ömer Sarıgül’ün de aralarında bulunduğu 15 kişi tutuklandı",
+   "link": "https://www.indyturk.com/node/784052/haber/gazeteci-murat-a%C4%9F%C4%B1rel-ve-%C3%B6mer-sar%C4%B1g%C3%BCl%E2%80%99%C3%BCn-de-aralar%C4%B1nda-bulundu%C4%9Fu-15-ki%C5%9Fi",
+   "image": "https://www.indyturk.com/sites/default/files/article/main_image/2026/10/19/1382026-1732464228.jpg",
+   "story": "sarigul-ailesine-yonelik-kara-para-aklama-sorusturmasi"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-19T20:21:00Z",
+   "title": "Ernest Muçi'den galibiyetin ardından Beşiktaş açıklaması!",
+   "link": "https://www.cumhuriyet.com.tr/spor/ernest-muci-den-galibiyetin-ardindan-besiktas-aciklamasi-2548371",
+   "image": "https://media.cumhuriyet.com.tr/Archive/ec8d47fc-0e0a-4a4e-8031-1e861259f683.jpg",
+   "story": "trabzonspor-besiktas-maci"
+  },
+  {
+   "source": "Sözcü",
+   "group": "opposition",
+   "published": "2026-10-19T20:20:51Z",
+   "title": "Gizli yazışmalar ifşa oldu! Trump'ın Türk damadına soruşturma",
+   "link": "https://www.sozcu.com.tr/gizli-yazismalar-ifsa-oldu-trump-in-turk-damadina-sorusturma-p370761",
+   "image": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/284jpg-s5hg78zbB0_jzzk-26NL9Q.jpg",
+   "story": "sarigul-ailesine-yonelik-kara-para-aklama-sorusturmasi"
+  },
+  {
+   "source": "Evrensel",
+   "group": "opposition",
+   "published": "2026-10-19T20:19:00Z",
+   "title": "Gazeteci Murat Ağırel'in tutuklanmasına tepki",
+   "link": "https://www.evrensel.net/haber/6005696/gazeteci-murat-agirel-in-tutuklanmasina-tepki?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+   "image": "https://www.evrensel.net/images/1280/upload/dosya/365748.jpg",
+   "story": "sarigul-ailesine-yonelik-kara-para-aklama-sorusturmasi"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-19T20:17:00Z",
+   "title": "Beşiktaş deplasmanda kayıp",
+   "link": "https://www.karar.com/spor-haberleri/besiktas-deplasmanda-kayip-2079474",
+   "image": "https://cdn.karar.com/news/1943115.jpg",
+   "story": "trabzonspor-besiktas-maci"
+  },
+  {
+   "source": "Cumhuriyet",
+   "group": "opposition",
+   "published": "2026-10-19T20:16:00Z",
+   "title": "Mansur Yavaş'tan 'Murat Ağırel' sorusu: 'Tutuklamayı zorunlu kılan somut gerekçe nedir?'",
+   "link": "https://www.cumhuriyet.com.tr/siyaset/mansur-yavas-tan-murat-agirel-sorusu-tutuklamayi-zorunlu-kilan-somut-gerekce-nedir-2548368",
+   "image": "https://media.cumhuriyet.com.tr/Archive/d9ddbf31-b4f0-4c9e-8b17-10458c41c791.jpg",
+   "story": "sarigul-ailesine-yonelik-kara-para-aklama-sorusturmasi"
+  },
+  {
+   "source": "Akşam",
+   "group": "progov",
+   "published": "2026-10-19T20:16:00Z",
+   "title": "Isparta'dan sevindiren haber geldi: Kanyonda mahsur kalan 10 İHH gönüllüsü kurtarıldı",
+   "link": "https://www.aksam.com.tr/guncel/ispartadan-sevindiren--geldi-kanyonda-mahsur-kalan-10-ihh-gonullusu-kurtarildi/haber-1707545",
+   "image": "https://img3.aksam.com.tr/imgsdisk/2026/10/19/ispartadan-sevindiren--ge-402_2.jpg",
+   "story": "isparta-da-kanyonda-mahsur-kalanlar-kurtarildi"
+  },
+  {
+   "source": "Gazete Pencere",
+   "group": "independent",
+   "published": "2026-10-19T20:13:00Z",
+   "title": "Mansur Yavaş'tan Murat Ağırel'in tutuklanmasına tepki: Haber yapsa dezenformasyon, yapmasa tutuklama",
+   "link": "https://www.gazetepencere.com/gundem/mansur-yavastan-murat-agirelin-tutuklanmasina-tepki-haber-yapsa-dezenformasyon-yapmasa-tutuklama-719984h",
+   "image": "https://i.gazetepencere.com/2/150/84/storage/files/images/2026/10/19/mansur-yavastan-murat-agirelin-tutuklanmasina-tepki-haber-yapsa-dezenformasyon-yapmasa-tutuklama-pt3z.jpg",
+   "story": "sarigul-ailesine-yonelik-kara-para-aklama-sorusturmasi"
+  },
+  {
+   "source": "Gazete Pencere",
+   "group": "independent",
+   "published": "2026-10-19T20:12:46Z",
+   "title": "Thomas Reis, Beşiktaş galibiyetinin sırrını açıkladı",
+   "link": "https://www.gazetepencere.com/gozden-kacmasin/thomas-reis-besiktas-galibiyetinin-sirrini-acikladi-719983h",
+   "image": "https://i.gazetepencere.com/2/150/84/storage/old/d/news/204480.jpg",
+   "story": "trabzonspor-besiktas-maci"
+  },
+  {
+   "source": "Artı Gerçek",
+   "group": "opposition",
+   "published": "2026-10-19T20:12:34Z",
+   "title": "Fransa’da sokağa çıkma yasakları genişletildi",
+   "link": "https://artigercek.com/dunya/fransada-sokaga-cikma-yasaklari-genisletildi-351819h",
+   "image": "https://image.artigercek.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/19/fransada-sokaga-cikma-yasaklari-genisletildi-hlnh.jpg",
+   "story": "fransa-da-protestolar-ve-sokaga-cikma-yasagi"
+  },
+  {
+   "source": "Euronews Türkçe",
+   "group": "independent",
+   "published": "2026-10-19T20:10:11Z",
+   "title": "'Sarıgül' soruşturması: Gazeteci Murat Ağırel dahil 15 kişi tutuklandı",
+   "link": "https://tr.euronews.com/2026/10/19/sarigul-sorusturmasi-gazeteci-murat-agirel-dahil-15-kisi-tutuklandi",
+   "image": "",
+   "story": "sarigul-ailesine-yonelik-kara-para-aklama-sorusturmasi"
+  },
+  {
+   "source": "Dünya Gazetesi",
+   "group": "independent",
+   "published": "2026-10-19T20:09:00Z",
+   "title": "Isparta'da kanyonda mahsur kalan 10 İHH gönüllüsü kurtarıldı",
+   "link": "https://www.dunya.com/gundem/ispartada-kanyonda-mahsur-kalan-10-ihh-gonullusu-kurtarildi-haberi-844491",
+   "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/19/isparta-px50_cover.jpg",
+   "story": "isparta-da-kanyonda-mahsur-kalanlar-kurtarildi"
+  },
+  {
+   "source": "Bianet",
+   "group": "opposition",
+   "published": "2026-10-19T20:01:00Z",
+   "title": "Gazeteci Murat Ağırel ile beraber 15 kişi tutuklandı",
+   "link": "https://bianet.org/haber/gazeteci-murat-agirel-ile-beraber-15-kisi-tutuklandi-324603",
+   "image": "https://static.bianet.org/haber/2026/10/19/gazeteci-murat-agirel-ile-beraber-15-kisi-tutuklandi.jpg",
+   "story": "sarigul-ailesine-yonelik-kara-para-aklama-sorusturmasi"
+  },
+  {
+   "source": "Bianet",
+   "group": "opposition",
+   "published": "2026-10-19T20:01:00Z",
+   "title": "Fransa: Macron sokağa çıkma yasakları ilan ediyor; sendikalar 24 Ekim ve 5 Kasım'a randevu veriyor",
+   "link": "https://bianet.org/haber/fransa-macron-sokaga-cikma-yasaklari-ilan-ediyor-sendikalar-24-ekim-ve-5-kasim-a-randevu-veriyor-324604",
+   "image": "https://static.bianet.org/haber/2026/10/19/macron-sokaga-cikma-yasaklari-ilan-ediyor-sendikalar-24-ekim-ve-5-kasim-a-randevu-veriyor.jpeg",
+   "story": "fransa-da-protestolar-ve-sokaga-cikma-yasagi"
+  },
+  {
+   "source": "Karar",
+   "group": "opposition",
+   "published": "2026-10-19T19:59:52Z",
+   "title": "Mansur Yavaş'tan Murat Ağırel'in tutuklanmasına tepki: Haber yapsaydı dezenformasyonla mı suçlanacaktı?",
+   "link": "https://www.karar.com/guncel-haberler/mansur-yavastan-murat-agirelin-tutuklanmasina-tepki-haber-yapsaydi-2079472",
+   "image": "https://cdn.karar.com/news/1943113.jpg",
+   "story": "sarigul-ailesine-yonelik-kara-para-aklama-sorusturmasi"
+  },
+  {
+   "source": "Dünya Gazetesi",
+   "group": "independent",
+   "published": "2026-10-19T19:56:00Z",
+   "title": "Trump'tan Ukrayna mesajı: Müzakereleri başkasının yürütme zamanı geldi",
+   "link": "https://www.dunya.com/dunya/trumptan-ukrayna-mesaji-muzakereleri-baskasinin-yurutme-zamani-geldi-haberi-844490",
+   "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/19/tt1-yefj_cover.jpg",
+   "story": "trump-in-zelenskiy-e-muzakere-mesaji"
+  },
+  {
+   "source": "Independent Türkçe",
+   "group": "independent",
+   "published": "2026-10-19T19:55:11Z",
+   "title": "Netanyahu'dan Trump'a İran mesajı: Bitirmemiz gereken bir iş var",
+   "link": "https://www.indyturk.com/node/784051/d%C3%BCnya/netanyahudan-trumpa-i%CC%87ran-mesaj%C4%B1-bitirmemiz-gereken-bir-i%C5%9F-var",
+   "image": "https://www.indyturk.com/sites/default/files/article/main_image/2026/10/19/1382025-397054731.png",
+   "story": "israil-in-gazze-ye-saldirilari"
   },
   {
    "source": "Akşam",
@@ -4034,6 +5179,15 @@
    "story": "fransa-da-protestolar-ve-sokaga-cikma-yasagi"
   },
   {
+   "source": "Hürriyet",
+   "group": "progov",
+   "published": "2026-10-19T19:34:03Z",
+   "title": "Thomas Reis, Beşiktaş maçı sonrası galibiyetin şifresini açıkladı: 'Plan disiplindi'",
+   "link": "https://www.hurriyet.com.tr/sporarena/thomas-reis-besiktas-maci-sonrasi-galibiyetin-sifresini-acikladi-plan-disiplindi-43347831",
+   "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad6709322393fcfc7d3b7e5.jpg",
+   "story": "trabzonspor-besiktas-maci"
+  },
+  {
    "source": "Yeni Şafak",
    "group": "progov",
    "published": "2026-10-19T19:33:11Z",
@@ -4205,6 +5359,15 @@
    "story": "kara-para-aklama-sorusturmasi"
   },
   {
+   "source": "Yeniçağ",
+   "group": "opposition",
+   "published": "2026-10-19T19:21:00Z",
+   "title": "Gazeteci Murat Ağırel tutuklandı: İlk sözü kızım oldu",
+   "link": "https://www.yenicaggazetesi.com/gazeteci-murat-agirel-tutuklandi-ilk-sozu-kizim-oldu-1083331h.htm",
+   "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/19/gazeteci-murat-agirel-tutuklandi-ilk-sozu-kizim-oldu-jleh.jpg",
+   "story": "sarigul-ailesine-yonelik-kara-para-aklama-sorusturmasi"
+  },
+  {
    "source": "Akşam",
    "group": "progov",
    "published": "2026-10-19T19:20:00Z",
@@ -4347,6 +5510,15 @@
    "link": "https://www.yenicaggazetesi.com/mustafa-sarigulun-oglu-omer-sarigul-tutuklandi-1083328h.htm",
    "image": "https://img.yenicaggazetesi.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/19/mustafa-sarigulun-oglu-omer-sarigul-tutuklandi-qgwd.jpg",
    "story": "kara-para-aklama-sorusturmasi"
+  },
+  {
+   "source": "BirGün",
+   "group": "opposition",
+   "published": "2026-10-19T19:04:00Z",
+   "title": "Fransa'da yasak dalgası büyüyor: Paris'te de sokağa çıkma yasağı ilan edildi",
+   "link": "https://www.birgun.net/haber/fransa-da-yasak-dalgasi-buyuyor-paris-te-de-sokaga-cikma-yasagi-ilan-edildi-741303",
+   "image": "https://static.birgun.net/resim/haber/2026/10/19/fransa-da-yasak-dalgasi-buyuyor-paris-te-de-sokaga-cikma-yasagi-ilan-edildi.jpg",
+   "story": "fransa-da-protestolar-ve-sokaga-cikma-yasagi"
   },
   {
    "source": "Anadolu Ajansı",
@@ -6165,6 +7337,15 @@
    "link": "https://artigercek.com/politika/gazeteci-murat-agirel-dahil-15-isim-hakkinda-tutuklama-talebi-351808h",
    "image": "https://image.artigercek.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/19/gazeteci-murat-agirelin-savcilik-ifadesi-tamamlandi-beyt.jpg",
    "story": "kara-para-aklama-sorusturmasi"
+  },
+  {
+   "source": "Artı Gerçek",
+   "group": "opposition",
+   "published": "2026-10-19T14:10:00Z",
+   "title": "Gazeteci Murat Ağırel dahil 15 isim tutuklandı",
+   "link": "https://artigercek.com/politika/gazeteci-murat-agirel-dahil-15-isim-tutuklandi-351808h",
+   "image": "https://image.artigercek.com/rcman/Cw150h84q95gc/storage/files/images/2026/10/19/gazeteci-murat-agirelin-savcilik-ifadesi-tamamlandi-beyt.jpg",
+   "story": "sarigul-ailesine-yonelik-kara-para-aklama-sorusturmasi"
   },
   {
    "source": "Serbestiyet",
@@ -128634,6 +129815,278 @@
   "https://bianet.org/haber/gezi-mahpusu-mine-ozerdenden-kitap-dayanismasi-cagrisi-324597": "2026-10-19T13:29:00Z",
   "https://bianet.org/haber/kurtce-secmeli-ders-kitaplari-86-bin-ogrenciye-ulastirilmadi-324595": "2026-10-19T13:15:00Z",
   "https://bianet.org/haber/yuksekdagdan-cezaevindeki-lgbti-lara-hicbir-zindan-dayatmasi-mesru-hakki-gasp-edemez-324594": "2026-10-19T13:10:00Z",
-  "https://serbestiyet.com/dis-haber/christiane-amanpour-43-yilin-ardindan-cnnden-ayriliyor-her-taraftan-benzeri-gorulmemis-baskilarla-karsi-karsiyayiz-251825/": "2026-10-19T19:48:03Z"
+  "https://serbestiyet.com/dis-haber/christiane-amanpour-43-yilin-ardindan-cnnden-ayriliyor-her-taraftan-benzeri-gorulmemis-baskilarla-karsi-karsiyayiz-251825/": "2026-10-19T19:48:03Z",
+  "https://www.hurriyet.com.tr/resmi-ilanlar/ermenek-sulh-hukuk-mahkemesi-43347617": "2026-10-19T21:00:00Z",
+  "https://www.hurriyet.com.tr/resmi-ilanlar/istanbul-sehir-hatlari-turizm-sanayi-ve-tic-a-s-43347556": "2026-10-19T21:00:00Z",
+  "https://www.hurriyet.com.tr/resmi-ilanlar/kahramanmaras-4-aile-mahkemesi-hakimligi-43347543": "2026-10-19T21:00:00Z",
+  "https://www.hurriyet.com.tr/resmi-ilanlar/tekman-asliye-hukuk-mahkemesi-hakimligi-43347552": "2026-10-19T21:00:00Z",
+  "https://www.hurriyet.com.tr/resmi-ilanlar/patnos-1-asliye-hukuk-mahkemesi-43347528": "2026-10-19T21:00:00Z",
+  "https://www.hurriyet.com.tr/dunya/abd-baskani-donald-trump-zelenskiy-savasi-durdurmak-istemiyor-43347844": "2026-10-19T19:58:00Z",
+  "https://www.hurriyet.com.tr/sporarena/vincenzo-italiano-daha-iyi-olmaliyiz-deplasmanda-yapamiyoruz-43347837": "2026-10-19T19:42:57Z",
+  "https://www.hurriyet.com.tr/gundem/son-dakika-cilgin-sayisal-lotoda-dev-ikramiye-sahibini-buldu-43347827": "2026-10-19T19:37:30Z",
+  "https://www.milliyet.com.tr/dunya/dunyayi-sarsacak-tehdit-hurmuz-bogazindaki-internet-kablolarina-saldiri-mesaji-7683283": "2026-10-19T20:44:06Z",
+  "https://www.milliyet.com.tr/gundem/ankarada-kacakcilik-operasyonu-11-kisi-hakkinda-islem-baslatildi-7683352": "2026-10-19T23:58:59Z",
+  "https://www.milliyet.com.tr/gundem/karabukte-kiz-arkadasi-tarafindan-bicaklanan-erkek-agir-yaralandi-7683313": "2026-10-19T22:02:53Z",
+  "https://www.milliyet.com.tr/gundem/bodrum-aciklarinda-yunanistan-tarafindan-geri-itilen-36-kacak-gocmen-kurtarildi-7683285": "2026-10-19T21:01:56Z",
+  "https://www.cnnturk.com/turkiye/resmi-gazete-atama-kararlari-20-ekim-2026-bugun-resmi-gazete-kararlari-neler-3481664": "2026-10-20T01:45:20Z",
+  "https://www.cnnturk.com/magazin/uzak-sehir-dizisinin-69-bolumunde-neler-oldu-alya-hamile-uzak-sehir-69-bolum-ve-70-bolum-fragmani-izleme-linki-3481663": "2026-10-20T01:19:30Z",
+  "https://www.cnnturk.com/magazin/masterchef-mavi-takim-kaptani-kim-oldu-19-ekim-masterchefte-mavi-ve-kirmizi-takim-kaptanlari-kimler-takimlar-nasil-sekillendi-3481634": "2026-10-20T00:52:21Z",
+  "https://www.cnnturk.com/kesfet/olu-hucrelere-birebir-iste-evde-hazirlayabileceginiz-dogal-peeling-tarifi-3481655": "2026-10-20T00:18:53Z",
+  "https://www.cnnturk.com/egitim/vgm-burs-basvuru-tarihleri-yuksekogrenim-vgm-burs-basvurusu-ne-zaman-vakiflar-genel-mudurlugu-ortaogrenim-ve-yuksekogrenim-burs-3481652": "2026-10-20T00:07:05Z",
+  "https://www.cnnturk.com/resmi-ilanlar/tekman-asliye-hukuk-mahkemesi-hakimligi-3481466": "2026-10-20T00:00:15Z",
+  "https://www.cnnturk.com/resmi-ilanlar/tekman-asliye-hukuk-mahkemesi-hakimligi-3481464": "2026-10-20T00:00:15Z",
+  "https://www.cnnturk.com/resmi-ilanlar/alanya-2-sulh-hukuk-mah-satis-memurlugu-3481463": "2026-10-20T00:00:15Z",
+  "https://www.cnnturk.com/resmi-ilanlar/hopa-1-asliye-ceza-mahkemesi-3481462": "2026-10-20T00:00:15Z",
+  "https://www.cnnturk.com/resmi-ilanlar/vakfikebir-sulh-hukuk-mahkemesi-3481460": "2026-10-20T00:00:15Z",
+  "https://www.cnnturk.com/spor/futbol/vincenzo-italiano-beni-sinirlendirmeye-basladi-3481650": "2026-10-19T23:44:37Z",
+  "https://www.cnnturk.com/turkiye/sahte-mahkeme-karari-gondermisler-davalari-lehte-sonuclandirma-vaadiyle-dolandirdilar-3481649": "2026-10-19T23:35:25Z",
+  "https://www.cnnturk.com/video/turkiye/suclularin-danismani-yapay-zeka-mi-3481647": "2026-10-19T23:26:03Z",
+  "https://www.cnnturk.com/dunya/avrupada-bati-nil-virusu-tehdidi-buyuyor-3481648": "2026-10-19T23:21:53Z",
+  "https://www.aa.com.tr/tr/dunya/filistinli-aktivist-halil-abdden-sinir-disi-edilmesinin-onunu-acan-mahkeme-kararinin-bozulmasini-istedi/4093990": "2026-10-19T22:11:06Z",
+  "https://www.aa.com.tr/tr/gundem/tbmm-heyeti-kolombiyada-turk-kurumlarini-ziyaret-ederek-cesitli-acilislara-katildi/4093989": "2026-10-19T22:02:03Z",
+  "https://www.aa.com.tr/tr/gundem/buyuk-aile-platformundan-internet-sitesi-ve-iletisim-kanallarina-yonelik-siber-saldiriya-iliskin-aciklama/4093991": "2026-10-19T22:20:59Z",
+  "https://www.yenisafak.com/yazarlar/omer-lekesiz/mizan-sanatta-ruhsalligin-zeminidir-4865658": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/hayat/dizilerden-sonra-yeni-kultur-ihraci-4865659": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/gundem/cocuklarin-kimlik-bilgileri-korunacak-4865660": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/hayat/cocuklarin-saglikli-gelecegi-istanbulda-konusuldu-4865661": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/yazarlar/ali-saydam/aciklik-kanamayi-durdurabilir-4865662": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/ekonomi/avrupanin-enerjisi-tukendi-4865664": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/yazarlar/yusuf-dinc/gencler-siz-cok-zengin-olacaksiniz-baska-seyler-dusunun-4865665": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/ekonomi/turkiyesiz-koridor-olmaz-4865666": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/ekonomi/recelin-yarisi-meyve-olacak-4865667": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/ekonomi/onceliginiz-hasar-degil-guvenlik-4865668": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/yazarlar/yahya-bostan/ankara-baku-bazi-mulahazalar-4865669": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/dunya/dort-secim-avrupayi-felc-etti-4865671": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/dunya/kays-said-rejimine-tepki-4865672": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/gundem/putinden-uclu-masa-teklifi-4865673": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/yazarlar/ihsan-aktas/adam-zengin-olur-mu-4865677": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/gundem/teskilatin-tercihi-genel-merkezden-yana-4865678": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/gundem/istanbulun-bitmeyen-yol-cilesi-4865679": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/yazarlar/ibrahim-karagul/dogudan-cevreleme-mi-turkiyesiz-turk-dunyasi-mi-her-sey-mekke-ittifaki-ile-basladi-peki-nedenturkiye-ve-azerbaycan-bu-cinnet-haline-son-vermeli-4865680": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/gundem/nifak-sokmaya-calisanlara-karsi-uyanik-olacagiz-4865681": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/gundem/teror-ve-guvenlik-zirvesi-bruksel-cikarmasi-4865682": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/gundem/belediyelere-23-trilyonluk-butce-ayrildi-4865683": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/gundem/suc-gelirlerine-mali-abluka-4865684": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/gundem/siyonist-halfona-protesto-4865686": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/yazarlar/ismail-kilicarslan/arinma-gecesi-degil-nasuh-tovbesi-sadakat-degil-sidk-4865687": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/gundem/bu-da-nesli-bozan-cete-4865688": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/gundem/ayazagada-yikim-tamam-sira-temizlikte-4865689": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/yazarlar/fatma-barbarosoglu/erkek-kiskancligi-4865691": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/yazarlar/mehmet-seker/bir-kum-tanesiyim-ama-colun-derdini-tasiyorum-4865693": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/hayat/gencler-yapay-zekayla-turkuleri-sevdi-4865694": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/hayat/louvre-muzesinin-basi-dertten-kurtulmuyor-4865695": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/hayat/malatya-fuari-kapilarini-aciyor-4865696": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/hayat/peyami-safa-sempozyumla-anilacak-4865697": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/hayat/bes-kuzenin-askida-iyilik-hikayesi-4865698": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/galeri/gundem/bu-da-nesli-bozan-cete-4865699": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/dusunce-gunlugu/ates-serbest-2026-turk-savunma-gucunun-degisen-cehresi-4865700": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/dusunce-gunlugu/suriyeyi-yeniden-insa-etmek-4865701": "2026-10-20T01:00:00Z",
+  "https://www.yenisafak.com/dunya/rusyadan-parka-iha-saldirisi-ucu-cocuk-alti-kisi-hayatini-kaybetti-4865656": "2026-10-19T21:48:07Z",
+  "https://www.yenisafak.com/gundem/aksarayda-gece-yarisi-sok-uygulama-araclar-didik-didik-arandi-4865655": "2026-10-19T21:43:57Z",
+  "https://www.yenisafak.com/gundem/karabukte-kiz-arkadas-dehseti-erkek-arkadasini-bicakladi-4865654": "2026-10-19T21:41:32Z",
+  "https://www.yenisafak.com/video/gundem/bahcelievlerde-6-katli-otelde-yangin-panigi-4865657": "2026-10-19T20:59:00Z",
+  "https://www.aksam.com.tr/spor/bizim-cocuklar-yalcina-emanet/haber-1707563": "2026-10-19T22:52:00Z",
+  "https://www.aksam.com.tr/spor/kanarya-ilk-pesinde/haber-1707562": "2026-10-19T22:30:00Z",
+  "https://www.aksam.com.tr/spor/galatasaraydan-uefaya-guvenlik-basvurusu/haber-1707560": "2026-10-19T22:24:00Z",
+  "https://www.aksam.com.tr/spor/prag-cikis-maci-olacak/haber-1707559": "2026-10-19T21:56:00Z",
+  "https://www.aksam.com.tr/spor/once-tufan-sonra-firtina/haber-1707558": "2026-10-19T21:47:00Z",
+  "https://www.aksam.com.tr/guncel/yumurta-cetesini-ihanet-ele-verdi/haber-1707557": "2026-10-19T21:43:00Z",
+  "https://www.aksam.com.tr/spor/birbirimiz-icin-savastik/haber-1707556": "2026-10-19T21:40:00Z",
+  "https://www.aksam.com.tr/spor/daha-karakterli-olmaliyiz/haber-1707555": "2026-10-19T21:38:00Z",
+  "https://www.aksam.com.tr/spor/iste-1-ligde-genel-gorunum/haber-1707554": "2026-10-19T21:16:00Z",
+  "https://www.aksam.com.tr/yazarlar/dogrular-kazandi/haber-1707552": "2026-10-19T21:10:00Z",
+  "https://www.aksam.com.tr/spor/mac-sonucu-esenler-erokspor-4-mardin-1969-spor-2/haber-1707551": "2026-10-19T21:06:00Z",
+  "https://www.aksam.com.tr/yazarlar/bireysel-hatalarin-kurbaniyim-ben/haber-1707550": "2026-10-19T21:03:00Z",
+  "https://www.aksam.com.tr/spor/super-ligde-8-hafta-heyecani-sona-erdi-iste-son-durum/haber-1707549": "2026-10-19T20:53:00Z",
+  "https://www.aksam.com.tr/spor/ridvan-yilmaz-zor-olacagini-biliyorduk/haber-1707548": "2026-10-19T20:33:00Z",
+  "https://www.aksam.com.tr/yazarlar/italianonun-inadi-pahaliya-patladi/haber-1707547": "2026-10-19T20:24:00Z",
+  "https://www.aksam.com.tr/spor/chibuike-nwaiwu-sampiyonluk-icin-cok-asamalardan-gececegiz/haber-1707546": "2026-10-19T20:23:00Z",
+  "https://www.aksam.com.tr/spor/andre-onana-harika-bir-mac-oldu/haber-1707544": "2026-10-19T20:12:00Z",
+  "https://www.star.com.tr/spor/karagumrukten-hakemlere-tepki-oyunu-cirkinlestiriyorlar-haber-2047718/": "2026-10-19T22:44:00Z",
+  "https://www.star.com.tr/spor/jimmy-butler-takimimi-hayal-kirikligina-ugratmis-gibi-hissettim-haber-2047717/": "2026-10-19T22:40:00Z",
+  "https://www.star.com.tr/spor/fabinho-maca-cikmadan-once-galibiyet-alacagimizdan-emindik-haber-2047716/": "2026-10-19T22:27:00Z",
+  "https://www.star.com.tr/spor/chibuike-nwaiwu-cok-iyi-bir-takima-karsi-oynadik-haber-2047715/": "2026-10-19T22:27:00Z",
+  "https://www.star.com.tr/dunya/avrupadaki-toplumsal-kriz-diplomaside-dengeleri-degistirdi-iran-3-avrupa-ulkesini-guvensiz-haber-2047714/": "2026-10-19T22:19:00Z",
+  "https://www.star.com.tr/guncel/muglada-otel-calisanlarini-tasiyan-isci-servisi-devrildi-haber-2047713/": "2026-10-19T22:05:00Z",
+  "https://www.star.com.tr/spor/stefan-savic-onemli-olan-gol-yememek-haber-2047712/": "2026-10-19T21:55:00Z",
+  "https://www.star.com.tr/spor/hikmet-karaman-ligin-ust-siralarina-yukselmek-istiyoruz-haber-2047711/": "2026-10-19T21:55:00Z",
+  "https://www.yeniakit.com.tr/haber/vandan-ankaraya-gelen-yolcu-otobusunde-inanilmaz-duzenek-2029114.html": "2026-10-19T20:47:00Z",
+  "https://www.yeniakit.com.tr/haber/brukselde-kritik-zirve-turkiye-ile-belcika-arasinda-ne-konusuldu-2029113.html": "2026-10-19T20:25:00Z",
+  "https://www.yeniakit.com.tr/haber/ekranlardaki-ahlaki-cokuse-sosyal-medyadan-tokat-gibi-yanit-internet-mecralarinda-cizgi-bir-kez-daha-asildi-2029111.html": "2026-10-19T19:55:00Z",
+  "https://www.haberturk.com/gundem/ankara-da-uyusturucu-operasyonlari-47-supheli-yakalandi-3920971": "2026-10-20T00:48:59Z",
+  "https://www.haberturk.com/gundem/erkek-arkadasini-bicaklayan-kadina-gozalti-3920967": "2026-10-19T22:48:20Z",
+  "https://www.bloomberght.com/nscale-ve-anthropic-45-milyar-dolarlik-bilisim-anlasmasi-icin-gorusuyor-3791844": "2026-10-19T20:10:37Z",
+  "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-20-ekim-2026-1747071": "2026-10-19T21:31:00Z",
+  "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-19-ekim-2026-1747071": "2026-10-19T21:31:00Z",
+  "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-20-ekim-2026-1747069": "2026-10-20T01:00:00Z",
+  "https://www.ntv.com.tr/turkiye/galeri-on-numara-sonuclari-sorgulama-2026-buyuk-ikramiye-cikti-mi-mpi-on-numara-bilet-sorgulama-ekrani-1747059": "2026-10-19T19:55:21Z",
+  "https://www.bbc.com/turkce/articles/c5pvgkw482xro?at_medium=RSS&at_campaign=rss": "2026-10-19T23:24:38Z",
+  "https://www.bbc.com/turkce/articles/cxj0l72j0qy9o?at_medium=RSS&at_campaign=rss": "2026-10-19T23:34:25Z",
+  "https://tr.euronews.com/2026/10/19/video-ekvadorda-ayinde-uzerine-hac-dusen-rahip-hayatini-kaybetti": "2026-10-19T20:35:15Z",
+  "https://tr.euronews.com/video/2026/10/19/siddetli-yagis-sonrasi-ispanyanin-dogusunda-can-alan-sel-felaketi": "2026-10-19T20:01:48Z",
+  "https://www.indyturk.com/node/784055/haber/k%C4%B1sa-haberler": "2026-10-19T21:56:18Z",
+  "https://www.gazetepencere.com/gozden-kacmasin/yesil-fasulyeye-1-kasik-ekleyin-sanliurfa-mutfagindan-lezzet-onerisi-719986h": "2026-10-19T20:33:27Z",
+  "https://www.gazetepencere.com/spor/uefadan-galatasarayin-lille-maci-icin-erteleme-talebine-yanit-719982h": "2026-10-19T19:59:58Z",
+  "https://medyascope.tv/2026/10/19/fon-krizi-kontrol-altina-girdi-mi-ya-da-daha-ne-yapsinlar/": "2026-10-19T20:02:14Z",
+  "https://www.dunya.com/sirketler/nivakin-15-yillik-istikrarli-gelisimi-uzmanliktan-kurumsal-entegre-yapiya-haberi-844492": "2026-10-19T21:01:00Z",
+  "https://www.dunya.com/sektorler/sigortacilik/afet-kacinilmaz-tedbir-yasalasmayi-bekliyor-haberi-844463": "2026-10-19T21:00:00Z",
+  "https://www.dunya.com/ekonomi/turkiyenin-yapay-zeka-manifestosu-kapadokyada-yazildi-donusum-kacinilmaz-ama-sorumluluk-makineye-devredilemez-haberi-844468": "2026-10-19T21:00:00Z",
+  "https://www.dunya.com/ekonomi/elma-dalda-kaldi-ciftci-alici-bulamiyor-haberi-844470": "2026-10-19T21:00:00Z",
+  "https://www.dunya.com/ekonomi/mandalina-ihracatinda-gozler-lojistik-engellerde-haberi-844472": "2026-10-19T21:00:00Z",
+  "https://www.dunya.com/surdurulebilir-dunya/24-yilda-132-bilim-kadinina-destek-haberi-844474": "2026-10-19T21:00:00Z",
+  "https://www.dunya.com/ekonomi/destekler-kirildi-kayip-yuzde-20yi-asti-haberi-844479": "2026-10-19T21:00:00Z",
+  "https://www.dunya.com/ekonomi/10-yilda-turk-ekonomisine-55-milyar-dolarlik-katki-haberi-844480": "2026-10-19T21:00:00Z",
+  "https://www.dunya.com/ekonomi/mesiaddan-mersine-turizm-yatirimlarinin-artirilmasi-icin-somut-adim-cagrisi-haberi-844481": "2026-10-19T21:00:00Z",
+  "https://www.dunya.com/finans/haberler/new-york-borsasi-karisik-seyirle-kapandi-haberi-844494": "2026-10-19T20:47:00Z",
+  "https://www.ekonomim.com/sirketler/dogus-otomotivden-tuvturk-karari-alicilar-turkanin-iki-sirketi-haberi-925750": "2026-10-19T22:26:00Z",
+  "https://www.ekonomim.com/gundem/yrpli-bekinden-istifa-sinyali-yorungemizi-cizecegiz-haberi-925748": "2026-10-19T22:03:00Z",
+  "https://www.ekonomim.com/ekonomi/resmi-gazetede-yayimlandi-kentsel-donusum-destegi-uzatildi-haberi-925747": "2026-10-19T21:52:00Z",
+  "https://www.ekonomim.com/foto-galeri/aktuel/savunma-devlerinin-mezun-karnesi-hangi-universitenin-ogrencilerini-sectikleri-dikkat-cekti-galeri-925739": "2026-10-19T21:49:00Z",
+  "https://www.ekonomim.com/foto-galeri/aktuel/turkiyenin-en-tehlikeli-20-mahallesi-zirvede-hurriyet-kore-kadifekale-cilek-bekleyen-yaniliyor-galeri-925745": "2026-10-19T21:48:00Z",
+  "https://www.ekonomim.com/ekonomi/2027-yatirim-hedefleri-belli-oldu-hangi-kit-ne-kadar-yatirim-yapacak-haberi-925746": "2026-10-19T21:47:00Z",
+  "https://www.ekonomim.com/finans/haberler/borsa/new-york-borsasi-gunu-karisik-seyirle-kapatti-haberi-925743": "2026-10-19T21:40:00Z",
+  "https://www.ekonomim.com/foto-galeri/aktuel/sokta-yeni-indirim-donemi-basliyor-firsat-listesi-netlesti-sok-21-ekim-27-ekim-s1-galeri-925744": "2026-10-19T21:39:00Z",
+  "https://www.ekonomim.com/foto-galeri/aktuel/bim-ekim-ayi-indirimleri-suruyor-bimde-bugun-hangi-urunler-satista-olacak-bim-20-26-ekim-s1-galeri-925741": "2026-10-19T21:22:00Z",
+  "https://www.ekonomim.com/foto-galeri/aktuel/bimde-bu-urunler-resmen-kapisilacak-yeni-indirim-listesi-aciklandi-bim-27-ekim-2-kasim-s1-galeri-925738": "2026-10-19T21:04:00Z",
+  "https://www.ekonomim.com/foto-galeri/yasam/tarihte-bugun-20-ekim-galeri-925705": "2026-10-19T21:00:00Z",
+  "https://www.ekonomim.com/sektorler/savunma-sanayi/turkiye-savunmada-natonun-2035-hedefine-simdiden-yaklasti-haberi-925712": "2026-10-19T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/dijital-abonelikte-mevzuat-yenileniyor-haberi-925713": "2026-10-19T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/avrupada-secim-firtinasi-basliyor-haberi-925714": "2026-10-19T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/80-ulkeye-uzanan-complead-abdyi-kesfe-hazirlaniyor-haberi-925716": "2026-10-19T21:00:00Z",
+  "https://www.ekonomim.com/sektorler/tekstil/misir-yatirimlari-geri-donusume-de-uzandi-haberi-925717": "2026-10-19T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/eforasenel-alt-isverenlik-sektoru-onemli-istihdam-alani-oldu-haberi-925718": "2026-10-19T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/hindistan-elmada-surpriz-ihracat-pazari-oldu-haberi-925719": "2026-10-19T21:00:00Z",
+  "https://www.ekonomim.com/sektorler/denizcilik/limanlarin-yesil-donusumu-icin-finansman-kanallari-daha-fazla-cesitlenmeli-haberi-925721": "2026-10-19T21:00:00Z",
+  "https://www.ekonomim.com/ekonomi/ronesanstan-veri-merkezlerine-toplam-93-milyar-dolar-yatirim-haberi-925723": "2026-10-19T21:00:00Z",
+  "https://haberglobal.com/dunya/rusya-ukraynada-parki-vurdu-3u-cocuk-6-olu-549499": "2026-10-19T21:50:00Z",
+  "https://haberglobal.com/spor/vincenzo-italiano-artik-sinirlenmeye-basladim-549497": "2026-10-19T21:27:00Z",
+  "https://haberglobal.com/gundem/hazine-ve-maliye-bakan-yardimciligina-kutluhan-taskin-atandi-549496": "2026-10-19T21:14:00Z",
+  "https://haberglobal.com/spor/vlahovice-esprili-gonderme-isimi-kim-elimden-aliyor-549495": "2026-10-19T21:01:00Z",
+  "https://haberglobal.com/dunya/abdde-cami-yakininda-silahli-saldiri-1-olu-549494": "2026-10-19T20:49:00Z",
+  "https://haberglobal.com/spor/bursaspor-kazandi-mardin-1969-kaybetti-1-lig-puan-durumu-549492": "2026-10-19T19:58:00Z",
+  "https://haberglobal.com/spor/nihat-kahveci-andre-onana-kariyer-macini-oynadi-549491": "2026-10-19T19:55:00Z",
+  "https://www.sozcu.com.tr/yilin-gazetecilik-odulu-sozcu-ye-p370785": "2026-10-20T00:32:15Z",
+  "https://www.sozcu.com.tr/resmi-gazete-de-yayimlandi-bir-gorevden-alma-daha-p370775": "2026-10-19T21:43:34Z",
+  "https://www.sozcu.com.tr/sahillerde-gorulmeye-basladilar-olmus-gibi-gorunuyor-ama-zehir-saciyor-p370774": "2026-10-19T21:27:01Z",
+  "https://www.sozcu.com.tr/hazine-ve-maliye-bakanligi-atama-20-ekim-2026-p370771": "2026-10-19T21:50:20Z",
+  "https://www.sozcu.com.tr/vincenzo-italiano-bugunku-oyundan-memnunum-p370766": "2026-10-19T20:51:22Z",
+  "https://www.sozcu.com.tr/sergen-e-koltuk-gelecek-yonetime-pranga-p370765": "2026-10-19T23:50:43Z",
+  "https://www.sozcu.com.tr/thomas-reis-3-macta-kulup-tarihine-gecti-trabzonspor-da-bunu-basaran-ilk-teknik-direktor-oldu-p370764": "2026-10-19T20:44:54Z",
+  "https://www.sozcu.com.tr/erman-toroglu-sozcu-tv-de-yorumluyor-trabzonspor-besiktas-macinin-tartismali-pozisyonlari-p370758": "2026-10-19T20:52:47Z",
+  "https://www.cumhuriyet.com.tr/turkiye/nurcular-ve-hizbullah-araciligiyla-etkisini-artiran-ihvan-turkiye-de-yeni-bir-vakif-kurdu-icisleri-bakanligi-nda-ihvan-vakfi-gorusmesi-2548337": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/emekli-buyukelci-kuneralp-turkiye-nin-made-in-eu-surecini-degerlendirdi-radikal-bir-adim-atilmadikca-tablo-iyi-degil-2548338": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/yeni-partililer-ankara-da-karaca-dedi-secilmis-olmak-sorumlulugu-da-beraberinde-getiriyor-2548340": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/mutlak-butlanin-baskente-etkisi-31-mart-yerel-secimleri-nden-bugune-ankara-2548341": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/nafakada-yeni-donem-sure-hesabi-eski-dosyalara-da-uzanacak-2548344": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/egitimciler-meb-in-yeni-merkezi-sinav-sistemine-tepkili-egitimdeki-krizin-cozumu-olamaz-2548345": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/aksener-in-yalanladigi-ofis-adresi-vakfinin-ankara-temsilciligi-oldu-2548346": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/kamuya-ait-ne-varsa-satiyorlar-ancak-arabalardan-bir-turlu-vazgecemiyorlar-ozellestirmede-celiski-2548348": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/muvazaali-yontemlerle-isci-calistirilmasi-nedeniyle-cok-sayida-dava-acildi-eti-maden-de-taseron-itirafi-2548349": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/yore-halki-mermer-ocagina-karsi-cikti-ne-sirket-ne-de-bakanlik-dinledi-bile-bile-onaya-gitti-2548377": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-onseciminde-kamera-skandali-secim-salonu-bbg-evi-ne-dondu-2548379": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/cop31-oncesi-uzmanlardan-ortak-uyari-uretim-yetmez-planlama-sart-2548382": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/saglik-bilimleri-universitesi-226-si-profesor-dordu-docent-kadro-ilani-acti-bir-tek-isim-eksik-2548383": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-uluslararasi-bilim-bulusmasi-cocuklarin-saglikli-beslenmesi-masada-2548384": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/cizerler/igneli-firca-20-ekim-2026-2548374": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/turkiye-de-iklim-degisikligine-eklenen-yetersiz-altyapi-sorunlari-buyutuyor-riskler-artik-baglantili-2548386": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/dogal-afetlerde-hukuki-sorumluluk-suna-turkoglu-2548359": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/ozlem-ve-oneriler-kemal-anadol-2548360": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/yazarlar/ozdemir-ince/osmanli-anadolu-ya-turkiye-demis-midir-2548363": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/yazarlar/mehmet-sakir-ors/yeni-siyaset-ve-umudu-orgutlemek-2548364": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/yazarlar/mustafa-balbay/nutuk-tan-bugune-2548365": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/yazarlar/deniz-berktay/baska-trump-yok-2548366": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/yazarlar/aysegul-yuksel/18-ethos-ankara-uluslararasi-tiyatro-festivali-25-ekim-e-kadar-devam-ediyor-dolu-dolu-tiyatro-2548367": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/yazarlar/gulengul-altinsay/kartal-durdu-2548369": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/yazarlar/hayri-guner/keyif-veren-takim-2548370": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/yazarlar/guven-baykan/yagmurun-altinda-kitaplarin-arasinda-2548372": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/spor/sampiyonlar-ligi-ndeki-ucuncu-macinda-s-prag-i-konuk-ediyor-f-bahce-3-puan-icin-2548390": "2026-10-20T01:00:00Z",
+  "https://www.cumhuriyet.com.tr/spor/tottenham-ligde-siftah-yapti-7-maclik-hasreti-son-buldu-2548389": "2026-10-19T21:27:00Z",
+  "https://www.cumhuriyet.com.tr/tv-rehberi/masterchef-kaptanlik-oyunu-kim-kazandi-19-ekim-pazartesi-masterchef-turkiye-haftanin-takimlari-2548380": "2026-10-19T21:04:00Z",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-patnos-1-asliye-hukuk-mahkemesi-2547708": "2026-10-19T21:01:00Z",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-tekman-asliye-hukuk-mahkemesi-hakimligi-2547709": "2026-10-19T21:01:00Z",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-yunak-sulh-hukuk-mahkemesi-2547710": "2026-10-19T21:01:00Z",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-arakli-2-asliye-hukuk-mahkemesi-hakimligi-2547711": "2026-10-19T21:01:00Z",
+  "https://www.cumhuriyet.com.tr/spor/uefa-dan-fifa-ya-42-soruluk-mektup-2548378": "2026-10-19T20:58:00Z",
+  "https://www.cumhuriyet.com.tr/turkiye/davalari-lehte-sonuclandirma-vaadiyle-dolandirdilar-3-gozalti-2548373": "2026-10-19T20:30:00Z",
+  "https://www.cumhuriyet.com.tr/dunya/guney-afrika-da-cogu-dort-yasindan-kucuk-408-kisi-rahatsizlandi-nedeni-belli-oldu-2548361": "2026-10-19T19:58:00Z",
+  "https://www.cumhuriyet.com.tr/yasam/neden-seceneklerin-fazla-olmasi-mutsuz-ve-kararsizliga-sebep-oluyor-2548358": "2026-10-19T19:55:00Z",
+  "https://www.birgun.net/haber/klasik-muzigin-yildizlari-is-sanat-ta-bulusacak-741313": "2026-10-19T23:00:00Z",
+  "https://www.birgun.net/haber/bogazici-film-festivali-nde-10-film-yarisacak-741312": "2026-10-19T22:53:00Z",
+  "https://www.birgun.net/haber/cerkes-kulturu-muze-gazhane-de-741311": "2026-10-19T22:48:00Z",
+  "https://www.birgun.net/haber/ankara-film-festivali-nde-15-kisa-film-yarisacak-741310": "2026-10-19T22:44:00Z",
+  "https://www.birgun.net/haber/imamoglu-ndan-istifa-ve-gorevden-almalara-tepki-faillerini-kaciramazsiniz-millete-hesap-vereceksiniz-741307": "2026-10-19T21:38:00Z",
+  "https://www.birgun.net/haber/abd-den-kuba-karsiti-yeni-hamle-florida-da-raul-castro-hakkinda-tutuklama-karari-cikarildi-741305": "2026-10-19T20:38:00Z",
+  "https://www.birgun.net/haber/adiyaman-da-tarim-iscilerini-tasiyan-minibus-ile-otomobil-carpisti-15-yarali-741304": "2026-10-19T20:11:00Z",
+  "https://www.evrensel.net/haber/6005710/meksikada-siddetli-yagis-ve-firtina-nedeniyle-10-kisi-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-19T23:32:00Z",
+  "https://www.evrensel.net/haber/6005708/filistinli-aktivist-halil-abdden-sinir-disi-edilmesiyle-ilgili-mahkeme-kararinin-bozulmasini-istedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-19T23:01:00Z",
+  "https://www.evrensel.net/haber/6005707/cesitli-projeler-icin-3-ilde-acele-kamulastirma-kararlari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-19T22:44:00Z",
+  "https://www.evrensel.net/haber/6005706/japonya-marsin-uydusundan-ornek-getirecek-uzay-aracini-tasiyan-roketi-firlatti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-19T22:12:00Z",
+  "https://www.evrensel.net/haber/6005705/iran-devrim-muhafizlari-ordusundan-hurmuz-bogazindaki-internet-kablolarina-saldiri-mesaji?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-19T22:06:00Z",
+  "https://www.evrensel.net/haber/6005652/bekci-faik-senturk-okul-santiyesinde-nasil-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-19T21:15:00Z",
+  "https://www.evrensel.net/haber/6005700/italya-da-tir-ve-kamyon-soforleri-liman-girislerini-kapatti-supermarket-raflari-bosaldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-19T21:08:00Z",
+  "https://www.evrensel.net/haber/6005697/tum-istanbullulara-davet-halk-tv-onunde-dayanisma-mitingi-cagrisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-19T20:33:00Z",
+  "https://www.evrensel.net/haber/6005695/tmmob-aydin-subesinden-72nci-yildonumu-aciklamasi-emegimiz-meslegimiz-ulkemiz-ve-gelecegimiz-icin-mucadeleye-devam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-19T20:18:00Z",
+  "https://www.evrensel.net/haber/6005694/abdnin-bazi-eyaletlerinde-ara-secimler-icin-erken-oy-kullanma-islemi-basladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-19T19:49:00Z",
+  "https://www.evrensel.net/haber/6005693/marmariste-otel-calisanlarini-tasiyan-servis-devrildi-5-yarali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication": "2026-10-19T19:45:00Z",
+  "https://www.diken.com.tr/benzine-4-lira-30-kurus-indirim/?utm_source=rss&utm_medium=rss&utm_campaign=benzine-4-lira-30-kurus-indirim": "2026-10-19T21:36:19Z",
+  "https://www.diken.com.tr/trump-paris-cok-yakinda-musluman-bir-sehir-olacak/?utm_source=rss&utm_medium=rss&utm_campaign=trump-paris-cok-yakinda-musluman-bir-sehir-olacak": "2026-10-19T20:50:52Z",
+  "https://www.diken.com.tr/super-ligde-sekizinci-hafta-tamamlandi-gelecek-hafta-derbi-var/?utm_source=rss&utm_medium=rss&utm_campaign=super-ligde-sekizinci-hafta-tamamlandi-gelecek-hafta-derbi-var": "2026-10-19T20:15:21Z",
+  "https://www.karar.com/ekonomi-haberleri/sgk-borclanma-basvurusu-ne-zaman-yapilmali-asgari-ucret-zammi-2079487": "2026-10-20T00:59:24Z",
+  "https://www.karar.com/dunya-haberleri/trump-paris-cok-yakinda-musluman-bir-sehir-olacak-2079486": "2026-10-19T23:21:00Z",
+  "https://www.karar.com/sehir-haberleri/ifsak-sergisi-ne-zaman-basliyor-ilk-adim-nefes-gonul-sergisi-nerede-2079485": "2026-10-19T23:21:00Z",
+  "https://www.karar.com/sehir-haberleri/istanbul-cerkes-bulusmasi-ne-zaman-nerede-yapiliyor-muze-gazhane-cerkes-2079484": "2026-10-19T23:06:00Z",
+  "https://www.karar.com/guncel-haberler/gida-guvenligi-nasil-saglanir-tagsisli-gidaya-hapis-cezasi-gelir-mi-2079482": "2026-10-19T22:04:00Z",
+  "https://www.karar.com/hayat-haberleri/calisanlar-neden-mutsuz-is-stresi-nasil-azaltilir-calisan-tukenmisligi-2079481": "2026-10-19T21:44:00Z",
+  "https://www.karar.com/guncel-haberler/tesis-yonetimi-nedir-faaliyetleri-nelerdir-tesis-yonetim-personeli-2079479": "2026-10-19T21:22:00Z",
+  "https://www.karar.com/kultur-sanat-haberleri/kandillide-bir-antikaci-dukkani-2079470": "2026-10-19T21:01:00Z",
+  "https://www.karar.com/guncel-haberler/fondaki-sir-bilancoda-2079468": "2026-10-19T21:01:00Z",
+  "https://www.karar.com/yazarlar/omer-erdem/yazilanin-hemen-her-seyi-fakat-yazanin-hic-kimsesi-1609540": "2026-10-19T21:01:00Z",
+  "https://www.karar.com/yazarlar/ulvi-saran/antalyada-cop-31-adanada-plastik-atik-daglari-1609541": "2026-10-19T21:01:00Z",
+  "https://www.karar.com/yazarlar/ibrahim-kahveci/koi-babalarinin-foncu-cocuklari-1609542": "2026-10-19T21:01:00Z",
+  "https://www.karar.com/yazarlar/fehmi-koru/hukuk-devleti-kavrami-bize-ne-anlatiyor-1609543": "2026-10-19T21:01:00Z",
+  "https://www.karar.com/yazarlar/ibrahim-kiras/fon-isinde-nereye-kadar-gidilir-1609544": "2026-10-19T21:01:00Z",
+  "https://www.karar.com/yazarlar/ahmet-tasgetiren/canli-yayinlansaydi-1609545": "2026-10-19T21:01:00Z",
+  "https://www.karar.com/yazarlar/taha-akyol/avrupadan-kotu-sinyaller-1609546": "2026-10-19T21:01:00Z",
+  "https://www.karar.com/yazarlar/akif-beki/basdanismandan-gorup-goreceginiz-hukukla-demokrasi-cikisi-1609547": "2026-10-19T21:01:00Z",
+  "https://www.karar.com/yazarlar/carla-norrlof/itibar-operasyonlarinin-yukselisi-1609548": "2026-10-19T21:01:00Z",
+  "https://www.karar.com/yazarlar/nina-l-khrushcheva/gelecegi-olmayan-rusya-1609549": "2026-10-19T21:01:00Z",
+  "https://www.karar.com/yazarlar/jan-werner-mueller1/hristiyan-demokrasisi-sona-mi-eriyor-1609550": "2026-10-19T21:01:00Z",
+  "https://www.karar.com/ekonomi-haberleri/yillik-izin-ucreti-zamanasimi-kac-yil-yillik-izin-parasi-ne-zamana-2079476": "2026-10-19T20:51:00Z",
+  "https://www.karar.com/spor-haberleri/andre-onana-sonuna-kadar-mucadele-etmeye-devam-edecegiz-2079473": "2026-10-19T20:06:23Z",
+  "https://www.karar.com/dunya-haberleri/dunya-nufusu-yaslaniyor-mu-dogum-oranlari-neden-dustu-dunyada-yasli-2079475": "2026-10-19T20:17:00Z",
+  "https://www.yenicaggazetesi.com/harranda-korkutan-kaza-otomobil-kanala-uctu-1083366h.htm": "2026-10-20T00:59:04Z",
+  "https://www.yenicaggazetesi.com/son-anket-sonuclari-ortaya-cikti-partilerin-oy-oranlari-ve-milletvekili-dagilimi-dikkat-cekti-1083365h.htm": "2026-10-20T00:54:00Z",
+  "https://www.yenicaggazetesi.com/kiskanclik-krizine-girdi-erkek-arkadasini-defalarca-bicakladi-1083363h.htm": "2026-10-20T00:25:20Z",
+  "https://www.yenicaggazetesi.com/masterchefte-yeni-haftanin-sifreleri-cozuldu-iste-merak-edilen-sonuc-1083362h.htm": "2026-10-20T00:18:36Z",
+  "https://www.yenicaggazetesi.com/gonul-dagi-setinde-neler-yasandi-yapim-sirketi-sessizligini-bozdu-1083359h.htm": "2026-10-19T23:04:25Z",
+  "https://www.yenicaggazetesi.com/tatvanda-fetoye-darbe-4-supheli-yakalandi-1083358h.htm": "2026-10-19T22:52:39Z",
+  "https://www.yenicaggazetesi.com/elazigi-sel-vurdu-yayla-yolu-yarildi-1083357h.htm": "2026-10-19T22:49:52Z",
+  "https://www.yenicaggazetesi.com/ankarada-kacakcilik-operasyonu-1083356h.htm": "2026-10-19T22:31:53Z",
+  "https://www.yenicaggazetesi.com/chp-ile-yeni-parti-arasinda-51-milyon-liralik-para-krizi-iddiasi-1083355h.htm": "2026-10-19T22:29:00Z",
+  "https://www.yenicaggazetesi.com/otel-servisi-devrildi-cok-sayida-yarali-1083354h.htm": "2026-10-19T22:05:28Z",
+  "https://www.yenicaggazetesi.com/besiktasa-karsi-kalesinde-devlesen-onanadan-sezon-sonu-mesaji-1083351h.htm": "2026-10-19T21:41:43Z",
+  "https://www.yenicaggazetesi.com/nihat-kahveciden-derbi-yorumu-super-ligin-en-iyilerinden-1083349h.htm": "2026-10-19T21:29:54Z",
+  "https://www.yenicaggazetesi.com/tc-tekman-asliye-hukuk-mahkemesinden-1082518h.htm": "2026-10-19T21:01:00Z",
+  "https://www.yenicaggazetesi.com/tc-alanya-1-sulh-hukuk-mah-satis-memurlugu-1082599h.htm": "2026-10-19T21:01:00Z",
+  "https://www.yenicaggazetesi.com/doyuramadik-ne-zenginin-gozunu-1083294h.htm": "2026-10-19T21:01:00Z",
+  "https://www.yenicaggazetesi.com/baskalarinin-hayatindan-surpriz-cikis-1083313h.htm": "2026-10-19T21:01:00Z",
+  "https://www.yenicaggazetesi.com/zorlu-psmden-trajik-bir-hikaye-saticinin-olumu-1083314h.htm": "2026-10-19T21:01:00Z",
+  "https://www.yenicaggazetesi.com/imamoglunun-manifestosu-devriniz-bitmistir-1083315h.htm": "2026-10-19T21:01:00Z",
+  "https://www.yenicaggazetesi.com/gencler-neye-itiraz-ediyor-1083317h.htm": "2026-10-19T21:01:00Z",
+  "https://www.yenicaggazetesi.com/dijital-konforun-ince-buzunda-yuruyoruz-1083319h.htm": "2026-10-19T21:01:00Z",
+  "https://www.yenicaggazetesi.com/sele-karsi-japon-modeli-1083322h.htm": "2026-10-19T21:01:00Z",
+  "https://www.yenicaggazetesi.com/krizin-ortasinda-turkiyeye-umut-veren-yatirim-kapadokyada-guzel-seyler-de-oluyor-1083324h.htm": "2026-10-19T21:01:00Z",
+  "https://www.yenicaggazetesi.com/ral-yatirim-holding-konkordato-ilan-etti-1083345h.htm": "2026-10-19T20:48:28Z",
+  "https://www.yenicaggazetesi.com/eski-bakan-ertugrul-gunaydan-ana-muhalefete-tepki-aymye-goturmedi-1083344h.htm": "2026-10-19T20:37:44Z",
+  "https://www.yenicaggazetesi.com/uefadan-galatasarayin-erteleme-talebine-ret-1083342h.htm": "2026-10-19T20:23:20Z",
+  "https://www.yenicaggazetesi.com/boluda-korkutan-yangin-alevler-4-yapiyi-kule-cevirdi-1083341h.htm": "2026-10-19T20:00:30Z",
+  "https://www.yenicaggazetesi.com/atilla-yesiladadan-turkiye-icin-msci-uyarisi-en-kotu-karari-verdi-1083340h.htm": "2026-10-19T19:56:53Z",
+  "https://www.yenicaggazetesi.com/kirklarelinde-silahli-kavga-yoldan-gecen-2-kisi-yaralandi-1083339h.htm": "2026-10-19T19:55:45Z",
+  "https://kisadalga.net/haber/ozel-haber/italyan-dusunur-marco-maurizi-ile-hayvan-ozgurlugune-marksist-bir-bakis-141040": "2026-10-19T21:20:00Z",
+  "https://kisadalga.net/yazar/siradan-insan-artik-emegini-ispatlamakla-yukumlu-141036": "2026-10-19T21:10:00Z",
+  "https://artigercek.com/arti-yazi/gomul-uen-tarih-birkleyn-magaralari-dunyaya-cagri-351820h": "2026-10-19T21:00:00Z",
+  "https://artigercek.com/gozden-kacmasin/pastaneye-gitmenize-gerek-yok-pastane-usulu-un-kurabiyesi-351818h": "2026-10-19T20:07:42Z",
+  "https://artigercek.com/gozden-kacmasin/patlicanlarin-kararmasina-dur-diyen-yontem-ev-hanimlarinin-tuyosu-351817h": "2026-10-19T20:06:14Z",
+  "https://bianet.org/haber/arnavutlukta-halkin-isyani-mahkemelere-yoneldi-basbakan-rama-saldirilarini-sertlestiriyor-324605": "2026-10-19T20:58:00Z"
  }
 }
